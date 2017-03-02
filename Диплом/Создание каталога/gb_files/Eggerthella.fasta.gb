@@ -1,0 +1,3726 @@
+LOCUS       WP_009304134              85 aa            linear   BCT 16-NOV-2015
+DEFINITION  MULTISPECIES: CopG family transcriptional regulator [Eggerthella].
+ACCESSION   WP_009304134
+VERSION     WP_009304134.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella
+  ORGANISM  Eggerthella
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..85
+                     /organism="Eggerthella"
+                     /db_xref="taxon:84111"
+     Protein         1..85
+                     /product="CopG family transcriptional regulator"
+                     /calculated_mol_wt=9579
+     Region          5..76
+                     /region_name="BrnA_antitoxin"
+                     /note="BrnA antitoxin of type II toxin-antitoxin system;
+                     cl23863"
+                     /db_xref="CDD:305020"
+ORIGIN      
+        1 msnekitsen leelfdegcd vtgffdfdsa vvvegrtetk rvnvdmpiwm vealdkeakr
+       61 vgigrqavik mwlaerldee arrsa
+//
+
+LOCUS       WP_009305210             107 aa            linear   BCT 16-NOV-2015
+DEFINITION  MULTISPECIES: hypothetical protein [Eggerthella].
+ACCESSION   WP_009305210
+VERSION     WP_009305210.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella
+  ORGANISM  Eggerthella
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..107
+                     /organism="Eggerthella"
+                     /db_xref="taxon:84111"
+     Protein         1..107
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=11633
+     Region          59..106
+                     /region_name="HicB"
+                     /note="HicB family; pfam05534"
+                     /db_xref="CDD:283242"
+ORIGIN      
+        1 mndadryayr vvwsqedgey vgtvaempsl swladtpeka fdgirslave avadmealge
+       61 aapapiasra ysgkfqvrip pelhrrlame aaeervslnr lvaarla
+//
+
+LOCUS       WP_013980896             107 aa            linear   BCT 05-AUG-2015
+DEFINITION  hypothetical protein [Eggerthella sp. YY7918].
+ACCESSION   WP_013980896
+VERSION     WP_013980896.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella sp. YY7918
+  ORGANISM  Eggerthella sp. YY7918
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..107
+                     /organism="Eggerthella sp. YY7918"
+                     /db_xref="taxon:502558"
+     Protein         1..107
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=11847
+     Region          59..106
+                     /region_name="HicB"
+                     /note="HicB family; pfam05534"
+                     /db_xref="CDD:283242"
+ORIGIN      
+        1 mntadrytyr vvwsdedqey vgtvaelpsl swlaadsaea lvgirrlaad vvkdmeaage
+       61 tpplplhdrh ysgkfqvrip peihrrlale aaedhislnr liaarla
+//
+
+LOCUS       WP_009306171             154 aa            linear   BCT 26-AUG-2016
+DEFINITION  MULTISPECIES: HicB family protein [Eggerthella].
+ACCESSION   WP_009306171
+VERSION     WP_009306171.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella
+  ORGANISM  Eggerthella
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..154
+                     /organism="Eggerthella"
+                     /db_xref="taxon:84111"
+     Protein         1..154
+                     /product="HicB family protein"
+                     /calculated_mol_wt=17115
+     Region          5..68
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+     Region          85..133
+                     /region_name="HTH_17"
+                     /note="Helix-turn-helix domain; pfam12728"
+                     /db_xref="CDD:289498"
+ORIGIN      
+        1 mrymypaift eneldgysvq fvdfengytc gddmedavam aaevlwllid dylqldkplp
+       61 kptypieheg llvalsvdvd tergvlttkm aahllgvsda rvrqmicsgq laakkqgrdn
+      121 yvylssvker lnnppkpgrp rksdrlesva etas
+//
+
+LOCUS       WP_013980819             111 aa            linear   BCT 26-AUG-2016
+DEFINITION  HicB family protein [Eggerthella sp. YY7918].
+ACCESSION   WP_013980819
+VERSION     WP_013980819.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella sp. YY7918
+  ORGANISM  Eggerthella sp. YY7918
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..111
+                     /organism="Eggerthella sp. YY7918"
+                     /db_xref="taxon:502558"
+     Protein         1..111
+                     /product="HicB family protein"
+                     /calculated_mol_wt=12008
+     Region          3..74
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+ORIGIN      
+        1 mdyiyegkie qvesdwlvtf pafpgcfggg etlgkacena aealrlfiad aidngkrlpl
+       61 pkfskppqav fvvevadeyi aktkcttvse aaqetrcvar shqsdahqrs a
+//
+
+LOCUS       WP_035585271             153 aa            linear   BCT 26-AUG-2016
+DEFINITION  HicB family protein [Eggerthella lenta].
+ACCESSION   WP_035585271
+VERSION     WP_035585271.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella lenta
+  ORGANISM  Eggerthella lenta
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..153
+                     /organism="Eggerthella lenta"
+                     /db_xref="taxon:84112"
+     Protein         1..153
+                     /product="HicB family protein"
+                     /calculated_mol_wt=16627
+     Region          3..63
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+     Region          91..135
+                     /region_name="HTH_17"
+                     /note="Helix-turn-helix domain; pfam12728"
+                     /db_xref="CDD:289498"
+ORIGIN      
+        1 mgkfiyqaim treddggysv efpdlpgcft egdgymeave maadaartym aslmlhgeaa
+       61 peakrhdape gcesvhvffe tdesyivrge vmsaaqaare lgvsagrvth midaglldgy
+      121 rsgrrtfvtr esvdkrkddp rgagrprkea lqg
+//
+
+LOCUS       WP_013980367              95 aa            linear   BCT 18-MAY-2013
+DEFINITION  phosphate uptake regulator [Eggerthella sp. YY7918].
+ACCESSION   WP_013980367
+VERSION     WP_013980367.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella sp. YY7918
+  ORGANISM  Eggerthella sp. YY7918
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..95
+                     /organism="Eggerthella sp. YY7918"
+                     /db_xref="taxon:502558"
+     Protein         1..95
+                     /product="phosphate uptake regulator"
+                     /calculated_mol_wt=10673
+     Region          8..46
+                     /region_name="SpoVT_AbrB"
+                     /note="SpoVT / AbrB like domain; smart00966"
+                     /db_xref="CDD:198034"
+ORIGIN      
+        1 mataianwgn seairiprei lrraglrrgd rvsfiinsng nlelipehqt hrrvapardv
+       61 tydmlfknyq gpvqsntsaw pddnlvgaey eawsh
+//
+
+LOCUS       WP_009306260             149 aa            linear   BCT 16-NOV-2015
+DEFINITION  MULTISPECIES: mraZ protein [Eggerthella].
+ACCESSION   WP_009306260
+VERSION     WP_009306260.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella
+  ORGANISM  Eggerthella
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..149
+                     /organism="Eggerthella"
+                     /db_xref="taxon:84111"
+     Protein         1..149
+                     /product="mraZ protein"
+                     /calculated_mol_wt=16759
+     Region          13..142
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          15..63
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Region          20..24
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          82..141
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(89,91,119,126,135..136,139)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          97..101
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 maeegnkvvd lnsayrhkvd akgrmslpas frkvlstdlv vtrnpkdecl yvfepdafna
+       61 wvagvfedkf ekfdrtndlh vrlrrklksr aadvsidaag rimisaeqre avgidkevvv
+      121 vgntgyfeiw dakrydavdd etdlgllfd
+//
+
+LOCUS       WP_013979387             149 aa            linear   BCT 26-AUG-2016
+DEFINITION  division/cell wall cluster transcriptional repressor MraZ
+            [Eggerthella sp. YY7918].
+ACCESSION   WP_013979387
+VERSION     WP_013979387.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella sp. YY7918
+  ORGANISM  Eggerthella sp. YY7918
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..149
+                     /organism="Eggerthella sp. YY7918"
+                     /db_xref="taxon:502558"
+     Protein         1..149
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=16763
+     Region          13..138
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          15..65
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Region          20..24
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          82..137
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(89,91,119,126,135..136)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          97..101
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mdadfdkvvd lnsayrhkvd akgrmslpas frkvlstdlv vtrnpkdecl yvfepqgfna
+       61 wvakvfedkf gkfddtddlh lrlrrklkar aadvsidaag rimlsaeqre avgidkdvvv
+      121 vgntgyfeiw dakrydqvdv dtdlsllfg
+//
+
+LOCUS       CCY05015                 141 aa            linear   ENV 31-MAY-2013
+DEFINITION  protein MraZ [Eggerthella sp. CAG:1427].
+ACCESSION   CCY05015
+VERSION     CCY05015.1
+DBSOURCE    embl accession CAXM010000008.1
+KEYWORDS    ENV.
+SOURCE      Eggerthella sp. CAG:1427
+  ORGANISM  Eggerthella sp. CAG:1427
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..141
+                     /organism="Eggerthella sp. CAG:1427"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262874"
+                     /environmental_sample
+                     /note="contig 105"
+     Protein         1..141
+                     /product="protein MraZ"
+     Region          5..134
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          5..58
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(5..7,33,42,51..52,55)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          13..17
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          79..133
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(81,83,111,118,127..128,131)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          89..93
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+     CDS             1..141
+                     /locus_tag="BN494_01367"
+                     /coded_by="complement(CAXM010000008.1:16375..16800)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 msellgeysr kldakgrlsl paefrkvlsd nlrvtpdptd qcllvfetea ftawvdslfe
+       61 aqggysasnr kmvaqrkvln srakpcevdn sgrihlspqq rdsasldkdv vivgdtdhfe
+      121 iwneerwnqf vedtdvaslv s
+//
+
+LOCUS       CDB33923                 141 aa            linear   ENV 31-MAY-2013
+DEFINITION  protein MraZ [Eggerthella sp. CAG:209].
+ACCESSION   CDB33923
+VERSION     CDB33923.1
+DBSOURCE    embl accession CBDM010000192.1
+KEYWORDS    ENV.
+SOURCE      Eggerthella sp. CAG:209
+  ORGANISM  Eggerthella sp. CAG:209
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..141
+                     /organism="Eggerthella sp. CAG:209"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262875"
+                     /environmental_sample
+                     /note="contig 271"
+     Protein         1..141
+                     /product="protein MraZ"
+     Region          5..131
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          5..58
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(5..7,33,42,51..52,55)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          13..17
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          74..131
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(81,83,111,118,127..128,131)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          89..93
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+     CDS             1..141
+                     /locus_tag="BN534_01629"
+                     /coded_by="complement(CBDM010000192.1:8247..8672)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 msellgefsr kldakgrlsl padfrkelsd nlrmtlsldg tclyifeted fnkwvdslfe
+       61 arggfnvgds nmvrlklkln sraskcevdn agrinispsl retvgfdkdv vivgngdhie
+      121 iwdeerwnqf lldtdltalc m
+//
+
+LOCUS       CDD58806                 143 aa            linear   ENV 31-MAY-2013
+DEFINITION  protein MraZ [Eggerthella sp. CAG:298].
+ACCESSION   CDD58806
+VERSION     CDD58806.1
+DBSOURCE    embl accession CBHI010000024.1
+KEYWORDS    ENV.
+SOURCE      Eggerthella sp. CAG:298
+  ORGANISM  Eggerthella sp. CAG:298
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..143
+                     /organism="Eggerthella sp. CAG:298"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262876"
+                     /environmental_sample
+                     /note="contig 30"
+     Protein         1..143
+                     /product="protein MraZ"
+     Region          4..142
+                     /region_name="TIGR00242"
+                     /note="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /db_xref="CDD:129345"
+     Region          5..58
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(5..7,33,42,51..52,55)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          13..17
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          74..130
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(81,83,111,118,127..128)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          89..93
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+     CDS             1..143
+                     /locus_tag="BN592_00485"
+                     /coded_by="complement(CBHI010000024.1:12243..12674)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 msellgeyrh kmdakgrlsl pssfrkvlsq dlritpdpen qclyvfevdd ysnwveglfe
+       61 geggfdvssk rksalrkvln srvrnceidn sgrihltpaq reiagldkdv vfvgdedhfe
+      121 iwdakrwddf vgsvdlaslm ses
+//
+
+LOCUS       CDD68186                 141 aa            linear   ENV 31-MAY-2013
+DEFINITION  protein MraZ [Eggerthella sp. CAG:368].
+ACCESSION   CDD68186
+VERSION     CDD68186.1
+DBSOURCE    embl accession CBHM010000151.1
+KEYWORDS    ENV.
+SOURCE      Eggerthella sp. CAG:368
+  ORGANISM  Eggerthella sp. CAG:368
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..141
+                     /organism="Eggerthella sp. CAG:368"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262877"
+                     /environmental_sample
+                     /note="contig 84"
+     Protein         1..141
+                     /product="protein MraZ"
+     Region          5..133
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          5..58
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(5..7,42,51..52,55)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          13..17
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          79..133
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(81,83,111,118,127..128,131)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          89..93
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+     CDS             1..141
+                     /locus_tag="BN629_00527"
+                     /coded_by="complement(CBHM010000151.1:8218..8643)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 msellgeyrh kldakgrlsl padfrkalst nlkvtpdpkn qclyvfetea fnawvnslfe
+       61 sdggwsssks kmvaqrkvln srakkcevdn sgrihlsqaq rdlvsldksv viigdedhfe
+      121 iwdeqrwdef cadvdlaslv s
+//
+
+LOCUS       WP_058986558             142 aa            linear   BCT 26-AUG-2016
+DEFINITION  division/cell wall cluster transcriptional repressor MraZ
+            [Eggerthellaceae bacterium AT8].
+ACCESSION   WP_058986558
+VERSION     WP_058986558.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthellaceae bacterium AT8
+  ORGANISM  Eggerthellaceae bacterium AT8
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..142
+                     /organism="Eggerthellaceae bacterium AT8"
+                     /db_xref="taxon:1720315"
+     Protein         1..142
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=15827
+     Region          4..142
+                     /region_name="TIGR00242"
+                     /note="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /db_xref="CDD:129345"
+     Region          6..58
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Region          13..17
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          74..133
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(81,83,111,118,127..128,131)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          89..93
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mselvgehhh kldpkgrvsl padfrkvlpk nlkvtrspkd eclyvfepta fsawvnsffe
+       61 akggyrasnp kmarlrtvln srardvevdg sgrigisael rdaaglqkdv vlvgnddhle
+      121 iwdaqrwtdf vdsvdlsdlf se
+//
+
+LOCUS       WP_009305047              91 aa            linear   BCT 10-MAY-2013
+DEFINITION  MULTISPECIES: prevent-host-death protein [Eggerthella].
+ACCESSION   WP_009305047
+VERSION     WP_009305047.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella
+  ORGANISM  Eggerthella
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..91
+                     /organism="Eggerthella"
+                     /db_xref="taxon:84111"
+     Protein         1..91
+                     /product="prevent-host-death protein"
+                     /calculated_mol_wt=9956
+     Region          1..>45
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+ORIGIN      
+        1 mnirpisdlr nryadverdv ieggpvfltk ngygsmvvms veqfehingg vefaldaadr
+       61 qaattslryt heevfgsire glrngreaaa l
+//
+
+LOCUS       WP_009305875              76 aa            linear   BCT 10-MAY-2013
+DEFINITION  MULTISPECIES: prevent-host-death protein [Eggerthella].
+ACCESSION   WP_009305875
+VERSION     WP_009305875.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella
+  ORGANISM  Eggerthella
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..76
+                     /organism="Eggerthella"
+                     /db_xref="taxon:84111"
+     Protein         1..76
+                     /product="prevent-host-death protein"
+                     /calculated_mol_wt=8355
+     Region          4..>48
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     cl09153"
+                     /db_xref="CDD:298842"
+ORIGIN      
+        1 mpltvkasea raqfptiakr vyednievtv ikgskpyvki vpiddnasdg engtmylday
+       61 leaadeyrdl fealsk
+//
+
+LOCUS       WP_009306606             102 aa            linear   BCT 16-NOV-2015
+DEFINITION  MULTISPECIES: prevent-host-death protein [Eggerthella].
+ACCESSION   WP_009306606
+VERSION     WP_009306606.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella
+  ORGANISM  Eggerthella
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..102
+                     /organism="Eggerthella"
+                     /db_xref="taxon:84111"
+     Protein         1..102
+                     /product="prevent-host-death protein"
+                     /calculated_mol_wt=11524
+     Region          9..69
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+ORIGIN      
+        1 mvmqaalpqi rpisdlrtrl ndienlares repiimtkng taslividsd aydehlhher
+       61 avrklreaei eekyrpaavs ydevkarvdq lieaaehlga hd
+//
+
+LOCUS       WP_009307262              85 aa            linear   BCT 27-MAY-2013
+DEFINITION  prevent-host-death protein [Eggerthella sp. 1_3_56FAA].
+ACCESSION   WP_009307262
+VERSION     WP_009307262.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella sp. 1_3_56FAA
+  ORGANISM  Eggerthella sp. 1_3_56FAA
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..85
+                     /organism="Eggerthella sp. 1_3_56FAA"
+                     /db_xref="taxon:665943"
+     Protein         1..85
+                     /product="prevent-host-death protein"
+                     /calculated_mol_wt=9396
+     Region          5..71
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+ORIGIN      
+        1 mttltvssse frrnmpsivg kaeetgasiv viknsrpwfe inpisrakvp teetlqalqe
+       61 iearrkdpda piyhdindlf adlgi
+//
+
+LOCUS       WP_009307274              67 aa            linear   BCT 16-NOV-2015
+DEFINITION  MULTISPECIES: prevent-host-death protein [Eggerthellaceae].
+ACCESSION   WP_009307274
+VERSION     WP_009307274.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthellaceae
+  ORGANISM  Eggerthellaceae
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..67
+                     /organism="Eggerthellaceae"
+                     /db_xref="taxon:1643826"
+     Protein         1..67
+                     /product="prevent-host-death protein"
+                     /calculated_mol_wt=7363
+     Region          3..>49
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+ORIGIN      
+        1 makavplsef rvnsarileg lsetrgfayl tkngysvavv adveefermy gyaidhgyka
+       61 grdeqse
+//
+
+LOCUS       WP_009609197             126 aa            linear   BCT 06-JUN-2013
+DEFINITION  prevent-host-death family protein [Eggerthella sp. HGA1].
+ACCESSION   WP_009609197
+VERSION     WP_009609197.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella sp. HGA1
+  ORGANISM  Eggerthella sp. HGA1
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..126
+                     /organism="Eggerthella sp. HGA1"
+                     /db_xref="taxon:910311"
+     Protein         1..126
+                     /product="prevent-host-death family protein"
+                     /calculated_mol_wt=13605
+     Region          5..>40
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+ORIGIN      
+        1 mknantigls eakaklssva aqvsesgepm nvyknnrpyv sicppiafel dgedmvflvg
+       61 aierfvdeqy givqietenl qrgeqteygd flskdevska egkiaigeri lesldgvlgr
+      121 saihva
+//
+
+LOCUS       WP_009609201              86 aa            linear   BCT 27-MAY-2013
+DEFINITION  prevent-host-death protein [Eggerthella sp. HGA1].
+ACCESSION   WP_009609201
+VERSION     WP_009609201.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella sp. HGA1
+  ORGANISM  Eggerthella sp. HGA1
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..86
+                     /organism="Eggerthella sp. HGA1"
+                     /db_xref="taxon:910311"
+     Protein         1..86
+                     /product="prevent-host-death protein"
+                     /calculated_mol_wt=9703
+     Region          5..>37
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     cl09153"
+                     /db_xref="CDD:298842"
+ORIGIN      
+        1 mttltvssse frrnmptivn kaeetgssiv viknsrpwfe inpisrndev pteetlqafr
+       61 dlkamrddpd apvyrdinqf fadlgi
+//
+
+LOCUS       WP_009609220              67 aa            linear   BCT 27-MAY-2013
+DEFINITION  prevent-host-death protein [Eggerthella sp. HGA1].
+ACCESSION   WP_009609220
+VERSION     WP_009609220.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella sp. HGA1
+  ORGANISM  Eggerthella sp. HGA1
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..67
+                     /organism="Eggerthella sp. HGA1"
+                     /db_xref="taxon:910311"
+     Protein         1..67
+                     /product="prevent-host-death protein"
+                     /calculated_mol_wt=7304
+     Region          3..>49
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+ORIGIN      
+        1 makavpltef ransarildg lsetrgftyl tkngysvavv vdvdefermy gfaidhgyka
+       61 gqdeqgk
+//
+
+LOCUS       WP_013979096             107 aa            linear   BCT 27-MAY-2013
+DEFINITION  toxin-antitoxin system antitoxin subunit [Eggerthella sp. YY7918].
+ACCESSION   WP_013979096
+VERSION     WP_013979096.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella sp. YY7918
+  ORGANISM  Eggerthella sp. YY7918
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..107
+                     /organism="Eggerthella sp. YY7918"
+                     /db_xref="taxon:502558"
+     Protein         1..107
+                     /product="toxin-antitoxin system antitoxin subunit"
+                     /calculated_mol_wt=12094
+     Region          11..74
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+ORIGIN      
+        1 mrafatalpv irpitdlrtq lndvcvqate tqepvvltkn gvssyvlmds nayesaerrn
+       61 riylalreae ieeryrpeai saeesdakmh eifalwnidy tsnakvd
+//
+
+LOCUS       WP_013980245              98 aa            linear   BCT 18-MAY-2013
+DEFINITION  hypothetical protein [Eggerthella sp. YY7918].
+ACCESSION   WP_013980245
+VERSION     WP_013980245.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella sp. YY7918
+  ORGANISM  Eggerthella sp. YY7918
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..98
+                     /organism="Eggerthella sp. YY7918"
+                     /db_xref="taxon:502558"
+     Protein         1..98
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=10818
+     Region          3..>47
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+ORIGIN      
+        1 mptvkpisel qrnaaalake chetkapvyl trngtaalvi mdaeafdeem kvhqdvyere
+       61 arvfraimrg qedelagrvr sleqarsdaa alraarha
+//
+
+LOCUS       WP_013980422             102 aa            linear   BCT 27-MAY-2013
+DEFINITION  prevent-host-death protein [Eggerthella sp. YY7918].
+ACCESSION   WP_013980422
+VERSION     WP_013980422.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella sp. YY7918
+  ORGANISM  Eggerthella sp. YY7918
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..102
+                     /organism="Eggerthella sp. YY7918"
+                     /db_xref="taxon:502558"
+     Protein         1..102
+                     /product="prevent-host-death protein"
+                     /calculated_mol_wt=11546
+     Region          9..69
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+ORIGIN      
+        1 mtmtaalpqi rpisdlrtrl neienlaret qepiimtkng taslvvidsd ayndhlqher
+       61 avrklreaei eekyrpeavs yddvknrvdl lleavghlda hn
+//
+
+LOCUS       WP_015540159             109 aa            linear   BCT 26-JUN-2015
+DEFINITION  MULTISPECIES: prevent-host-death family protein [Eggerthellaceae].
+ACCESSION   WP_015540159
+VERSION     WP_015540159.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthellaceae
+  ORGANISM  Eggerthellaceae
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..109
+                     /organism="Eggerthellaceae"
+                     /db_xref="taxon:1643826"
+     Protein         1..109
+                     /product="prevent-host-death family protein"
+                     /calculated_mol_wt=12033
+     Region          13..>52
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+ORIGIN      
+        1 mdgsaqlppp apvgitelkn nfasiakrvh dtsmpctvlk qgrayvaivp vdpgyrakgk
+       61 yacnqytrvl rrlftfcrna hdqkttfvlr rrnedyvaia pldppdtgd
+//
+
+LOCUS       WP_015760143              61 aa            linear   BCT 20-MAY-2013
+DEFINITION  prevent-host-death family protein, partial [Eggerthella lenta].
+ACCESSION   WP_015760143
+VERSION     WP_015760143.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella lenta
+  ORGANISM  Eggerthella lenta
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: not full length.
+FEATURES             Location/Qualifiers
+     source          1..61
+                     /organism="Eggerthella lenta"
+                     /db_xref="taxon:84112"
+     Protein         1..61
+                     /product="prevent-host-death family protein"
+                     /calculated_mol_wt=6858
+     Region          4..56
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+ORIGIN      
+        1 maiirpvtel qrkvgelsrl aketkepiyl tkngaehlvl idsdtfaalq kraeemhqnq
+       61 k
+//
+
+LOCUS       WP_015760267             109 aa            linear   BCT 20-MAY-2013
+DEFINITION  prevent-host-death family protein [Eggerthella lenta].
+ACCESSION   WP_015760267
+VERSION     WP_015760267.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella lenta
+  ORGANISM  Eggerthella lenta
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..109
+                     /organism="Eggerthella lenta"
+                     /db_xref="taxon:84112"
+     Protein         1..109
+                     /product="prevent-host-death family protein"
+                     /calculated_mol_wt=12155
+     Region          13..>52
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+ORIGIN      
+        1 mdgsaklppp apvgitelkn nfasiakrvh dtsvpctvlk qgrayvaivp vdpgyrtmgk
+       61 yacnqytrvl rrlftfcrna hdhritfvlr rrnedyvaia pldppdted
+//
+
+LOCUS       CCY06393                  98 aa            linear   ENV 31-MAY-2013
+DEFINITION  toxin-antitoxin system antitoxin component PHD family [Eggerthella
+            sp. CAG:1427].
+ACCESSION   CCY06393
+VERSION     CCY06393.1
+DBSOURCE    embl accession CAXM010000127.1
+KEYWORDS    ENV.
+SOURCE      Eggerthella sp. CAG:1427
+  ORGANISM  Eggerthella sp. CAG:1427
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..98
+                     /organism="Eggerthella sp. CAG:1427"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262874"
+                     /environmental_sample
+                     /note="contig 77"
+     Protein         1..98
+                     /product="toxin-antitoxin system antitoxin component PHD
+                     family"
+     Region          11..73
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+     CDS             1..98
+                     /locus_tag="BN494_00829"
+                     /coded_by="CAXM010000127.1:265..561"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mslvqtalpl irpisdlrtn lnevcdqaks sqepifmtkn gkaslvvmds qayenqmqhl
+       61 ritqkireae ieakynnetf ssdqvnkhln eifkhweq
+//
+
+LOCUS       WP_009304306             131 aa            linear   BCT 05-JUN-2013
+DEFINITION  RelB/DinJ family addiction module antitoxin [Eggerthella sp.
+            1_3_56FAA].
+ACCESSION   WP_009304306
+VERSION     WP_009304306.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella sp. 1_3_56FAA
+  ORGANISM  Eggerthella sp. 1_3_56FAA
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..131
+                     /organism="Eggerthella sp. 1_3_56FAA"
+                     /db_xref="taxon:665943"
+     Protein         1..131
+                     /product="RelB/DinJ family addiction module antitoxin"
+                     /calculated_mol_wt=14354
+     Region          3..>53
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+     Region          94..>130
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mtaktanisl evdsgikrra mavleakgmt lsgairrmvt lgmlehripf evtrdpvfag
+       61 tgmadcvaer ygiekssspr tgvvtgivvk mtpefkremr syckemcitp nalvhlflgq
+      121 vafelrvpfd d
+//
+
+LOCUS       WP_009304414             128 aa            linear   BCT 10-MAY-2013
+DEFINITION  MULTISPECIES: hypothetical protein [Eggerthella].
+ACCESSION   WP_009304414
+VERSION     WP_009304414.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella
+  ORGANISM  Eggerthella
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..128
+                     /organism="Eggerthella"
+                     /db_xref="taxon:84111"
+     Protein         1..128
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=13929
+     Region          11..>45
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mgaaaetiqf ntrierslkl agddvlkrag yspsqavral wrkaagcgen psaivnlled
+       61 rplparanar iespsqleal rrgreeaara fadmgfgsem pssvafdpyd qlmeefiler
+      121 hgeegvrp
+//
+
+LOCUS       WP_009305961              98 aa            linear   BCT 25-DEC-2014
+DEFINITION  MULTISPECIES: translation repressor RelB [Eggerthella].
+ACCESSION   WP_009305961
+VERSION     WP_009305961.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella
+  ORGANISM  Eggerthella
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..98
+                     /organism="Eggerthella"
+                     /db_xref="taxon:84111"
+     Protein         1..98
+                     /product="translation repressor RelB"
+                     /calculated_mol_wt=11350
+     Region          7..87
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mggtmesvmt vrlngdmker aaaimrregy tpssavrrlf eytvkhdglp feksekpdrd
+       61 elrrrieafd qvhtkrpltm sdeelrearl kdrygfda
+//
+
+LOCUS       WP_009306319              99 aa            linear   BCT 16-NOV-2015
+DEFINITION  MULTISPECIES: RelB/DinJ family addiction module antitoxin
+            [Eggerthella].
+ACCESSION   WP_009306319
+VERSION     WP_009306319.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella
+  ORGANISM  Eggerthella
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..99
+                     /organism="Eggerthella"
+                     /db_xref="taxon:84111"
+     Protein         1..99
+                     /product="RelB/DinJ family addiction module antitoxin"
+                     /calculated_mol_wt=11066
+     Region          1..85
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mddsmvtarm ldekkrkgar ilareglsas qainlmydkm ieegeagflr adssrigdea
+       61 kwaaasrfvd slsskrasrf ddmtkaevrm erlrsrgmm
+//
+
+LOCUS       WP_009306787             103 aa            linear   BCT 10-MAY-2013
+DEFINITION  MULTISPECIES: RelB/DinJ family addiction module antitoxin
+            [Eggerthella].
+ACCESSION   WP_009306787
+VERSION     WP_009306787.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella
+  ORGANISM  Eggerthella
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..103
+                     /organism="Eggerthella"
+                     /db_xref="taxon:84111"
+     Protein         1..103
+                     /product="RelB/DinJ family addiction module antitoxin"
+                     /calculated_mol_wt=11781
+     Region          1..>48
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 madamvtarm sqekkeagnr vleqlgtnas qvvnrlydyv lenkklpfpe eqgrrkytqe
+       61 eiaeaiawvd siprkdrfst mtddeirrer lvsrglatsk dfs
+//
+
+LOCUS       WP_009306884             124 aa            linear   BCT 10-MAY-2013
+DEFINITION  MULTISPECIES: translation repressor RelB [Eggerthella].
+ACCESSION   WP_009306884
+VERSION     WP_009306884.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella
+  ORGANISM  Eggerthella
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..124
+                     /organism="Eggerthella"
+                     /db_xref="taxon:84111"
+     Protein         1..124
+                     /product="translation repressor RelB"
+                     /calculated_mol_wt=14033
+     Region          5..>49
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mstemaqmnt risrslkerg daalekagmt psqavrklwd faarnshnpq iiqslfdted
+       61 eaekreaeee rarrravalk sanivadaye ragiepsewt knasyaemre yalmerlrer
+      121 gldg
+//
+
+LOCUS       WP_009608577              98 aa            linear   BCT 16-NOV-2015
+DEFINITION  DNA-damage-inducible protein J [Eggerthella sp. HGA1].
+ACCESSION   WP_009608577
+VERSION     WP_009608577.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella sp. HGA1
+  ORGANISM  Eggerthella sp. HGA1
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..98
+                     /organism="Eggerthella sp. HGA1"
+                     /db_xref="taxon:910311"
+     Protein         1..98
+                     /product="DNA-damage-inducible protein J"
+                     /calculated_mol_wt=10461
+     Region          1..>74
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 matavkpttv rvdenlkaqa neilgsvgls yntyvvmath qlvnqrripf eivpaggvpn
+       61 eetrralvaa eakelglipd dapafddidg lvafleee
+//
+
+LOCUS       WP_013978594              88 aa            linear   BCT 18-MAY-2013
+DEFINITION  hypothetical protein [Eggerthella sp. YY7918].
+ACCESSION   WP_013978594
+VERSION     WP_013978594.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella sp. YY7918
+  ORGANISM  Eggerthella sp. YY7918
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..88
+                     /organism="Eggerthella sp. YY7918"
+                     /db_xref="taxon:502558"
+     Protein         1..88
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=9499
+     Region          5..>71
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mggimatstl nirldsdlkr eleevssdig ltptavfnvf arqfvahrgf pfavtapvpt
+       61 erefaakmda iylsmlegna sehelvea
+//
+
+LOCUS       WP_015760443             103 aa            linear   BCT 14-JUN-2015
+DEFINITION  antitoxin RelB [Eggerthella lenta].
+ACCESSION   WP_015760443
+VERSION     WP_015760443.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella lenta
+  ORGANISM  Eggerthella lenta
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..103
+                     /organism="Eggerthella lenta"
+                     /db_xref="taxon:84112"
+     Protein         1..103
+                     /product="antitoxin RelB"
+                     /calculated_mol_wt=11707
+     Region          1..>57
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 maatatlnvr lpedlkdrga qvlrregvsv sdavrglyey mekeqrlpef ikpanedarr
+       61 saverkrstl rdmagvlsps pcteardewr ehlewktrpg vrt
+//
+
+LOCUS       WP_015760579              98 aa            linear   BCT 26-MAY-2013
+DEFINITION  DNA-damage-inducible protein J [Eggerthella lenta].
+ACCESSION   WP_015760579
+VERSION     WP_015760579.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella lenta
+  ORGANISM  Eggerthella lenta
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..98
+                     /organism="Eggerthella lenta"
+                     /db_xref="taxon:84112"
+     Protein         1..98
+                     /product="DNA-damage-inducible protein J"
+                     /calculated_mol_wt=10421
+     Region          1..>74
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mataakptti rvdenlkara neilgsvgls yntyvvmath qlvnqcripf eivpaggvpn
+       61 eetrralvaa eakelglipd dapafddidg lvafleke
+//
+
+LOCUS       WP_015761351             103 aa            linear   BCT 20-MAY-2013
+DEFINITION  hypothetical protein [Eggerthella lenta].
+ACCESSION   WP_015761351
+VERSION     WP_015761351.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella lenta
+  ORGANISM  Eggerthella lenta
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..103
+                     /organism="Eggerthella lenta"
+                     /db_xref="taxon:84112"
+     Protein         1..103
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=11782
+     Region          1..>48
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 madamvtarm saekkeagnr mleqlgtnas qavnrlydyv lekkqlpfpe qqgrrkytqe
+       61 eiaqaiawvd siprrdrfst mtddeirrer lisrglatsk dfs
+//
+
+LOCUS       WP_015761399             124 aa            linear   BCT 26-MAY-2013
+DEFINITION  translation repressor RelB [Eggerthella lenta].
+ACCESSION   WP_015761399
+VERSION     WP_015761399.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella lenta
+  ORGANISM  Eggerthella lenta
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..124
+                     /organism="Eggerthella lenta"
+                     /db_xref="taxon:84112"
+     Protein         1..124
+                     /product="translation repressor RelB"
+                     /calculated_mol_wt=14256
+     Region          5..>49
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mttdmvqmnt risrslkerg daaleragys psqavrklwd yaaknahnpr aiqnlfdaed
+       61 eaekreaeee rarrreitir ganivadaye rhgikpsdwt mnasyeemrd yallerlrer
+      121 glda
+//
+
+LOCUS       CDD60416                 104 aa            linear   ENV 31-MAY-2013
+DEFINITION  putative uncharacterized protein [Eggerthella sp. CAG:298].
+ACCESSION   CDD60416
+VERSION     CDD60416.1
+DBSOURCE    embl accession CBHI010000082.1
+KEYWORDS    ENV.
+SOURCE      Eggerthella sp. CAG:298
+  ORGANISM  Eggerthella sp. CAG:298
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..104
+                     /organism="Eggerthella sp. CAG:298"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262876"
+                     /environmental_sample
+                     /note="contig 83"
+     Protein         1..104
+                     /product="putative uncharacterized protein"
+     Region          4..>46
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+     CDS             1..104
+                     /locus_tag="BN592_01382"
+                     /coded_by="complement(CBHI010000082.1:20166..20480)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mskmisarip dalysqasiq laslgastsd lvnaafeyvl eehalptahp skskqkkral
+       61 skdqkqliks mfkncmldld ipddvkadkr yaqavranky edia
+//
+
+LOCUS       CDD59882                  94 aa            linear   ENV 31-MAY-2013
+DEFINITION  addiction module antitoxin RelB/DinJ family [Eggerthella sp.
+            CAG:298].
+ACCESSION   CDD59882
+VERSION     CDD59882.1
+DBSOURCE    embl accession CBHI010000052.1
+KEYWORDS    ENV.
+SOURCE      Eggerthella sp. CAG:298
+  ORGANISM  Eggerthella sp. CAG:298
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..94
+                     /organism="Eggerthella sp. CAG:298"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262876"
+                     /environmental_sample
+                     /note="contig 56"
+     Protein         1..94
+                     /product="addiction module antitoxin RelB/DinJ family"
+     Region          3..>49
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+     CDS             1..94
+                     /locus_tag="BN592_01017"
+                     /coded_by="complement(CBHI010000052.1:75678..75962)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 meavltvrld qetknkgakv mkdlgltpsq avrrlfdytv shdclpfdld pkqphknvsd
+       61 qiaafdrcht kkpisltdne irdarlkdnh alda
+//
+
+LOCUS       KGI75945                 119 aa            linear   BCT 03-OCT-2014
+DEFINITION  hypothetical protein HMPREF9458_00269 [Eggerthella lenta
+            1_1_60AFAA].
+ACCESSION   KGI75945
+VERSION     KGI75945.1
+DBLINK      BioProject: PRJNA46413
+            BioSample: SAMN00103544
+DBSOURCE    accession ADLX01000014.1
+KEYWORDS    HIGH_QUALITY_DRAFT.
+SOURCE      Eggerthella lenta 1_1_60AFAA
+  ORGANISM  Eggerthella lenta 1_1_60AFAA
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+REFERENCE   1  (residues 1 to 119)
+  AUTHORS   Earl,A., Ward,D., Feldgarden,M., Gevers,D., Daigneault,M.,
+            Strauss,J., Ambrose,C.E., Allen-Vercoe,E., Young,S.K., Zeng,Q.,
+            Gargeya,S., Fitzgerald,M., Haas,B., Abouelleil,A., Alvarado,L.,
+            Arachchi,H.M., Berlin,A., Brown,A., Chapman,S.B., Chen,Z.,
+            Dunbar,C., Freedman,E., Gearin,G., Gellesch,M., Goldberg,J.,
+            Griggs,A., Gujja,S., Heiman,D., Howarth,C., Larson,L., Lui,A.,
+            MacDonald,P.J.P., Mehta,T., Montmayeur,A., Murphy,C., Neiman,D.,
+            Pearson,M., Priest,M., Roberts,A., Saif,S., Shea,T., Shenoy,N.,
+            Sisk,P., Stolte,C., Sykes,S., Wortman,J., Nusbaum,C. and Birren,B.
+  CONSRTM   The Broad Institute Genome Sequencing Platform
+  TITLE     The Genome Sequence of Eggerthella lenta 1_1_60AFAA
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 119)
+  AUTHORS   Earl,A., Ward,D., Feldgarden,M., Gevers,D., Daigneault,M.,
+            Strauss,J., Ambrose,C.E., Allen-Vercoe,E., Young,S.K., Zeng,Q.,
+            Gargeya,S., Fitzgerald,M., Haas,B., Abouelleil,A., Alvarado,L.,
+            Arachchi,H.M., Berlin,A., Brown,A., Chapman,S.B., Chen,Z.,
+            Dunbar,C., Freedman,E., Gearin,G., Gellesch,M., Goldberg,J.,
+            Griggs,A., Gujja,S., Heiman,D., Howarth,C., Larson,L., Lui,A.,
+            MacDonald,P.J.P., Mehta,T., Montmayeur,A., Murphy,C., Neiman,D.,
+            Pearson,M., Priest,M., Roberts,A., Saif,S., Shea,T., Shenoy,N.,
+            Sisk,P., Stolte,C., Sykes,S., Wortman,J., Nusbaum,C. and Birren,B.
+  CONSRTM   The Broad Institute Genome Sequencing Platform
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUN-2011) Broad Institute of MIT and Harvard, 7
+            Cambridge Center, Cambridge, MA 02142, USA
+COMMENT     This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Source DNA provided by Strauss, J.C., Daigneault, M., Ambrose,
+            C.E., and Allen-Vercoe, E. (Molecular and Cellular Biology,
+            University of Guelph, Guelph, Ontario, N1G 2W1, Canada).
+            Bacteria provided by Strauss, J.C., Daigneault, M., Ambrose, C.E.,
+            and Allen-Vercoe, E. (Molecular and Cellular Biology, University of
+            Guelph, Guelph, Ontario, N1G 2W1, Canada).
+            Please be aware that the annotation is done automatically with
+            little or no manual curation.
+            Gene Calling Method: Prodigal.
+            
+            ##Genome-Assembly-Data-START##
+            Finishing Goal           :: High-Quality Draft
+            Current Finishing Status :: High-Quality Draft
+            Assembly Method          :: Newbler v. 2.3-PostRelease-11/19/2009
+            Assembly Name            :: Egge_lent_1_1_60AFAA_V1
+            Genome Coverage          :: 31x
+            Sequencing Technology    :: 454
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..119
+                     /organism="Eggerthella lenta 1_1_60AFAA"
+                     /strain="1_1_60AFAA"
+                     /db_xref="HMP:9458"
+                     /db_xref="taxon:742768"
+     Protein         1..119
+                     /product="hypothetical protein"
+     Region          3..83
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+     CDS             1..119
+                     /locus_tag="HMPREF9458_00269"
+                     /coded_by="complement(ADLX01000014.1:153078..153437)"
+                     /transl_table=11
+ORIGIN      
+        1 mesvmtvrln gdmkeraaai mrregytpss avrrlfeytv khdglpfeks ekpdrdelrr
+       61 rieafdqvht krplamsdee lrearlkdry gaspveaitp eelfarlreq gldyeevew
+//
+
+LOCUS       KGI76516                 750 aa            linear   BCT 03-OCT-2014
+DEFINITION  hypothetical protein HMPREF9458_02734 [Eggerthella lenta
+            1_1_60AFAA].
+ACCESSION   KGI76516
+VERSION     KGI76516.1
+DBLINK      BioProject: PRJNA46413
+            BioSample: SAMN00103544
+DBSOURCE    accession ADLX01000105.1
+KEYWORDS    HIGH_QUALITY_DRAFT.
+SOURCE      Eggerthella lenta 1_1_60AFAA
+  ORGANISM  Eggerthella lenta 1_1_60AFAA
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+REFERENCE   1  (residues 1 to 750)
+  AUTHORS   Earl,A., Ward,D., Feldgarden,M., Gevers,D., Daigneault,M.,
+            Strauss,J., Ambrose,C.E., Allen-Vercoe,E., Young,S.K., Zeng,Q.,
+            Gargeya,S., Fitzgerald,M., Haas,B., Abouelleil,A., Alvarado,L.,
+            Arachchi,H.M., Berlin,A., Brown,A., Chapman,S.B., Chen,Z.,
+            Dunbar,C., Freedman,E., Gearin,G., Gellesch,M., Goldberg,J.,
+            Griggs,A., Gujja,S., Heiman,D., Howarth,C., Larson,L., Lui,A.,
+            MacDonald,P.J.P., Mehta,T., Montmayeur,A., Murphy,C., Neiman,D.,
+            Pearson,M., Priest,M., Roberts,A., Saif,S., Shea,T., Shenoy,N.,
+            Sisk,P., Stolte,C., Sykes,S., Wortman,J., Nusbaum,C. and Birren,B.
+  CONSRTM   The Broad Institute Genome Sequencing Platform
+  TITLE     The Genome Sequence of Eggerthella lenta 1_1_60AFAA
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 750)
+  AUTHORS   Earl,A., Ward,D., Feldgarden,M., Gevers,D., Daigneault,M.,
+            Strauss,J., Ambrose,C.E., Allen-Vercoe,E., Young,S.K., Zeng,Q.,
+            Gargeya,S., Fitzgerald,M., Haas,B., Abouelleil,A., Alvarado,L.,
+            Arachchi,H.M., Berlin,A., Brown,A., Chapman,S.B., Chen,Z.,
+            Dunbar,C., Freedman,E., Gearin,G., Gellesch,M., Goldberg,J.,
+            Griggs,A., Gujja,S., Heiman,D., Howarth,C., Larson,L., Lui,A.,
+            MacDonald,P.J.P., Mehta,T., Montmayeur,A., Murphy,C., Neiman,D.,
+            Pearson,M., Priest,M., Roberts,A., Saif,S., Shea,T., Shenoy,N.,
+            Sisk,P., Stolte,C., Sykes,S., Wortman,J., Nusbaum,C. and Birren,B.
+  CONSRTM   The Broad Institute Genome Sequencing Platform
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUN-2011) Broad Institute of MIT and Harvard, 7
+            Cambridge Center, Cambridge, MA 02142, USA
+COMMENT     This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Source DNA provided by Strauss, J.C., Daigneault, M., Ambrose,
+            C.E., and Allen-Vercoe, E. (Molecular and Cellular Biology,
+            University of Guelph, Guelph, Ontario, N1G 2W1, Canada).
+            Bacteria provided by Strauss, J.C., Daigneault, M., Ambrose, C.E.,
+            and Allen-Vercoe, E. (Molecular and Cellular Biology, University of
+            Guelph, Guelph, Ontario, N1G 2W1, Canada).
+            Please be aware that the annotation is done automatically with
+            little or no manual curation.
+            Gene Calling Method: Prodigal.
+            
+            ##Genome-Assembly-Data-START##
+            Finishing Goal           :: High-Quality Draft
+            Current Finishing Status :: High-Quality Draft
+            Assembly Method          :: Newbler v. 2.3-PostRelease-11/19/2009
+            Assembly Name            :: Egge_lent_1_1_60AFAA_V1
+            Genome Coverage          :: 31x
+            Sequencing Technology    :: 454
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..750
+                     /organism="Eggerthella lenta 1_1_60AFAA"
+                     /strain="1_1_60AFAA"
+                     /db_xref="HMP:9458"
+                     /db_xref="taxon:742768"
+     Protein         1..750
+                     /product="hypothetical protein"
+     Region          16..479
+                     /region_name="PRK14995"
+                     /note="methyl viologen resistance protein SmvA;
+                     Provisional"
+                     /db_xref="CDD:184957"
+     Region          21..426
+                     /region_name="MFS"
+                     /note="The Major Facilitator Superfamily (MFS) is a large
+                     and diverse group of secondary transporters that includes
+                     uniporters, symporters, and antiporters. MFS proteins
+                     facilitate the transport across cytoplasmic or internal
+                     membranes of a variety of...; cd06174"
+                     /db_xref="CDD:119392"
+     Site            order(35,38..40,42..43,60,63..64,67,71..72,74..75,
+                     121..122,125..126,129..130,133,146..147,150..151,157,285,
+                     288..289,292..293,296,310,314,318,321,325,373,376..377,
+                     381,385..386,389,400..401,404..405,408..409,412)
+                     /site_type="other"
+                     /note="putative substrate translocation pore"
+                     /db_xref="CDD:119392"
+     Region          584..>632
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+     Region          666..745
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+     CDS             1..750
+                     /locus_tag="HMPREF9458_02734"
+                     /coded_by="ADLX01000105.1:2441..4693"
+                     /transl_table=11
+ORIGIN      
+        1 msdlvhmspa tlskgrlwaa lvvilfgqfi vsidltvlni alpdltkdln ptsdqllwiv
+       61 dvyslvlagl lvatsslsdr fgrkrtllag fflfgvgsll vlfanspefv iairaflgvg
+      121 galimpvtvs mirsifqdak erafavaaws aigalgmatg pliggflleh fnwhaaflvn
+      181 vplmaialga gifvlpevrl kkpgsfdila sliflagmvl flwgikhlaa elafdtqgva
+      241 avaagvvllg lfiyrclhak tpvvdlslfr skpftagiia tagcmfamat llymlsqwlq
+      301 lvngdgtlea gvklvpmaia sllasavatp lamrlkprnv vagglilaaa ammmlmffkd
+      361 dlellpvmis ttligvgtga laigaslimc etpvekassa gslqevsydl gnvlgvailg
+      421 slasiiyrsg lptgelramg ldgrtidaae qslsatsvia helglpqllq kgieafndsv
+      481 vitcfvggvi ilvvavvvra liprdvkite ddeapgdgda pllgdgdpst tgdgspseeg
+      541 eapslgegda pshdggapsn eseaplhear nllgtgdaps avktvsvfvd edtlremkav
+      601 csqfgigtda afrifankva rerripfkls vdplcceeyl nslrrcmrai degngvqefr
+      661 kmvriwapqa wndytrmkse diesrkrvka lirdieknga segvgkpeql qgdlsslwsr
+      721 ridkrnrlvy riaegnveii sckthvadrv
+//
+
+LOCUS       WP_035585414              98 aa            linear   BCT 23-DEC-2014
+DEFINITION  damage-inducible protein J [Eggerthella lenta].
+ACCESSION   WP_035585414
+VERSION     WP_035585414.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella lenta
+  ORGANISM  Eggerthella lenta
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..98
+                     /organism="Eggerthella lenta"
+                     /db_xref="taxon:84112"
+     Protein         1..98
+                     /product="damage-inducible protein J"
+                     /calculated_mol_wt=10393
+     Region          1..>74
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mataakptti rvdenlkaqa neilgsvgls yntyvvmath qlvnqcripf eivpaggvpn
+       61 eetrralvaa eakelglipd dapafddidg lvafleke
+//
+
+LOCUS       WP_035586137             113 aa            linear   BCT 23-DEC-2014
+DEFINITION  hypothetical protein [Eggerthella lenta].
+ACCESSION   WP_035586137
+VERSION     WP_035586137.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella lenta
+  ORGANISM  Eggerthella lenta
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..113
+                     /organism="Eggerthella lenta"
+                     /db_xref="taxon:84112"
+     Protein         1..113
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=12876
+     Region          6..>47
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 maavqmnvri dedvkargde vfaragftps qvvravweya eqtgevpafm rasgadadea
+       61 errrrialae ygahiwenff ldhglpvpkr kerldyktlr delyddmlee mgl
+//
+
+LOCUS       WP_058986110              92 aa            linear   BCT 07-JAN-2016
+DEFINITION  translation repressor RelB [Eggerthellaceae bacterium AT8].
+ACCESSION   WP_058986110
+VERSION     WP_058986110.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthellaceae bacterium AT8
+  ORGANISM  Eggerthellaceae bacterium AT8
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..92
+                     /organism="Eggerthellaceae bacterium AT8"
+                     /db_xref="taxon:1720315"
+     Protein         1..92
+                     /product="translation repressor RelB"
+                     /calculated_mol_wt=9760
+     Region          1..76
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 matgavtrra eiktrttdev kkgatevyah wglslndain tfliksievg glpfdlrpea
+       61 psydaiaaia ykpklddggv avlpadwddg de
+//
+
+LOCUS       WP_058986835              90 aa            linear   BCT 07-JAN-2016
+DEFINITION  damage-inducible protein J [Eggerthellaceae bacterium AT8].
+ACCESSION   WP_058986835
+VERSION     WP_058986835.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthellaceae bacterium AT8
+  ORGANISM  Eggerthellaceae bacterium AT8
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..90
+                     /organism="Eggerthellaceae bacterium AT8"
+                     /db_xref="taxon:1720315"
+     Protein         1..90
+                     /product="damage-inducible protein J"
+                     /calculated_mol_wt=9646
+     Region          1..87
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 masstltiri dedlkrqase vadyygldls svtrafykqm vntrcipltf apeepnaesl
+       61 eairegeafl asgkegrftn gadliaaata
+//
+
+LOCUS       WP_009305425             140 aa            linear   BCT 16-NOV-2015
+DEFINITION  MULTISPECIES: NAD+ synthetase [Eggerthella].
+ACCESSION   WP_009305425
+VERSION     WP_009305425.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella
+  ORGANISM  Eggerthella
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..140
+                     /organism="Eggerthella"
+                     /db_xref="taxon:84111"
+     Protein         1..140
+                     /product="NAD+ synthetase"
+                     /calculated_mol_wt=15489
+     Region          4..138
+                     /region_name="PRK04460"
+                     /note="nickel responsive regulator; Provisional"
+                     /db_xref="CDD:179855"
+     Region          6..>45
+                     /region_name="RHH_1"
+                     /note="Ribbon-helix-helix protein, copG family; cl22901"
+                     /db_xref="CDD:304625"
+     Region          61..134
+                     /region_name="NikR_C"
+                     /note="NikR C terminal nickel binding domain; pfam08753"
+                     /db_xref="CDD:285909"
+ORIGIN      
+        1 msndlmrfsv ampeellvrf dqlvarrgla knrsevvrdl vrdalvedec stpgmevvgt
+       61 ltivfdhhas dlqeklhaiq hdyfesiiss mhvhldahhc levivlrget glvqdianli
+      121 lgtkgvkngr lvvtttgqhi
+//
+
+LOCUS       WP_013981101             140 aa            linear   BCT 27-MAY-2013
+DEFINITION  NAD+ synthetase [Eggerthella sp. YY7918].
+ACCESSION   WP_013981101
+VERSION     WP_013981101.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella sp. YY7918
+  ORGANISM  Eggerthella sp. YY7918
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..140
+                     /organism="Eggerthella sp. YY7918"
+                     /db_xref="taxon:502558"
+     Protein         1..140
+                     /product="NAD+ synthetase"
+                     /calculated_mol_wt=15515
+     Region          4..138
+                     /region_name="PRK04460"
+                     /note="nickel responsive regulator; Provisional"
+                     /db_xref="CDD:179855"
+     Region          6..>45
+                     /region_name="RHH_1"
+                     /note="Ribbon-helix-helix protein, copG family; cl22901"
+                     /db_xref="CDD:304625"
+     Region          61..134
+                     /region_name="NikR_C"
+                     /note="NikR C terminal nickel binding domain; pfam08753"
+                     /db_xref="CDD:285909"
+ORIGIN      
+        1 msndlmrfsv ampeellvrf drlvarrgla knrsevvrdl vrdalvedec ttpgaevvgt
+       61 ltivfdhhan dlqeklhaiq hdyyqsivss mhvhldahac levivlrget elvqdianli
+      121 lgtkgvkngr lvvtttgqfi
+//
+
+LOCUS       CCY05931                 140 aa            linear   ENV 31-MAY-2013
+DEFINITION  putative nickel-responsive regulator [Eggerthella sp. CAG:1427].
+ACCESSION   CCY05931
+VERSION     CCY05931.1
+DBSOURCE    embl accession CAXM010000089.1
+KEYWORDS    ENV.
+SOURCE      Eggerthella sp. CAG:1427
+  ORGANISM  Eggerthella sp. CAG:1427
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..140
+                     /organism="Eggerthella sp. CAG:1427"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262874"
+                     /environmental_sample
+                     /note="contig 42"
+     Protein         1..140
+                     /product="putative nickel-responsive regulator"
+     Region          4..137
+                     /region_name="PRK04460"
+                     /note="nickel responsive regulator; Provisional"
+                     /db_xref="CDD:179855"
+     Region          6..>45
+                     /region_name="RHH_1"
+                     /note="Ribbon-helix-helix protein, copG family; cl22901"
+                     /db_xref="CDD:304625"
+     Region          61..134
+                     /region_name="NikR_C"
+                     /note="NikR C terminal nickel binding domain; pfam08753"
+                     /db_xref="CDD:285909"
+     CDS             1..140
+                     /locus_tag="BN494_00385"
+                     /coded_by="complement(CAXM010000089.1:30958..31380)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 msndlmrfsv ampedllvkf dhlvarrgla knrsevvrdl vrdalvedec smpgrivmgt
+       61 ltivyshhan dlqeklhqiq hnyletivss lhvhideenc leviilkget glvqdianli
+      121 igtkgvktgr lhmtttgafi
+//
+
+LOCUS       CDB33956                 140 aa            linear   ENV 31-MAY-2013
+DEFINITION  putative nickel-responsive regulator [Eggerthella sp. CAG:209].
+ACCESSION   CDB33956
+VERSION     CDB33956.1
+DBSOURCE    embl accession CBDM010000196.1
+KEYWORDS    ENV.
+SOURCE      Eggerthella sp. CAG:209
+  ORGANISM  Eggerthella sp. CAG:209
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..140
+                     /organism="Eggerthella sp. CAG:209"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262875"
+                     /environmental_sample
+                     /note="contig 275"
+     Protein         1..140
+                     /product="putative nickel-responsive regulator"
+     Region          4..137
+                     /region_name="PRK04460"
+                     /note="nickel responsive regulator; Provisional"
+                     /db_xref="CDD:179855"
+     Region          7..47
+                     /region_name="RHH_1"
+                     /note="Ribbon-helix-helix protein, copG family; pfam01402"
+                     /db_xref="CDD:279710"
+     Region          61..134
+                     /region_name="NikR_C"
+                     /note="NikR C terminal nickel binding domain; pfam08753"
+                     /db_xref="CDD:285909"
+     CDS             1..140
+                     /locus_tag="BN534_01662"
+                     /coded_by="complement(CBDM010000196.1:2131..2553)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 msndlmrfsv ampedllvkf dhlvarrgla knrsevvrdl vrealvedec svpgrivmgt
+       61 ltivynhhan dlqeklhhiq htyldmvvas mhvhvdqdnc leviilkges gevqdvanli
+      121 igtkgvktgr lnmtttgdfi
+//
+
+LOCUS       CDD59682                 140 aa            linear   ENV 31-MAY-2013
+DEFINITION  putative nickel-responsive regulator [Eggerthella sp. CAG:298].
+ACCESSION   CDD59682
+VERSION     CDD59682.1
+DBSOURCE    embl accession CBHI010000045.1
+KEYWORDS    ENV.
+SOURCE      Eggerthella sp. CAG:298
+  ORGANISM  Eggerthella sp. CAG:298
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..140
+                     /organism="Eggerthella sp. CAG:298"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262876"
+                     /environmental_sample
+                     /note="contig 5"
+     Protein         1..140
+                     /product="putative nickel-responsive regulator"
+     Region          4..138
+                     /region_name="PRK04460"
+                     /note="nickel responsive regulator; Provisional"
+                     /db_xref="CDD:179855"
+     Region          7..47
+                     /region_name="RHH_1"
+                     /note="Ribbon-helix-helix protein, copG family; pfam01402"
+                     /db_xref="CDD:279710"
+     Region          61..134
+                     /region_name="NikR_C"
+                     /note="NikR C terminal nickel binding domain; pfam08753"
+                     /db_xref="CDD:285909"
+     CDS             1..140
+                     /locus_tag="BN592_00065"
+                     /coded_by="CBHI010000045.1:7724..8146"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mssdlvrfsv ampedllinf dhlvarrgla knrsevirdl vrdalvegec atpgrivmgt
+       61 ltivyshhas dlqeklhfiq hryldriits vhvhidednc leviilkget gevqdvanli
+      121 lgtkgvktgr lvmtttgefi
+//
+
+LOCUS       CDD67017                 140 aa            linear   ENV 31-MAY-2013
+DEFINITION  putative nickel-responsive regulator [Eggerthella sp. CAG:368].
+ACCESSION   CDD67017
+VERSION     CDD67017.1
+DBSOURCE    embl accession CBHM010000014.1
+KEYWORDS    ENV.
+SOURCE      Eggerthella sp. CAG:368
+  ORGANISM  Eggerthella sp. CAG:368
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..140
+                     /organism="Eggerthella sp. CAG:368"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262877"
+                     /environmental_sample
+                     /note="contig 110"
+     Protein         1..140
+                     /product="putative nickel-responsive regulator"
+     Region          4..137
+                     /region_name="PRK04460"
+                     /note="nickel responsive regulator; Provisional"
+                     /db_xref="CDD:179855"
+     Region          7..47
+                     /region_name="RHH_1"
+                     /note="Ribbon-helix-helix protein, copG family; pfam01402"
+                     /db_xref="CDD:279710"
+     Region          61..134
+                     /region_name="NikR_C"
+                     /note="NikR C terminal nickel binding domain; pfam08753"
+                     /db_xref="CDD:285909"
+     CDS             1..140
+                     /locus_tag="BN629_00704"
+                     /coded_by="CBHM010000014.1:26701..27123"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 msndlmrfsv ampedllvkf dhlvarrgla knrsevirdl vrdalvedmc ampgrlvmgt
+       61 ltivynhhan dlqeklhsiq hdyldmivas mhvhidhdnc levivlkget glvqdvanmi
+      121 lgtkgvktgr lvttttgafi
+//
+
+LOCUS       WP_050784801             134 aa            linear   BCT 12-AUG-2015
+DEFINITION  hypothetical protein [Eggerthella sp. 1_3_56FAA].
+ACCESSION   WP_050784801
+VERSION     WP_050784801.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella sp. 1_3_56FAA
+  ORGANISM  Eggerthella sp. 1_3_56FAA
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..134
+                     /organism="Eggerthella sp. 1_3_56FAA"
+                     /db_xref="taxon:665943"
+     Protein         1..134
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=14767
+ORIGIN      
+        1 mpyrnmvslr lddrdldale aasersglsr sellrsllrv ppgadrqrtv yavdgrtlgr
+       61 matelvrwgr hynqavhaln tiallvrrgs ppkppeleam lgralsalee veagrrvlea
+      121 altevadsia vrrd
+//
+
+LOCUS       WP_058985604             140 aa            linear   BCT 07-JAN-2016
+DEFINITION  NAD+ synthetase [Eggerthellaceae bacterium AT8].
+ACCESSION   WP_058985604
+VERSION     WP_058985604.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthellaceae bacterium AT8
+  ORGANISM  Eggerthellaceae bacterium AT8
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..140
+                     /organism="Eggerthellaceae bacterium AT8"
+                     /db_xref="taxon:1720315"
+     Protein         1..140
+                     /product="NAD+ synthetase"
+                     /calculated_mol_wt=15601
+     Region          4..138
+                     /region_name="PRK04460"
+                     /note="nickel responsive regulator; Provisional"
+                     /db_xref="CDD:179855"
+     Region          6..>45
+                     /region_name="RHH_1"
+                     /note="Ribbon-helix-helix protein, copG family; cl22901"
+                     /db_xref="CDD:304625"
+     Region          61..134
+                     /region_name="NikR_C"
+                     /note="NikR C terminal nickel binding domain; pfam08753"
+                     /db_xref="CDD:285909"
+ORIGIN      
+        1 mandlmrfsv ampenllvef dqlvarrgla knrsevvrdl vrealvedec arpgtevmgt
+       61 ltivfdhhas vlrdkldaiq hqyyesivst thihmneewc leviimkget geiqgladli
+      121 lgtkgvktgk lvltttgkyf
+//
+
+LOCUS       WP_009305171             130 aa            linear   BCT 05-JUN-2013
+DEFINITION  argininosuccinate lyase [Eggerthella sp. 1_3_56FAA].
+ACCESSION   WP_009305171
+VERSION     WP_009305171.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella sp. 1_3_56FAA
+  ORGANISM  Eggerthella sp. 1_3_56FAA
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..130
+                     /organism="Eggerthella sp. 1_3_56FAA"
+                     /db_xref="taxon:665943"
+     Protein         1..130
+                     /product="argininosuccinate lyase"
+                     /calculated_mol_wt=15052
+     Region          9..43
+                     /region_name="RHH_5"
+                     /note="CopG-like RHH_1 or ribbon-helix-helix domain,
+                     RHH_5; pfam07878"
+                     /db_xref="CDD:285161"
+ORIGIN      
+        1 mpalqvrdfp ddlyeqlkay aasqhrsiaq qtivaveqml eaadaqhywd ghdlhrlerr
+       61 pryfdfdtea kraariekrk elfaeidklp kfdvpddfpd tvelirqgre erdaiidami
+      121 aaekqkavea
+//
+
+LOCUS       WP_009609486             130 aa            linear   BCT 16-JUN-2015
+DEFINITION  MULTISPECIES: antitoxin [Eggerthella].
+ACCESSION   WP_009609486
+VERSION     WP_009609486.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella
+  ORGANISM  Eggerthella
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..130
+                     /organism="Eggerthella"
+                     /db_xref="taxon:84111"
+     Protein         1..130
+                     /product="antitoxin"
+                     /calculated_mol_wt=15080
+     Region          9..43
+                     /region_name="RHH_5"
+                     /note="CopG-like RHH_1 or ribbon-helix-helix domain,
+                     RHH_5; pfam07878"
+                     /db_xref="CDD:285161"
+ORIGIN      
+        1 mpalqvrdfp ddlyeqlkay aasqhrsiaq qtivaveqml eaadaqhywd ghdlhrlerr
+       61 pryfdfdtea kravriekrk elfaeidklp kfdvpddfpd tvelirqgre erdaiidami
+      121 aaekqkavea
+//
+
+LOCUS       WP_013979100             128 aa            linear   BCT 18-MAY-2013
+DEFINITION  hypothetical protein [Eggerthella sp. YY7918].
+ACCESSION   WP_013979100
+VERSION     WP_013979100.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella sp. YY7918
+  ORGANISM  Eggerthella sp. YY7918
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..128
+                     /organism="Eggerthella sp. YY7918"
+                     /db_xref="taxon:502558"
+     Protein         1..128
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=14473
+     Region          9..42
+                     /region_name="RHH_5"
+                     /note="CopG-like RHH_1 or ribbon-helix-helix domain,
+                     RHH_5; pfam07878"
+                     /db_xref="CDD:285161"
+ORIGIN      
+        1 mpalqvrdfp ddlyeelkvy aasqhrsiaq qtivaveqml qtdatgapfs aehkphyldf
+       61 dteaeraari krkkevferi gqlhwngpkp taeeivavvr egheerdeai lqslgfydei
+      121 egrraaea
+//
+
+LOCUS       CDD59454                 102 aa            linear   ENV 31-MAY-2013
+DEFINITION  putative uncharacterized protein [Eggerthella sp. CAG:298].
+ACCESSION   CDD59454
+VERSION     CDD59454.1
+DBSOURCE    embl accession CBHI010000039.1
+KEYWORDS    ENV.
+SOURCE      Eggerthella sp. CAG:298
+  ORGANISM  Eggerthella sp. CAG:298
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..102
+                     /organism="Eggerthella sp. CAG:298"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262876"
+                     /environmental_sample
+                     /note="contig 44"
+     Protein         1..102
+                     /product="putative uncharacterized protein"
+     Region          10..40
+                     /region_name="RHH_5"
+                     /note="CopG-like RHH_1 or ribbon-helix-helix domain,
+                     RHH_5; pfam07878"
+                     /db_xref="CDD:285161"
+     CDS             1..102
+                     /locus_tag="BN592_00756"
+                     /coded_by="CBHI010000039.1:6284..6592"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mpalqvkdcp tevyeelrrc asrenrsisq qaltiledyl gfrdfvahdr sssrnrcsek
+       61 pnyiekrqrl fermkkrrai pvseeapssa dllaeireee ar
+//
+
+LOCUS       WP_009304133             101 aa            linear   BCT 16-NOV-2015
+DEFINITION  MULTISPECIES: hypothetical protein [Eggerthella].
+ACCESSION   WP_009304133
+VERSION     WP_009304133.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella
+  ORGANISM  Eggerthella
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..101
+                     /organism="Eggerthella"
+                     /db_xref="taxon:84111"
+     Protein         1..101
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=11577
+     Region          <1..>30
+                     /region_name="Peptidases_S8_S53"
+                     /note="Peptidase domain in the S8 and S53 families;
+                     cl10459"
+                     /db_xref="CDD:299169"
+     Region          17..90
+                     /region_name="BrnT_toxin"
+                     /note="Ribonuclease toxin, BrnT, of type II
+                     toxin-antitoxin system; pfam04365"
+                     /db_xref="CDD:282252"
+ORIGIN      
+        1 mdiitislgs iltfecdpkk svanlqkhgi dfdeaqqlwe giyikapark rgerryavvg
+       61 vlrgvhwtai atdrgdriri isvrrateqe riryeqrkdn l
+//
+
+LOCUS       WP_013980373              88 aa            linear   BCT 27-MAY-2013
+DEFINITION  toxin [Eggerthella sp. YY7918].
+ACCESSION   WP_013980373
+VERSION     WP_013980373.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella sp. YY7918
+  ORGANISM  Eggerthella sp. YY7918
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..88
+                     /organism="Eggerthella sp. YY7918"
+                     /db_xref="taxon:502558"
+     Protein         1..88
+                     /product="toxin"
+                     /calculated_mol_wt=10109
+     Region          5..80
+                     /region_name="BrnT_toxin"
+                     /note="Ribonuclease toxin, BrnT, of type II
+                     toxin-antitoxin system; pfam04365"
+                     /db_xref="CDD:282252"
+ORIGIN      
+        1 mkfeydpaks agnlikhgid fekaqelwns ktieleskay vsehrtlvlg kiegkhwtai
+       61 vtergdatri isvrrsrqke aryydetn
+//
+
+LOCUS       WP_035584095              95 aa            linear   BCT 23-DEC-2014
+DEFINITION  hypothetical protein [Eggerthella lenta].
+ACCESSION   WP_035584095
+VERSION     WP_035584095.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella lenta
+  ORGANISM  Eggerthella lenta
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..95
+                     /organism="Eggerthella lenta"
+                     /db_xref="taxon:84112"
+     Protein         1..95
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=11339
+     Region          5..80
+                     /region_name="BrnT_toxin"
+                     /note="Ribonuclease toxin, BrnT, of type II
+                     toxin-antitoxin system; pfam04365"
+                     /db_xref="CDD:282252"
+ORIGIN      
+        1 mrfeydphks ssnadkhgid feeaqelwdd kwrlaarvqr kgeercllia rharslwtai
+       61 yvhrddairi isvrrstdee vsyydrcrnd yaqrp
+//
+
+LOCUS       EGC89821                 128 aa            linear   BCT 07-MAR-2011
+DEFINITION  toxin-antitoxin system, toxin component, RelE family [Eggerthella
+            sp. HGA1].
+ACCESSION   EGC89821
+VERSION     EGC89821.1
+DBLINK      BioProject: PRJNA59527
+            BioSample: SAMN00116781
+DBSOURCE    accession AEXR01000012.1
+KEYWORDS    HIGH_QUALITY_DRAFT.
+SOURCE      Eggerthella sp. HGA1
+  ORGANISM  Eggerthella sp. HGA1
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+REFERENCE   1  (residues 1 to 128)
+  AUTHORS   Harkins,D.M., Madupu,R., Durkin,A.S., Torralba,M., Methe,B.,
+            Sutton,G.G. and Nelson,K.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2011) J. Craig Venter Institute, 9704 Medical
+            Center Drive, Rockville, MD 20850, USA
+COMMENT     This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            
+            ##Genome-Assembly-Data-START##
+            Finishing Goal           :: High-Quality Draft
+            Current Finishing Status :: High-Quality Draft
+            Assembly Method          :: Newbler v. 2.3
+            Genome Coverage          :: 47.3x
+            Sequencing Technology    :: 454
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..128
+                     /organism="Eggerthella sp. HGA1"
+                     /strain="HGA1"
+                     /db_xref="HMP:9404"
+                     /db_xref="taxon:910311"
+     Protein         1..128
+                     /product="toxin-antitoxin system, toxin component, RelE
+                     family"
+     Region          8..128
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+     CDS             1..128
+                     /locus_tag="HMPREF9404_5471"
+                     /coded_by="complement(AEXR01000012.1:40175..40561)"
+                     /transl_table=11
+ORIGIN      
+        1 mryimgnwev dlsliapwlk eqdqetivgm taalnelrdv gpglgrplvd tvkgssfknm
+       61 kelrppssgr seirilfafd pkrravtlla gdksaggtre rwnrwyarai pradrlyrqh
+      121 lseledek
+//
+
+LOCUS       WP_013979497             118 aa            linear   BCT 27-MAY-2013
+DEFINITION  toxin RelE [Eggerthella sp. YY7918].
+ACCESSION   WP_013979497
+VERSION     WP_013979497.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella sp. YY7918
+  ORGANISM  Eggerthella sp. YY7918
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..118
+                     /organism="Eggerthella sp. YY7918"
+                     /db_xref="taxon:502558"
+     Protein         1..118
+                     /product="toxin RelE"
+                     /calculated_mol_wt=13851
+     Region          20..106
+                     /region_name="Gp49"
+                     /note="Phage derived protein Gp49-like (DUF891);
+                     pfam05973"
+                     /db_xref="CDD:283596"
+ORIGIN      
+        1 mdefevvfyr rkdgsrpmda flgsldrklr akavrdlkel rvnasmlcep hskamskglf
+       61 elrirqggni arafyfffdg hriivtngfv kkshktprre leralrfkad weerhrhg
+//
+
+LOCUS       WP_013980321             110 aa            linear   BCT 27-MAY-2013
+DEFINITION  addiction module antitoxin RelB [Eggerthella sp. YY7918].
+ACCESSION   WP_013980321
+VERSION     WP_013980321.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella sp. YY7918
+  ORGANISM  Eggerthella sp. YY7918
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..110
+                     /organism="Eggerthella sp. YY7918"
+                     /db_xref="taxon:502558"
+     Protein         1..110
+                     /product="addiction module antitoxin RelB"
+                     /calculated_mol_wt=12299
+     Region          7..97
+                     /region_name="upstrm_HI1419"
+                     /note="putative addiction module killer protein;
+                     TIGR02683"
+                     /db_xref="CDD:162974"
+ORIGIN      
+        1 mgqetwtvkk trtferwlrr lkdrkargri sarvfrleeg llgdvrsvge gvfelridyg
+       61 pgyrlygtim gavvivllca gdkgsqkrdi arakrmaarl kagdgdeesl
+//
+
+LOCUS       WP_015760848             124 aa            linear   BCT 20-MAY-2013
+DEFINITION  diaminopimelate decarboxylase [Eggerthella lenta].
+ACCESSION   WP_015760848
+VERSION     WP_015760848.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella lenta
+  ORGANISM  Eggerthella lenta
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..124
+                     /organism="Eggerthella lenta"
+                     /db_xref="taxon:84112"
+     Protein         1..124
+                     /product="diaminopimelate decarboxylase"
+                     /calculated_mol_wt=13985
+     Region          4..124
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 mgnwevdlsl iapwlkeqdk etiigvtval nelrdvgpgl grplvdtvkg ssfknmkelr
+       61 ppssgrseir ilfafdpkrr avtllagdks aggtrerwnr wyaraiprad rlyrqhlsel
+      121 edek
+//
+
+LOCUS       WP_041690717             124 aa            linear   BCT 05-FEB-2015
+DEFINITION  diaminopimelate decarboxylase [Eggerthella sp. YY7918].
+ACCESSION   WP_041690717
+VERSION     WP_041690717.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella sp. YY7918
+  ORGANISM  Eggerthella sp. YY7918
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..124
+                     /organism="Eggerthella sp. YY7918"
+                     /db_xref="taxon:502558"
+     Protein         1..124
+                     /product="diaminopimelate decarboxylase"
+                     /calculated_mol_wt=14277
+     Region          3..124
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 mgtwevdlql iqpwldeldg etaapvwdal evlqdigpkl grplvdsvkr safknmkelr
+       61 ppspgrseir ilfafdpkrr aimllagdks vggtrerwnr wyaraiprad rlfrryleem
+      121 edsk
+//
+
+LOCUS       ACV54544                  61 aa            linear   BCT 11-DEC-2013
+DEFINITION  YcfA family protein [Eggerthella lenta DSM 2243].
+ACCESSION   ACV54544
+VERSION     ACV54544.1
+DBLINK      BioProject: PRJNA21093
+            BioSample: SAMN00002594
+DBSOURCE    accession CP001726.1
+KEYWORDS    .
+SOURCE      Eggerthella lenta DSM 2243
+  ORGANISM  Eggerthella lenta DSM 2243
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+REFERENCE   1  (residues 1 to 61)
+  AUTHORS   Saunders,E., Pukall,R., Abt,B., Lapidus,A., Glavina Del Rio,T.,
+            Copeland,A., Tice,H., Cheng,J.F., Lucas,S., Chen,F., Nolan,M.,
+            Bruce,D., Goodwin,L., Pitluck,S., Ivanova,N., Mavromatis,K.,
+            Ovchinnikova,G., Pati,A., Chen,A., Palaniappan,K., Land,M.,
+            Hauser,L., Chang,Y.J., Jeffries,C.D., Chain,P., Meincke,L.,
+            Sims,D., Brettin,T., Detter,J.C., Goker,M., Bristow,J., Eisen,J.A.,
+            Markowitz,V., Hugenholtz,P., Kyrpides,N.C., Klenk,H.P. and Han,C.
+  TITLE     Complete genome sequence of Eggerthella lenta type strain (IPP VPI
+            0255)
+  JOURNAL   Stand Genomic Sci 1 (2), 174-182 (2009)
+   PUBMED   21304654
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 61)
+  AUTHORS   Lucas,S., Copeland,A., Lapidus,A., Glavina del Rio,T., Dalin,E.,
+            Tice,H., Bruce,D., Goodwin,L., Pitluck,S., Kyrpides,N.,
+            Mavromatis,K., Ivanova,N., Ovchinnikova,G., Saunders,E.,
+            Brettin,T., Detter,J.C., Han,C., Larimer,F., Land,M., Hauser,L.,
+            Markowitz,V., Cheng,J.-F., Hugenholtz,P., Woyke,T., Wu,D.,
+            Pukall,R., Klenk,H.-P. and Eisen,J.A.
+  CONSRTM   US DOE Joint Genome Institute (JGI-PGF)
+  TITLE     The complete genome of Eggerthella lenta DSM 2243
+  JOURNAL   Unpublished
+REFERENCE   3  (residues 1 to 61)
+  AUTHORS   Lucas,S., Copeland,A., Lapidus,A., Glavina del Rio,T., Dalin,E.,
+            Tice,H., Bruce,D., Goodwin,L., Pitluck,S., Kyrpides,N.,
+            Mavromatis,K., Ivanova,N., Ovchinnikova,G., Saunders,E.,
+            Brettin,T., Detter,J.C., Han,C., Larimer,F., Land,M., Hauser,L.,
+            Markowitz,V., Cheng,J.-F., Hugenholtz,P., Woyke,T., Wu,D.,
+            Pukall,R., Klenk,H.-P. and Eisen,J.A.
+  CONSRTM   US DOE Joint Genome Institute (JGI-PGF)
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-SEP-2009) US DOE Joint Genome Institute, 2800
+            Mitchell Drive, Walnut Creek, CA 94598-1698, USA
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..61
+                     /organism="Eggerthella lenta DSM 2243"
+                     /strain="DSM 2243"
+                     /culture_collection="DSM:2243"
+                     /db_xref="taxon:479437"
+     Protein         1..61
+                     /product="YcfA family protein"
+     Region          7..58
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; pfam07927"
+                     /db_xref="CDD:285205"
+     CDS             1..61
+                     /locus_tag="Elen_0559"
+                     /coded_by="CP001726.1:713126..713311"
+                     /inference="protein motif:PFAM:PF07927"
+                     /note="PFAM: YcfA family protein;
+                     KEGG: rlt:Rleg2_4059 YcfA family protein"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR002034"
+                     /db_xref="InterPro:IPR012933"
+ORIGIN      
+        1 mppkpfeiyr rllregwqdv gggkgshrkl krgdrtimlp lrrkelpkgl wesirktarw
+       61 r
+//
+
+LOCUS       ACV56179                  58 aa            linear   BCT 11-DEC-2013
+DEFINITION  YcfA family protein [Eggerthella lenta DSM 2243].
+ACCESSION   ACV56179
+VERSION     ACV56179.1
+DBLINK      BioProject: PRJNA21093
+            BioSample: SAMN00002594
+DBSOURCE    accession CP001726.1
+KEYWORDS    .
+SOURCE      Eggerthella lenta DSM 2243
+  ORGANISM  Eggerthella lenta DSM 2243
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+REFERENCE   1  (residues 1 to 58)
+  AUTHORS   Saunders,E., Pukall,R., Abt,B., Lapidus,A., Glavina Del Rio,T.,
+            Copeland,A., Tice,H., Cheng,J.F., Lucas,S., Chen,F., Nolan,M.,
+            Bruce,D., Goodwin,L., Pitluck,S., Ivanova,N., Mavromatis,K.,
+            Ovchinnikova,G., Pati,A., Chen,A., Palaniappan,K., Land,M.,
+            Hauser,L., Chang,Y.J., Jeffries,C.D., Chain,P., Meincke,L.,
+            Sims,D., Brettin,T., Detter,J.C., Goker,M., Bristow,J., Eisen,J.A.,
+            Markowitz,V., Hugenholtz,P., Kyrpides,N.C., Klenk,H.P. and Han,C.
+  TITLE     Complete genome sequence of Eggerthella lenta type strain (IPP VPI
+            0255)
+  JOURNAL   Stand Genomic Sci 1 (2), 174-182 (2009)
+   PUBMED   21304654
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 58)
+  AUTHORS   Lucas,S., Copeland,A., Lapidus,A., Glavina del Rio,T., Dalin,E.,
+            Tice,H., Bruce,D., Goodwin,L., Pitluck,S., Kyrpides,N.,
+            Mavromatis,K., Ivanova,N., Ovchinnikova,G., Saunders,E.,
+            Brettin,T., Detter,J.C., Han,C., Larimer,F., Land,M., Hauser,L.,
+            Markowitz,V., Cheng,J.-F., Hugenholtz,P., Woyke,T., Wu,D.,
+            Pukall,R., Klenk,H.-P. and Eisen,J.A.
+  CONSRTM   US DOE Joint Genome Institute (JGI-PGF)
+  TITLE     The complete genome of Eggerthella lenta DSM 2243
+  JOURNAL   Unpublished
+REFERENCE   3  (residues 1 to 58)
+  AUTHORS   Lucas,S., Copeland,A., Lapidus,A., Glavina del Rio,T., Dalin,E.,
+            Tice,H., Bruce,D., Goodwin,L., Pitluck,S., Kyrpides,N.,
+            Mavromatis,K., Ivanova,N., Ovchinnikova,G., Saunders,E.,
+            Brettin,T., Detter,J.C., Han,C., Larimer,F., Land,M., Hauser,L.,
+            Markowitz,V., Cheng,J.-F., Hugenholtz,P., Woyke,T., Wu,D.,
+            Pukall,R., Klenk,H.-P. and Eisen,J.A.
+  CONSRTM   US DOE Joint Genome Institute (JGI-PGF)
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-SEP-2009) US DOE Joint Genome Institute, 2800
+            Mitchell Drive, Walnut Creek, CA 94598-1698, USA
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..58
+                     /organism="Eggerthella lenta DSM 2243"
+                     /strain="DSM 2243"
+                     /culture_collection="DSM:2243"
+                     /db_xref="taxon:479437"
+     Protein         1..58
+                     /product="YcfA family protein"
+     Region          5..56
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; pfam07927"
+                     /db_xref="CDD:285205"
+     CDS             1..58
+                     /locus_tag="Elen_2218"
+                     /coded_by="CP001726.1:2605768..2605944"
+                     /inference="protein motif:PFAM:PF07927"
+                     /note="PFAM: YcfA family protein;
+                     KEGG: dvu:DVU0223 hypothetical protein"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR012933"
+ORIGIN      
+        1 mvkrrevvrf fqhngfkneg gtnhdkfrhp dgrrtvierh seisnqqfev mkkqaglk
+//
+
+LOCUS       EGC90520                  58 aa            linear   BCT 07-MAR-2011
+DEFINITION  toxin-antitoxin system, toxin component, HicA family [Eggerthella
+            sp. HGA1].
+ACCESSION   EGC90520
+VERSION     EGC90520.1
+DBLINK      BioProject: PRJNA59527
+            BioSample: SAMN00116781
+DBSOURCE    accession AEXR01000007.1
+KEYWORDS    HIGH_QUALITY_DRAFT.
+SOURCE      Eggerthella sp. HGA1
+  ORGANISM  Eggerthella sp. HGA1
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+REFERENCE   1  (residues 1 to 58)
+  AUTHORS   Harkins,D.M., Madupu,R., Durkin,A.S., Torralba,M., Methe,B.,
+            Sutton,G.G. and Nelson,K.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2011) J. Craig Venter Institute, 9704 Medical
+            Center Drive, Rockville, MD 20850, USA
+COMMENT     This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            
+            ##Genome-Assembly-Data-START##
+            Finishing Goal           :: High-Quality Draft
+            Current Finishing Status :: High-Quality Draft
+            Assembly Method          :: Newbler v. 2.3
+            Genome Coverage          :: 47.3x
+            Sequencing Technology    :: 454
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..58
+                     /organism="Eggerthella sp. HGA1"
+                     /strain="HGA1"
+                     /db_xref="HMP:9404"
+                     /db_xref="taxon:910311"
+     Protein         1..58
+                     /product="toxin-antitoxin system, toxin component, HicA
+                     family"
+     Region          5..56
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; pfam07927"
+                     /db_xref="CDD:285205"
+     CDS             1..58
+                     /locus_tag="HMPREF9404_3599"
+                     /coded_by="complement(AEXR01000007.1:127130..127306)"
+                     /note="identified by match to protein family HMM PF07927"
+                     /transl_table=11
+ORIGIN      
+        1 mvkrrevvrf frqngfkneg gtnhdkfrhp dgrrtvierh seisnqqfev mkkqaglk
+//
+
+LOCUS       WP_013980805              65 aa            linear   BCT 19-MAY-2016
+DEFINITION  addiction module toxin, HicA family [Eggerthella sp. YY7918].
+ACCESSION   WP_013980805
+VERSION     WP_013980805.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella sp. YY7918
+  ORGANISM  Eggerthella sp. YY7918
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..65
+                     /organism="Eggerthella sp. YY7918"
+                     /db_xref="taxon:502558"
+     Protein         1..65
+                     /product="addiction module toxin, HicA family"
+                     /calculated_mol_wt=7280
+     Region          7..61
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; pfam07927"
+                     /db_xref="CDD:285205"
+ORIGIN      
+        1 mksyssrevi eilkadgwye vavvgshhqf khptkpgrvt vkhptkdipp ktlksiekqa
+       61 glrfk
+//
+
+LOCUS       CDB34175                  56 aa            linear   ENV 31-MAY-2013
+DEFINITION  ycfA-like protein [Eggerthella sp. CAG:209].
+ACCESSION   CDB34175
+VERSION     CDB34175.1
+DBSOURCE    embl accession CBDM010000229.1
+KEYWORDS    ENV.
+SOURCE      Eggerthella sp. CAG:209
+  ORGANISM  Eggerthella sp. CAG:209
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..56
+                     /organism="Eggerthella sp. CAG:209"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262875"
+                     /environmental_sample
+                     /note="contig 50"
+     Protein         1..56
+                     /product="ycfA-like protein"
+     Region          4..54
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; pfam07927"
+                     /db_xref="CDD:285205"
+     CDS             1..56
+                     /locus_tag="BN534_00287"
+                     /coded_by="complement(CBDM010000229.1:2637..2807)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mqrrelvril kaagfiskgg tnhekfykgg ktvlvkrhre iedqiakris reaglr
+//
+
+LOCUS       CDD59841                  58 aa            linear   ENV 31-MAY-2013
+DEFINITION  ycfA family protein [Eggerthella sp. CAG:298].
+ACCESSION   CDD59841
+VERSION     CDD59841.1
+DBSOURCE    embl accession CBHI010000052.1
+KEYWORDS    ENV.
+SOURCE      Eggerthella sp. CAG:298
+  ORGANISM  Eggerthella sp. CAG:298
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..58
+                     /organism="Eggerthella sp. CAG:298"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262876"
+                     /environmental_sample
+                     /note="contig 56"
+     Protein         1..58
+                     /product="ycfA family protein"
+     Region          2..58
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; cl00752"
+                     /db_xref="CDD:294488"
+     CDS             1..58
+                     /locus_tag="BN592_00993"
+                     /coded_by="CBHI010000052.1:46032..46208"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mvkrrtviky feahgfrceg gtnhdklvhp dgrrtvigrh reinnnrfed mkkqaglk
+//
+
+LOCUS       WP_035585273              62 aa            linear   BCT 23-DEC-2014
+DEFINITION  periplasmic or secreted lipoprotein [Eggerthella lenta].
+ACCESSION   WP_035585273
+VERSION     WP_035585273.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella lenta
+  ORGANISM  Eggerthella lenta
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..62
+                     /organism="Eggerthella lenta"
+                     /db_xref="taxon:84112"
+     Protein         1..62
+                     /product="periplasmic or secreted lipoprotein"
+                     /calculated_mol_wt=7010
+     Region          8..60
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; pfam07927"
+                     /db_xref="CDD:285205"
+ORIGIN      
+        1 mpkeqevrev tkrlrkegwe eesgkgshvv frkdgrtvsv ptskkelrlg tyrniakaag
+       61 wl
+//
+
+LOCUS       BAK44304                  97 aa            linear   BCT 07-OCT-2016
+DEFINITION  plasmid maintenance system killer protein [Eggerthella sp. YY7918].
+ACCESSION   BAK44304
+VERSION     BAK44304.1
+DBLINK      BioProject: PRJDA67615
+            BioSample: SAMD00060993
+DBSOURCE    accession AP012211.1
+KEYWORDS    .
+SOURCE      Eggerthella sp. YY7918
+  ORGANISM  Eggerthella sp. YY7918
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+REFERENCE   1
+  AUTHORS   Yokoyama,S., Oshima,K., Nomura,I., Hattori,M. and Suzuki,T.
+  TITLE     Complete genomic sequence of the equol-producing bacterium
+            Eggerthella sp. strain YY7918, isolated from adult human intestine
+  JOURNAL   J. Bacteriol. 193 (19), 5570-5571 (2011)
+   PUBMED   21914883
+REFERENCE   2  (residues 1 to 97)
+  AUTHORS   Yokoyama,S., Oshima,K., Nomura,I., Hattori,M., Kawada,Y. and
+            Suzuki,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-JUN-2011) Contact:Tohru Suzuki Gifu University, The
+            United Graduate School of Agricultural Science; yanagido 1-1, Gifu,
+            Gifu 501-1193, Japan
+FEATURES             Location/Qualifiers
+     source          1..97
+                     /organism="Eggerthella sp. YY7918"
+                     /strain="YY7918"
+                     /isolation_source="Adult Human Intestine"
+                     /db_xref="taxon:502558"
+     Protein         1..97
+                     /product="plasmid maintenance system killer protein"
+     Region          3..97
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+     CDS             1..97
+                     /gene="HigB"
+                     /locus_tag="EGYY_11310"
+                     /coded_by="complement(AP012211.1:1251247..1251540)"
+                     /transl_table=11
+ORIGIN      
+        1 mrfkdrdiea fwldssrfip rrvppelrrs lfrklqmlda aeasgslndl rvppsnrler
+       61 lsgdragcys irvnrqwrlc flwtkhgieg velvdyh
+//
+
+LOCUS       WP_015760380              93 aa            linear   BCT 20-MAY-2013
+DEFINITION  plasmid maintenance system killer protein [Eggerthella lenta].
+ACCESSION   WP_015760380
+VERSION     WP_015760380.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella lenta
+  ORGANISM  Eggerthella lenta
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..93
+                     /organism="Eggerthella lenta"
+                     /db_xref="taxon:84112"
+     Protein         1..93
+                     /product="plasmid maintenance system killer protein"
+                     /calculated_mol_wt=10407
+     Region          1..93
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 miktfadkdt erlftdgsck rissdvaart arkldmidaa ltledlrvpp gnrlhalkgd
+       61 ragmhaisvn dqwrlcfrfe gqhaydvalc dyh
+//
+
+LOCUS       CDD58573                  93 aa            linear   ENV 31-MAY-2013
+DEFINITION  plasmid maintenance system killer [Eggerthella sp. CAG:298].
+ACCESSION   CDD58573
+VERSION     CDD58573.1
+DBSOURCE    embl accession CBHI010000021.1
+KEYWORDS    ENV.
+SOURCE      Eggerthella sp. CAG:298
+  ORGANISM  Eggerthella sp. CAG:298
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..93
+                     /organism="Eggerthella sp. CAG:298"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262876"
+                     /environmental_sample
+                     /note="contig 28"
+     Protein         1..93
+                     /product="plasmid maintenance system killer"
+     Region          1..93
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+     CDS             1..93
+                     /locus_tag="BN592_00420"
+                     /coded_by="complement(CBHI010000021.1:20044..20325)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 miktfadsdt rllfedgesk klpanlirra lrkleyidna edildlrlpp gnrlhalkgd
+       61 rkgqfaisin dqwcicfrfe tegvydveic dyh
+//
+
+LOCUS       ACV55603                  84 aa            linear   BCT 11-DEC-2013
+DEFINITION  addiction module antitoxin [Eggerthella lenta DSM 2243].
+ACCESSION   ACV55603
+VERSION     ACV55603.1
+DBLINK      BioProject: PRJNA21093
+            BioSample: SAMN00002594
+DBSOURCE    accession CP001726.1
+KEYWORDS    .
+SOURCE      Eggerthella lenta DSM 2243
+  ORGANISM  Eggerthella lenta DSM 2243
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+REFERENCE   1  (residues 1 to 84)
+  AUTHORS   Saunders,E., Pukall,R., Abt,B., Lapidus,A., Glavina Del Rio,T.,
+            Copeland,A., Tice,H., Cheng,J.F., Lucas,S., Chen,F., Nolan,M.,
+            Bruce,D., Goodwin,L., Pitluck,S., Ivanova,N., Mavromatis,K.,
+            Ovchinnikova,G., Pati,A., Chen,A., Palaniappan,K., Land,M.,
+            Hauser,L., Chang,Y.J., Jeffries,C.D., Chain,P., Meincke,L.,
+            Sims,D., Brettin,T., Detter,J.C., Goker,M., Bristow,J., Eisen,J.A.,
+            Markowitz,V., Hugenholtz,P., Kyrpides,N.C., Klenk,H.P. and Han,C.
+  TITLE     Complete genome sequence of Eggerthella lenta type strain (IPP VPI
+            0255)
+  JOURNAL   Stand Genomic Sci 1 (2), 174-182 (2009)
+   PUBMED   21304654
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 84)
+  AUTHORS   Lucas,S., Copeland,A., Lapidus,A., Glavina del Rio,T., Dalin,E.,
+            Tice,H., Bruce,D., Goodwin,L., Pitluck,S., Kyrpides,N.,
+            Mavromatis,K., Ivanova,N., Ovchinnikova,G., Saunders,E.,
+            Brettin,T., Detter,J.C., Han,C., Larimer,F., Land,M., Hauser,L.,
+            Markowitz,V., Cheng,J.-F., Hugenholtz,P., Woyke,T., Wu,D.,
+            Pukall,R., Klenk,H.-P. and Eisen,J.A.
+  CONSRTM   US DOE Joint Genome Institute (JGI-PGF)
+  TITLE     The complete genome of Eggerthella lenta DSM 2243
+  JOURNAL   Unpublished
+REFERENCE   3  (residues 1 to 84)
+  AUTHORS   Lucas,S., Copeland,A., Lapidus,A., Glavina del Rio,T., Dalin,E.,
+            Tice,H., Bruce,D., Goodwin,L., Pitluck,S., Kyrpides,N.,
+            Mavromatis,K., Ivanova,N., Ovchinnikova,G., Saunders,E.,
+            Brettin,T., Detter,J.C., Han,C., Larimer,F., Land,M., Hauser,L.,
+            Markowitz,V., Cheng,J.-F., Hugenholtz,P., Woyke,T., Wu,D.,
+            Pukall,R., Klenk,H.-P. and Eisen,J.A.
+  CONSRTM   US DOE Joint Genome Institute (JGI-PGF)
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-SEP-2009) US DOE Joint Genome Institute, 2800
+            Mitchell Drive, Walnut Creek, CA 94598-1698, USA
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..84
+                     /organism="Eggerthella lenta DSM 2243"
+                     /strain="DSM 2243"
+                     /culture_collection="DSM:2243"
+                     /db_xref="taxon:479437"
+     Protein         1..84
+                     /product="addiction module antitoxin"
+     Region          5..82
+                     /region_name="RelE"
+                     /note="mRNA-degrading endonuclease RelE, toxin component
+                     of the RelBE toxin-antitoxin system [Defense mechanisms];
+                     COG2026"
+                     /db_xref="CDD:224937"
+     CDS             1..84
+                     /locus_tag="Elen_1635"
+                     /coded_by="CP001726.1:1937352..1937606"
+                     /inference="similar to AA sequence:KEGG:XfasM23_1261"
+                     /note="KEGG: xfn:XfasM23_1261 addiction module antitoxin"
+                     /transl_table=11
+ORIGIN      
+        1 mtsgaakqlq sldrktlllv selierldgc enpcmlpnak klqgvkngwr wrsgtyrvlg
+       61 tvdgsritie vfkighrrdv yrgl
+//
+
+LOCUS       WP_009305046             107 aa            linear   BCT 10-MAY-2013
+DEFINITION  MULTISPECIES: plasmid stabilization protein [Eggerthella].
+ACCESSION   WP_009305046
+VERSION     WP_009305046.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella
+  ORGANISM  Eggerthella
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..107
+                     /organism="Eggerthella"
+                     /db_xref="taxon:84111"
+     Protein         1..107
+                     /product="plasmid stabilization protein"
+                     /calculated_mol_wt=12435
+     Region          10..102
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; pfam05016"
+                     /db_xref="CDD:282823"
+ORIGIN      
+        1 mdekprryrl eylplfwddl neavsyiadv lkapeaaerl idateagila hsrnptlatt
+       61 yktakprplp yywfevgnym vfyvvlddvm evrrflygar dltkmlp
+//
+
+LOCUS       WP_009306607             106 aa            linear   BCT 16-NOV-2015
+DEFINITION  MULTISPECIES: toxin RelE [Eggerthella].
+ACCESSION   WP_009306607
+VERSION     WP_009306607.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella
+  ORGANISM  Eggerthella
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..106
+                     /organism="Eggerthella"
+                     /db_xref="taxon:84111"
+     Protein         1..106
+                     /product="toxin RelE"
+                     /calculated_mol_wt=12261
+     Region          1..95
+                     /region_name="ParE"
+                     /note="Plasmid stabilization system protein ParE
+                     [Mobilome: prophages, transposons]; COG3668"
+                     /db_xref="CDD:226194"
+ORIGIN      
+        1 mrtiefrpra svdldgilvy ialtlkspqa arntadaifa aieraaelpe lgqpffdedl
+       61 dhqgyrrvlv krywiyytyd ahtltvrrvf htmqdtdcyg felldd
+//
+
+LOCUS       WP_009306782             105 aa            linear   BCT 10-MAY-2013
+DEFINITION  MULTISPECIES: plasmid stabilization protein ParE [Eggerthella].
+ACCESSION   WP_009306782
+VERSION     WP_009306782.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella
+  ORGANISM  Eggerthella
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..105
+                     /organism="Eggerthella"
+                     /db_xref="taxon:84111"
+     Protein         1..105
+                     /product="plasmid stabilization protein ParE"
+                     /calculated_mol_wt=12293
+     Region          8..97
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; pfam05016"
+                     /db_xref="CDD:282823"
+ORIGIN      
+        1 mgytvnkslr fecdyddila ylvddlkspr salalinemd rvidflettp fansvstkpt
+       61 lakneyremt vksyvvvyrv qesivhlvrm fhqtqryerf vmewg
+//
+
+LOCUS       WP_009609227              95 aa            linear   BCT 27-MAY-2013
+DEFINITION  translation repressor RelE [Eggerthella sp. HGA1].
+ACCESSION   WP_009609227
+VERSION     WP_009609227.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella sp. HGA1
+  ORGANISM  Eggerthella sp. HGA1
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..95
+                     /organism="Eggerthella sp. HGA1"
+                     /db_xref="taxon:910311"
+     Protein         1..95
+                     /product="translation repressor RelE"
+                     /calculated_mol_wt=10807
+     Region          7..93
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 mygmrkspaf drdvkrcvkk hwdikalkea meavlmsdeq niplkykdha lsgdlqgtre
+       61 lhvgsrisnw viiyiidgdi vefgrtgthd emfkg
+//
+
+LOCUS       WP_013979030             105 aa            linear   BCT 18-MAY-2013
+DEFINITION  hypothetical protein [Eggerthella sp. YY7918].
+ACCESSION   WP_013979030
+VERSION     WP_013979030.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella sp. YY7918
+  ORGANISM  Eggerthella sp. YY7918
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..105
+                     /organism="Eggerthella sp. YY7918"
+                     /db_xref="taxon:502558"
+     Protein         1..105
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=12151
+     Region          5..97
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; pfam05016"
+                     /db_xref="CDD:282823"
+ORIGIN      
+        1 masevyitae fecdlfdsla yltevlhasg aaerlaneid aakellaehp fldavserlq
+       61 madlgyrehl vlnyvivykv knnvvwflrl fhqrqsygrf iiewr
+//
+
+LOCUS       WP_013979095             108 aa            linear   BCT 27-MAY-2013
+DEFINITION  toxin RelE [Eggerthella sp. YY7918].
+ACCESSION   WP_013979095
+VERSION     WP_013979095.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella sp. YY7918
+  ORGANISM  Eggerthella sp. YY7918
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..108
+                     /organism="Eggerthella sp. YY7918"
+                     /db_xref="taxon:502558"
+     Protein         1..108
+                     /product="toxin RelE"
+                     /calculated_mol_wt=12705
+     Region          1..101
+                     /region_name="ParE"
+                     /note="Plasmid stabilization system protein ParE
+                     [Mobilome: prophages, transposons]; COG3668"
+                     /db_xref="CDD:226194"
+ORIGIN      
+        1 mldlvwrpra hldresiafy lgferkspqa aldamqrida aldrvrafpe sgghlhmddl
+       61 hyteyrtvfa npytvyyrfd dttltvyrvl hqrqnidtya lidfdsnf
+//
+
+LOCUS       WP_013979915             103 aa            linear   BCT 27-MAY-2013
+DEFINITION  plasmid stabilization protein [Eggerthella sp. YY7918].
+ACCESSION   WP_013979915
+VERSION     WP_013979915.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella sp. YY7918
+  ORGANISM  Eggerthella sp. YY7918
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..103
+                     /organism="Eggerthella sp. YY7918"
+                     /db_xref="taxon:502558"
+     Protein         1..103
+                     /product="plasmid stabilization protein"
+                     /calculated_mol_wt=11497
+     Region          4..98
+                     /region_name="ParE"
+                     /note="Plasmid stabilization system protein ParE
+                     [Mobilome: prophages, transposons]; COG3668"
+                     /db_xref="CDD:226194"
+ORIGIN      
+        1 macrvriqpt alrelegtve yllgfgpnta safldewenv ieclkdgsve hrlsrfepla
+       61 klgyhtvlvk gyialyfkeg edvviahlfh qsqdyasivl nge
+//
+
+LOCUS       WP_013980244             118 aa            linear   BCT 07-OCT-2015
+DEFINITION  hypothetical protein [Eggerthella sp. YY7918].
+ACCESSION   WP_013980244
+VERSION     WP_013980244.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella sp. YY7918
+  ORGANISM  Eggerthella sp. YY7918
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..118
+                     /organism="Eggerthella sp. YY7918"
+                     /db_xref="taxon:502558"
+     Protein         1..118
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=13657
+     Region          <29..98
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; pfam05016"
+                     /db_xref="CDD:282823"
+ORIGIN      
+        1 mldedhesvr yqvnmtdeaf yaytalptdr ifshvdknls llettpelgh eydpaypaar
+       61 ppfacrvlyc enygvyyrid tdtrtvvvfa iedqrrnplg rfssyeyevv slpedeks
+//
+
+LOCUS       WP_013980423             106 aa            linear   BCT 27-MAY-2013
+DEFINITION  toxin RelE [Eggerthella sp. YY7918].
+ACCESSION   WP_013980423
+VERSION     WP_013980423.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella sp. YY7918
+  ORGANISM  Eggerthella sp. YY7918
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..106
+                     /organism="Eggerthella sp. YY7918"
+                     /db_xref="taxon:502558"
+     Protein         1..106
+                     /product="toxin RelE"
+                     /calculated_mol_wt=12257
+     Region          1..95
+                     /region_name="ParE"
+                     /note="Plasmid stabilization system protein ParE
+                     [Mobilome: prophages, transposons]; COG3668"
+                     /db_xref="CDD:226194"
+ORIGIN      
+        1 mrtiefrpra nvdiegilvs igltlkspka aratadaifa aieriaelpe lgqpffdedl
+       61 khlnyrrtlv krywiyytyt dktltvrrif httqdtdtyg fevldd
+//
+
+LOCUS       WP_015759923             106 aa            linear   BCT 26-MAY-2013
+DEFINITION  plasmid stabilization protein [Eggerthella lenta].
+ACCESSION   WP_015759923
+VERSION     WP_015759923.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella lenta
+  ORGANISM  Eggerthella lenta
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..106
+                     /organism="Eggerthella lenta"
+                     /db_xref="taxon:84112"
+     Protein         1..106
+                     /product="plasmid stabilization protein"
+                     /calculated_mol_wt=12118
+     Region          5..99
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; pfam05016"
+                     /db_xref="CDD:282823"
+ORIGIN      
+        1 miydisfeds faedvsnlal yevqftfsvd kaydrldaav deieqalrtf parnpekpyg
+       61 ftealrrkpi dgkyaafyri degegivcve rilhskadfn rihfgn
+//
+
+LOCUS       WP_015760869              89 aa            linear   BCT 20-MAY-2013
+DEFINITION  RelE/StbE family addiction module toxin [Eggerthella lenta].
+ACCESSION   WP_015760869
+VERSION     WP_015760869.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella lenta
+  ORGANISM  Eggerthella lenta
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..89
+                     /organism="Eggerthella lenta"
+                     /db_xref="taxon:84112"
+     Protein         1..89
+                     /product="RelE/StbE family addiction module toxin"
+                     /calculated_mol_wt=10247
+     Region          1..89
+                     /region_name="RelE"
+                     /note="mRNA-degrading endonuclease RelE, toxin component
+                     of the RelBE toxin-antitoxin system [Defense mechanisms];
+                     COG2026"
+                     /db_xref="CDD:224937"
+ORIGIN      
+        1 mswalayser arrqlrkmdp gqraivlswm dknidgcddp rahgkgltan rsgqwryrig
+       61 dyrvlcdivd ekltvlaiei ghrskiyer
+//
+
+LOCUS       CCY06394                 104 aa            linear   ENV 31-MAY-2013
+DEFINITION  putative toxin-antitoxin system toxin component RelE family
+            [Eggerthella sp. CAG:1427].
+ACCESSION   CCY06394
+VERSION     CCY06394.1
+DBSOURCE    embl accession CAXM010000127.1
+KEYWORDS    ENV.
+SOURCE      Eggerthella sp. CAG:1427
+  ORGANISM  Eggerthella sp. CAG:1427
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..104
+                     /organism="Eggerthella sp. CAG:1427"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262874"
+                     /environmental_sample
+                     /note="contig 77"
+     Protein         1..104
+                     /product="putative toxin-antitoxin system toxin component
+                     RelE family"
+     Region          1..96
+                     /region_name="ParE"
+                     /note="Plasmid stabilization system protein ParE
+                     [Mobilome: prophages, transposons]; COG3668"
+                     /db_xref="CDD:226194"
+     CDS             1..104
+                     /locus_tag="BN494_00830"
+                     /coded_by="CAXM010000127.1:603..917"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mlelryrrra lldlesiaiy vgealglpnv arqtvadiqq alerlcefpd lgkphsdnsl
+       61 egqgyktyiv gnyrivythn vselvvwrif hvrqdidefa fvaf
+//
+
+LOCUS       WP_035584247             112 aa            linear   BCT 23-DEC-2014
+DEFINITION  plasmid stabilization protein [Eggerthella lenta].
+ACCESSION   WP_035584247
+VERSION     WP_035584247.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella lenta
+  ORGANISM  Eggerthella lenta
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..112
+                     /organism="Eggerthella lenta"
+                     /db_xref="taxon:84112"
+     Protein         1..112
+                     /product="plasmid stabilization protein"
+                     /calculated_mol_wt=13066
+ORIGIN      
+        1 mnyeiefaee aiedlsflsv yeiqftfspd laqdridklm esvdhalstf parnpekpyv
+       61 ftealrwklv vgkyaafywv deaedivhve rivhverilh skadftrihf gn
+//
+
+LOCUS       WP_035585267              90 aa            linear   BCT 23-DEC-2014
+DEFINITION  addiction module antitoxin [Eggerthella lenta].
+ACCESSION   WP_035585267
+VERSION     WP_035585267.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella lenta
+  ORGANISM  Eggerthella lenta
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..90
+                     /organism="Eggerthella lenta"
+                     /db_xref="taxon:84112"
+     Protein         1..90
+                     /product="addiction module antitoxin"
+                     /calculated_mol_wt=10020
+     Region          1..88
+                     /region_name="RelE"
+                     /note="mRNA-degrading endonuclease RelE, toxin component
+                     of the RelBE toxin-antitoxin system [Defense mechanisms];
+                     COG2026"
+                     /db_xref="CDD:224937"
+ORIGIN      
+        1 mgysveltsg aakqlqsldr ktlllvseli erldgcenpc mlpnakklqg vkngwrwrsg
+       61 tyrvlgtvdg sritievfki ghrrdvyrgl
+//
+
+LOCUS       WP_009305495             170 aa            linear   BCT 26-JUN-2015
+DEFINITION  MULTISPECIES: mRNA interferase PemK [Eggerthellaceae].
+ACCESSION   WP_009305495
+VERSION     WP_009305495.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthellaceae
+  ORGANISM  Eggerthellaceae
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..170
+                     /organism="Eggerthellaceae"
+                     /db_xref="taxon:1643826"
+     Protein         1..170
+                     /product="mRNA interferase PemK"
+                     /calculated_mol_wt=18701
+     Region          6..111
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 mddhprrgdv ffafldpvlg ceqggtrpvl vvqndagnrr sktiivaait gkpkanlpvh
+       61 vpvpasaglr egsvalleql rtidklrlrg raghigaeqm rlvdaalavs lglkgpgddf
+      121 mlltlcrkch qtfcdsddyl vwradfeqeq repcticntr tgydykvvrr
+//
+
+LOCUS       WP_013978556             170 aa            linear   BCT 06-JUN-2015
+DEFINITION  mRNA interferase PemK [Eggerthella sp. YY7918].
+ACCESSION   WP_013978556
+VERSION     WP_013978556.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella sp. YY7918
+  ORGANISM  Eggerthella sp. YY7918
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..170
+                     /organism="Eggerthella sp. YY7918"
+                     /db_xref="taxon:502558"
+     Protein         1..170
+                     /product="mRNA interferase PemK"
+                     /calculated_mol_wt=18793
+     Region          6..111
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 mserprrgdv flafldpvig ceqggtrpvl ivqndagnkr srtvivaait skpkrglpth
+       61 vpvpavaglr eksvvlleql ktidkarlra yighmgqsqm ekvdsalavs lgikgardgf
+      121 mlltlcrkch qafcdsgdyl vyrsdfrqee repcticntr tgydykvvkr
+//
+
+LOCUS       WP_013979135             118 aa            linear   BCT 27-MAY-2013
+DEFINITION  elongation factor GreAB [Eggerthella sp. YY7918].
+ACCESSION   WP_013979135
+VERSION     WP_013979135.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella sp. YY7918
+  ORGANISM  Eggerthella sp. YY7918
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..118
+                     /organism="Eggerthella sp. YY7918"
+                     /db_xref="taxon:502558"
+     Protein         1..118
+                     /product="elongation factor GreAB"
+                     /calculated_mol_wt=12919
+     Region          8..111
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 mlsifehgdv vylnfdpshr hepagwhyav vispfrvnnm taltlvapit ssdngfplhv
+       61 riadgnpiag fvqveglrsl dlgwheshgv lrhigalddd tmervmgmia iytgldqt
+//
+
+LOCUS       WP_013980368             116 aa            linear   BCT 27-MAY-2013
+DEFINITION  elongation factor GreAB [Eggerthella sp. YY7918].
+ACCESSION   WP_013980368
+VERSION     WP_013980368.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella sp. YY7918
+  ORGANISM  Eggerthella sp. YY7918
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..116
+                     /organism="Eggerthella sp. YY7918"
+                     /db_xref="taxon:502558"
+     Protein         1..116
+                     /product="elongation factor GreAB"
+                     /calculated_mol_wt=12452
+     Region          4..111
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 miceqgdivs infdpskrhe pagrhyaivl spweinrmst lttlvpvtst dngyplhvri
+       61 aegnpihgfi qceairaidl gvreqqgave vvgalddgtl aetlarvlvv lgvepi
+//
+
+LOCUS       WP_009307263              95 aa            linear   BCT 27-MAY-2013
+DEFINITION  translation repressor RelE [Eggerthella sp. 1_3_56FAA].
+ACCESSION   WP_009307263
+VERSION     WP_009307263.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella sp. 1_3_56FAA
+  ORGANISM  Eggerthella sp. 1_3_56FAA
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..95
+                     /organism="Eggerthella sp. 1_3_56FAA"
+                     /db_xref="taxon:665943"
+     Protein         1..95
+                     /product="translation repressor RelE"
+                     /calculated_mol_wt=10722
+     Region          7..93
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 mygvfktsaf erdvkrctkk hwdmralkda mtavamsdea siplkykdha lsgdlqgmre
+       61 lhvggrssdw lilysidgdv vefartgthd dlfrr
+//
+
+LOCUS       WP_009608518             102 aa            linear   BCT 16-NOV-2015
+DEFINITION  addiction module toxin RelE [Eggerthella sp. HGA1].
+ACCESSION   WP_009608518
+VERSION     WP_009608518.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella sp. HGA1
+  ORGANISM  Eggerthella sp. HGA1
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..102
+                     /organism="Eggerthella sp. HGA1"
+                     /db_xref="taxon:910311"
+     Protein         1..102
+                     /product="addiction module toxin RelE"
+                     /calculated_mol_wt=11488
+     Region          1..97
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 myeikvepaf kadyarvmkr hprlrgefke avselmrtga vpneygphel snpggnyngh
+       61 idfhlsdgmv dvvvlymphk snpiirlvrm gshdelfqgp li
+//
+
+LOCUS       WP_015759878              93 aa            linear   BCT 26-MAY-2013
+DEFINITION  translation repressor RelE [Eggerthella lenta].
+ACCESSION   WP_015759878
+VERSION     WP_015759878.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella lenta
+  ORGANISM  Eggerthella lenta
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..93
+                     /organism="Eggerthella lenta"
+                     /db_xref="taxon:84112"
+     Protein         1..93
+                     /product="translation repressor RelE"
+                     /calculated_mol_wt=10447
+     Region          7..93
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 myrsinspaf erdvkkcmkk hwdmgsfkaa isailhsdee piplkyndha lsgnlqgkre
+       61 lhvkgrtsdw limyeivdgv vgfartgghd dlf
+//
+
+LOCUS       KGI72862                  75 aa            linear   BCT 03-OCT-2014
+DEFINITION  hypothetical protein HMPREF9458_01567 [Eggerthella lenta
+            1_1_60AFAA].
+ACCESSION   KGI72862
+VERSION     KGI72862.1
+DBLINK      BioProject: PRJNA46413
+            BioSample: SAMN00103544
+DBSOURCE    accession ADLX01000055.1
+KEYWORDS    HIGH_QUALITY_DRAFT.
+SOURCE      Eggerthella lenta 1_1_60AFAA
+  ORGANISM  Eggerthella lenta 1_1_60AFAA
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+REFERENCE   1  (residues 1 to 75)
+  AUTHORS   Earl,A., Ward,D., Feldgarden,M., Gevers,D., Daigneault,M.,
+            Strauss,J., Ambrose,C.E., Allen-Vercoe,E., Young,S.K., Zeng,Q.,
+            Gargeya,S., Fitzgerald,M., Haas,B., Abouelleil,A., Alvarado,L.,
+            Arachchi,H.M., Berlin,A., Brown,A., Chapman,S.B., Chen,Z.,
+            Dunbar,C., Freedman,E., Gearin,G., Gellesch,M., Goldberg,J.,
+            Griggs,A., Gujja,S., Heiman,D., Howarth,C., Larson,L., Lui,A.,
+            MacDonald,P.J.P., Mehta,T., Montmayeur,A., Murphy,C., Neiman,D.,
+            Pearson,M., Priest,M., Roberts,A., Saif,S., Shea,T., Shenoy,N.,
+            Sisk,P., Stolte,C., Sykes,S., Wortman,J., Nusbaum,C. and Birren,B.
+  CONSRTM   The Broad Institute Genome Sequencing Platform
+  TITLE     The Genome Sequence of Eggerthella lenta 1_1_60AFAA
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 75)
+  AUTHORS   Earl,A., Ward,D., Feldgarden,M., Gevers,D., Daigneault,M.,
+            Strauss,J., Ambrose,C.E., Allen-Vercoe,E., Young,S.K., Zeng,Q.,
+            Gargeya,S., Fitzgerald,M., Haas,B., Abouelleil,A., Alvarado,L.,
+            Arachchi,H.M., Berlin,A., Brown,A., Chapman,S.B., Chen,Z.,
+            Dunbar,C., Freedman,E., Gearin,G., Gellesch,M., Goldberg,J.,
+            Griggs,A., Gujja,S., Heiman,D., Howarth,C., Larson,L., Lui,A.,
+            MacDonald,P.J.P., Mehta,T., Montmayeur,A., Murphy,C., Neiman,D.,
+            Pearson,M., Priest,M., Roberts,A., Saif,S., Shea,T., Shenoy,N.,
+            Sisk,P., Stolte,C., Sykes,S., Wortman,J., Nusbaum,C. and Birren,B.
+  CONSRTM   The Broad Institute Genome Sequencing Platform
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUN-2011) Broad Institute of MIT and Harvard, 7
+            Cambridge Center, Cambridge, MA 02142, USA
+COMMENT     This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Source DNA provided by Strauss, J.C., Daigneault, M., Ambrose,
+            C.E., and Allen-Vercoe, E. (Molecular and Cellular Biology,
+            University of Guelph, Guelph, Ontario, N1G 2W1, Canada).
+            Bacteria provided by Strauss, J.C., Daigneault, M., Ambrose, C.E.,
+            and Allen-Vercoe, E. (Molecular and Cellular Biology, University of
+            Guelph, Guelph, Ontario, N1G 2W1, Canada).
+            Please be aware that the annotation is done automatically with
+            little or no manual curation.
+            Gene Calling Method: Prodigal.
+            
+            ##Genome-Assembly-Data-START##
+            Finishing Goal           :: High-Quality Draft
+            Current Finishing Status :: High-Quality Draft
+            Assembly Method          :: Newbler v. 2.3-PostRelease-11/19/2009
+            Assembly Name            :: Egge_lent_1_1_60AFAA_V1
+            Genome Coverage          :: 31x
+            Sequencing Technology    :: 454
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..75
+                     /organism="Eggerthella lenta 1_1_60AFAA"
+                     /strain="1_1_60AFAA"
+                     /db_xref="HMP:9458"
+                     /db_xref="taxon:742768"
+     Protein         1..75
+                     /product="hypothetical protein"
+     Region          1..>65
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+     CDS             1..75
+                     /locus_tag="HMPREF9458_01567"
+                     /coded_by="complement(ADLX01000055.1:22639..22866)"
+                     /transl_table=11
+ORIGIN      
+        1 myeikvesaf kadyarvmkr hprlrgefke avselmrtga vpdeygphel snpgenyngh
+       61 idfhlsdgvv dvvvl
+//
+
+LOCUS       WP_013978593              89 aa            linear   BCT 27-MAY-2013
+DEFINITION  addiction module protein [Eggerthella sp. YY7918].
+ACCESSION   WP_013978593
+VERSION     WP_013978593.1
+KEYWORDS    RefSeq.
+SOURCE      Eggerthella sp. YY7918
+  ORGANISM  Eggerthella sp. YY7918
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Eggerthella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..89
+                     /organism="Eggerthella sp. YY7918"
+                     /db_xref="taxon:502558"
+     Protein         1..89
+                     /product="addiction module protein"
+                     /calculated_mol_wt=10172
+     Region          5..88
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 mrkvwsdptw ddyvwwqsqd rktlkrinkl ikdiersage pgsapmgkae rlkhsrfgls
+       61 svridaanrl vykiegdall ivsckghyq
+//
+

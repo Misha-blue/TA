@@ -1,0 +1,279 @@
+LOCUS       WP_042448029             124 aa            linear   BCT 23-AUG-2015
+DEFINITION  hypothetical protein [Akkermansia muciniphila].
+ACCESSION   WP_042448029
+VERSION     WP_042448029.1
+KEYWORDS    RefSeq.
+SOURCE      Akkermansia muciniphila
+  ORGANISM  Akkermansia muciniphila
+            Bacteria; Verrucomicrobia; Verrucomicrobiae; Verrucomicrobiales;
+            Akkermansiaceae; Akkermansia.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..124
+                     /organism="Akkermansia muciniphila"
+                     /db_xref="taxon:239935"
+     Protein         1..124
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=13757
+     Region          91..>122
+                     /region_name="DUF1778"
+                     /note="Protein of unknown function (DUF1778); cl01845"
+                     /db_xref="CDD:295058"
+ORIGIN      
+        1 mrifphtllm enekeliksw lkknkksrew laqkcfvkka svddwfrskg iippakleli
+       61 rkeinrqgee aaktassvpi lngvaavavp lseddlklis kaaqisgqti eefirsaale
+      121 dage
+//
+
+LOCUS       ACD05185                 147 aa            linear   BCT 11-DEC-2013
+DEFINITION  transcriptional regulator, XRE family [Akkermansia muciniphila ATCC
+            BAA-835].
+ACCESSION   ACD05185
+VERSION     ACD05185.1
+DBLINK      BioProject: PRJNA20089
+            BioSample: SAMN00138213
+DBSOURCE    accession CP001071.1
+KEYWORDS    .
+SOURCE      Akkermansia muciniphila ATCC BAA-835
+  ORGANISM  Akkermansia muciniphila ATCC BAA-835
+            Bacteria; Verrucomicrobia; Verrucomicrobiae; Verrucomicrobiales;
+            Akkermansiaceae; Akkermansia.
+REFERENCE   1  (residues 1 to 147)
+  AUTHORS   Lucas,S., Copeland,A., Lapidus,A., Glavina del Rio,T., Dalin,E.,
+            Tice,H., Pitluck,S., Chain,P., Malfatti,S., Shin,M., Vergez,L.,
+            Lang,D., Schmutz,J., Larimer,F., Land,M., Hauser,L., Kyrpides,N.,
+            Ivanova,N., Smidt,H., Derrien,M., Plugge,C.M., Zoetendal,E.G., de
+            Vos,W.M. and Richardson,P.
+  TITLE     Complete sequence of Akkermansia muciniphila ATCC BAA-835
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 147)
+  AUTHORS   Lucas,S., Copeland,A., Lapidus,A., Glavina del Rio,T., Dalin,E.,
+            Tice,H., Pitluck,S., Chain,P., Malfatti,S., Shin,M., Vergez,L.,
+            Lang,D., Schmutz,J., Larimer,F., Land,M., Hauser,L., Kyrpides,N.,
+            Ivanova,N., Smidt,H., Derrien,M., Plugge,C.M., Zoetendal,E.G., de
+            Vos,W.M. and Richardson,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-MAY-2008) US DOE Joint Genome Institute, 2800
+            Mitchell Drive B100, Walnut Creek, CA 94598-1698, USA
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..147
+                     /organism="Akkermansia muciniphila ATCC BAA-835"
+                     /strain="ATCC BAA-835"
+                     /culture_collection="ATCC:BAA-835"
+                     /db_xref="taxon:349741"
+     Protein         1..147
+                     /product="transcriptional regulator, XRE family"
+     Region          14..75
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+     Region          92..140
+                     /region_name="HTH_3"
+                     /note="Helix-turn-helix; pfam01381"
+                     /db_xref="CDD:279690"
+     Site            order(93,97,122)
+                     /site_type="other"
+                     /note="non-specific DNA binding site [nucleotide binding]"
+                     /db_xref="CDD:238045"
+     Site            order(96,121)
+                     /site_type="other"
+                     /note="salt bridge"
+                     /db_xref="CDD:238045"
+     Site            order(103..104,115,118,122..123)
+                     /site_type="other"
+                     /note="sequence-specific DNA binding site [nucleotide
+                     binding]"
+                     /db_xref="CDD:238045"
+     CDS             1..147
+                     /locus_tag="Amuc_1361"
+                     /coded_by="complement(CP001071.1:1632243..1632686)"
+                     /note="PFAM: helix-turn-helix domain protein; protein of
+                     unknown function UPF0150;
+                     KEGG: mar:MAE_00390 hypothetical protein"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR001387"
+                     /db_xref="InterPro:IPR005357"
+ORIGIN      
+        1 mkmteqdmka lagkysrfir wsdedncyig slpdfekdct hgetleevnr nlqevaemyi
+       61 erylekgmel pqprsiaisp spfretgnek siarlrksqg msqkdfaavl gvspstlvkw
+      121 ehglrrpcgp saklldliek hpelins
+//
+
+LOCUS       WP_012419701             151 aa            linear   BCT 04-JUL-2015
+DEFINITION  MraZ protein [Akkermansia muciniphila].
+ACCESSION   WP_012419701
+VERSION     WP_012419701.1
+KEYWORDS    RefSeq.
+SOURCE      Akkermansia muciniphila
+  ORGANISM  Akkermansia muciniphila
+            Bacteria; Verrucomicrobia; Verrucomicrobiae; Verrucomicrobiales;
+            Akkermansiaceae; Akkermansia.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..151
+                     /organism="Akkermansia muciniphila"
+                     /db_xref="taxon:239935"
+     Protein         1..151
+                     /product="MraZ protein"
+                     /calculated_mol_wt=16920
+     Region          9..68
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(9..11,48,57..58,61)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          17..21
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          76..132
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(84,86,114,121,130..131)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          92..96
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mssvsdnlfg aythkldpkn riaipaewrp segcalllls grrldlptvk aytrekfqql
+       61 idkiettpgy teaqidlfig klyancveav inaqgkllip kqmcehaqls ssvrlaarrg
+      121 yfelwepsly eevsrrenas isdinqsygi l
+//
+
+LOCUS       CDB55117                  90 aa            linear   ENV 31-MAY-2013
+DEFINITION  putative uncharacterized protein [Akkermansia muciniphila CAG:154].
+ACCESSION   CDB55117
+VERSION     CDB55117.1
+DBSOURCE    embl accession CBDW010000062.1
+KEYWORDS    ENV.
+SOURCE      Akkermansia muciniphila CAG:154
+  ORGANISM  Akkermansia muciniphila CAG:154
+            Bacteria; Verrucomicrobia; Verrucomicrobiae; Verrucomicrobiales;
+            Akkermansiaceae; Akkermansia; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..90
+                     /organism="Akkermansia muciniphila CAG:154"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1263034"
+                     /environmental_sample
+                     /note="contig 154"
+     Protein         1..90
+                     /product="putative uncharacterized protein"
+     Region          1..83
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     cl09153"
+                     /db_xref="CDD:298842"
+     CDS             1..90
+                     /locus_tag="BN502_01432"
+                     /coded_by="CBDW010000062.1:372..644"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mntisstaar qsisktlaav lndrepvriv nkrlgaviim pedefnswqe tiyllkcpan
+       61 arrlldgvea lnrrqgtvtk tveelehhac
+//
+
+LOCUS       ACD05186                  69 aa            linear   BCT 11-DEC-2013
+DEFINITION  conserved hypothetical protein [Akkermansia muciniphila ATCC
+            BAA-835].
+ACCESSION   ACD05186
+VERSION     ACD05186.1
+DBLINK      BioProject: PRJNA20089
+            BioSample: SAMN00138213
+DBSOURCE    accession CP001071.1
+KEYWORDS    .
+SOURCE      Akkermansia muciniphila ATCC BAA-835
+  ORGANISM  Akkermansia muciniphila ATCC BAA-835
+            Bacteria; Verrucomicrobia; Verrucomicrobiae; Verrucomicrobiales;
+            Akkermansiaceae; Akkermansia.
+REFERENCE   1  (residues 1 to 69)
+  AUTHORS   Lucas,S., Copeland,A., Lapidus,A., Glavina del Rio,T., Dalin,E.,
+            Tice,H., Pitluck,S., Chain,P., Malfatti,S., Shin,M., Vergez,L.,
+            Lang,D., Schmutz,J., Larimer,F., Land,M., Hauser,L., Kyrpides,N.,
+            Ivanova,N., Smidt,H., Derrien,M., Plugge,C.M., Zoetendal,E.G., de
+            Vos,W.M. and Richardson,P.
+  TITLE     Complete sequence of Akkermansia muciniphila ATCC BAA-835
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 69)
+  AUTHORS   Lucas,S., Copeland,A., Lapidus,A., Glavina del Rio,T., Dalin,E.,
+            Tice,H., Pitluck,S., Chain,P., Malfatti,S., Shin,M., Vergez,L.,
+            Lang,D., Schmutz,J., Larimer,F., Land,M., Hauser,L., Kyrpides,N.,
+            Ivanova,N., Smidt,H., Derrien,M., Plugge,C.M., Zoetendal,E.G., de
+            Vos,W.M. and Richardson,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-MAY-2008) US DOE Joint Genome Institute, 2800
+            Mitchell Drive B100, Walnut Creek, CA 94598-1698, USA
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..69
+                     /organism="Akkermansia muciniphila ATCC BAA-835"
+                     /strain="ATCC BAA-835"
+                     /culture_collection="ATCC:BAA-835"
+                     /db_xref="taxon:349741"
+     Protein         1..69
+                     /product="conserved hypothetical protein"
+     Region          6..62
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; pfam07927"
+                     /db_xref="CDD:285205"
+     CDS             1..69
+                     /locus_tag="Amuc_1362"
+                     /coded_by="complement(CP001071.1:1632716..1632925)"
+                     /note="KEGG: dol:Dole_0442 hypothetical protein"
+                     /transl_table=11
+ORIGIN      
+        1 mppkirqlva dlrkagfdnt grgkgshrqy ehrasgtvat icghdgddak pylvkhvrek
+       61 ieeakskga
+//
+
+LOCUS       CDB55118                  88 aa            linear   ENV 31-MAY-2013
+DEFINITION  addiction module antitoxin [Akkermansia muciniphila CAG:154].
+ACCESSION   CDB55118
+VERSION     CDB55118.1
+DBSOURCE    embl accession CBDW010000062.1
+KEYWORDS    ENV.
+SOURCE      Akkermansia muciniphila CAG:154
+  ORGANISM  Akkermansia muciniphila CAG:154
+            Bacteria; Verrucomicrobia; Verrucomicrobiae; Verrucomicrobiales;
+            Akkermansiaceae; Akkermansia; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..88
+                     /organism="Akkermansia muciniphila CAG:154"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1263034"
+                     /environmental_sample
+                     /note="contig 154"
+     Protein         1..88
+                     /product="addiction module antitoxin"
+     Region          7..86
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+     CDS             1..88
+                     /locus_tag="BN502_01433"
+                     /coded_by="CBDW010000062.1:660..926"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mkrnivfapq awedfqfflg ndrktckril dmikeiqrtp fdgkgkpepl renlsgfwsr
+       61 ridstnrlvy ritetdlell qmryhygk
+//
+

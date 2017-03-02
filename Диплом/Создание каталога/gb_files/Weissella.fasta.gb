@@ -1,0 +1,3667 @@
+LOCUS       WP_038528195             121 aa            linear   BCT 26-DEC-2014
+DEFINITION  pilus assembly protein HicB [Weissella ceti].
+ACCESSION   WP_038528195
+VERSION     WP_038528195.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella ceti
+  ORGANISM  Weissella ceti
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..121
+                     /organism="Weissella ceti"
+                     /db_xref="taxon:759620"
+     Protein         1..121
+                     /product="pilus assembly protein HicB"
+                     /calculated_mol_wt=13890
+     Region          <7..110
+                     /region_name="CYTH-like_Pase"
+                     /note="CYTH-like (also known as triphosphate tunnel
+                     metalloenzyme (TTM)-like) Phosphatases; cl11964"
+                     /db_xref="CDD:299847"
+     Region          <9..47
+                     /region_name="HicB"
+                     /note="HicB family; cl23837"
+                     /db_xref="CDD:304994"
+ORIGIN      
+        1 mcynrcmeek kynglislrl dkdlhkrvaq aaeaddrsvn nyismvlehq lmpkvvskes
+       61 feqrqfvgrt isgdritpen glvlvdgiyy rylmdgnknv dtsrdyviie angnilvlre
+      121 m
+//
+
+LOCUS       WP_003607680             131 aa            linear   BCT 26-MAY-2015
+DEFINITION  hypothetical protein [Weissella confusa].
+ACCESSION   WP_003607680
+VERSION     WP_003607680.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella confusa
+  ORGANISM  Weissella confusa
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..131
+                     /organism="Weissella confusa"
+                     /db_xref="taxon:1583"
+     Protein         1..131
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=14435
+     Region          7..124
+                     /region_name="HicB_lk_antitox"
+                     /note="HicB_like antitoxin of bacterial toxin-antitoxin
+                     system; pfam15919"
+                     /db_xref="CDD:292541"
+     Region          7..>62
+                     /region_name="HicB"
+                     /note="HicB family; cl23837"
+                     /db_xref="CDD:304994"
+ORIGIN      
+        1 mkdtvvypii vhtqtdddyy fveipavngm tqgksvadai emareyvgem avelahdgqd
+       61 lpdsvytlpv atedevvtlv dvnvkeyial sdnrpvkktl tipyaidrmg reaginfsqt
+      121 laeaiqeklq n
+//
+
+LOCUS       WP_006845406             135 aa            linear   BCT 26-AUG-2016
+DEFINITION  HicB family protein [Weissella koreensis].
+ACCESSION   WP_006845406
+VERSION     WP_006845406.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella koreensis
+  ORGANISM  Weissella koreensis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..135
+                     /organism="Weissella koreensis"
+                     /db_xref="taxon:165096"
+     Protein         1..135
+                     /product="HicB family protein"
+                     /calculated_mol_wt=14919
+     Region          9..>55
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+     Region          10..109
+                     /region_name="HicB_lk_antitox"
+                     /note="HicB_like antitoxin of bacterial toxin-antitoxin
+                     system; pfam15919"
+                     /db_xref="CDD:292541"
+ORIGIN      
+        1 mkqegktliy pvvyakeevg gysvrvpdvg aisqgdsfte atkmiqeavg lmledkfkfp
+       61 dassiedvel eewespdttv iamvvfnidd lrkgmsktvk ktitipdyln qlakkekinv
+      121 skvtteales illed
+//
+
+LOCUS       WP_013989170             141 aa            linear   BCT 27-MAY-2013
+DEFINITION  hypothetical protein [Weissella koreensis].
+ACCESSION   WP_013989170
+VERSION     WP_013989170.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella koreensis
+  ORGANISM  Weissella koreensis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..141
+                     /organism="Weissella koreensis"
+                     /db_xref="taxon:165096"
+     Protein         1..141
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=16131
+     Region          16..>68
+                     /region_name="HicB"
+                     /note="HicB family; cl23837"
+                     /db_xref="CDD:304994"
+ORIGIN      
+        1 mfvllyiimt kntllfyptv fseedgavnv ripdvgastf gsdyqdavrm aqdavglmle
+       61 ektdypepsn lfdidleewe seentkviiv aydmkeyrkg rsktvrrnis ipeylnniak
+      121 kqninvskvt tealeelffn e
+//
+
+LOCUS       CCC57434                 144 aa            linear   BCT 04-OCT-2011
+DEFINITION  protein MraZ [Weissella thailandensis fsh4-2].
+ACCESSION   CCC57434
+VERSION     CCC57434.1
+DBLINK      BioProject: PRJEA68571
+DBSOURCE    embl accession HE575169.1
+KEYWORDS    .
+SOURCE      Weissella thailandensis fsh4-2
+  ORGANISM  Weissella thailandensis fsh4-2
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+REFERENCE   1
+  AUTHORS   Benomar,N., Abriouel,H., Lee,H., Cho,G.S., Huch,M., Pulido,R.P.,
+            Holzapfel,W.H., Galvez,A. and Franz,C.M.
+  TITLE     Genome Sequence of Weissella thailandensis fsh4-2
+  JOURNAL   J. Bacteriol. 193 (20), 5868 (2011)
+   PUBMED   21952542
+REFERENCE   2  (residues 1 to 144)
+  AUTHORS   Franz,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JUL-2011) to the INSDC. Ciencias de la Salud,
+            Universidad de Jaen, Campus Las Lagunillas, Jaen, 23071, SPAIN
+COMMENT     Accession numbers for all the contigs in this project:
+            HE575133-HE575182.
+FEATURES             Location/Qualifiers
+     source          1..144
+                     /organism="Weissella thailandensis fsh4-2"
+                     /strain="fsh4-2"
+                     /db_xref="taxon:1056112"
+                     /note="contig00049"
+     Protein         1..144
+                     /product="protein MraZ"
+     Region          1..134
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          3..59
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(3..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..127
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,104,112,121..122,125)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+     CDS             1..144
+                     /locus_tag="WT2_01453"
+                     /coded_by="complement(HE575169.1:81060..81494)"
+                     /transl_table=11
+ORIGIN      
+        1 mfmgtyqhsl dtknrliipa kfrnqlgesf vitrwmdhsl raytlegwqd fskkinalpe
+       61 tnskarqfkr fvfggaieve fdkqgrinls qtlrdyakie knvtvfglgd ttfelwstek
+      121 wqayedetae nfddiadgle elgf
+//
+
+LOCUS       WP_002828552             144 aa            linear   BCT 17-SEP-2015
+DEFINITION  division/cell wall cluster transcriptional repressor MraZ
+            [Weissella paramesenteroides].
+ACCESSION   WP_002828552
+VERSION     WP_002828552.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella paramesenteroides
+  ORGANISM  Weissella paramesenteroides
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..144
+                     /organism="Weissella paramesenteroides"
+                     /db_xref="taxon:1249"
+     Protein         1..144
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=16660
+     Region          1..134
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          3..59
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(3..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..127
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,104,112,121..122,125)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mfmgtyqhsl dtknrliipa kfrnqlgesf vitrwmdhsl raytlegwqd fskkinalpe
+       61 tnskarqfkr fvfggaleve fdkqgrinls qtlrdyakie knvtvfglgd ttfelwstek
+      121 wqayedetae nfddiadgle elgf
+//
+
+LOCUS       WP_003608212             144 aa            linear   BCT 17-SEP-2015
+DEFINITION  division/cell wall cluster transcriptional repressor MraZ
+            [Weissella confusa].
+ACCESSION   WP_003608212
+VERSION     WP_003608212.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella confusa
+  ORGANISM  Weissella confusa
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..144
+                     /organism="Weissella confusa"
+                     /db_xref="taxon:1583"
+     Protein         1..144
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=16562
+     Region          1..134
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          3..59
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(3..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..127
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,104,112,121..122,125)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mfmgtyqhtl dtknrliipa kfrnqlgesf vitrwmdhsl raytmqgwed fstkinalpe
+       61 tnakarqfkr fvfggateve fdkqgrvnls ptlreyanid kdvtvfglgd dtfelwsaek
+      121 wqayeeetae nfddiadgle dlgf
+//
+
+LOCUS       WP_006845640             146 aa            linear   BCT 17-SEP-2015
+DEFINITION  division/cell wall cluster transcriptional repressor MraZ
+            [Weissella koreensis].
+ACCESSION   WP_006845640
+VERSION     WP_006845640.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella koreensis
+  ORGANISM  Weissella koreensis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..146
+                     /organism="Weissella koreensis"
+                     /db_xref="taxon:165096"
+     Protein         1..146
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=16613
+     Region          1..134
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          3..59
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(3..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..127
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,104,112,121..122,125)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mfmgtyqhtl dsknrliipa kfrnqlgsgf vitkgnehsl haysqagwet yqsklnqlps
+       61 nnakvrqfkr iilagateve fdkqgrivlp nnlkehallq ksitiigygd defeiwdter
+      121 feqynadvtd nfddisnela elgfdi
+//
+
+LOCUS       WP_009495814             144 aa            linear   BCT 17-SEP-2015
+DEFINITION  division/cell wall cluster transcriptional repressor MraZ
+            [Weissella ceti].
+ACCESSION   WP_009495814
+VERSION     WP_009495814.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella ceti
+  ORGANISM  Weissella ceti
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..144
+                     /organism="Weissella ceti"
+                     /db_xref="taxon:759620"
+     Protein         1..144
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=16683
+     Region          1..134
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          3..59
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(3..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..126
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,104,112,121..122,125)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mfmgtyqhti dtknrliipa kfrnqlgdsf vvtrwmdhsl raytqegwie fsaklrklpe
+       61 tnaqarqfkr fvlggaqeve fdkqgrinla qtlrqyaeie keatifglge dsfeiwssqr
+      121 wqdyedmtad nfdavadsld glef
+//
+
+LOCUS       WP_010372671             144 aa            linear   BCT 29-MAR-2016
+DEFINITION  MULTISPECIES: division/cell wall cluster transcriptional repressor
+            MraZ [Weissella].
+ACCESSION   WP_010372671
+VERSION     WP_010372671.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella
+  ORGANISM  Weissella
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..144
+                     /organism="Weissella"
+                     /db_xref="taxon:46255"
+     Protein         1..144
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=16503
+     Region          1..134
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          3..59
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(3..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..127
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,104,112,121..122,125)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mfmgtyqhtl dtknrliipa kfrnqlgdaf vitrwmdhsl raytmsgwqd fsakinalpe
+       61 tnakarqfkr fvfggaleve fdkqgrvnls qtlreyanid kdvtvfglgd dtfelwsaek
+      121 wqayeeetae nfddiadgle dlgf
+//
+
+LOCUS       WP_013989190             146 aa            linear   BCT 17-SEP-2015
+DEFINITION  division/cell wall cluster transcriptional repressor MraZ
+            [Weissella koreensis].
+ACCESSION   WP_013989190
+VERSION     WP_013989190.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella koreensis
+  ORGANISM  Weissella koreensis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..146
+                     /organism="Weissella koreensis"
+                     /db_xref="taxon:165096"
+     Protein         1..146
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=16643
+     Region          1..134
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          3..59
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(3..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..127
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,104,112,121..122,125)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mfmgtyqhml dsknrliipa kfrnqlgsgf vitkgnehsl haysqagwet yqsklnqlps
+       61 nnakvrqfkr iilagateve fdkqgrivlp nnlkehallq ksitiigygd defeiwdter
+      121 feqynadvtd nfddisnela elgfdi
+//
+
+LOCUS       WP_022791736             144 aa            linear   BCT 17-SEP-2015
+DEFINITION  division/cell wall cluster transcriptional repressor MraZ
+            [Weissella halotolerans].
+ACCESSION   WP_022791736
+VERSION     WP_022791736.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella halotolerans
+  ORGANISM  Weissella halotolerans
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..144
+                     /organism="Weissella halotolerans"
+                     /db_xref="taxon:1615"
+     Protein         1..144
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=16534
+     Region          1..134
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          3..59
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(3..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..126
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,104,112,121..122,125)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mfmgtyqhsl dtknrliipa kfrnqlgddf vitrwmehsl raytrqgwdq lassikalpe
+       61 tnakarqfkr fvlggaqeve fdkqgrinls qnlrsyadit kdatifglgd dsfeiwster
+      121 wqayeatvte nfddiadgld elnf
+//
+
+LOCUS       WP_027698722             144 aa            linear   BCT 17-SEP-2015
+DEFINITION  division/cell wall cluster transcriptional repressor MraZ
+            [Weissella oryzae].
+ACCESSION   WP_027698722
+VERSION     WP_027698722.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella oryzae
+  ORGANISM  Weissella oryzae
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..144
+                     /organism="Weissella oryzae"
+                     /db_xref="taxon:1129792"
+     Protein         1..144
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=16434
+     Region          1..134
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          3..59
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(3..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..127
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,104,112,121..122,125)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mfmgtfqhtl dsknrlivpa kfrnqlgetf vvtkwmensl haftlegwqe fstklnqlpn
+       61 tnkdarrfrr fiyagaveae fdkqgrislp adlkeyagit kdvtlfgngd dsfeiwsaet
+      121 wteyneqtad dfddiasglm dlgf
+//
+
+LOCUS       WP_042493309             144 aa            linear   BCT 17-SEP-2015
+DEFINITION  division/cell wall cluster transcriptional repressor MraZ
+            [Weissella hellenica].
+ACCESSION   WP_042493309
+VERSION     WP_042493309.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella hellenica
+  ORGANISM  Weissella hellenica
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..144
+                     /organism="Weissella hellenica"
+                     /db_xref="taxon:46256"
+     Protein         1..144
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=16682
+     Region          1..134
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          3..59
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(3..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..126
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,104,112,121..122,125)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mfmgtfqhvl dtknrliipa kfrnqlgesf vitrwmdhsl raytlegwqd fskkinalpe
+       61 tntkarqfkr fifggaveve fdkqgrinls ptlrsyaqik ksvtvfgmgd nifelwstek
+      121 wqayedntae nfddiangle elef
+//
+
+LOCUS       WP_043941937             144 aa            linear   BCT 17-SEP-2015
+DEFINITION  division/cell wall cluster transcriptional repressor MraZ
+            [Weissella cibaria].
+ACCESSION   WP_043941937
+VERSION     WP_043941937.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella cibaria
+  ORGANISM  Weissella cibaria
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..144
+                     /organism="Weissella cibaria"
+                     /db_xref="taxon:137591"
+     Protein         1..144
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=16533
+     Region          1..134
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          3..59
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(3..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..127
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,104,112,121..122,125)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mfmgtyqhtl dtknrliipa kfrnqlgdaf vitrwmdhsl raytmsgwqd fsakinalpe
+       61 tnakarqfkr fvfggaleve fdkqgrvnls qtlreyanid kdvtvfglgd dtfelwstek
+      121 wqayeeetae nfddiadgle dlgf
+//
+
+LOCUS       WP_057746082             144 aa            linear   BCT 13-JAN-2016
+DEFINITION  cell division/cell wall cluster transcriptional repressor MraZ
+            [Weissella viridescens].
+ACCESSION   WP_057746082
+VERSION     WP_057746082.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella viridescens
+  ORGANISM  Weissella viridescens
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..144
+                     /organism="Weissella viridescens"
+                     /db_xref="taxon:1629"
+     Protein         1..144
+                     /product="cell division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=16452
+     Region          1..134
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          3..59
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(3..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..126
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,104,112,121..122,125)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mfmgtyqhti dtknrliipa kfrnqlgdsf vvtrwmehsi raytqegwda fskqvralpe
+       61 tnakarqfkr fvlggaqeve fdkqgritlt kslceyaqle kettvfglge dsfeiwstan
+      121 wqayeenvae nfddiadgld dlgi
+//
+
+LOCUS       WP_057753522             146 aa            linear   BCT 13-JAN-2016
+DEFINITION  cell division/cell wall cluster transcriptional repressor MraZ
+            [Weissella kandleri].
+ACCESSION   WP_057753522
+VERSION     WP_057753522.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella kandleri
+  ORGANISM  Weissella kandleri
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..146
+                     /organism="Weissella kandleri"
+                     /db_xref="taxon:1616"
+     Protein         1..146
+                     /product="cell division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=16296
+     Region          1..134
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          3..59
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(3..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..127
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,104,111,121..122,125)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mfmgsyqhtl dtknrliipa kfrnqlgdgf vitkgnensl hayteagweq feaklnqlps
+       61 nnpkvrqykr ailagateae fdkqgrvvip vvlkehagld kdvviigyge qefeiwdaak
+      121 faayntevte nfdeisadla dlgfev
+//
+
+LOCUS       WP_057788433             144 aa            linear   BCT 13-JAN-2016
+DEFINITION  cell division/cell wall cluster transcriptional repressor MraZ
+            [Weissella minor].
+ACCESSION   WP_057788433
+VERSION     WP_057788433.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella minor
+  ORGANISM  Weissella minor
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..144
+                     /organism="Weissella minor"
+                     /db_xref="taxon:1620"
+     Protein         1..144
+                     /product="cell division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=16454
+     Region          1..134
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          3..59
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(3..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..126
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,104,112,121..122,125)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mfmgtyqhsi dtknrliipa kfrnqlgdsf vvtrwmehsv raytqsgwee fskkikalpe
+       61 tnakarqfkr fvlggaqeve fdkqgritlt kalceyaelq kettifglgd dsfeiwssen
+      121 wqayednvad nfddiadgle dlgi
+//
+
+LOCUS       EER74028                 114 aa            linear   BCT 06-JUN-2013
+DEFINITION  prevent-host-death family protein [Weissella paramesenteroides ATCC
+            33313].
+ACCESSION   EER74028
+VERSION     EER74028.1
+DBLINK      BioProject: PRJNA34661
+            BioSample: SAMN00139194
+DBSOURCE    accession ACKU01000033.1
+KEYWORDS    .
+SOURCE      Weissella paramesenteroides ATCC 33313
+  ORGANISM  Weissella paramesenteroides ATCC 33313
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+REFERENCE   1  (residues 1 to 114)
+  AUTHORS   Qin,X., Bachman,B., Battles,P., Bell,A., Bess,C., Bickham,C.,
+            Chaboub,L., Chen,D., Coyle,M., Deiros,D.R., Dinh,H., Forbes,L.,
+            Fowler,G., Francisco,L., Fu,Q., Gubbala,S., Hale,W., Han,Y.,
+            Hemphill,L., Highlander,S.K., Hirani,K., Hogues,M., Jackson,L.,
+            Jakkamsetti,A., Javaid,M., Jiang,H., Korchina,V., Kovar,C.,
+            Lara,F., Lee,S., Mata,R., Mathew,T., Moen,C., Morales,K.,
+            Munidasa,M., Nazareth,L., Ngo,R., Nguyen,L., Okwuonu,G., Ongeri,F.,
+            Patil,S., Petrosino,J., Pham,C., Pham,P., Pu,L.-L., Puazo,M.,
+            Raj,R., Reid,J., Rouhana,J., Saada,N., Shang,Y., Simmons,D.,
+            Thornton,R., Warren,J., Weissenberger,G., Zhang,J., Zhang,L.,
+            Zhou,C., Zhu,D., Muzny,D., Worley,K. and Gibbs,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-APR-2009) Human Genome Sequencing Center, Baylor
+            College of Medicine, One Baylor Plaza, Houston, TX 77030, USA
+COMMENT     Product names were updated in June 2013.
+            This sequence is generated as a part of the Human Microbiome
+            Project (HMP), funded by the National Institutes of Health (NIH),
+            National Human Genome Research Institute (NHGRI) Large-Scale
+            Sequencing Research Network and the National Institute of Allergy
+            and Infectious Diseases (NIAID) Microbial Genome Sequencing Centers
+            Program.  The mission of the HMP is to generate resources to enable
+            the characterization of the human microbiota, the microbial
+            communities living within human bodies, and analyze the role of
+            these organisms in human health and disease.  See
+            http://www.hmpdacc.org/ for more information.
+              The sequenced strain was obtained from ATCC.  The genomic DNA was
+            prepared from a single bacterial isolaate.  The sequence generated
+            included at least 10 fold coverage of Roche/454 Lifesciences FLX
+            fragment data at least 8 fold clone coverage of Roche/454
+            Lifesciences paired-end data.
+              The Roche/454 Lifesciences sequence was assembled using the
+            Roche/454 Lifescience Newbler assembler.  The contigs from the
+            Newbler assembly were aligned with mapping tools such as Mosaic and
+            Crossmatch and these data were used for error correction for this
+            version of the draft assembly. This draft assembly meets the HMP
+            draft quality standards (more than 90% of the genome is included in
+            contigs, more than 90% of a core set of bacterial genes are found
+            with > 30% identity and > 30% length; more than 90% of the bases in
+            the assembly have more than 5 fold sequence coverage, the contig
+            N50 length is greater than 5kb, the scaffold N50 length is greater
+            than 20kb, and there is less than 1 gap per 5kb).
+              This is a reference genome for the Human Microbiome Project.
+            This project is co-owned with the Human Microbiome Project DACC.
+            Genome Coverage: 11x
+            Sequencing Technology: 454; ABI
+            
+            Annotation was added to the contigs in June 2009.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..114
+                     /organism="Weissella paramesenteroides ATCC 33313"
+                     /strain="ATCC 33313"
+                     /culture_collection="ATCC:33313"
+                     /db_xref="taxon:585506"
+     Protein         1..114
+                     /product="prevent-host-death family protein"
+     Region          30..87
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+     CDS             1..114
+                     /locus_tag="HMPREF0877_1826"
+                     /coded_by="ACKU01000033.1:72911..73255"
+                     /transl_table=11
+ORIGIN      
+        1 mkhekllfdv rdnvrytysk rklrkeaivm diitptkard nlfsliketn rdsapvfisg
+       61 aetsksavli gkkdydalqe tlslfmngqm piafsrende svdlenmiae idne
+//
+
+LOCUS       EER74346                 105 aa            linear   BCT 06-JUN-2013
+DEFINITION  prevent-host-death family protein [Weissella paramesenteroides ATCC
+            33313].
+ACCESSION   EER74346
+VERSION     EER74346.1
+DBLINK      BioProject: PRJNA34661
+            BioSample: SAMN00139194
+DBSOURCE    accession ACKU01000026.1
+KEYWORDS    .
+SOURCE      Weissella paramesenteroides ATCC 33313
+  ORGANISM  Weissella paramesenteroides ATCC 33313
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+REFERENCE   1  (residues 1 to 105)
+  AUTHORS   Qin,X., Bachman,B., Battles,P., Bell,A., Bess,C., Bickham,C.,
+            Chaboub,L., Chen,D., Coyle,M., Deiros,D.R., Dinh,H., Forbes,L.,
+            Fowler,G., Francisco,L., Fu,Q., Gubbala,S., Hale,W., Han,Y.,
+            Hemphill,L., Highlander,S.K., Hirani,K., Hogues,M., Jackson,L.,
+            Jakkamsetti,A., Javaid,M., Jiang,H., Korchina,V., Kovar,C.,
+            Lara,F., Lee,S., Mata,R., Mathew,T., Moen,C., Morales,K.,
+            Munidasa,M., Nazareth,L., Ngo,R., Nguyen,L., Okwuonu,G., Ongeri,F.,
+            Patil,S., Petrosino,J., Pham,C., Pham,P., Pu,L.-L., Puazo,M.,
+            Raj,R., Reid,J., Rouhana,J., Saada,N., Shang,Y., Simmons,D.,
+            Thornton,R., Warren,J., Weissenberger,G., Zhang,J., Zhang,L.,
+            Zhou,C., Zhu,D., Muzny,D., Worley,K. and Gibbs,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-APR-2009) Human Genome Sequencing Center, Baylor
+            College of Medicine, One Baylor Plaza, Houston, TX 77030, USA
+COMMENT     Product names were updated in June 2013.
+            This sequence is generated as a part of the Human Microbiome
+            Project (HMP), funded by the National Institutes of Health (NIH),
+            National Human Genome Research Institute (NHGRI) Large-Scale
+            Sequencing Research Network and the National Institute of Allergy
+            and Infectious Diseases (NIAID) Microbial Genome Sequencing Centers
+            Program.  The mission of the HMP is to generate resources to enable
+            the characterization of the human microbiota, the microbial
+            communities living within human bodies, and analyze the role of
+            these organisms in human health and disease.  See
+            http://www.hmpdacc.org/ for more information.
+              The sequenced strain was obtained from ATCC.  The genomic DNA was
+            prepared from a single bacterial isolaate.  The sequence generated
+            included at least 10 fold coverage of Roche/454 Lifesciences FLX
+            fragment data at least 8 fold clone coverage of Roche/454
+            Lifesciences paired-end data.
+              The Roche/454 Lifesciences sequence was assembled using the
+            Roche/454 Lifescience Newbler assembler.  The contigs from the
+            Newbler assembly were aligned with mapping tools such as Mosaic and
+            Crossmatch and these data were used for error correction for this
+            version of the draft assembly. This draft assembly meets the HMP
+            draft quality standards (more than 90% of the genome is included in
+            contigs, more than 90% of a core set of bacterial genes are found
+            with > 30% identity and > 30% length; more than 90% of the bases in
+            the assembly have more than 5 fold sequence coverage, the contig
+            N50 length is greater than 5kb, the scaffold N50 length is greater
+            than 20kb, and there is less than 1 gap per 5kb).
+              This is a reference genome for the Human Microbiome Project.
+            This project is co-owned with the Human Microbiome Project DACC.
+            Genome Coverage: 11x
+            Sequencing Technology: 454; ABI
+            
+            Annotation was added to the contigs in June 2009.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..105
+                     /organism="Weissella paramesenteroides ATCC 33313"
+                     /strain="ATCC 33313"
+                     /culture_collection="ATCC:33313"
+                     /db_xref="taxon:585506"
+     Protein         1..105
+                     /product="prevent-host-death family protein"
+     Region          20..>66
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+     CDS             1..105
+                     /locus_tag="HMPREF0877_1447"
+                     /coded_by="complement(ACKU01000026.1:12934..13251)"
+                     /note="Pfam: PF02604"
+                     /transl_table=11
+ORIGIN      
+        1 mynikykrra timtlaltqs dfranlkeyl dkvnseeetv yiarsnqrav avisqekmew
+       61 leralkakeg sleyavardq liqrhvlpdd divesndeyw nqfka
+//
+
+LOCUS       WP_027698675              86 aa            linear   BCT 29-AUG-2015
+DEFINITION  prevent-host-death family protein [Weissella oryzae].
+ACCESSION   WP_027698675
+VERSION     WP_027698675.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella oryzae
+  ORGANISM  Weissella oryzae
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..86
+                     /organism="Weissella oryzae"
+                     /db_xref="taxon:1129792"
+     Protein         1..86
+                     /product="prevent-host-death family protein"
+                     /calculated_mol_wt=9824
+     Region          3..69
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+ORIGIN      
+        1 mqqaftpsna rqnffailrd tatehrpiii qqkdenldav iinrkdyeam eetmalmmng
+       61 qlqdalerek nsvgvtnidd idwdnl
+//
+
+LOCUS       WP_043941558             114 aa            linear   BCT 01-MAR-2015
+DEFINITION  hypothetical protein [Weissella cibaria].
+ACCESSION   WP_043941558
+VERSION     WP_043941558.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella cibaria
+  ORGANISM  Weissella cibaria
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..114
+                     /organism="Weissella cibaria"
+                     /db_xref="taxon:137591"
+     Protein         1..114
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=12686
+     Region          13..>63
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     cl09153"
+                     /db_xref="CDD:298842"
+ORIGIN      
+        1 matkvhadai lmsvselkks ptqaidnvqh atdtpiyiln rnepvanlvs tsyverkeml
+       61 eeensnltdl vneqayqiia lqrllndnge rlsdsevrgd avntdlseie dews
+//
+
+LOCUS       WP_056973496              78 aa            linear   BCT 08-NOV-2015
+DEFINITION  hypothetical protein [Weissella confusa].
+ACCESSION   WP_056973496
+VERSION     WP_056973496.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella confusa
+  ORGANISM  Weissella confusa
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..78
+                     /organism="Weissella confusa"
+                     /db_xref="taxon:1583"
+     Protein         1..78
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=8983
+     Region          1..54
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     cl09153"
+                     /db_xref="CDD:298842"
+ORIGIN      
+        1 mkkltvdfaq ahlfdllrdv terkvayeie tdeqesvvml ptseynrmke alylgennvl
+       61 rtvisrmeta idadfeei
+//
+
+LOCUS       WP_002827374              58 aa            linear   BCT 09-FEB-2015
+DEFINITION  MULTISPECIES: hypothetical protein [Weissella].
+ACCESSION   WP_002827374
+VERSION     WP_002827374.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella
+  ORGANISM  Weissella
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..58
+                     /organism="Weissella"
+                     /db_xref="taxon:46255"
+     Protein         1..58
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=6384
+     Region          1..>55
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 maekliqlrv ednvkdkade ifksqglttq taikifltqv antgespfsn lfsrnlsk
+//
+
+LOCUS       WP_002828919              56 aa            linear   BCT 12-MAY-2013
+DEFINITION  hypothetical protein [Weissella paramesenteroides].
+ACCESSION   WP_002828919
+VERSION     WP_002828919.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella paramesenteroides
+  ORGANISM  Weissella paramesenteroides
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..56
+                     /organism="Weissella paramesenteroides"
+                     /db_xref="taxon:1249"
+     Protein         1..56
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=6301
+     Region          4..>47
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mekliqirve eevrnaadtv fkenglttqq avkmfltqva hsgespfndl frakhk
+//
+
+LOCUS       WP_003607683              56 aa            linear   BCT 26-MAY-2015
+DEFINITION  MULTISPECIES: hypothetical protein [Weissella].
+ACCESSION   WP_003607683
+VERSION     WP_003607683.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella
+  ORGANISM  Weissella
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..56
+                     /organism="Weissella"
+                     /db_xref="taxon:46255"
+     Protein         1..56
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=6184
+     Region          1..>56
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 maekliqlrv ednvkdkade ifksqglttq taikifltqv antgespfsn lfsrnq
+//
+
+LOCUS       WP_006845287              57 aa            linear   BCT 04-JUN-2013
+DEFINITION  hypothetical protein [Weissella koreensis].
+ACCESSION   WP_006845287
+VERSION     WP_006845287.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella koreensis
+  ORGANISM  Weissella koreensis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..57
+                     /organism="Weissella koreensis"
+                     /db_xref="taxon:165096"
+     Protein         1..57
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=6213
+     Region          1..>48
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 maekliqlrv eegvkdaade ifktqglttq taikifltqv antgdspfsn lftkkeq
+//
+
+LOCUS       WP_006846156              97 aa            linear   BCT 29-MAY-2013
+DEFINITION  DNA-damage-inducible protein J [Weissella koreensis].
+ACCESSION   WP_006846156
+VERSION     WP_006846156.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella koreensis
+  ORGANISM  Weissella koreensis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..97
+                     /organism="Weissella koreensis"
+                     /db_xref="taxon:165096"
+     Protein         1..97
+                     /product="DNA-damage-inducible protein J"
+                     /calculated_mol_wt=10770
+     Region          1..>56
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mattpttirl ddelrdelep rlkaaglsln gylvmaakqf viqnkipfev ivpeeipnet
+       61 thkalieaqa kemglipdns pefnnvddlm nyldsed
+//
+
+LOCUS       WP_009765358              56 aa            linear   BCT 06-JUN-2013
+DEFINITION  RelB/DinJ family protein addiction module antitoxin [Weissella
+            ceti].
+ACCESSION   WP_009765358
+VERSION     WP_009765358.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella ceti
+  ORGANISM  Weissella ceti
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..56
+                     /organism="Weissella ceti"
+                     /db_xref="taxon:759620"
+     Protein         1..56
+                     /product="RelB/DinJ family protein addiction module
+                     antitoxin"
+                     /calculated_mol_wt=6132
+     Region          1..>49
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mtekliqlrv ednvkdkcde lfaanglttq saikmmltqv ahsgetpfdn lfaphn
+//
+
+LOCUS       WP_009765360              61 aa            linear   BCT 06-JUN-2013
+DEFINITION  RelB/DinJ family protein addiction module antitoxin [Weissella
+            ceti].
+ACCESSION   WP_009765360
+VERSION     WP_009765360.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella ceti
+  ORGANISM  Weissella ceti
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..61
+                     /organism="Weissella ceti"
+                     /db_xref="taxon:759620"
+     Protein         1..61
+                     /product="RelB/DinJ family protein addiction module
+                     antitoxin"
+                     /calculated_mol_wt=6717
+     Region          7..>55
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mtkktettek llqvrvedtv tdrcdklfaa rgittqnair mllaqvansg etpfdnlfts
+       61 k
+//
+
+LOCUS       WP_009765372              59 aa            linear   BCT 06-JUN-2013
+DEFINITION  RelB/DinJ family protein addiction module antitoxin [Weissella
+            ceti].
+ACCESSION   WP_009765372
+VERSION     WP_009765372.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella ceti
+  ORGANISM  Weissella ceti
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..59
+                     /organism="Weissella ceti"
+                     /db_xref="taxon:759620"
+     Protein         1..59
+                     /product="RelB/DinJ family protein addiction module
+                     antitoxin"
+                     /calculated_mol_wt=6573
+     Region          8..>52
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 maepkekliq lrietdvkdr ceelfhaqgl tiqgaikmml tqvshtgetp fdnlfsgkq
+//
+
+LOCUS       WP_009765374              58 aa            linear   BCT 06-JUN-2013
+DEFINITION  RelB/DinJ family protein addiction module antitoxin [Weissella
+            ceti].
+ACCESSION   WP_009765374
+VERSION     WP_009765374.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella ceti
+  ORGANISM  Weissella ceti
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..58
+                     /organism="Weissella ceti"
+                     /db_xref="taxon:759620"
+     Protein         1..58
+                     /product="RelB/DinJ family protein addiction module
+                     antitoxin"
+                     /calculated_mol_wt=6154
+     Region          5..>49
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mgekllqlri sedvknkcda vfsdqgvtiq gaikimltqv antgnspfdg ifeskigk
+//
+
+LOCUS       WP_010370452              94 aa            linear   BCT 14-JUN-2015
+DEFINITION  addiction module antitoxin RelB [Weissella cibaria].
+ACCESSION   WP_010370452
+VERSION     WP_010370452.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella cibaria
+  ORGANISM  Weissella cibaria
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..94
+                     /organism="Weissella cibaria"
+                     /db_xref="taxon:137591"
+     Protein         1..94
+                     /product="addiction module antitoxin RelB"
+                     /calculated_mol_wt=10443
+     Region          4..>56
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 maqasgtfsm ridpalkkqa sqlfndlgid lsaaislflk qsvaeqglpf qpskethrer
+       61 diarllleie qghqdklqgd tftdqevrer fgld
+//
+
+LOCUS       WP_010375185              93 aa            linear   BCT 29-MAR-2016
+DEFINITION  MULTISPECIES: hypothetical protein [Weissella].
+ACCESSION   WP_010375185
+VERSION     WP_010375185.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella
+  ORGANISM  Weissella
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..93
+                     /organism="Weissella"
+                     /db_xref="taxon:46255"
+     Protein         1..93
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=10000
+     Region          9..89
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mthtikrrvq fsvdegvaea vesllakagl ttstllplvy aqilntgqip ithelsdedl
+       61 aeakiiadsy evptfevntd advqaffddd ggy
+//
+
+LOCUS       WP_013989491              97 aa            linear   BCT 18-MAY-2013
+DEFINITION  DNA-damage-inducible protein J [Weissella koreensis].
+ACCESSION   WP_013989491
+VERSION     WP_013989491.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella koreensis
+  ORGANISM  Weissella koreensis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..97
+                     /organism="Weissella koreensis"
+                     /db_xref="taxon:165096"
+     Protein         1..97
+                     /product="DNA-damage-inducible protein J"
+                     /calculated_mol_wt=10730
+     Region          1..93
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 maiipttirl ndelrdelep rlkavglsln dylvmaakqf viqnkipfev ivpkgipnet
+       61 thkalieaqt reiglipdns pefdnvddli nhlgsdn
+//
+
+LOCUS       WP_022791135              55 aa            linear   BCT 14-JUN-2015
+DEFINITION  addiction module antitoxin RelB [Weissella halotolerans].
+ACCESSION   WP_022791135
+VERSION     WP_022791135.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella halotolerans
+  ORGANISM  Weissella halotolerans
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..55
+                     /organism="Weissella halotolerans"
+                     /db_xref="taxon:1615"
+     Protein         1..55
+                     /product="addiction module antitoxin RelB"
+                     /calculated_mol_wt=6078
+     Region          1..>49
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 maekliqlrv edtvkdrade ifksqglttq taikifltqv antgqspfdh lfegk
+//
+
+LOCUS       GAK31467                  59 aa            linear   BCT 19-JUL-2014
+DEFINITION  hypothetical protein WOSG25_100330 [Weissella oryzae SG25].
+ACCESSION   GAK31467
+VERSION     GAK31467.1
+DBLINK      BioProject: PRJDB1101
+            BioSample: SAMD00000341
+DBSOURCE    accession DF820493.1
+KEYWORDS    .
+SOURCE      Weissella oryzae SG25
+  ORGANISM  Weissella oryzae SG25
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+REFERENCE   1
+  AUTHORS   Tanizawa,Y., Fujisawa,T., Mochizuki,T., Kaminuma,E., Suzuki,Y.,
+            Nakamura,Y. and Tohno,M.
+  TITLE     Draft Genome Sequence of Weissella oryzae SG25T, Isolated from
+            Fermented Rice Grains
+  JOURNAL   Genome Announc 2 (4) (2014)
+   PUBMED   25013139
+  REMARK    DOI:10.1128/genomeA.00667-14
+            Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 59)
+  AUTHORS   Tohno,M. and Tanizawa,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-JUN-2014) Contact:Masanori Tohno National Agriculture
+            and Food Research Organization, National Institute of Livestock and
+            Grassland Science, Animal Feeding and Management Research Division;
+            Senbonmatsu 768, Nasushiobara, Tochigi 329-2793, Japan
+COMMENT     annotated by GenomeRefine.
+FEATURES             Location/Qualifiers
+     source          1..59
+                     /organism="Weissella oryzae SG25"
+                     /strain="SG25"
+                     /db_xref="taxon:1329250"
+                     /note="scaffold: sequence10;
+                     type strain of Weissella Oryzae"
+     Protein         1..59
+                     /product="hypothetical protein"
+     Region          7..>51
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+     CDS             1..59
+                     /locus_tag="WOSG25_100330"
+                     /coded_by="complement(DF820493.1:33186..33365)"
+                     /note="gene_1554;
+                     identified by MetaGeneAnnotator; putative"
+                     /transl_table=11
+ORIGIN      
+        1 mrimekliqi rieddvkqrv dsvfrnegls sqqavkmflt qvantghspf egmfgprnk
+//
+
+LOCUS       WP_027698518              60 aa            linear   BCT 12-JUN-2014
+DEFINITION  RelB/DinJ family addiction module antitoxin [Weissella oryzae].
+ACCESSION   WP_027698518
+VERSION     WP_027698518.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella oryzae
+  ORGANISM  Weissella oryzae
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..60
+                     /organism="Weissella oryzae"
+                     /db_xref="taxon:1129792"
+     Protein         1..60
+                     /product="RelB/DinJ family addiction module antitoxin"
+                     /calculated_mol_wt=6612
+     Region          1..>49
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 maekliqlrv edavknqade ifksqglttq taikifltqv antgqspfdn lfvshqnnnh
+//
+
+LOCUS       WP_027698943              54 aa            linear   BCT 12-JUN-2014
+DEFINITION  RelB/DinJ family addiction module antitoxin [Weissella oryzae].
+ACCESSION   WP_027698943
+VERSION     WP_027698943.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella oryzae
+  ORGANISM  Weissella oryzae
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..54
+                     /organism="Weissella oryzae"
+                     /db_xref="taxon:1129792"
+     Protein         1..54
+                     /product="RelB/DinJ family addiction module antitoxin"
+                     /calculated_mol_wt=6008
+     Region          1..>49
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 maekliqlrv eseiktksde ifakqglttq naikifltqv vnnnngpfae lftr
+//
+
+LOCUS       WP_027699168              59 aa            linear   BCT 12-JUN-2014
+DEFINITION  RelB/DinJ family addiction module antitoxin [Weissella oryzae].
+ACCESSION   WP_027699168
+VERSION     WP_027699168.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella oryzae
+  ORGANISM  Weissella oryzae
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..59
+                     /organism="Weissella oryzae"
+                     /db_xref="taxon:1129792"
+     Protein         1..59
+                     /product="RelB/DinJ family addiction module antitoxin"
+                     /calculated_mol_wt=6465
+     Region          5..>49
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 meekliqlki saetklkade ilkqhglstq aavkmfltqi antgrspfdg ifykdsskp
+//
+
+LOCUS       WP_027699440              57 aa            linear   BCT 12-JUN-2014
+DEFINITION  RelB/DinJ family addiction module antitoxin [Weissella oryzae].
+ACCESSION   WP_027699440
+VERSION     WP_027699440.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella oryzae
+  ORGANISM  Weissella oryzae
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..57
+                     /organism="Weissella oryzae"
+                     /db_xref="taxon:1129792"
+     Protein         1..57
+                     /product="RelB/DinJ family addiction module antitoxin"
+                     /calculated_mol_wt=6409
+     Region          1..>57
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mmekliqiri eddvkqrvds vfrneglssq qavkmfltqv antghspfeg mfgprnk
+//
+
+LOCUS       WP_027699924              58 aa            linear   BCT 12-JUN-2014
+DEFINITION  RelB/DinJ family addiction module antitoxin [Weissella oryzae].
+ACCESSION   WP_027699924
+VERSION     WP_027699924.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella oryzae
+  ORGANISM  Weissella oryzae
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..58
+                     /organism="Weissella oryzae"
+                     /db_xref="taxon:1129792"
+     Protein         1..58
+                     /product="RelB/DinJ family addiction module antitoxin"
+                     /calculated_mol_wt=6631
+     Region          5..>49
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mnekliqiki dedikqqade vfkklglttq iairifmtqv aktketpfdn lftgknny
+//
+
+LOCUS       AIG65680                  56 aa            linear   BCT 17-AUG-2015
+DEFINITION  Addiction module antitoxin, RelB/DinJ family [Weissella ceti].
+ACCESSION   AIG65680
+VERSION     AIG65680.1
+DBLINK      BioProject: PRJNA243375
+            BioSample: SAMN02716090
+DBSOURCE    accession CP007588.1
+KEYWORDS    .
+SOURCE      Weissella ceti
+  ORGANISM  Weissella ceti
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+REFERENCE   1  (residues 1 to 56)
+  AUTHORS   Figueiredo,H.C., Leal,G., Pereira,F.L., Soares,S.C., Dorella,F.A.,
+            Carvalho,A.F., Pereira,U.P. and Azevedo,V.A.
+  TITLE     Whole-Genome Sequence of Weissella ceti Strain WS08, Isolated from
+            Diseased Rainbow Trout in Brazil
+  JOURNAL   Genome Announc 2 (4) (2014)
+   PUBMED   25146147
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 56)
+  AUTHORS   Figueiredo,H.C.P., Leal,C.A.G., Pereira,F.L., Soares,S.C.,
+            Dorella,F.A., Carvalho,A.F., Pereira,U.P. and Azevedo,V.A.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-AUG-2015) Veterinary School, Federal University of
+            Minas Gerais, Av. Pres. Antonio Carlos, 6627 Escola de Veterinaria,
+            Belo Horizonte, Minas Gerais 30161-970, Brazil
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..56
+                     /organism="Weissella ceti"
+                     /strain="WS08"
+                     /isolation_source="brain"
+                     /db_xref="taxon:759620"
+                     /country="Brazil"
+                     /collection_date="2008-05-05"
+     Protein         1..56
+                     /product="Addiction module antitoxin, RelB/DinJ family"
+     Region          1..>50
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+     CDS             1..56
+                     /locus_tag="WS08_0741"
+                     /coded_by="complement(CP007588.1:818591..818761)"
+                     /transl_table=11
+ORIGIN      
+        1 mmaekliqlr vednvkdkad eifkaqgltt qtaikifltq vahtgnspfd nlfsak
+//
+
+LOCUS       WP_039968164              56 aa            linear   BCT 17-JAN-2015
+DEFINITION  RelB/DinJ family addiction module antitoxin [Weissella confusa].
+ACCESSION   WP_039968164
+VERSION     WP_039968164.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella confusa
+  ORGANISM  Weissella confusa
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..56
+                     /organism="Weissella confusa"
+                     /db_xref="taxon:1583"
+     Protein         1..56
+                     /product="RelB/DinJ family addiction module antitoxin"
+                     /calculated_mol_wt=6333
+     Region          5..>48
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mmekliqirv eeeirngade vfrqeglttq qavkmfltqv anngespfhd lfkpka
+//
+
+LOCUS       WP_042493705              57 aa            linear   BCT 09-FEB-2015
+DEFINITION  RelB/DinJ family addiction module antitoxin [Weissella hellenica].
+ACCESSION   WP_042493705
+VERSION     WP_042493705.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella hellenica
+  ORGANISM  Weissella hellenica
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..57
+                     /organism="Weissella hellenica"
+                     /db_xref="taxon:46256"
+     Protein         1..57
+                     /product="RelB/DinJ family addiction module antitoxin"
+                     /calculated_mol_wt=6420
+     Region          4..>48
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mekliqirve eevrnaadnv fkenglttqq avkmfltqva hsgkspfddl fkakdqr
+//
+
+LOCUS       KIU20471                  72 aa            linear   BCT 19-FEB-2015
+DEFINITION  bifunctional antitoxin/transcriptional repressor RelB [Weissella
+            cibaria].
+ACCESSION   KIU20471
+VERSION     KIU20471.1
+DBLINK      BioProject: PRJNA268711
+            BioSample: SAMN03223844
+DBSOURCE    accession JWHU01000019.1
+KEYWORDS    .
+SOURCE      Weissella cibaria
+  ORGANISM  Weissella cibaria
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+REFERENCE   1  (residues 1 to 72)
+  AUTHORS   Lynch,K.M., Lucid,A., Arendt,E.K., Sleator,R.D., Lucey,B. and
+            Coffey,A.
+  TITLE     Genomics of the Weissella cibaria species with an examination of
+            its metabolic traits
+  JOURNAL   Microbiology (Reading, Engl.) (2015) In press
+   PUBMED   25678547
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (residues 1 to 72)
+  AUTHORS   Lynch,K.M. and Coffey,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-NOV-2014) Biological Sciences, Cork Institute Of
+            Technology, Rossa Avenue, Bishopstown, Cork, Ireland
+COMMENT     ##Genome-Assembly-Data-START##
+            Assembly Method        :: CLC NGS Cell v. April-2014
+            Genome Representation  :: Full
+            Expected Final Version :: No
+            Genome Coverage        :: 270.0x
+            Sequencing Technology  :: Illumina MiSeq
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..72
+                     /organism="Weissella cibaria"
+                     /strain="MG1"
+                     /db_xref="taxon:137591"
+                     /country="Ireland"
+     Protein         1..72
+                     /product="bifunctional antitoxin/transcriptional repressor
+                     RelB"
+     Region          20..>64
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+     CDS             1..72
+                     /locus_tag="QX99_01205"
+                     /coded_by="complement(JWHU01000019.1:19876..20094)"
+                     /inference="ab initio prediction:Prodigal:2.60"
+                     /inference="protein motif:CLUSTERS:PRK11235"
+                     /transl_table=11
+ORIGIN      
+        1 mrynmyvsym rlgdmtmekl iqirieeeir naadevfrrn glttqqavkm fltqvanngq
+       61 spfdnlftpk qq
+//
+
+LOCUS       KIU21472                  56 aa            linear   BCT 19-FEB-2015
+DEFINITION  bifunctional antitoxin/transcriptional repressor RelB [Weissella
+            cibaria].
+ACCESSION   KIU21472
+VERSION     KIU21472.1
+DBLINK      BioProject: PRJNA268711
+            BioSample: SAMN03223848
+DBSOURCE    accession JWHT01000048.1
+KEYWORDS    .
+SOURCE      Weissella cibaria
+  ORGANISM  Weissella cibaria
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+REFERENCE   1  (residues 1 to 56)
+  AUTHORS   Lynch,K.M., Lucid,A., Arendt,E.K., Sleator,R.D., Lucey,B. and
+            Coffey,A.
+  TITLE     Genomics of the Weissella cibaria species with an examination of
+            its metabolic traits
+  JOURNAL   Microbiology (Reading, Engl.) (2015) In press
+   PUBMED   25678547
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (residues 1 to 56)
+  AUTHORS   Lynch,K.M. and Coffey,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-NOV-2014) Biological Sciences, Cork Institute Of
+            Technology, Rossa Avenue, Bishopstown, Cork, Ireland
+COMMENT     ##Genome-Assembly-Data-START##
+            Assembly Method        :: CLC NGS Cell v. April-2014
+            Genome Representation  :: Full
+            Expected Final Version :: No
+            Genome Coverage        :: 178.0x
+            Sequencing Technology  :: Illumina MiSeq
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..56
+                     /organism="Weissella cibaria"
+                     /strain="AB3b"
+                     /db_xref="taxon:137591"
+                     /country="Ireland"
+     Protein         1..56
+                     /product="bifunctional antitoxin/transcriptional repressor
+                     RelB"
+     Region          3..>51
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+     CDS             1..56
+                     /locus_tag="ab3b_01948"
+                     /coded_by="complement(JWHT01000048.1:22466..22636)"
+                     /inference="ab initio prediction:Prodigal:2.60"
+                     /inference="protein motif:CLUSTERS:PRK11235"
+                     /transl_table=11
+ORIGIN      
+        1 mvmsekliql rveedvkdka daifkaqglt tqsaikmflt qvahtgespf dhlfkn
+//
+
+LOCUS       WP_043941104              56 aa            linear   BCT 01-MAR-2015
+DEFINITION  RelB/DinJ family addiction module antitoxin [Weissella cibaria].
+ACCESSION   WP_043941104
+VERSION     WP_043941104.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella cibaria
+  ORGANISM  Weissella cibaria
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..56
+                     /organism="Weissella cibaria"
+                     /db_xref="taxon:137591"
+     Protein         1..56
+                     /product="RelB/DinJ family addiction module antitoxin"
+                     /calculated_mol_wt=6363
+     Region          4..>48
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mekliqirie edirnaadev frrnglttqq avkmfltqva nngqspfdnl ftpkqq
+//
+
+LOCUS       KRN23442                  93 aa            linear   BCT 06-NOV-2015
+DEFINITION  hypothetical protein IV69_GL001418 [Weissella confusa].
+ACCESSION   KRN23442
+VERSION     KRN23442.1
+DBLINK      BioProject: PRJNA222257
+            BioSample: SAMN02797800
+DBSOURCE    accession JQAY01000005.1
+KEYWORDS    .
+SOURCE      Weissella confusa
+  ORGANISM  Weissella confusa
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+REFERENCE   1  (residues 1 to 93)
+  AUTHORS   Sun,Z., Harris,H.M., McCann,A., Guo,C., Argimon,S., Zhang,W.,
+            Yang,X., Jeffery,I.B., Cooney,J.C., Kagawa,T.F., Liu,W., Song,Y.,
+            Salvetti,E., Wrobel,A., Rasinkangas,P., Parkhill,J., Rea,M.C.,
+            O'Sullivan,O., Ritari,J., Douillard,F.P., Paul Ross,R., Yang,R.,
+            Briner,A.E., Felis,G.E., de Vos,W.M., Barrangou,R.,
+            Klaenhammer,T.R., Caufield,P.W., Cui,Y., Zhang,H. and O'Toole,P.W.
+  TITLE     Expanding the biotechnology potential of lactobacilli through
+            comparative genomics of 213 strains and associated genera
+  JOURNAL   Nat Commun 6, 8322 (2015)
+   PUBMED   26415554
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 93)
+  AUTHORS   Sun,Z., Harris,H.M., Argimon,S., Zhang,W., McCann,A., Jeffery,I.B.,
+            Yang,X., Guo,C., Liu,W., Song,Y., Yang,R., Cui,Y., Zhang,H. and
+            O'Toole,P.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-AUG-2014) Inner Mongolia Agricultural University, Key
+            Laboratory of Dairy Biotechnology and Engineering, Education
+            Ministry of China, Zhaowuda Road, No. 306, Hohhot, Inner Mongolia
+            010018, The People's Republic of China
+COMMENT     ##Genome-Assembly-Data-START##
+            Assembly Method       :: SOAPdenovo v. 2
+            Genome Coverage       :: 100x
+            Sequencing Technology :: Illumina MiSeq; Illumina HiSeq
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..93
+                     /organism="Weissella confusa"
+                     /strain="DSM 20196"
+                     /isolation_source="fermented sausages"
+                     /culture_collection="DSM:20196"
+                     /db_xref="taxon:1583"
+                     /collection_date="1969"
+     Protein         1..93
+                     /product="hypothetical protein"
+     Region          7..80
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+     CDS             1..93
+                     /locus_tag="IV69_GL001418"
+                     /coded_by="complement(JQAY01000005.1:79579..79860)"
+                     /transl_table=11
+ORIGIN      
+        1 mdmkeqstdr lsirinsevk qqaseileel gldlssavnv flrqvihdng lpfqpnletk
+       61 qmvavdslld miaeakaegg nhtldeikkr ylk
+//
+
+LOCUS       WP_057744150              55 aa            linear   BCT 12-NOV-2015
+DEFINITION  RelB/DinJ family addiction module antitoxin [Weissella
+            viridescens].
+ACCESSION   WP_057744150
+VERSION     WP_057744150.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella viridescens
+  ORGANISM  Weissella viridescens
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..55
+                     /organism="Weissella viridescens"
+                     /db_xref="taxon:1629"
+     Protein         1..55
+                     /product="RelB/DinJ family addiction module antitoxin"
+                     /calculated_mol_wt=5999
+     Region          1..>49
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 msekliqlrv ednvkdkade ifkaqglttq taikifltqv antgespfdn lfsgk
+//
+
+LOCUS       WP_057753730              58 aa            linear   BCT 12-NOV-2015
+DEFINITION  RelB/DinJ family addiction module antitoxin [Weissella kandleri].
+ACCESSION   WP_057753730
+VERSION     WP_057753730.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella kandleri
+  ORGANISM  Weissella kandleri
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..58
+                     /organism="Weissella kandleri"
+                     /db_xref="taxon:1616"
+     Protein         1..58
+                     /product="RelB/DinJ family addiction module antitoxin"
+                     /calculated_mol_wt=6386
+     Region          1..>57
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 msekliqlrv eenvkdtade ifkaqglttq taikifltqv antgdspfsn lfksnkeq
+//
+
+LOCUS       WP_057787402              55 aa            linear   BCT 12-NOV-2015
+DEFINITION  RelB/DinJ family addiction module antitoxin [Weissella minor].
+ACCESSION   WP_057787402
+VERSION     WP_057787402.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella minor
+  ORGANISM  Weissella minor
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..55
+                     /organism="Weissella minor"
+                     /db_xref="taxon:1620"
+     Protein         1..55
+                     /product="RelB/DinJ family addiction module antitoxin"
+                     /calculated_mol_wt=6001
+     Region          1..>49
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 msekliqlrv edsvkdkade ifkaqglttq taikifltqv antsqspfdn lfsgk
+//
+
+LOCUS       WP_057753451              74 aa            linear   BCT 12-NOV-2015
+DEFINITION  hypothetical protein [Weissella kandleri].
+ACCESSION   WP_057753451
+VERSION     WP_057753451.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella kandleri
+  ORGANISM  Weissella kandleri
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..74
+                     /organism="Weissella kandleri"
+                     /db_xref="taxon:1616"
+     Protein         1..74
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=8531
+     Region          4..40
+                     /region_name="RHH_1"
+                     /note="Ribbon-helix-helix protein, copG family; pfam01402"
+                     /db_xref="CDD:279710"
+ORIGIN      
+        1 matttiripd dqyneiqela nfhgmkvsdf mrdtllerve dendytaaie vlnqhnesvp
+       61 ledvmrevft edev
+//
+
+LOCUS       WP_006846158             118 aa            linear   BCT 29-MAY-2013
+DEFINITION  toxin RelE [Weissella koreensis].
+ACCESSION   WP_006846158
+VERSION     WP_006846158.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella koreensis
+  ORGANISM  Weissella koreensis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..118
+                     /organism="Weissella koreensis"
+                     /db_xref="taxon:165096"
+     Protein         1..118
+                     /product="toxin RelE"
+                     /calculated_mol_wt=14012
+     Region          20..111
+                     /region_name="Gp49"
+                     /note="Phage derived protein Gp49-like (DUF891);
+                     pfam05973"
+                     /db_xref="CDD:283596"
+ORIGIN      
+        1 menvefetyk rpnghdefle wlntlpdrdq qkmlmtieqt qeqglmvarq lkwikkldnn
+       61 lfelrseagg niqraiyfhv ehgqyiithg ftkktqktpa reikhaielr kewsdnen
+//
+
+LOCUS       WP_013989493             118 aa            linear   BCT 27-MAY-2013
+DEFINITION  toxin RelE [Weissella koreensis].
+ACCESSION   WP_013989493
+VERSION     WP_013989493.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella koreensis
+  ORGANISM  Weissella koreensis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..118
+                     /organism="Weissella koreensis"
+                     /db_xref="taxon:165096"
+     Protein         1..118
+                     /product="toxin RelE"
+                     /calculated_mol_wt=14012
+     Region          20..111
+                     /region_name="Gp49"
+                     /note="Phage derived protein Gp49-like (DUF891);
+                     pfam05973"
+                     /db_xref="CDD:283596"
+ORIGIN      
+        1 menvefetyk rpnghdefle wlnalpdrdq qkmlmtieqt qeqglmvarq lkwikkldnn
+       61 lfelrsetgg niqraiyfhv ehgqyiithg ftkktqktpa reikhaielr kewsdnen
+//
+
+LOCUS       WP_042493577             116 aa            linear   BCT 09-FEB-2015
+DEFINITION  addiction module toxin RelE [Weissella hellenica].
+ACCESSION   WP_042493577
+VERSION     WP_042493577.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella hellenica
+  ORGANISM  Weissella hellenica
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..116
+                     /organism="Weissella hellenica"
+                     /db_xref="taxon:46256"
+     Protein         1..116
+                     /product="addiction module toxin RelE"
+                     /calculated_mol_wt=13882
+     Region          16..105
+                     /region_name="Gp49"
+                     /note="Phage derived protein Gp49-like (DUF891);
+                     pfam05973"
+                     /db_xref="CDD:283596"
+ORIGIN      
+        1 mekfefdyyn waefeqfldq lpdkdaakli atiqnienng llvaerqlwv kklennlyei
+       61 rskrssniqr aiyfqvkgsq yiithaftkk tqktpenekq iarnrrsqyf nkeenq
+//
+
+LOCUS       WP_042494389             123 aa            linear   BCT 09-FEB-2015
+DEFINITION  toxin RelE [Weissella hellenica].
+ACCESSION   WP_042494389
+VERSION     WP_042494389.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella hellenica
+  ORGANISM  Weissella hellenica
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..123
+                     /organism="Weissella hellenica"
+                     /db_xref="taxon:46256"
+     Protein         1..123
+                     /product="toxin RelE"
+                     /calculated_mol_wt=14498
+     Region          20..108
+                     /region_name="Gp49"
+                     /note="Phage derived protein Gp49-like (DUF891);
+                     pfam05973"
+                     /db_xref="CDD:283596"
+ORIGIN      
+        1 mkipkfksyq rlnghdefve fyqqlpvkdr kklialirai eqqglltaak mewikkldsn
+       61 lyeirskvas niqrglyfha eeeqyiithg ftkktqktpa reikhakeir aeyyqrkgde
+      121 kng
+//
+
+LOCUS       AKL79730                 118 aa            linear   BCT 03-OCT-2015
+DEFINITION  Putative phage-related protein (plasmid) [Weissella confusa].
+ACCESSION   AKL79730
+VERSION     AKL79730.1
+DBSOURCE    accession KR350502.1
+KEYWORDS    .
+SOURCE      Weissella confusa
+  ORGANISM  Weissella confusa
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+REFERENCE   1  (residues 1 to 118)
+  AUTHORS   Malik,A. and Heng,N.C.K.
+  TITLE     Plasmid pWcMBF8-1 isolated from Weissella confusa strain MBF8-1
+            carries a bacteriocin-encoding locus
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 118)
+  AUTHORS   Malik,A. and Heng,N.C.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-APR-2015) Division of Pharmaceutical Microbiology and
+            Biotechnology, Faculty of Pharmacy, Universitas Indonesia, Kampus
+            UI Depok, Depok, Jawa Barat 16424, Indonesia
+COMMENT     Method: conceptual translation supplied by author.
+FEATURES             Location/Qualifiers
+     source          1..118
+                     /organism="Weissella confusa"
+                     /strain="MBF8-1"
+                     /db_xref="taxon:1583"
+                     /plasmid="pWcMBF8-1"
+     Protein         1..118
+                     /product="Putative phage-related protein"
+     Region          20..111
+                     /region_name="Gp49"
+                     /note="Phage derived protein Gp49-like (DUF891);
+                     pfam05973"
+                     /db_xref="CDD:283596"
+     CDS             1..118
+                     /locus_tag="pWcMBF8-1_18"
+                     /coded_by="complement(KR350502.1:12411..12767)"
+                     /transl_table=11
+ORIGIN      
+        1 menpkftaft rpnghnefve fvntlpvkdr qkllstlkki eehglpvasr mewvkplnkn
+       61 iyeirskvgs niqralyfhv vgnefiithg ftkktqktps aeikhgealr keyfdmed
+//
+
+LOCUS       AEJ22901                  56 aa            linear   BCT 30-JAN-2014
+DEFINITION  hypothetical protein WKK_00125 [Weissella koreensis KACC 15510].
+ACCESSION   AEJ22901
+VERSION     AEJ22901.1
+DBLINK      BioProject: PRJNA67979
+            BioSample: SAMN02603132
+DBSOURCE    accession CP002899.1
+KEYWORDS    .
+SOURCE      Weissella koreensis KACC 15510
+  ORGANISM  Weissella koreensis KACC 15510
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+REFERENCE   1  (residues 1 to 56)
+  AUTHORS   Lee,S.H., Jung,J.Y., Lee,S.H. and Jeon,C.O.
+  TITLE     Complete Genome Sequence of Weissella koreensis KACC 15510,
+            Isolated from Kimchi
+  JOURNAL   J. Bacteriol. 193 (19), 5534 (2011)
+   PUBMED   21914863
+REFERENCE   2  (residues 1 to 56)
+  AUTHORS   Lee,S.H. and Jeon,C.O.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-JUN-2011) Life Science and Research Center for
+            Biomolecules and Bioscience, Chung-ang University, 221
+            Heuksuk-dong, Dongjak-gu, Seoul 156-756, Republic of Korea
+COMMENT     Annotation was added by the NCBI Prokaryotic Genomes Automatic
+            Annotation Pipeline Group. Information about the Pipeline can be
+            found here:
+            http://www.ncbi.nlm.nih.gov/genomes/static/Pipeline.html. Please be
+            aware that the annotation is done automatically with little or no
+            manual curation.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..56
+                     /organism="Weissella koreensis KACC 15510"
+                     /strain="KACC 15510"
+                     /isolation_source="kimchi"
+                     /culture_collection="KACC:15510"
+                     /db_xref="taxon:1045854"
+     Protein         1..56
+                     /product="hypothetical protein"
+     Region          6..56
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; pfam07927"
+                     /db_xref="CDD:285205"
+     CDS             1..56
+                     /locus_tag="WKK_00125"
+                     /coded_by="complement(CP002899.1:23131..23301)"
+                     /note="COG1724 Predicted periplasmic or secreted
+                     lipoprotein"
+                     /transl_table=11
+ORIGIN      
+        1 msitakqmvk flkkngfkes rqacshlimi klemphipvp ihlwnlkpgt ersilk
+//
+
+LOCUS       WP_057789080              94 aa            linear   BCT 12-NOV-2015
+DEFINITION  plasmid maintenance system killer [Weissella minor].
+ACCESSION   WP_057789080
+VERSION     WP_057789080.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella minor
+  ORGANISM  Weissella minor
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..94
+                     /organism="Weissella minor"
+                     /db_xref="taxon:1620"
+     Protein         1..94
+                     /product="plasmid maintenance system killer"
+                     /calculated_mol_wt=11206
+     Region          1..94
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 miihfndaet ekiyhqevsr kypravqmqa lrrmmlmdaa ldmhdlrtpp gnhfekltgd
+       61 ltgkfsirin rqyrlvftih ktnhfynvei mdyh
+//
+
+LOCUS       CCC56597                 118 aa            linear   BCT 04-OCT-2011
+DEFINITION  putative uncharacterized protein [Weissella thailandensis fsh4-2].
+ACCESSION   CCC56597
+VERSION     CCC56597.1
+DBLINK      BioProject: PRJEA68571
+DBSOURCE    embl accession HE575150.1
+KEYWORDS    .
+SOURCE      Weissella thailandensis fsh4-2
+  ORGANISM  Weissella thailandensis fsh4-2
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+REFERENCE   1
+  AUTHORS   Benomar,N., Abriouel,H., Lee,H., Cho,G.S., Huch,M., Pulido,R.P.,
+            Holzapfel,W.H., Galvez,A. and Franz,C.M.
+  TITLE     Genome Sequence of Weissella thailandensis fsh4-2
+  JOURNAL   J. Bacteriol. 193 (20), 5868 (2011)
+   PUBMED   21952542
+REFERENCE   2  (residues 1 to 118)
+  AUTHORS   Franz,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JUL-2011) to the INSDC. Ciencias de la Salud,
+            Universidad de Jaen, Campus Las Lagunillas, Jaen, 23071, SPAIN
+COMMENT     Accession numbers for all the contigs in this project:
+            HE575133-HE575182.
+FEATURES             Location/Qualifiers
+     source          1..118
+                     /organism="Weissella thailandensis fsh4-2"
+                     /strain="fsh4-2"
+                     /db_xref="taxon:1056112"
+                     /note="contig00012"
+     Protein         1..118
+                     /product="putative uncharacterized protein"
+     Region          11..104
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+     CDS             1..118
+                     /locus_tag="WT2_00597"
+                     /coded_by="complement(HE575150.1:78472..78828)"
+                     /transl_table=11
+ORIGIN      
+        1 mkklkfkpra tfnadlkrla sldktivdev raaidllleq qqlpsefddh elrrqmtgyk
+       61 efhlrdtpks kipndindvl vvytidknel vligirvgsh drlfpcqnqs knyrkkeq
+//
+
+LOCUS       WP_002827220             117 aa            linear   BCT 12-MAY-2013
+DEFINITION  hypothetical protein [Weissella paramesenteroides].
+ACCESSION   WP_002827220
+VERSION     WP_002827220.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella paramesenteroides
+  ORGANISM  Weissella paramesenteroides
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..117
+                     /organism="Weissella paramesenteroides"
+                     /db_xref="taxon:1249"
+     Protein         1..117
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=13522
+     Region          11..104
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 mkklrfkpra tfnadlkrla mldqtivdev raaidllleq qqlpsefgdh elqrrmtgyn
+       61 efhlrdtpkn ktpndindvl vvytidqdel vligirvgsh drlfpgqnqs ksyrknd
+//
+
+LOCUS       WP_003610604             108 aa            linear   BCT 26-MAY-2015
+DEFINITION  plasmid stabilization system protein [Weissella confusa].
+ACCESSION   WP_003610604
+VERSION     WP_003610604.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella confusa
+  ORGANISM  Weissella confusa
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..108
+                     /organism="Weissella confusa"
+                     /db_xref="taxon:1583"
+     Protein         1..108
+                     /product="plasmid stabilization system protein"
+                     /calculated_mol_wt=12645
+     Region          7..101
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; pfam05016"
+                     /db_xref="CDD:282823"
+ORIGIN      
+        1 mpgeyevnit nafqndldei heylssnfse evtqrvmarl iadierlets prlgiplrnf
+       61 hpelntnamr ivsekhiiiy eidehcfvid llrlirgern yiqelfsk
+//
+
+LOCUS       WP_027698676              88 aa            linear   BCT 12-JUN-2014
+DEFINITION  addiction module protein [Weissella oryzae].
+ACCESSION   WP_027698676
+VERSION     WP_027698676.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella oryzae
+  ORGANISM  Weissella oryzae
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..88
+                     /organism="Weissella oryzae"
+                     /db_xref="taxon:1129792"
+     Protein         1..88
+                     /product="addiction module protein"
+                     /calculated_mol_wt=10129
+     Region          8..87
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 manfevvien sakldlkkig kanlksqflk vveqlkddpf kinqrfeklk ppvegkysrr
+       61 ingqhrvvyk vnqankqvvi lsdyghye
+//
+
+LOCUS       WP_043941553              93 aa            linear   BCT 19-AUG-2015
+DEFINITION  hypothetical protein [Weissella cibaria].
+ACCESSION   WP_043941553
+VERSION     WP_043941553.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella cibaria
+  ORGANISM  Weissella cibaria
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..93
+                     /organism="Weissella cibaria"
+                     /db_xref="taxon:137591"
+     Protein         1..93
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=10651
+     Region          4..88
+                     /region_name="RelE"
+                     /note="mRNA-degrading endonuclease RelE, toxin component
+                     of the RelBE toxin-antitoxin system [Defense mechanisms];
+                     COG2026"
+                     /db_xref="CDD:224937"
+ORIGIN      
+        1 mpiytvayaa sfydsakkld qatlrvikkf iqknlvdldf ptapgkhfrg mlrdyirfrv
+       61 gsyriiavvd qnrlvitnvh vgprrsgyqd fkd
+//
+
+LOCUS       WP_056973192             108 aa            linear   BCT 08-NOV-2015
+DEFINITION  hypothetical protein [Weissella confusa].
+ACCESSION   WP_056973192
+VERSION     WP_056973192.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella confusa
+  ORGANISM  Weissella confusa
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..108
+                     /organism="Weissella confusa"
+                     /db_xref="taxon:1583"
+     Protein         1..108
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=12626
+     Region          7..101
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; pfam05016"
+                     /db_xref="CDD:282823"
+ORIGIN      
+        1 mpgeyevnit nafqndldei heylssnfse evtqrvmarl iadierlets prlgiplrnf
+       61 hpelntnamr ivsgkhiiiy eidehrfvid llrlirgern yiqelfsk
+//
+
+LOCUS       WP_057753454              90 aa            linear   BCT 12-NOV-2015
+DEFINITION  addiction module toxin RelE [Weissella kandleri].
+ACCESSION   WP_057753454
+VERSION     WP_057753454.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella kandleri
+  ORGANISM  Weissella kandleri
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..90
+                     /organism="Weissella kandleri"
+                     /db_xref="taxon:1616"
+     Protein         1..90
+                     /product="addiction module toxin RelE"
+                     /calculated_mol_wt=10569
+     Region          1..88
+                     /region_name="RelE"
+                     /note="mRNA-degrading endonuclease RelE, toxin component
+                     of the RelBE toxin-antitoxin system [Defense mechanisms];
+                     COG2026"
+                     /db_xref="CDD:224937"
+ORIGIN      
+        1 mkysvnfdkk alkefrkldk pvqkrivtwl eqhisgsenp rllgkalegn fntlwryrvg
+       61 nyriiadikd defivlivkt gkrndvyksr
+//
+
+LOCUS       EER74625                 120 aa            linear   BCT 06-JUN-2013
+DEFINITION  toxin-antitoxin system, toxin component, MazF family [Weissella
+            paramesenteroides ATCC 33313].
+ACCESSION   EER74625
+VERSION     EER74625.1
+DBLINK      BioProject: PRJNA34661
+            BioSample: SAMN00139194
+DBSOURCE    accession ACKU01000014.1
+KEYWORDS    .
+SOURCE      Weissella paramesenteroides ATCC 33313
+  ORGANISM  Weissella paramesenteroides ATCC 33313
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+REFERENCE   1  (residues 1 to 120)
+  AUTHORS   Qin,X., Bachman,B., Battles,P., Bell,A., Bess,C., Bickham,C.,
+            Chaboub,L., Chen,D., Coyle,M., Deiros,D.R., Dinh,H., Forbes,L.,
+            Fowler,G., Francisco,L., Fu,Q., Gubbala,S., Hale,W., Han,Y.,
+            Hemphill,L., Highlander,S.K., Hirani,K., Hogues,M., Jackson,L.,
+            Jakkamsetti,A., Javaid,M., Jiang,H., Korchina,V., Kovar,C.,
+            Lara,F., Lee,S., Mata,R., Mathew,T., Moen,C., Morales,K.,
+            Munidasa,M., Nazareth,L., Ngo,R., Nguyen,L., Okwuonu,G., Ongeri,F.,
+            Patil,S., Petrosino,J., Pham,C., Pham,P., Pu,L.-L., Puazo,M.,
+            Raj,R., Reid,J., Rouhana,J., Saada,N., Shang,Y., Simmons,D.,
+            Thornton,R., Warren,J., Weissenberger,G., Zhang,J., Zhang,L.,
+            Zhou,C., Zhu,D., Muzny,D., Worley,K. and Gibbs,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-APR-2009) Human Genome Sequencing Center, Baylor
+            College of Medicine, One Baylor Plaza, Houston, TX 77030, USA
+COMMENT     Product names were updated in June 2013.
+            This sequence is generated as a part of the Human Microbiome
+            Project (HMP), funded by the National Institutes of Health (NIH),
+            National Human Genome Research Institute (NHGRI) Large-Scale
+            Sequencing Research Network and the National Institute of Allergy
+            and Infectious Diseases (NIAID) Microbial Genome Sequencing Centers
+            Program.  The mission of the HMP is to generate resources to enable
+            the characterization of the human microbiota, the microbial
+            communities living within human bodies, and analyze the role of
+            these organisms in human health and disease.  See
+            http://www.hmpdacc.org/ for more information.
+              The sequenced strain was obtained from ATCC.  The genomic DNA was
+            prepared from a single bacterial isolaate.  The sequence generated
+            included at least 10 fold coverage of Roche/454 Lifesciences FLX
+            fragment data at least 8 fold clone coverage of Roche/454
+            Lifesciences paired-end data.
+              The Roche/454 Lifesciences sequence was assembled using the
+            Roche/454 Lifescience Newbler assembler.  The contigs from the
+            Newbler assembly were aligned with mapping tools such as Mosaic and
+            Crossmatch and these data were used for error correction for this
+            version of the draft assembly. This draft assembly meets the HMP
+            draft quality standards (more than 90% of the genome is included in
+            contigs, more than 90% of a core set of bacterial genes are found
+            with > 30% identity and > 30% length; more than 90% of the bases in
+            the assembly have more than 5 fold sequence coverage, the contig
+            N50 length is greater than 5kb, the scaffold N50 length is greater
+            than 20kb, and there is less than 1 gap per 5kb).
+              This is a reference genome for the Human Microbiome Project.
+            This project is co-owned with the Human Microbiome Project DACC.
+            Genome Coverage: 11x
+            Sequencing Technology: 454; ABI
+            
+            Annotation was added to the contigs in June 2009.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..120
+                     /organism="Weissella paramesenteroides ATCC 33313"
+                     /strain="ATCC 33313"
+                     /culture_collection="ATCC:33313"
+                     /db_xref="taxon:585506"
+     Protein         1..120
+                     /product="toxin-antitoxin system, toxin component, MazF
+                     family"
+     Region          8..117
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+     CDS             1..120
+                     /locus_tag="HMPREF0877_1101"
+                     /coded_by="complement(ACKU01000014.1:104854..105216)"
+                     /note="COG: COG2337; Pfam: PF02452; InterPro: IPR011067"
+                     /transl_table=11
+ORIGIN      
+        1 maikkdikrg diffadlspv vgseqggqrp vvivqnnvgn qhsptvivap itakiakpkl
+       61 pthvglpaes vdtgigkdsv illeqirtld krrlqdkigt vpaelvvkid qalfislglv
+//
+
+LOCUS       CCC56420                 120 aa            linear   BCT 04-OCT-2011
+DEFINITION  pemK family transcriptional regulator [Weissella thailandensis
+            fsh4-2].
+ACCESSION   CCC56420
+VERSION     CCC56420.1
+DBLINK      BioProject: PRJEA68571
+DBSOURCE    embl accession HE575149.1
+KEYWORDS    .
+SOURCE      Weissella thailandensis fsh4-2
+  ORGANISM  Weissella thailandensis fsh4-2
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+REFERENCE   1
+  AUTHORS   Benomar,N., Abriouel,H., Lee,H., Cho,G.S., Huch,M., Pulido,R.P.,
+            Holzapfel,W.H., Galvez,A. and Franz,C.M.
+  TITLE     Genome Sequence of Weissella thailandensis fsh4-2
+  JOURNAL   J. Bacteriol. 193 (20), 5868 (2011)
+   PUBMED   21952542
+REFERENCE   2  (residues 1 to 120)
+  AUTHORS   Franz,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JUL-2011) to the INSDC. Ciencias de la Salud,
+            Universidad de Jaen, Campus Las Lagunillas, Jaen, 23071, SPAIN
+COMMENT     Accession numbers for all the contigs in this project:
+            HE575133-HE575182.
+FEATURES             Location/Qualifiers
+     source          1..120
+                     /organism="Weissella thailandensis fsh4-2"
+                     /strain="fsh4-2"
+                     /db_xref="taxon:1056112"
+                     /note="contig00061"
+     Protein         1..120
+                     /product="pemK family transcriptional regulator"
+     Region          8..117
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+     CDS             1..120
+                     /locus_tag="WT2_00415"
+                     /coded_by="complement(HE575149.1:83146..83508)"
+                     /transl_table=11
+ORIGIN      
+        1 manknemkrg diffadlspv vgseqggqrp vvivqnnvgn qhsptvivap itakiakpkl
+       61 pthvglpaes antgigkdsv illeqvrtld krrlqdkigv vpaelivkid qalfislglv
+//
+
+LOCUS       WP_003607860             120 aa            linear   BCT 06-JUN-2015
+DEFINITION  mRNA interferase PemK [Weissella confusa].
+ACCESSION   WP_003607860
+VERSION     WP_003607860.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella confusa
+  ORGANISM  Weissella confusa
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..120
+                     /organism="Weissella confusa"
+                     /db_xref="taxon:1583"
+     Protein         1..120
+                     /product="mRNA interferase PemK"
+                     /calculated_mol_wt=12849
+     Region          8..117
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 manrhdikrg diffadlspv vgseqggqrp vviiqndvgn qhaptvivap itaqiskpkm
+       61 pthvglpsel entgiardsv illeqirtid krrlqdkigl vpghliakld qalvislglv
+//
+
+LOCUS       WP_006845407             113 aa            linear   BCT 27-MAY-2013
+DEFINITION  transcriptional regulator [Weissella koreensis].
+ACCESSION   WP_006845407
+VERSION     WP_006845407.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella koreensis
+  ORGANISM  Weissella koreensis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..113
+                     /organism="Weissella koreensis"
+                     /db_xref="taxon:165096"
+     Protein         1..113
+                     /product="transcriptional regulator"
+                     /calculated_mol_wt=12904
+     Region          8..112
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 mvdkpktgsi iyidfdpskg keiqkkrpav vvsnhilamt spfiwavpis hgsfngkqyp
+       61 mhiklderte tdgtvyaeql rmfdytsrsw ktvemlptdk fneiqmilqa tlr
+//
+
+LOCUS       WP_006845907             125 aa            linear   BCT 06-JUN-2015
+DEFINITION  mRNA interferase PemK [Weissella koreensis].
+ACCESSION   WP_006845907
+VERSION     WP_006845907.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella koreensis
+  ORGANISM  Weissella koreensis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..125
+                     /organism="Weissella koreensis"
+                     /db_xref="taxon:165096"
+     Protein         1..125
+                     /product="mRNA interferase PemK"
+                     /calculated_mol_wt=13911
+     Region          12..122
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 mqdnkqkvke irrgeiwyan lengrigseq ggvrpvlivq nnvgnlyapt tivipistkk
+       61 ikktlpthvk ldaeldgtgi nrdstllleq irvidkkrlq drlgrlpepq mvevrsalsv
+      121 slgfd
+//
+
+LOCUS       WP_009495681             119 aa            linear   BCT 06-JUN-2013
+DEFINITION  toxin-antitoxin addiction module toxin component MazF (an
+            endoRNAse) [Weissella ceti].
+ACCESSION   WP_009495681
+VERSION     WP_009495681.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella ceti
+  ORGANISM  Weissella ceti
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..119
+                     /organism="Weissella ceti"
+                     /db_xref="taxon:759620"
+     Protein         1..119
+                     /product="toxin-antitoxin addiction module toxin component
+                     MazF (an endoRNAse)"
+                     /calculated_mol_wt=12809
+     Region          8..117
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 mgkevevkrg dvffinldpv vgseqggqrp aviiqnnvgn rysptvivap itariskpkm
+       61 pthvalpaet kltgvnrnsv ilceqirtid kqrlqdkigm lpgkivteln kaiavsvnv
+//
+
+LOCUS       WP_010372032             120 aa            linear   BCT 29-MAR-2016
+DEFINITION  MULTISPECIES: mRNA interferase PemK [Weissella].
+ACCESSION   WP_010372032
+VERSION     WP_010372032.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella
+  ORGANISM  Weissella
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..120
+                     /organism="Weissella"
+                     /db_xref="taxon:46255"
+     Protein         1..120
+                     /product="mRNA interferase PemK"
+                     /calculated_mol_wt=12777
+     Region          8..117
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 masrhdikrg diffadlspv vgseqggqrp vviiqndvgn qhaptvivap itaqiakpkm
+       61 pthvglpael edtgiardsv illeqirtid krrlqdkigl vpghlvakld qalvislglv
+//
+
+LOCUS       WP_013989337             125 aa            linear   BCT 06-JUN-2015
+DEFINITION  mRNA interferase PemK [Weissella koreensis].
+ACCESSION   WP_013989337
+VERSION     WP_013989337.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella koreensis
+  ORGANISM  Weissella koreensis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..125
+                     /organism="Weissella koreensis"
+                     /db_xref="taxon:165096"
+     Protein         1..125
+                     /product="mRNA interferase PemK"
+                     /calculated_mol_wt=13911
+     Region          12..122
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 mqdnkqkvke irrgeiwyan lengrigseq ggvrpvlivq nnvgnlyapt tivipistkk
+       61 ikktlpthvk ldaeldgtgi nrdstllleq irvidkkrlq drlgrlpepk mvevrsalsv
+      121 slgfd
+//
+
+LOCUS       WP_027694574             123 aa            linear   BCT 06-JUN-2015
+DEFINITION  mRNA interferase PemK [Weissella halotolerans].
+ACCESSION   WP_027694574
+VERSION     WP_027694574.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella halotolerans
+  ORGANISM  Weissella halotolerans
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..123
+                     /organism="Weissella halotolerans"
+                     /db_xref="taxon:1615"
+     Protein         1..123
+                     /product="mRNA interferase PemK"
+                     /calculated_mol_wt=13244
+     Region          11..120
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 mvrekklrqi ergaiffadl dpvrgseqgg qrpvviiqnd vgnqhaptvi vvpitaqiak
+       61 pklpthvalp aalphtgiqr asvilceqir tidkrrlqdq lgvvpaqvlt avdqalvvsl
+      121 dlv
+//
+
+LOCUS       WP_027698976             127 aa            linear   BCT 06-JUN-2015
+DEFINITION  mRNA interferase PemK [Weissella oryzae].
+ACCESSION   WP_027698976
+VERSION     WP_027698976.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella oryzae
+  ORGANISM  Weissella oryzae
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..127
+                     /organism="Weissella oryzae"
+                     /db_xref="taxon:1129792"
+     Protein         1..127
+                     /product="mRNA interferase PemK"
+                     /calculated_mol_wt=13777
+     Region          10..119
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 mtkkthepik rgdiyfadls pvkgseqggq rpviiiqndv gnnfsptviv apitaqltks
+       61 klpthvamps tinvtgvard svilaeqirt idkrrlqdkl gilpkslmdk vdqaliislg
+      121 lvreegr
+//
+
+LOCUS       WP_039968032             154 aa            linear   BCT 17-JAN-2015
+DEFINITION  hypothetical protein [Weissella confusa].
+ACCESSION   WP_039968032
+VERSION     WP_039968032.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella confusa
+  ORGANISM  Weissella confusa
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..154
+                     /organism="Weissella confusa"
+                     /db_xref="taxon:1583"
+     Protein         1..154
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=17921
+     Region          37..153
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 msrskkvrnl etwahskirm qesyesrmir qdrkkiekgg iyrvnlgfnl gheidkrrpa
+       61 liisnqeynd spngmatvip ltkdvvvmed gipkysfhyi lrkeefsfle fdstleidqi
+      121 rsvsrrrida seiigkisde tlqniqtkil nfls
+//
+
+LOCUS       WP_040761063             118 aa            linear   BCT 06-JUN-2015
+DEFINITION  mRNA interferase PemK [Weissella paramesenteroides].
+ACCESSION   WP_040761063
+VERSION     WP_040761063.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella paramesenteroides
+  ORGANISM  Weissella paramesenteroides
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..118
+                     /organism="Weissella paramesenteroides"
+                     /db_xref="taxon:1249"
+     Protein         1..118
+                     /product="mRNA interferase PemK"
+                     /calculated_mol_wt=12537
+     Region          6..115
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 mkkdikrgdi ffadlspvvg seqggqrpvv ivqnnvgnqh sptvivapit akiakpklpt
+       61 hvglpaesvd tgigkdsvil leqirtldkr rlqdkigtvp aelvvkidqa lfislglv
+//
+
+LOCUS       WP_042492972             120 aa            linear   BCT 06-JUN-2015
+DEFINITION  mRNA interferase PemK [Weissella hellenica].
+ACCESSION   WP_042492972
+VERSION     WP_042492972.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella hellenica
+  ORGANISM  Weissella hellenica
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..120
+                     /organism="Weissella hellenica"
+                     /db_xref="taxon:46256"
+     Protein         1..120
+                     /product="mRNA interferase PemK"
+                     /calculated_mol_wt=12868
+     Region          8..117
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 mankneikrg diffadlspv igseqggqrp vviiqnnvgn qhsptviiap itakiakpkl
+       61 pthvglpvea teagigrdsv illeqirtid krrlqdrigl ipdellvrvd qalvislglv
+//
+
+LOCUS       WP_043708682             162 aa            linear   BCT 24-FEB-2015
+DEFINITION  hypothetical protein [Weissella cibaria].
+ACCESSION   WP_043708682
+VERSION     WP_043708682.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella cibaria
+  ORGANISM  Weissella cibaria
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..162
+                     /organism="Weissella cibaria"
+                     /db_xref="taxon:137591"
+     Protein         1..162
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=18110
+     Region          40..128
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 mtldeqqnyl adlqasvlte fdrlhlhenl pwrdepldag dvvwvdfdai hqnnsslikk
+       61 lrpavifqnk htseyssvim vipistapra aydafypqit hnltgtkveg gllvnaiqpv
+      121 aksaiverev ygdaydylht lypkilralq ksispvqhtk ga
+//
+
+LOCUS       KRN33627                 323 aa            linear   BCT 06-NOV-2015
+DEFINITION  hypothetical protein IV68_GL000434 [Weissella halotolerans DSM
+            20190].
+ACCESSION   KRN33627
+VERSION     KRN33627.1
+DBLINK      BioProject: PRJNA222257
+            BioSample: SAMN02797799
+DBSOURCE    accession JQAX01000001.1
+KEYWORDS    .
+SOURCE      Weissella halotolerans DSM 20190
+  ORGANISM  Weissella halotolerans DSM 20190
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+REFERENCE   1  (residues 1 to 323)
+  AUTHORS   Sun,Z., Harris,H.M., McCann,A., Guo,C., Argimon,S., Zhang,W.,
+            Yang,X., Jeffery,I.B., Cooney,J.C., Kagawa,T.F., Liu,W., Song,Y.,
+            Salvetti,E., Wrobel,A., Rasinkangas,P., Parkhill,J., Rea,M.C.,
+            O'Sullivan,O., Ritari,J., Douillard,F.P., Paul Ross,R., Yang,R.,
+            Briner,A.E., Felis,G.E., de Vos,W.M., Barrangou,R.,
+            Klaenhammer,T.R., Caufield,P.W., Cui,Y., Zhang,H. and O'Toole,P.W.
+  TITLE     Expanding the biotechnology potential of lactobacilli through
+            comparative genomics of 213 strains and associated genera
+  JOURNAL   Nat Commun 6, 8322 (2015)
+   PUBMED   26415554
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 323)
+  AUTHORS   Sun,Z., Harris,H.M., Argimon,S., Zhang,W., McCann,A., Jeffery,I.B.,
+            Yang,X., Guo,C., Liu,W., Song,Y., Yang,R., Cui,Y., Zhang,H. and
+            O'Toole,P.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JUL-2014) Inner Mongolia Agricultural University, Key
+            Laboratory of Dairy Biotechnology and Engineering, Education
+            Ministry of China, Zhaowuda Road, No. 306, Hohhot, Inner Mongolia
+            010018, The People's Republic of China
+COMMENT     ##Genome-Assembly-Data-START##
+            Assembly Method       :: SOAPdenovo v. 2
+            Genome Coverage       :: 100x
+            Sequencing Technology :: Illumina MiSeq; Illumina HiSeq
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..323
+                     /organism="Weissella halotolerans DSM 20190"
+                     /strain="DSM 20190"
+                     /isolation_source="fermented sausages"
+                     /culture_collection="DSM:20190"
+                     /db_xref="taxon:1123500"
+                     /collection_date="1983"
+     Protein         1..323
+                     /product="hypothetical protein"
+     Region          76..>142
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+     Region          <274..321
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; cl00995"
+                     /db_xref="CDD:294640"
+     CDS             1..323
+                     /locus_tag="IV68_GL000434"
+                     /coded_by="JQAX01000001.1:437781..438752"
+                     /transl_table=11
+ORIGIN      
+        1 milrmltmth dnsnskhtsa dqlfttafen fktlyskhlp kyrylpqwty tksklllaea
+       61 dtkgtpnqkv yqraciiyid fginigkefs gphfavvlnk ednpkneklt vvpltskrhk
+      121 htvplsdtis esslnflgds faeflestya vrflsaleqa epkqgpgetd kvlidqvkqt
+      181 lrptfikslh tefkaaglrd lcdqvithme htikhkrdaq rylrayiara egineddvst
+      241 dklnyyiqgr askqmnadfd nflyvvskyn rynrqtyarl edittiskrr irkinrhdpi
+      301 gkikvssktl dtideglakl ffk
+//
+
+LOCUS       WP_057743904             124 aa            linear   BCT 12-NOV-2015
+DEFINITION  transcriptional regulator [Weissella viridescens].
+ACCESSION   WP_057743904
+VERSION     WP_057743904.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella viridescens
+  ORGANISM  Weissella viridescens
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..124
+                     /organism="Weissella viridescens"
+                     /db_xref="taxon:1629"
+     Protein         1..124
+                     /product="transcriptional regulator"
+                     /calculated_mol_wt=14151
+     Region          8..112
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 msertypkqg qiiyinfspa agheivkrrp avvvsndilm qtshfvwivp ishgsydgpe
+       61 yplhvalder tkisgtvyte qlksfdfiar kwqyiedmph diltqviqkl qlavtlpeqk
+      121 disk
+//
+
+LOCUS       WP_057746744             120 aa            linear   BCT 12-NOV-2015
+DEFINITION  PemK family transcriptional regulator [Weissella viridescens].
+ACCESSION   WP_057746744
+VERSION     WP_057746744.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella viridescens
+  ORGANISM  Weissella viridescens
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..120
+                     /organism="Weissella viridescens"
+                     /db_xref="taxon:1629"
+     Protein         1..120
+                     /product="PemK family transcriptional regulator"
+                     /calculated_mol_wt=12860
+     Region          8..117
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 mgkqveikrg diffaelspv vgseqggqrp vvivqndvgn hhaptvimvp itaqidkpkl
+       61 pthvglpsei sntginrdsv ilgeqvrtid krrlqdrige ipsevvaqld qalqislgla
+//
+
+LOCUS       WP_057754350             138 aa            linear   BCT 12-NOV-2015
+DEFINITION  growth inhibitor PemK [Weissella kandleri].
+ACCESSION   WP_057754350
+VERSION     WP_057754350.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella kandleri
+  ORGANISM  Weissella kandleri
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..138
+                     /organism="Weissella kandleri"
+                     /db_xref="taxon:1616"
+     Protein         1..138
+                     /product="growth inhibitor PemK"
+                     /calculated_mol_wt=15030
+     Region          12..122
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 mtvkkrntkv irrgdiwyan ledgkkgseq ggvrpvlilq ndmgnvhapt tiiapistkk
+       61 iaklmpthvr lnastlgtgi srestilleq vrvidksrvq dkigmlppei mpavqkalgi
+      121 svgliqlknk ndengeek
+//
+
+LOCUS       WP_057786921             120 aa            linear   BCT 12-NOV-2015
+DEFINITION  PemK family transcriptional regulator [Weissella minor].
+ACCESSION   WP_057786921
+VERSION     WP_057786921.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella minor
+  ORGANISM  Weissella minor
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..120
+                     /organism="Weissella minor"
+                     /db_xref="taxon:1620"
+     Protein         1..120
+                     /product="PemK family transcriptional regulator"
+                     /calculated_mol_wt=12829
+     Region          8..117
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 mgkhveikrg diffaelspf vgseqggqrp vvivqndvgn hhaptvivvp itaqidkpkl
+       61 pthvglpati entginkdsv llgeqvrtid krrlqdkige ipqaimtdvn qalvislgla
+//
+
+LOCUS       AEJ23594                  75 aa            linear   BCT 30-JAN-2014
+DEFINITION  addiction module toxin, RelE/StbE [Weissella koreensis KACC 15510].
+ACCESSION   AEJ23594
+VERSION     AEJ23594.1
+DBLINK      BioProject: PRJNA67979
+            BioSample: SAMN02603132
+DBSOURCE    accession CP002899.1
+KEYWORDS    .
+SOURCE      Weissella koreensis KACC 15510
+  ORGANISM  Weissella koreensis KACC 15510
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+REFERENCE   1  (residues 1 to 75)
+  AUTHORS   Lee,S.H., Jung,J.Y., Lee,S.H. and Jeon,C.O.
+  TITLE     Complete Genome Sequence of Weissella koreensis KACC 15510,
+            Isolated from Kimchi
+  JOURNAL   J. Bacteriol. 193 (19), 5534 (2011)
+   PUBMED   21914863
+REFERENCE   2  (residues 1 to 75)
+  AUTHORS   Lee,S.H. and Jeon,C.O.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-JUN-2011) Life Science and Research Center for
+            Biomolecules and Bioscience, Chung-ang University, 221
+            Heuksuk-dong, Dongjak-gu, Seoul 156-756, Republic of Korea
+COMMENT     Annotation was added by the NCBI Prokaryotic Genomes Automatic
+            Annotation Pipeline Group. Information about the Pipeline can be
+            found here:
+            http://www.ncbi.nlm.nih.gov/genomes/static/Pipeline.html. Please be
+            aware that the annotation is done automatically with little or no
+            manual curation.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..75
+                     /organism="Weissella koreensis KACC 15510"
+                     /strain="KACC 15510"
+                     /isolation_source="kimchi"
+                     /culture_collection="KACC:15510"
+                     /db_xref="taxon:1045854"
+     Protein         1..75
+                     /product="addiction module toxin, RelE/StbE"
+     Region          <2..74
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+     CDS             1..75
+                     /locus_tag="WKK_03600"
+                     /coded_by="complement(CP002899.1:734884..735111)"
+                     /note="COG3041 Uncharacterized protein conserved in
+                     bacteria"
+                     /transl_table=11
+ORIGIN      
+        1 misefkvalr elkingtvpd synphgldnr gglyngnldf hlsdgqvdvv viyiphktnp
+       61 iirlvrigth kdlfq
+//
+
+LOCUS       WP_006846155             100 aa            linear   BCT 29-MAY-2013
+DEFINITION  addiction module toxin RelE [Weissella koreensis].
+ACCESSION   WP_006846155
+VERSION     WP_006846155.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella koreensis
+  ORGANISM  Weissella koreensis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..100
+                     /organism="Weissella koreensis"
+                     /db_xref="taxon:165096"
+     Protein         1..100
+                     /product="addiction module toxin RelE"
+                     /calculated_mol_wt=11413
+     Region          11..99
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 msdfilkpdp qfkkdyqvfk rdhpelisef kvalrelkin gtvpdsynph gldnrgglyn
+       61 gnldfhlsdg qvdvvviyip hktnpiirlv rigthkdlfq
+//
+
+LOCUS       WP_041942402              62 aa            linear   BCT 07-FEB-2015
+DEFINITION  addiction module toxin RelE [Weissella koreensis].
+ACCESSION   WP_041942402
+VERSION     WP_041942402.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella koreensis
+  ORGANISM  Weissella koreensis
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..62
+                     /organism="Weissella koreensis"
+                     /db_xref="taxon:165096"
+     Protein         1..62
+                     /product="addiction module toxin RelE"
+                     /calculated_mol_wt=6812
+     Region          <2..61
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 mngtvpdsyn phgldnrggl yngnldfhls dgqvdvvviy iphktnpiir lvrigthkdl
+       61 fq
+//
+
+LOCUS       CCF31194                 106 aa            linear   BCT 13-JUN-2012
+DEFINITION  Addiction module toxin, Txe/YoeB family [Weissella confusa LBAE
+            C39-2].
+ACCESSION   CCF31194
+VERSION     CCF31194.1
+DBSOURCE    embl accession CAGH01000023.1
+KEYWORDS    .
+SOURCE      Weissella confusa LBAE C39-2
+  ORGANISM  Weissella confusa LBAE C39-2
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+FEATURES             Location/Qualifiers
+     source          1..106
+                     /organism="Weissella confusa LBAE C39-2"
+                     /strain="LBAE C39-2"
+                     /db_xref="taxon:1127131"
+                     /note="contig WeissC39_1_contig00023"
+     Protein         1..106
+                     /product="Addiction module toxin, Txe/YoeB family"
+     Region          21..100
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+     CDS             1..106
+                     /locus_tag="WEISSC39_08665"
+                     /coded_by="CAGH01000023.1:33814..34134"
+                     /transl_table=11
+                     /db_xref="GOA:H1X9E1"
+                     /db_xref="InterPro:IPR009614"
+                     /db_xref="UniProtKB/TrEMBL:H1X9E1"
+ORIGIN      
+        1 mtmkaakkla dgmrggkkli fteqafddyq yfltqdpktt kkinkllkev frtpfegtgk
+       61 pelqagldgg wsrridsanr miyfpesngd vtiaqlryhy mksmts
+//
+
+LOCUS       WP_010371114              89 aa            linear   BCT 29-MAR-2016
+DEFINITION  MULTISPECIES: addiction module toxin, Txe/YoeB family protein
+            [Weissella].
+ACCESSION   WP_010371114
+VERSION     WP_010371114.1
+KEYWORDS    RefSeq.
+SOURCE      Weissella
+  ORGANISM  Weissella
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..89
+                     /organism="Weissella"
+                     /db_xref="taxon:46255"
+     Protein         1..89
+                     /product="addiction module toxin, Txe/YoeB family protein"
+                     /calculated_mol_wt=10045
+     Region          11..86
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 mytiklgttl akkslkqlqk agfseklnnv lddikeepma daeklkvfag rksrvfsrrl
+       61 nvqhrvvyqv fpadhmievl svwghyvga
+//
+
+LOCUS       KIU19281                 106 aa            linear   BCT 19-FEB-2015
+DEFINITION  Toxin YoeB [Weissella cibaria].
+ACCESSION   KIU19281
+VERSION     KIU19281.1
+DBLINK      BioProject: PRJNA268711
+            BioSample: SAMN03223844
+DBSOURCE    accession JWHU01000041.1
+KEYWORDS    .
+SOURCE      Weissella cibaria
+  ORGANISM  Weissella cibaria
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+REFERENCE   1  (residues 1 to 106)
+  AUTHORS   Lynch,K.M., Lucid,A., Arendt,E.K., Sleator,R.D., Lucey,B. and
+            Coffey,A.
+  TITLE     Genomics of the Weissella cibaria species with an examination of
+            its metabolic traits
+  JOURNAL   Microbiology (Reading, Engl.) (2015) In press
+   PUBMED   25678547
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (residues 1 to 106)
+  AUTHORS   Lynch,K.M. and Coffey,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-NOV-2014) Biological Sciences, Cork Institute Of
+            Technology, Rossa Avenue, Bishopstown, Cork, Ireland
+COMMENT     ##Genome-Assembly-Data-START##
+            Assembly Method        :: CLC NGS Cell v. April-2014
+            Genome Representation  :: Full
+            Expected Final Version :: No
+            Genome Coverage        :: 270.0x
+            Sequencing Technology  :: Illumina MiSeq
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..106
+                     /organism="Weissella cibaria"
+                     /strain="MG1"
+                     /db_xref="taxon:137591"
+                     /country="Ireland"
+     Protein         1..106
+                     /product="Toxin YoeB"
+                     /EC_number="3.1.-.-"
+     Region          21..100
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+     CDS             1..106
+                     /gene="yoeB"
+                     /locus_tag="QX99_02090"
+                     /coded_by="JWHU01000041.1:38993..39313"
+                     /inference="ab initio prediction:Prodigal:2.60"
+                     /inference="similar to AA sequence:UniProtKB:P69348"
+                     /transl_table=11
+ORIGIN      
+        1 mamkaakkla dgmrggkkmi fteqafdeyq yfltqdpkti kkinkllkev frtpfegtgk
+       61 pelqagldgg wsrridsanr miyfpegngd vtiaqlryhy mksmts
+//
+
+LOCUS       KIU25472                 106 aa            linear   BCT 19-FEB-2015
+DEFINITION  Toxin YoeB [Weissella cibaria].
+ACCESSION   KIU25472
+VERSION     KIU25472.1
+DBLINK      BioProject: PRJNA268711
+            BioSample: SAMN03223848
+DBSOURCE    accession JWHT01000011.1
+KEYWORDS    .
+SOURCE      Weissella cibaria
+  ORGANISM  Weissella cibaria
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Leuconostocaceae;
+            Weissella.
+REFERENCE   1  (residues 1 to 106)
+  AUTHORS   Lynch,K.M., Lucid,A., Arendt,E.K., Sleator,R.D., Lucey,B. and
+            Coffey,A.
+  TITLE     Genomics of the Weissella cibaria species with an examination of
+            its metabolic traits
+  JOURNAL   Microbiology (Reading, Engl.) (2015) In press
+   PUBMED   25678547
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (residues 1 to 106)
+  AUTHORS   Lynch,K.M. and Coffey,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-NOV-2014) Biological Sciences, Cork Institute Of
+            Technology, Rossa Avenue, Bishopstown, Cork, Ireland
+COMMENT     ##Genome-Assembly-Data-START##
+            Assembly Method        :: CLC NGS Cell v. April-2014
+            Genome Representation  :: Full
+            Expected Final Version :: No
+            Genome Coverage        :: 178.0x
+            Sequencing Technology  :: Illumina MiSeq
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..106
+                     /organism="Weissella cibaria"
+                     /strain="AB3b"
+                     /db_xref="taxon:137591"
+                     /country="Ireland"
+     Protein         1..106
+                     /product="Toxin YoeB"
+                     /EC_number="3.1.-.-"
+     Region          21..100
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+     CDS             1..106
+                     /gene="yoeB"
+                     /locus_tag="ab3b_00379"
+                     /coded_by="complement(JWHT01000011.1:61975..62295)"
+                     /inference="ab initio prediction:Prodigal:2.60"
+                     /inference="similar to AA sequence:UniProtKB:P69348"
+                     /transl_table=11
+ORIGIN      
+        1 mamkaakkla dgmrggkkmi fteqafddyq yfltqdpkti kkinkllkev frtpfegtgk
+       61 pelqagldgg wsrridsanr miyfpegngd vtiaqlryhy mksmts
+//
+

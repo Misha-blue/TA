@@ -1,0 +1,1630 @@
+LOCUS       EFB75956                 104 aa            linear   BCT 03-AUG-2012
+DEFINITION  hypothetical protein SUBVAR_05736 [Subdoligranulum variabile DSM
+            15176].
+ACCESSION   EFB75956
+VERSION     EFB75956.1
+DBLINK      BioProject: PRJNA18181
+            BioSample: SAMN00008862
+DBSOURCE    accession ACBY02000023.1
+KEYWORDS    .
+SOURCE      Subdoligranulum variabile DSM 15176
+  ORGANISM  Subdoligranulum variabile DSM 15176
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Subdoligranulum.
+REFERENCE   1  (residues 1 to 104)
+  AUTHORS   Fulton,L., Clifton,S., Fulton,B., Xu,J., Minx,P., Pepin,K.H.,
+            Johnson,M., Bhonagiri,V., Nash,W.E., Mardis,E.R. and Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-JAN-2009) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+REFERENCE   2  (residues 1 to 104)
+  AUTHORS   Weinstock,G., Sodergren,E., Clifton,S., Fulton,L., Fulton,B.,
+            Courtney,L., Fronick,C., Harrison,M., Strong,C., Farmer,C.,
+            Delahaunty,K., Markovic,C., Hall,O., Minx,P., Tomlinson,C.,
+            Mitreva,M., Nelson,J., Hou,S., Wollam,A., Pepin,K.H., Johnson,M.,
+            Bhonagiri,V., Nash,W.E., Warren,W., Chinwalla,A., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-SEP-2009) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+REFERENCE   3  (residues 1 to 104)
+  AUTHORS   Weinstock,G., Sodergren,E., Clifton,S., Fulton,L., Fulton,B.,
+            Courtney,L., Fronick,C., Harrison,M., Strong,C., Farmer,C.,
+            Delahaunty,K., Markovic,C., Hall,O., Minx,P., Tomlinson,C.,
+            Mitreva,M., Nelson,J., Hou,S., Wollam,A., Pepin,K.H., Johnson,M.,
+            Bhonagiri,V., Nash,W.E., Warren,W., Chinwalla,A., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-DEC-2009) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+COMMENT     Subdoligranulum variabile (GenBank Accession Number for 16S rDNA
+            gene: AJ518869) is a member of the division Firmicutes. In one
+            comprehensive 16S rDNA sequence-based enumeration of the colonic
+            microbiota of three healthy adult humans, it represents, on
+            average, 0.532% of all 16S rDNA sequences and 1.048% of the
+            sequences in its division (Eckburg et. al. (2005)). The sequenced
+            strain was obtained from Deutsche Sammlung von Mikroorganismen und
+            Zellkulturen GmbH (DSMZ) (DSM 15176).
+            
+            We have performed one round of automated sequence improvement
+            (pre-finishing), along with manual improvement that includes
+            breaking apart any mis-assembly, and making manual joins where
+            possible. Manual edits also are made where the consensus appears to
+            be incorrect. All low quality data on the ends of contigs is
+            removed. Contigs are ordered and oriented where possible.
+            
+            Coding sequences were predicted using GeneMark v3.3 and Glimmer2
+            v2.13. Intergenic regions not spanned by GeneMark and Glimmer2 were
+            blasted against NCBI's non-redundant (NR) database and predictions
+            generated based on protein alignments. tRNA genes were determined
+            using tRNAscan-SE 1.23 and non-coding RNA genes by RNAmmer-1.2 and
+            Rfam v8.0. Gene names are generated at the contig level and may not
+            necessarily reflect any known order or orientation between contigs.
+            
+            This work was supported by the National Human Genome Research
+            Institute and the NIH Roadmap Human Microbiome Project
+            [http://nihroadmap.nih.gov/hmp/].
+            
+            This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Genome Coverage: 23.9x
+            Sequencing Technology: 454
+            
+            Annotation was added to the contigs in December 2009.
+            Product names were updated in August 2012.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..104
+                     /organism="Subdoligranulum variabile DSM 15176"
+                     /strain="DSM 15176"
+                     /db_xref="taxon:411471"
+     Protein         1..104
+                     /product="hypothetical protein"
+     Region          18..94
+                     /region_name="DUF1778"
+                     /note="Protein of unknown function (DUF1778); cl01845"
+                     /db_xref="CDD:295058"
+     CDS             1..104
+                     /locus_tag="SUBVAR_05736"
+                     /coded_by="complement(ACBY02000023.1:314219..314533)"
+                     /inference="protein motif:HMMPfam:IPR014795"
+                     /note="KEGG: rpb:RPB_1971 0.0054 arsenate reductase
+                     K00537"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR014795"
+ORIGIN      
+        1 mpglllygge imltrnvqln irvtpeekkl feqaaarcgl tlsqyirmrl hnqmprhlpn
+       61 adyrqvldal talyqkdntp evqqeilntl lavqravtvp qkee
+//
+
+LOCUS       EFB76241                 104 aa            linear   BCT 03-AUG-2012
+DEFINITION  hypothetical protein SUBVAR_06027 [Subdoligranulum variabile DSM
+            15176].
+ACCESSION   EFB76241
+VERSION     EFB76241.1
+DBLINK      BioProject: PRJNA18181
+            BioSample: SAMN00008862
+DBSOURCE    accession ACBY02000023.1
+KEYWORDS    .
+SOURCE      Subdoligranulum variabile DSM 15176
+  ORGANISM  Subdoligranulum variabile DSM 15176
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Subdoligranulum.
+REFERENCE   1  (residues 1 to 104)
+  AUTHORS   Fulton,L., Clifton,S., Fulton,B., Xu,J., Minx,P., Pepin,K.H.,
+            Johnson,M., Bhonagiri,V., Nash,W.E., Mardis,E.R. and Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-JAN-2009) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+REFERENCE   2  (residues 1 to 104)
+  AUTHORS   Weinstock,G., Sodergren,E., Clifton,S., Fulton,L., Fulton,B.,
+            Courtney,L., Fronick,C., Harrison,M., Strong,C., Farmer,C.,
+            Delahaunty,K., Markovic,C., Hall,O., Minx,P., Tomlinson,C.,
+            Mitreva,M., Nelson,J., Hou,S., Wollam,A., Pepin,K.H., Johnson,M.,
+            Bhonagiri,V., Nash,W.E., Warren,W., Chinwalla,A., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-SEP-2009) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+REFERENCE   3  (residues 1 to 104)
+  AUTHORS   Weinstock,G., Sodergren,E., Clifton,S., Fulton,L., Fulton,B.,
+            Courtney,L., Fronick,C., Harrison,M., Strong,C., Farmer,C.,
+            Delahaunty,K., Markovic,C., Hall,O., Minx,P., Tomlinson,C.,
+            Mitreva,M., Nelson,J., Hou,S., Wollam,A., Pepin,K.H., Johnson,M.,
+            Bhonagiri,V., Nash,W.E., Warren,W., Chinwalla,A., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-DEC-2009) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+COMMENT     Subdoligranulum variabile (GenBank Accession Number for 16S rDNA
+            gene: AJ518869) is a member of the division Firmicutes. In one
+            comprehensive 16S rDNA sequence-based enumeration of the colonic
+            microbiota of three healthy adult humans, it represents, on
+            average, 0.532% of all 16S rDNA sequences and 1.048% of the
+            sequences in its division (Eckburg et. al. (2005)). The sequenced
+            strain was obtained from Deutsche Sammlung von Mikroorganismen und
+            Zellkulturen GmbH (DSMZ) (DSM 15176).
+            
+            We have performed one round of automated sequence improvement
+            (pre-finishing), along with manual improvement that includes
+            breaking apart any mis-assembly, and making manual joins where
+            possible. Manual edits also are made where the consensus appears to
+            be incorrect. All low quality data on the ends of contigs is
+            removed. Contigs are ordered and oriented where possible.
+            
+            Coding sequences were predicted using GeneMark v3.3 and Glimmer2
+            v2.13. Intergenic regions not spanned by GeneMark and Glimmer2 were
+            blasted against NCBI's non-redundant (NR) database and predictions
+            generated based on protein alignments. tRNA genes were determined
+            using tRNAscan-SE 1.23 and non-coding RNA genes by RNAmmer-1.2 and
+            Rfam v8.0. Gene names are generated at the contig level and may not
+            necessarily reflect any known order or orientation between contigs.
+            
+            This work was supported by the National Human Genome Research
+            Institute and the NIH Roadmap Human Microbiome Project
+            [http://nihroadmap.nih.gov/hmp/].
+            
+            This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Genome Coverage: 23.9x
+            Sequencing Technology: 454
+            
+            Annotation was added to the contigs in December 2009.
+            Product names were updated in August 2012.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..104
+                     /organism="Subdoligranulum variabile DSM 15176"
+                     /strain="DSM 15176"
+                     /db_xref="taxon:411471"
+     Protein         1..104
+                     /product="hypothetical protein"
+     Region          18..94
+                     /region_name="DUF1778"
+                     /note="Protein of unknown function (DUF1778); cl01845"
+                     /db_xref="CDD:295058"
+     CDS             1..104
+                     /locus_tag="SUBVAR_06027"
+                     /coded_by="complement(ACBY02000023.1:558927..559241)"
+                     /inference="protein motif:HMMPfam:IPR014795"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR014795"
+ORIGIN      
+        1 mpglllygge imltrnvqmn irvtpeekrl feqaatrcgl tlsqyirmrl rnqmprqlpt
+       61 adyrqvldal talyhkdntp evqreildtl laiqravtvp qkee
+//
+
+LOCUS       WP_009324432             138 aa            linear   BCT 28-MAY-2013
+DEFINITION  antitoxin HicB [Subdoligranulum sp. 4_3_54A2FAA].
+ACCESSION   WP_009324432
+VERSION     WP_009324432.1
+KEYWORDS    RefSeq.
+SOURCE      Subdoligranulum sp. 4_3_54A2FAA
+  ORGANISM  Subdoligranulum sp. 4_3_54A2FAA
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Subdoligranulum.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..138
+                     /organism="Subdoligranulum sp. 4_3_54A2FAA"
+                     /db_xref="taxon:665956"
+     Protein         1..138
+                     /product="antitoxin HicB"
+                     /calculated_mol_wt=15429
+     Region          19..129
+                     /region_name="HicB_lk_antitox"
+                     /note="HicB_like antitoxin of bacterial toxin-antitoxin
+                     system; pfam15919"
+                     /db_xref="CDD:292541"
+ORIGIN      
+        1 mkkriypvlf tetagavlve vpdleilteg tdmadaiema rdaigqrgvl ledkgetlra
+       61 pssmetihpe ngtfaedgkt ivslvdvdfe eyrrkndnkm vrrnvtipnw mdreaareki
+      121 nvsgvlreal aerlqanr
+//
+
+LOCUS       EHL66329                  84 aa            linear   BCT 16-DEC-2011
+DEFINITION  AbrB family transcriptional regulator [Subdoligranulum sp.
+            4_3_54A2FAA].
+ACCESSION   EHL66329
+VERSION     EHL66329.1
+DBLINK      BioProject: PRJNA40041
+            BioSample: SAMN02463804
+DBSOURCE    accession ACWW01000081.1
+KEYWORDS    HIGH_QUALITY_DRAFT.
+SOURCE      Subdoligranulum sp. 4_3_54A2FAA
+  ORGANISM  Subdoligranulum sp. 4_3_54A2FAA
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Subdoligranulum.
+REFERENCE   1  (residues 1 to 84)
+  AUTHORS   Earl,A., Ward,D., Feldgarden,M., Gevers,D., Daigneault,M.,
+            Strauss,J., Allen-Vercoe,E., Young,S.K., Zeng,Q., Gargeya,S.,
+            Fitzgerald,M., Haas,B., Abouelleil,A., Alvarado,L., Arachchi,H.M.,
+            Berlin,A., Brown,A., Chapman,S.B., Chen,Z., Dunbar,C., Freedman,E.,
+            Gearin,G., Goldberg,J., Griggs,A., Gujja,S., Heiman,D., Howarth,C.,
+            Larson,L., Lui,A., MacDonald,P.J.P., Montmayeur,A., Murphy,C.,
+            Neiman,D., Pearson,M., Priest,M., Roberts,A., Saif,S., Shea,T.,
+            Shenoy,N., Sisk,P., Stolte,C., Sykes,S., Wortman,J., Nusbaum,C. and
+            Birren,B.
+  CONSRTM   The Broad Institute Genome Sequencing Platform
+  TITLE     The Genome Sequence of Subdoligranulum sp. 4_3_54A2FAA
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 84)
+  AUTHORS   Earl,A., Ward,D., Feldgarden,M., Gevers,D., Daigneault,M.,
+            Strauss,J., Allen-Vercoe,E., Young,S.K., Zeng,Q., Gargeya,S.,
+            Fitzgerald,M., Haas,B., Abouelleil,A., Alvarado,L., Arachchi,H.M.,
+            Berlin,A., Brown,A., Chapman,S.B., Chen,Z., Dunbar,C., Freedman,E.,
+            Gearin,G., Goldberg,J., Griggs,A., Gujja,S., Heiman,D., Howarth,C.,
+            Larson,L., Lui,A., MacDonald,P.J.P., Montmayeur,A., Murphy,C.,
+            Neiman,D., Pearson,M., Priest,M., Roberts,A., Saif,S., Shea,T.,
+            Shenoy,N., Sisk,P., Stolte,C., Sykes,S., Wortman,J., Nusbaum,C. and
+            Birren,B.
+  CONSRTM   The Broad Institute Genome Sequencing Platform
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-SEP-2011) Broad Institute of MIT and Harvard, 7
+            Cambridge Center, Cambridge, MA 02142, USA
+COMMENT     This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Source DNA provided by Daigneault, M., Strauss, J.C., and
+            Allen-Vercoe, E. (Molecular and Cellular Biology, University of
+            Guelph, Guelph, Ontario, N1G 2W1, Canada).
+            Bacteria provided by Daigneault, M., Strauss, J.C., and
+            Allen-Vercoe, E. (Molecular and Cellular Biology, University of
+            Guelph, Guelph, Ontario, N1G 2W1, Canada).
+            Please be aware that the annotation is done automatically with
+            little or no manual curation.
+            Gene Calling Method: Prodigal.
+            
+            ##Genome-Assembly-Data-START##
+            Finishing Goal           :: High-Quality Draft
+            Current Finishing Status :: High-Quality Draft
+            Assembly Method          :: Newbler v. 2.3-PostRelease-11/19/2009
+            Assembly Name            :: Subdol_sp_4_3_54A2FAA_V1
+            Genome Coverage          :: 25x
+            Sequencing Technology    :: 454
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..84
+                     /organism="Subdoligranulum sp. 4_3_54A2FAA"
+                     /strain="4_3_54A2FAA"
+                     /isolation_source="gastrointestinal tract"
+                     /host="Homo sapiens"
+                     /db_xref="HMP:1032"
+                     /db_xref="taxon:665956"
+     Protein         1..84
+                     /product="AbrB family transcriptional regulator"
+     Region          14..54
+                     /region_name="lp_hng_hel_AbrB"
+                     /note="looped-hinge helix DNA binding domain, AbrB family;
+                     TIGR01439"
+                     /db_xref="CDD:273625"
+     CDS             1..84
+                     /locus_tag="HMPREF1032_00881"
+                     /coded_by="ACWW01000081.1:169216..169470"
+                     /transl_table=11
+ORIGIN      
+        1 msmkmpkgky matvkvgekg qivipkgare lfgiepgdtl llmadvkqgi aivqndaymk
+       61 fvdavfsvqq eppvapdgel eaek
+//
+
+LOCUS       WP_007046070             180 aa            linear   BCT 04-JUN-2013
+DEFINITION  stage V sporulation protein T [Subdoligranulum variabile].
+ACCESSION   WP_007046070
+VERSION     WP_007046070.1
+KEYWORDS    RefSeq.
+SOURCE      Subdoligranulum variabile
+  ORGANISM  Subdoligranulum variabile
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Subdoligranulum.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..180
+                     /organism="Subdoligranulum variabile"
+                     /db_xref="taxon:214851"
+     Protein         1..180
+                     /product="stage V sporulation protein T"
+                     /calculated_mol_wt=19490
+     Region          1..>71
+                     /region_name="AbrB"
+                     /note="Bifunctional DNA-binding transcriptional regulator
+                     of stationary/sporulation/toxin gene expression and
+                     antitoxin component of the YhaV-PrlF toxin-antitoxin
+                     module [Transcription, Defense mechanisms]; COG2002"
+                     /db_xref="CDD:224913"
+     Region          2..179
+                     /region_name="spore_V_T"
+                     /note="stage V sporulation protein T; TIGR02851"
+                     /db_xref="CDD:131898"
+     Region          54..179
+                     /region_name="SpoVT_C"
+                     /note="Stage V sporulation protein T C-terminal,
+                     transcription factor; pfam15714"
+                     /db_xref="CDD:292342"
+ORIGIN      
+        1 mkatgivrri delgrvvipk eirrtqrirq gdtleiytaa dgevifkkys plvelgqisa
+       61 iytdvlaksl gctvlvcdrt citaasgtgk gdmmgreist evehllsgrt vytapdnsak
+      121 rlhlferger lilcaapiva hgdieggvll pgtardpapr pdtvqvlata anflsrwmee
+//
+
+LOCUS       WP_007048245              83 aa            linear   BCT 26-MAY-2013
+DEFINITION  AbrB family transcriptional regulator [Subdoligranulum variabile].
+ACCESSION   WP_007048245
+VERSION     WP_007048245.1
+KEYWORDS    RefSeq.
+SOURCE      Subdoligranulum variabile
+  ORGANISM  Subdoligranulum variabile
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Subdoligranulum.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..83
+                     /organism="Subdoligranulum variabile"
+                     /db_xref="taxon:214851"
+     Protein         1..83
+                     /product="AbrB family transcriptional regulator"
+                     /calculated_mol_wt=8813
+     Region          1..>66
+                     /region_name="AbrB"
+                     /note="Bifunctional DNA-binding transcriptional regulator
+                     of stationary/sporulation/toxin gene expression and
+                     antitoxin component of the YhaV-PrlF toxin-antitoxin
+                     module [Transcription, Defense mechanisms]; COG2002"
+                     /db_xref="CDD:224913"
+ORIGIN      
+        1 mistgivrhi dslgrvvlpk elrrtfgita dtpleilteg daillrkyrp adacalcgev
+       61 vpgsvqlhgk fvcpacrqal tgk
+//
+
+LOCUS       WP_009323448              75 aa            linear   BCT 28-MAY-2013
+DEFINITION  AbrB family transcriptional regulator [Subdoligranulum sp.
+            4_3_54A2FAA].
+ACCESSION   WP_009323448
+VERSION     WP_009323448.1
+KEYWORDS    RefSeq.
+SOURCE      Subdoligranulum sp. 4_3_54A2FAA
+  ORGANISM  Subdoligranulum sp. 4_3_54A2FAA
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Subdoligranulum.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..75
+                     /organism="Subdoligranulum sp. 4_3_54A2FAA"
+                     /db_xref="taxon:665956"
+     Protein         1..75
+                     /product="AbrB family transcriptional regulator"
+                     /calculated_mol_wt=8134
+     Region          12..53
+                     /region_name="lp_hng_hel_AbrB"
+                     /note="looped-hinge helix DNA binding domain, AbrB family;
+                     TIGR01439"
+                     /db_xref="CDD:273625"
+ORIGIN      
+        1 mkkpegkfaw tvkvgekgqf vipkeardvf dikpgdtliv lgdvkkgiai ppkntfsela
+       61 skifsddlqe gndce
+//
+
+LOCUS       CDE71231                 164 aa            linear   ENV 31-MAY-2013
+DEFINITION  stage V sporulation protein T [Subdoligranulum sp. CAG:314].
+ACCESSION   CDE71231
+VERSION     CDE71231.1
+DBSOURCE    embl accession CBJL010000030.1
+KEYWORDS    ENV.
+SOURCE      Subdoligranulum sp. CAG:314
+  ORGANISM  Subdoligranulum sp. CAG:314
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Subdoligranulum; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..164
+                     /organism="Subdoligranulum sp. CAG:314"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262970"
+                     /environmental_sample
+                     /note="contig 36"
+     Protein         1..164
+                     /product="stage V sporulation protein T"
+     Region          1..>64
+                     /region_name="AbrB"
+                     /note="Bifunctional DNA-binding transcriptional regulator
+                     of stationary/sporulation/toxin gene expression and
+                     antitoxin component of the YhaV-PrlF toxin-antitoxin
+                     module [Transcription, Defense mechanisms]; COG2002"
+                     /db_xref="CDD:224913"
+     Region          4..164
+                     /region_name="spore_V_T"
+                     /note="stage V sporulation protein T; TIGR02851"
+                     /db_xref="CDD:131898"
+     Region          55..164
+                     /region_name="GAF"
+                     /note="GAF domain; cl21515"
+                     /db_xref="CDD:304403"
+     CDS             1..164
+                     /locus_tag="BN603_00713"
+                     /coded_by="CBJL010000030.1:72565..73059"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mslgitrkid elgrivvpke lrntmnlkeg slmeitaned sivmkklspl drgrefaali
+       61 adtlsrqtdg amvyvvsdde ivakcgkgsr dldeipeavk hhidkhrysg gtvvagtgdn
+      121 aaefvvtpis adgelyghlv ttrnfslsge lskfaaalfs tylg
+//
+
+LOCUS       WP_007046995             138 aa            linear   BCT 17-SEP-2015
+DEFINITION  division/cell wall cluster transcriptional repressor MraZ
+            [Subdoligranulum variabile].
+ACCESSION   WP_007046995
+VERSION     WP_007046995.1
+KEYWORDS    RefSeq.
+SOURCE      Subdoligranulum variabile
+  ORGANISM  Subdoligranulum variabile
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Subdoligranulum.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..138
+                     /organism="Subdoligranulum variabile"
+                     /db_xref="taxon:214851"
+     Protein         1..138
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=15479
+     Region          1..136
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          4..58
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(4..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          64..119
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(72,74,102,109,118..119)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          80..84
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mlvgqydyai dtkgrlnfpa rfrdamgetf ivtrwldhcl aafpteefek vaakieekgl
+       61 vkgrkvsrml yasavevtpd kqgriqlpak lreyagldhd vtiignrsfa eiwntaawng
+      121 dqatsdedft aameeldf
+//
+
+LOCUS       CDE71063                 142 aa            linear   ENV 31-MAY-2013
+DEFINITION  protein MraZ [Subdoligranulum sp. CAG:314].
+ACCESSION   CDE71063
+VERSION     CDE71063.1
+DBSOURCE    embl accession CBJL010000025.1
+KEYWORDS    ENV.
+SOURCE      Subdoligranulum sp. CAG:314
+  ORGANISM  Subdoligranulum sp. CAG:314
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Subdoligranulum; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..142
+                     /organism="Subdoligranulum sp. CAG:314"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262970"
+                     /environmental_sample
+                     /note="contig 31"
+     Protein         1..142
+                     /product="protein MraZ"
+     Region          1..133
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          3..59
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(3..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          70..125
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,104,111,120..121,124)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+     CDS             1..142
+                     /locus_tag="BN603_00545"
+                     /coded_by="complement(CBJL010000025.1:33413..33841)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mflgesrhql daknrlrvpa kfrselggky vvtvgsnecl cvyaydkfad yvaklesips
+       61 fdlqaqrsir kilslaseve pdeqgrfilp anlkdfakid knivingags kveiwseekw
+      121 dsysaienfd qelaeigtky gv
+//
+
+LOCUS       EFB75365                  90 aa            linear   BCT 03-AUG-2012
+DEFINITION  prevent-host-death family protein [Subdoligranulum variabile DSM
+            15176].
+ACCESSION   EFB75365
+VERSION     EFB75365.1
+DBLINK      BioProject: PRJNA18181
+            BioSample: SAMN00008862
+DBSOURCE    accession ACBY02000027.1
+KEYWORDS    .
+SOURCE      Subdoligranulum variabile DSM 15176
+  ORGANISM  Subdoligranulum variabile DSM 15176
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Subdoligranulum.
+REFERENCE   1  (residues 1 to 90)
+  AUTHORS   Fulton,L., Clifton,S., Fulton,B., Xu,J., Minx,P., Pepin,K.H.,
+            Johnson,M., Bhonagiri,V., Nash,W.E., Mardis,E.R. and Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-JAN-2009) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+REFERENCE   2  (residues 1 to 90)
+  AUTHORS   Weinstock,G., Sodergren,E., Clifton,S., Fulton,L., Fulton,B.,
+            Courtney,L., Fronick,C., Harrison,M., Strong,C., Farmer,C.,
+            Delahaunty,K., Markovic,C., Hall,O., Minx,P., Tomlinson,C.,
+            Mitreva,M., Nelson,J., Hou,S., Wollam,A., Pepin,K.H., Johnson,M.,
+            Bhonagiri,V., Nash,W.E., Warren,W., Chinwalla,A., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-SEP-2009) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+REFERENCE   3  (residues 1 to 90)
+  AUTHORS   Weinstock,G., Sodergren,E., Clifton,S., Fulton,L., Fulton,B.,
+            Courtney,L., Fronick,C., Harrison,M., Strong,C., Farmer,C.,
+            Delahaunty,K., Markovic,C., Hall,O., Minx,P., Tomlinson,C.,
+            Mitreva,M., Nelson,J., Hou,S., Wollam,A., Pepin,K.H., Johnson,M.,
+            Bhonagiri,V., Nash,W.E., Warren,W., Chinwalla,A., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-DEC-2009) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+COMMENT     Subdoligranulum variabile (GenBank Accession Number for 16S rDNA
+            gene: AJ518869) is a member of the division Firmicutes. In one
+            comprehensive 16S rDNA sequence-based enumeration of the colonic
+            microbiota of three healthy adult humans, it represents, on
+            average, 0.532% of all 16S rDNA sequences and 1.048% of the
+            sequences in its division (Eckburg et. al. (2005)). The sequenced
+            strain was obtained from Deutsche Sammlung von Mikroorganismen und
+            Zellkulturen GmbH (DSMZ) (DSM 15176).
+            
+            We have performed one round of automated sequence improvement
+            (pre-finishing), along with manual improvement that includes
+            breaking apart any mis-assembly, and making manual joins where
+            possible. Manual edits also are made where the consensus appears to
+            be incorrect. All low quality data on the ends of contigs is
+            removed. Contigs are ordered and oriented where possible.
+            
+            Coding sequences were predicted using GeneMark v3.3 and Glimmer2
+            v2.13. Intergenic regions not spanned by GeneMark and Glimmer2 were
+            blasted against NCBI's non-redundant (NR) database and predictions
+            generated based on protein alignments. tRNA genes were determined
+            using tRNAscan-SE 1.23 and non-coding RNA genes by RNAmmer-1.2 and
+            Rfam v8.0. Gene names are generated at the contig level and may not
+            necessarily reflect any known order or orientation between contigs.
+            
+            This work was supported by the National Human Genome Research
+            Institute and the NIH Roadmap Human Microbiome Project
+            [http://nihroadmap.nih.gov/hmp/].
+            
+            This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Genome Coverage: 23.9x
+            Sequencing Technology: 454
+            
+            Annotation was added to the contigs in December 2009.
+            Product names were updated in August 2012.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..90
+                     /organism="Subdoligranulum variabile DSM 15176"
+                     /strain="DSM 15176"
+                     /db_xref="taxon:411471"
+     Protein         1..90
+                     /product="prevent-host-death family protein"
+     Region          19..79
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     cl09153"
+                     /db_xref="CDD:298842"
+     CDS             1..90
+                     /locus_tag="SUBVAR_06338"
+                     /coded_by="ACBY02000027.1:22052..22324"
+                     /transl_table=11
+ORIGIN      
+        1 mytgkkevse vaintdnrvs iteadqdfsr varmvdengt vlilkdntpr yvlmvfsqfe
+       61 peqqtadedv lavsrrlmak nkeayevlak
+//
+
+LOCUS       EHL71848                  97 aa            linear   BCT 16-DEC-2011
+DEFINITION  hypothetical protein HMPREF1032_03217 [Subdoligranulum sp.
+            4_3_54A2FAA].
+ACCESSION   EHL71848
+VERSION     EHL71848.1
+DBLINK      BioProject: PRJNA40041
+            BioSample: SAMN02463804
+DBSOURCE    accession ACWW01000038.1
+KEYWORDS    HIGH_QUALITY_DRAFT.
+SOURCE      Subdoligranulum sp. 4_3_54A2FAA
+  ORGANISM  Subdoligranulum sp. 4_3_54A2FAA
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Subdoligranulum.
+REFERENCE   1  (residues 1 to 97)
+  AUTHORS   Earl,A., Ward,D., Feldgarden,M., Gevers,D., Daigneault,M.,
+            Strauss,J., Allen-Vercoe,E., Young,S.K., Zeng,Q., Gargeya,S.,
+            Fitzgerald,M., Haas,B., Abouelleil,A., Alvarado,L., Arachchi,H.M.,
+            Berlin,A., Brown,A., Chapman,S.B., Chen,Z., Dunbar,C., Freedman,E.,
+            Gearin,G., Goldberg,J., Griggs,A., Gujja,S., Heiman,D., Howarth,C.,
+            Larson,L., Lui,A., MacDonald,P.J.P., Montmayeur,A., Murphy,C.,
+            Neiman,D., Pearson,M., Priest,M., Roberts,A., Saif,S., Shea,T.,
+            Shenoy,N., Sisk,P., Stolte,C., Sykes,S., Wortman,J., Nusbaum,C. and
+            Birren,B.
+  CONSRTM   The Broad Institute Genome Sequencing Platform
+  TITLE     The Genome Sequence of Subdoligranulum sp. 4_3_54A2FAA
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 97)
+  AUTHORS   Earl,A., Ward,D., Feldgarden,M., Gevers,D., Daigneault,M.,
+            Strauss,J., Allen-Vercoe,E., Young,S.K., Zeng,Q., Gargeya,S.,
+            Fitzgerald,M., Haas,B., Abouelleil,A., Alvarado,L., Arachchi,H.M.,
+            Berlin,A., Brown,A., Chapman,S.B., Chen,Z., Dunbar,C., Freedman,E.,
+            Gearin,G., Goldberg,J., Griggs,A., Gujja,S., Heiman,D., Howarth,C.,
+            Larson,L., Lui,A., MacDonald,P.J.P., Montmayeur,A., Murphy,C.,
+            Neiman,D., Pearson,M., Priest,M., Roberts,A., Saif,S., Shea,T.,
+            Shenoy,N., Sisk,P., Stolte,C., Sykes,S., Wortman,J., Nusbaum,C. and
+            Birren,B.
+  CONSRTM   The Broad Institute Genome Sequencing Platform
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-SEP-2011) Broad Institute of MIT and Harvard, 7
+            Cambridge Center, Cambridge, MA 02142, USA
+COMMENT     This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Source DNA provided by Daigneault, M., Strauss, J.C., and
+            Allen-Vercoe, E. (Molecular and Cellular Biology, University of
+            Guelph, Guelph, Ontario, N1G 2W1, Canada).
+            Bacteria provided by Daigneault, M., Strauss, J.C., and
+            Allen-Vercoe, E. (Molecular and Cellular Biology, University of
+            Guelph, Guelph, Ontario, N1G 2W1, Canada).
+            Please be aware that the annotation is done automatically with
+            little or no manual curation.
+            Gene Calling Method: Prodigal.
+            
+            ##Genome-Assembly-Data-START##
+            Finishing Goal           :: High-Quality Draft
+            Current Finishing Status :: High-Quality Draft
+            Assembly Method          :: Newbler v. 2.3-PostRelease-11/19/2009
+            Assembly Name            :: Subdol_sp_4_3_54A2FAA_V1
+            Genome Coverage          :: 25x
+            Sequencing Technology    :: 454
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..97
+                     /organism="Subdoligranulum sp. 4_3_54A2FAA"
+                     /strain="4_3_54A2FAA"
+                     /isolation_source="gastrointestinal tract"
+                     /host="Homo sapiens"
+                     /db_xref="HMP:1032"
+                     /db_xref="taxon:665956"
+     Protein         1..97
+                     /product="hypothetical protein"
+     Region          16..80
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+     CDS             1..97
+                     /locus_tag="HMPREF1032_03217"
+                     /coded_by="complement(ACWW01000038.1:11992..12285)"
+                     /transl_table=11
+ORIGIN      
+        1 mytimymfcd kevfimlntn itqfrknvfa mlentikyne pinistksgn aillseeeyn
+       61 gimatlelss naelkktlid gmntplseci sedevvw
+//
+
+LOCUS       WP_007048447             103 aa            linear   BCT 26-MAY-2013
+DEFINITION  toxin-antitoxin system antitoxin subunit [Subdoligranulum
+            variabile].
+ACCESSION   WP_007048447
+VERSION     WP_007048447.1
+KEYWORDS    RefSeq.
+SOURCE      Subdoligranulum variabile
+  ORGANISM  Subdoligranulum variabile
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Subdoligranulum.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..103
+                     /organism="Subdoligranulum variabile"
+                     /db_xref="taxon:214851"
+     Protein         1..103
+                     /product="toxin-antitoxin system antitoxin subunit"
+                     /calculated_mol_wt=11662
+     Region          4..>44
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+ORIGIN      
+        1 maidirpasa lrteynelaa rsrttgqpiy itrngegdtv lmdlnaftrr eeeldrreav
+       61 lehramilea emgrlagkpt ytpdqvraki qqhlgerqrq kng
+//
+
+LOCUS       WP_009322648              96 aa            linear   BCT 28-MAY-2013
+DEFINITION  prevent-host-death protein [Subdoligranulum sp. 4_3_54A2FAA].
+ACCESSION   WP_009322648
+VERSION     WP_009322648.1
+KEYWORDS    RefSeq.
+SOURCE      Subdoligranulum sp. 4_3_54A2FAA
+  ORGANISM  Subdoligranulum sp. 4_3_54A2FAA
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Subdoligranulum.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..96
+                     /organism="Subdoligranulum sp. 4_3_54A2FAA"
+                     /db_xref="taxon:665956"
+     Protein         1..96
+                     /product="prevent-host-death protein"
+                     /calculated_mol_wt=10717
+     Region          1..65
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+ORIGIN      
+        1 mnikpsasir nnyneisklc kstgepvylt ksgegdlvvm dieafsrrek mlalretlld
+       61 ierdringak yysvdevdae lrraiaease hgraev
+//
+
+LOCUS       WP_009322994             103 aa            linear   BCT 28-MAY-2013
+DEFINITION  toxin-antitoxin system antitoxin subunit [Subdoligranulum sp.
+            4_3_54A2FAA].
+ACCESSION   WP_009322994
+VERSION     WP_009322994.1
+KEYWORDS    RefSeq.
+SOURCE      Subdoligranulum sp. 4_3_54A2FAA
+  ORGANISM  Subdoligranulum sp. 4_3_54A2FAA
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Subdoligranulum.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..103
+                     /organism="Subdoligranulum sp. 4_3_54A2FAA"
+                     /db_xref="taxon:665956"
+     Protein         1..103
+                     /product="toxin-antitoxin system antitoxin subunit"
+                     /calculated_mol_wt=11487
+     Region          3..62
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+ORIGIN      
+        1 mamdirpasa lrteynelaa rsrmtgqpiy itrngegdtv lmdlaaytrr eeelnrkeaa
+       61 lahravvlea elkrlngaat ytsaqvrdlv ranlsnrqrr kng
+//
+
+LOCUS       WP_009323200              87 aa            linear   BCT 28-MAY-2013
+DEFINITION  prevent-host-death protein [Subdoligranulum sp. 4_3_54A2FAA].
+ACCESSION   WP_009323200
+VERSION     WP_009323200.1
+KEYWORDS    RefSeq.
+SOURCE      Subdoligranulum sp. 4_3_54A2FAA
+  ORGANISM  Subdoligranulum sp. 4_3_54A2FAA
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Subdoligranulum.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..87
+                     /organism="Subdoligranulum sp. 4_3_54A2FAA"
+                     /db_xref="taxon:665956"
+     Protein         1..87
+                     /product="prevent-host-death protein"
+                     /calculated_mol_wt=9802
+     Region          3..64
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+ORIGIN      
+        1 mpqirpitdl rntteiselc hanreplfit kngygdlvvm siemyeemie tartdmaise
+       61 aekefsadgv llnaretlss lrrkhfg
+//
+
+LOCUS       WP_009324145              88 aa            linear   BCT 28-MAY-2013
+DEFINITION  prevent-host-death protein [Subdoligranulum sp. 4_3_54A2FAA].
+ACCESSION   WP_009324145
+VERSION     WP_009324145.1
+KEYWORDS    RefSeq.
+SOURCE      Subdoligranulum sp. 4_3_54A2FAA
+  ORGANISM  Subdoligranulum sp. 4_3_54A2FAA
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Subdoligranulum.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..88
+                     /organism="Subdoligranulum sp. 4_3_54A2FAA"
+                     /db_xref="taxon:665956"
+     Protein         1..88
+                     /product="prevent-host-death protein"
+                     /calculated_mol_wt=9841
+     Region          1..65
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+ORIGIN      
+        1 mlikssttlr neydkivgls kaqqepvyit rngegemvfl pieayerrea eltllekllv
+       61 aeqnrldgvp typldavaae lediyaev
+//
+
+LOCUS       CDE71471                  85 aa            linear   ENV 31-MAY-2013
+DEFINITION  toxin-antitoxin system antitoxin component PHD family
+            [Subdoligranulum sp. CAG:314].
+ACCESSION   CDE71471
+VERSION     CDE71471.1
+DBSOURCE    embl accession CBJL010000034.1
+KEYWORDS    ENV.
+SOURCE      Subdoligranulum sp. CAG:314
+  ORGANISM  Subdoligranulum sp. CAG:314
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Subdoligranulum; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..85
+                     /organism="Subdoligranulum sp. CAG:314"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262970"
+                     /environmental_sample
+                     /note="contig 4"
+     Protein         1..85
+                     /product="toxin-antitoxin system antitoxin component PHD
+                     family"
+     Region          1..56
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+     CDS             1..85
+                     /locus_tag="BN603_00034"
+                     /coded_by="CBJL010000034.1:7485..7742"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mtiipmrdlk dtvaverhca eangpvfvtk ngygklvvmd ieyyeqtmrk vyeakqiseg
+       61 lsdlasgktv dgsdvrkrmt ekygi
+//
+
+LOCUS       WP_040917839              80 aa            linear   BCT 24-JAN-2015
+DEFINITION  prevent-host-death protein [Subdoligranulum variabile].
+ACCESSION   WP_040917839
+VERSION     WP_040917839.1
+KEYWORDS    RefSeq.
+SOURCE      Subdoligranulum variabile
+  ORGANISM  Subdoligranulum variabile
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Subdoligranulum.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..80
+                     /organism="Subdoligranulum variabile"
+                     /db_xref="taxon:214851"
+     Protein         1..80
+                     /product="prevent-host-death protein"
+                     /calculated_mol_wt=9006
+     Region          9..69
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     cl09153"
+                     /db_xref="CDD:298842"
+ORIGIN      
+        1 maintdnrvs iteadqdfsr varmvdengt vlilkdntpr yvlmvfsqfe peqqtadedv
+       61 lavsrrlmak nkeayevlak
+//
+
+LOCUS       EFB74319                 172 aa            linear   BCT 03-AUG-2012
+DEFINITION  addiction module antitoxin, RelB/DinJ family [Subdoligranulum
+            variabile DSM 15176].
+ACCESSION   EFB74319
+VERSION     EFB74319.1
+DBLINK      BioProject: PRJNA18181
+            BioSample: SAMN00008862
+DBSOURCE    accession ACBY02000078.1
+KEYWORDS    .
+SOURCE      Subdoligranulum variabile DSM 15176
+  ORGANISM  Subdoligranulum variabile DSM 15176
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Subdoligranulum.
+REFERENCE   1  (residues 1 to 172)
+  AUTHORS   Fulton,L., Clifton,S., Fulton,B., Xu,J., Minx,P., Pepin,K.H.,
+            Johnson,M., Bhonagiri,V., Nash,W.E., Mardis,E.R. and Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-JAN-2009) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+REFERENCE   2  (residues 1 to 172)
+  AUTHORS   Weinstock,G., Sodergren,E., Clifton,S., Fulton,L., Fulton,B.,
+            Courtney,L., Fronick,C., Harrison,M., Strong,C., Farmer,C.,
+            Delahaunty,K., Markovic,C., Hall,O., Minx,P., Tomlinson,C.,
+            Mitreva,M., Nelson,J., Hou,S., Wollam,A., Pepin,K.H., Johnson,M.,
+            Bhonagiri,V., Nash,W.E., Warren,W., Chinwalla,A., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-SEP-2009) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+REFERENCE   3  (residues 1 to 172)
+  AUTHORS   Weinstock,G., Sodergren,E., Clifton,S., Fulton,L., Fulton,B.,
+            Courtney,L., Fronick,C., Harrison,M., Strong,C., Farmer,C.,
+            Delahaunty,K., Markovic,C., Hall,O., Minx,P., Tomlinson,C.,
+            Mitreva,M., Nelson,J., Hou,S., Wollam,A., Pepin,K.H., Johnson,M.,
+            Bhonagiri,V., Nash,W.E., Warren,W., Chinwalla,A., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-DEC-2009) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+COMMENT     Subdoligranulum variabile (GenBank Accession Number for 16S rDNA
+            gene: AJ518869) is a member of the division Firmicutes. In one
+            comprehensive 16S rDNA sequence-based enumeration of the colonic
+            microbiota of three healthy adult humans, it represents, on
+            average, 0.532% of all 16S rDNA sequences and 1.048% of the
+            sequences in its division (Eckburg et. al. (2005)). The sequenced
+            strain was obtained from Deutsche Sammlung von Mikroorganismen und
+            Zellkulturen GmbH (DSMZ) (DSM 15176).
+            
+            We have performed one round of automated sequence improvement
+            (pre-finishing), along with manual improvement that includes
+            breaking apart any mis-assembly, and making manual joins where
+            possible. Manual edits also are made where the consensus appears to
+            be incorrect. All low quality data on the ends of contigs is
+            removed. Contigs are ordered and oriented where possible.
+            
+            Coding sequences were predicted using GeneMark v3.3 and Glimmer2
+            v2.13. Intergenic regions not spanned by GeneMark and Glimmer2 were
+            blasted against NCBI's non-redundant (NR) database and predictions
+            generated based on protein alignments. tRNA genes were determined
+            using tRNAscan-SE 1.23 and non-coding RNA genes by RNAmmer-1.2 and
+            Rfam v8.0. Gene names are generated at the contig level and may not
+            necessarily reflect any known order or orientation between contigs.
+            
+            This work was supported by the National Human Genome Research
+            Institute and the NIH Roadmap Human Microbiome Project
+            [http://nihroadmap.nih.gov/hmp/].
+            
+            This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Genome Coverage: 23.9x
+            Sequencing Technology: 454
+            
+            Annotation was added to the contigs in December 2009.
+            Product names were updated in August 2012.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..172
+                     /organism="Subdoligranulum variabile DSM 15176"
+                     /strain="DSM 15176"
+                     /db_xref="taxon:411471"
+     Protein         1..172
+                     /product="addiction module antitoxin, RelB/DinJ family"
+     Region          83..168
+                     /region_name="RelB_DinJ"
+                     /note="addiction module antitoxin, RelB/DinJ family;
+                     TIGR02384"
+                     /db_xref="CDD:274102"
+     CDS             1..172
+                     /locus_tag="SUBVAR_07416"
+                     /coded_by="ACBY02000078.1:36005..36523"
+                     /inference="protein motif:HMMPfam:IPR007337"
+                     /inference="protein motif:HMMTigr:IPR007337"
+                     /note="Psort location: Cytoplasmic, score: 8.96"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR007337"
+ORIGIN      
+        1 miqpglalqn alcltgtkrf dcpvvifpie icrvvcrtit peniverags gkkyasivnk
+       61 yidivrnvwy nsyrikerrl hcmaninini rmdsdlkqqf eafcndvgmt mttaftvfak
+      121 kavreyripf eigaevpnae tkkaiedark gigmskafss veelmedlna dd
+//
+
+LOCUS       WP_040917696              92 aa            linear   BCT 24-JAN-2015
+DEFINITION  damage-inducible protein J [Subdoligranulum variabile].
+ACCESSION   WP_040917696
+VERSION     WP_040917696.1
+KEYWORDS    RefSeq.
+SOURCE      Subdoligranulum variabile
+  ORGANISM  Subdoligranulum variabile
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Subdoligranulum.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..92
+                     /organism="Subdoligranulum variabile"
+                     /db_xref="taxon:214851"
+     Protein         1..92
+                     /product="damage-inducible protein J"
+                     /calculated_mol_wt=10009
+     Region          4..90
+                     /region_name="RelB_DinJ"
+                     /note="addiction module antitoxin, RelB/DinJ family;
+                     TIGR02384"
+                     /db_xref="CDD:274102"
+ORIGIN      
+        1 magsttnisi rmdselkaqa dalfaelgmn lstafnifvr qslreggipf einlnqpnke
+       61 tiaamleaer iakdpsvkgy tdvdemfadl kk
+//
+
+LOCUS       WP_007047937             117 aa            linear   BCT 14-JUN-2015
+DEFINITION  toxin RelE [Subdoligranulum variabile].
+ACCESSION   WP_007047937
+VERSION     WP_007047937.1
+KEYWORDS    RefSeq.
+SOURCE      Subdoligranulum variabile
+  ORGANISM  Subdoligranulum variabile
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Subdoligranulum.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..117
+                     /organism="Subdoligranulum variabile"
+                     /db_xref="taxon:214851"
+     Protein         1..117
+                     /product="toxin RelE"
+                     /calculated_mol_wt=13474
+     Region          17..105
+                     /region_name="Gp49"
+                     /note="Phage derived protein Gp49-like (DUF891);
+                     pfam05973"
+                     /db_xref="CDD:283596"
+ORIGIN      
+        1 mevefystpa gdevvgefls slpdkdlaka lrgiellkqm glelrepnvk hlegpiwelr
+       61 ikfstnayri lyvvcdentv vllhgfmkkt qktprteiei aksrwaelek rrsqkdr
+//
+
+LOCUS       WP_040909866             136 aa            linear   BCT 24-JAN-2015
+DEFINITION  hypothetical protein [Subdoligranulum sp. 4_3_54A2FAA].
+ACCESSION   WP_040909866
+VERSION     WP_040909866.1
+KEYWORDS    RefSeq.
+SOURCE      Subdoligranulum sp. 4_3_54A2FAA
+  ORGANISM  Subdoligranulum sp. 4_3_54A2FAA
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Subdoligranulum.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..136
+                     /organism="Subdoligranulum sp. 4_3_54A2FAA"
+                     /db_xref="taxon:665956"
+     Protein         1..136
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=16276
+     Region          20..108
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 mtkiytfcer dgqspflslf hkldrklqqk ilkglrcmvl ypsyrtqphv khftierysg
+       61 lyeyrerirv lfrviymvds kqniirlapf ikrrdkdtqy alelaiqrav iirqypecrv
+      121 eldlggetpv lihrdi
+//
+
+LOCUS       WP_009324433              57 aa            linear   BCT 19-MAY-2016
+DEFINITION  addiction module toxin, HicA family [Subdoligranulum sp.
+            4_3_54A2FAA].
+ACCESSION   WP_009324433
+VERSION     WP_009324433.1
+KEYWORDS    RefSeq.
+SOURCE      Subdoligranulum sp. 4_3_54A2FAA
+  ORGANISM  Subdoligranulum sp. 4_3_54A2FAA
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Subdoligranulum.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..57
+                     /organism="Subdoligranulum sp. 4_3_54A2FAA"
+                     /db_xref="taxon:665956"
+     Protein         1..57
+                     /product="addiction module toxin, HicA family"
+                     /calculated_mol_wt=6558
+     Region          4..53
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; pfam07927"
+                     /db_xref="CDD:285205"
+ORIGIN      
+        1 mkrrdlikkl enagfklarn ggnhdvytrg kdmeqvprht einerlarai lkkwgld
+//
+
+LOCUS       WP_007046955              96 aa            linear   BCT 14-JUN-2015
+DEFINITION  toxin RelE [Subdoligranulum variabile].
+ACCESSION   WP_007046955
+VERSION     WP_007046955.1
+KEYWORDS    RefSeq.
+SOURCE      Subdoligranulum variabile
+  ORGANISM  Subdoligranulum variabile
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Subdoligranulum.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..96
+                     /organism="Subdoligranulum variabile"
+                     /db_xref="taxon:214851"
+     Protein         1..96
+                     /product="toxin RelE"
+                     /calculated_mol_wt=10997
+     Region          8..94
+                     /region_name="YafQ"
+                     /note="mRNA-degrading endonuclease (mRNA interferase)
+                     YafQ, toxin component of the YafQ-DinJ toxin-antitoxin
+                     module [Translation, ribosomal structure and biogenesis];
+                     COG3041"
+                     /db_xref="CDD:225583"
+ORIGIN      
+        1 msqtkyvvkf ttqfrkdykl amkrglkiel leriimllaa getlpkkskd haltgnwvgh
+       61 rechilpdwl lvyrveddvl vltltrtgth sdlfgk
+//
+
+LOCUS       WP_007048448             102 aa            linear   BCT 26-MAY-2013
+DEFINITION  toxin RelE [Subdoligranulum variabile].
+ACCESSION   WP_007048448
+VERSION     WP_007048448.1
+KEYWORDS    RefSeq.
+SOURCE      Subdoligranulum variabile
+  ORGANISM  Subdoligranulum variabile
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Subdoligranulum.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..102
+                     /organism="Subdoligranulum variabile"
+                     /db_xref="taxon:214851"
+     Protein         1..102
+                     /product="toxin RelE"
+                     /calculated_mol_wt=11822
+     Region          5..98
+                     /region_name="ParE"
+                     /note="Plasmid stabilization system protein ParE
+                     [Mobilome: prophages, transposons]; COG3668"
+                     /db_xref="CDD:226194"
+ORIGIN      
+        1 maefsviyte ealqdmlnis dyhfekvged salravaelq dhieklslfp rmgeehpdty
+       61 lnalgfrklv hdnhiviyri dqsqvvieri vwassnypel fr
+//
+
+LOCUS       WP_007048762              90 aa            linear   BCT 14-JUN-2015
+DEFINITION  toxin RelE [Subdoligranulum variabile].
+ACCESSION   WP_007048762
+VERSION     WP_007048762.1
+KEYWORDS    RefSeq.
+SOURCE      Subdoligranulum variabile
+  ORGANISM  Subdoligranulum variabile
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Subdoligranulum.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..90
+                     /organism="Subdoligranulum variabile"
+                     /db_xref="taxon:214851"
+     Protein         1..90
+                     /product="toxin RelE"
+                     /calculated_mol_wt=10499
+     Region          1..90
+                     /region_name="YafQ"
+                     /note="mRNA-degrading endonuclease (mRNA interferase)
+                     YafQ, toxin component of the YafQ-DinJ toxin-antitoxin
+                     module [Translation, ribosomal structure and biogenesis];
+                     COG3041"
+                     /db_xref="CDD:225583"
+ORIGIN      
+        1 mltikyqaaf kkdykrivkr gydmrllekv iellanqkpl peknrdhqls gdyagcrech
+       61 itpdwlliye vadeelilyl trtgshsdlf
+//
+
+LOCUS       WP_009322649             103 aa            linear   BCT 28-MAY-2013
+DEFINITION  plasmid stabilization protein [Subdoligranulum sp. 4_3_54A2FAA].
+ACCESSION   WP_009322649
+VERSION     WP_009322649.1
+KEYWORDS    RefSeq.
+SOURCE      Subdoligranulum sp. 4_3_54A2FAA
+  ORGANISM  Subdoligranulum sp. 4_3_54A2FAA
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Subdoligranulum.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..103
+                     /organism="Subdoligranulum sp. 4_3_54A2FAA"
+                     /db_xref="taxon:665956"
+     Protein         1..103
+                     /product="plasmid stabilization protein"
+                     /calculated_mol_wt=12176
+     Region          8..>77
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; pfam05016"
+                     /db_xref="CDD:282823"
+ORIGIN      
+        1 mdgqryrvli sdkarqmmka hvsflaevnp qaaeklrvsl megirslaqm percpyldee
+       61 drrspyrklh ipkwylviyv vvddtvyvey ivdarqeygw llr
+//
+
+LOCUS       WP_009322995             108 aa            linear   BCT 28-MAY-2013
+DEFINITION  toxin RelE [Subdoligranulum sp. 4_3_54A2FAA].
+ACCESSION   WP_009322995
+VERSION     WP_009322995.1
+KEYWORDS    RefSeq.
+SOURCE      Subdoligranulum sp. 4_3_54A2FAA
+  ORGANISM  Subdoligranulum sp. 4_3_54A2FAA
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Subdoligranulum.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..108
+                     /organism="Subdoligranulum sp. 4_3_54A2FAA"
+                     /db_xref="taxon:665956"
+     Protein         1..108
+                     /product="toxin RelE"
+                     /calculated_mol_wt=12439
+     Region          5..98
+                     /region_name="ParE"
+                     /note="Plasmid stabilization system protein ParE
+                     [Mobilome: prophages, transposons]; COG3668"
+                     /db_xref="CDD:226194"
+ORIGIN      
+        1 mdelqivytt eamqdilgis dyyfdkvges aalravdalq nhidklmrfp rmgeehpdey
+       61 lkalnfrklv hdnhiviyrv dtetviieri vwassnypel fqqgvpal
+//
+
+LOCUS       WP_009324146             104 aa            linear   BCT 28-MAY-2013
+DEFINITION  hypothetical protein [Subdoligranulum sp. 4_3_54A2FAA].
+ACCESSION   WP_009324146
+VERSION     WP_009324146.1
+KEYWORDS    RefSeq.
+SOURCE      Subdoligranulum sp. 4_3_54A2FAA
+  ORGANISM  Subdoligranulum sp. 4_3_54A2FAA
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Subdoligranulum.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..104
+                     /organism="Subdoligranulum sp. 4_3_54A2FAA"
+                     /db_xref="taxon:665956"
+     Protein         1..104
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=11965
+     Region          5..101
+                     /region_name="ParE"
+                     /note="Plasmid stabilization system protein ParE
+                     [Mobilome: prophages, transposons]; COG3668"
+                     /db_xref="CDD:226194"
+ORIGIN      
+        1 mpryrvvlla eardelrqia lihkvkvgpk aakritdril ealrkledfp tmgtlppyer
+       61 ivragyrmli vddylcfyai rgaevhvvhi vhgsvdyirr lklv
+//
+
+LOCUS       CDE71472                 110 aa            linear   ENV 31-MAY-2013
+DEFINITION  toxin-antitoxin system toxin component RelE family [Subdoligranulum
+            sp. CAG:314].
+ACCESSION   CDE71472
+VERSION     CDE71472.1
+DBSOURCE    embl accession CBJL010000034.1
+KEYWORDS    ENV.
+SOURCE      Subdoligranulum sp. CAG:314
+  ORGANISM  Subdoligranulum sp. CAG:314
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Subdoligranulum; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..110
+                     /organism="Subdoligranulum sp. CAG:314"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262970"
+                     /environmental_sample
+                     /note="contig 4"
+     Protein         1..110
+                     /product="toxin-antitoxin system toxin component RelE
+                     family"
+     Region          7..101
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; pfam05016"
+                     /db_xref="CDD:282823"
+     CDS             1..110
+                     /locus_tag="BN603_00035"
+                     /coded_by="CBJL010000034.1:7732..8064"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mafeydyrft ekaeadltei lryitadlsn plaaqelgrr ifdsidnirn fpqsgliven
+       61 sfltdktvrr lvvdnyilyy kpndsekiiy ivrivygkrn ldeicreidg
+//
+
+LOCUS       WP_040909922              88 aa            linear   BCT 24-JAN-2015
+DEFINITION  hypothetical protein [Subdoligranulum sp. 4_3_54A2FAA].
+ACCESSION   WP_040909922
+VERSION     WP_040909922.1
+KEYWORDS    RefSeq.
+SOURCE      Subdoligranulum sp. 4_3_54A2FAA
+  ORGANISM  Subdoligranulum sp. 4_3_54A2FAA
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Subdoligranulum.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..88
+                     /organism="Subdoligranulum sp. 4_3_54A2FAA"
+                     /db_xref="taxon:665956"
+     Protein         1..88
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=10446
+     Region          7..86
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 msykivyskd avkdiqklqr anlatkakal ievirnnpyq tppsyeklvg dlfgmysrri
+       61 nrqhrivyqv fedekivkii rmwthyek
+//
+
+LOCUS       EHL71941                 144 aa            linear   BCT 16-DEC-2011
+DEFINITION  hypothetical protein HMPREF1032_03178 [Subdoligranulum sp.
+            4_3_54A2FAA].
+ACCESSION   EHL71941
+VERSION     EHL71941.1
+DBLINK      BioProject: PRJNA40041
+            BioSample: SAMN02463804
+DBSOURCE    accession ACWW01000037.1
+KEYWORDS    HIGH_QUALITY_DRAFT.
+SOURCE      Subdoligranulum sp. 4_3_54A2FAA
+  ORGANISM  Subdoligranulum sp. 4_3_54A2FAA
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Subdoligranulum.
+REFERENCE   1  (residues 1 to 144)
+  AUTHORS   Earl,A., Ward,D., Feldgarden,M., Gevers,D., Daigneault,M.,
+            Strauss,J., Allen-Vercoe,E., Young,S.K., Zeng,Q., Gargeya,S.,
+            Fitzgerald,M., Haas,B., Abouelleil,A., Alvarado,L., Arachchi,H.M.,
+            Berlin,A., Brown,A., Chapman,S.B., Chen,Z., Dunbar,C., Freedman,E.,
+            Gearin,G., Goldberg,J., Griggs,A., Gujja,S., Heiman,D., Howarth,C.,
+            Larson,L., Lui,A., MacDonald,P.J.P., Montmayeur,A., Murphy,C.,
+            Neiman,D., Pearson,M., Priest,M., Roberts,A., Saif,S., Shea,T.,
+            Shenoy,N., Sisk,P., Stolte,C., Sykes,S., Wortman,J., Nusbaum,C. and
+            Birren,B.
+  CONSRTM   The Broad Institute Genome Sequencing Platform
+  TITLE     The Genome Sequence of Subdoligranulum sp. 4_3_54A2FAA
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 144)
+  AUTHORS   Earl,A., Ward,D., Feldgarden,M., Gevers,D., Daigneault,M.,
+            Strauss,J., Allen-Vercoe,E., Young,S.K., Zeng,Q., Gargeya,S.,
+            Fitzgerald,M., Haas,B., Abouelleil,A., Alvarado,L., Arachchi,H.M.,
+            Berlin,A., Brown,A., Chapman,S.B., Chen,Z., Dunbar,C., Freedman,E.,
+            Gearin,G., Goldberg,J., Griggs,A., Gujja,S., Heiman,D., Howarth,C.,
+            Larson,L., Lui,A., MacDonald,P.J.P., Montmayeur,A., Murphy,C.,
+            Neiman,D., Pearson,M., Priest,M., Roberts,A., Saif,S., Shea,T.,
+            Shenoy,N., Sisk,P., Stolte,C., Sykes,S., Wortman,J., Nusbaum,C. and
+            Birren,B.
+  CONSRTM   The Broad Institute Genome Sequencing Platform
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-SEP-2011) Broad Institute of MIT and Harvard, 7
+            Cambridge Center, Cambridge, MA 02142, USA
+COMMENT     This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Source DNA provided by Daigneault, M., Strauss, J.C., and
+            Allen-Vercoe, E. (Molecular and Cellular Biology, University of
+            Guelph, Guelph, Ontario, N1G 2W1, Canada).
+            Bacteria provided by Daigneault, M., Strauss, J.C., and
+            Allen-Vercoe, E. (Molecular and Cellular Biology, University of
+            Guelph, Guelph, Ontario, N1G 2W1, Canada).
+            Please be aware that the annotation is done automatically with
+            little or no manual curation.
+            Gene Calling Method: Prodigal.
+            
+            ##Genome-Assembly-Data-START##
+            Finishing Goal           :: High-Quality Draft
+            Current Finishing Status :: High-Quality Draft
+            Assembly Method          :: Newbler v. 2.3-PostRelease-11/19/2009
+            Assembly Name            :: Subdol_sp_4_3_54A2FAA_V1
+            Genome Coverage          :: 25x
+            Sequencing Technology    :: 454
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..144
+                     /organism="Subdoligranulum sp. 4_3_54A2FAA"
+                     /strain="4_3_54A2FAA"
+                     /isolation_source="gastrointestinal tract"
+                     /host="Homo sapiens"
+                     /db_xref="HMP:1032"
+                     /db_xref="taxon:665956"
+     Protein         1..144
+                     /product="hypothetical protein"
+     Region          11..116
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+     CDS             1..144
+                     /locus_tag="HMPREF1032_03178"
+                     /coded_by="complement(ACWW01000037.1:17136..17570)"
+                     /transl_table=11
+ORIGIN      
+        1 mqsknaaprw gelwycdlgs edactgstiy cgvrpvlvts nnkysayssq yqvyplttkr
+       61 tnrrspshvn vepndlngls restiivenp mivakeqmls yigelepcll qqvaiakvmq
+      121 epllalaigt gieesseyla vany
+//
+
+LOCUS       WP_007046656             125 aa            linear   BCT 06-JUN-2015
+DEFINITION  mRNA interferase PemK [Subdoligranulum variabile].
+ACCESSION   WP_007046656
+VERSION     WP_007046656.1
+KEYWORDS    RefSeq.
+SOURCE      Subdoligranulum variabile
+  ORGANISM  Subdoligranulum variabile
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Subdoligranulum.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..125
+                     /organism="Subdoligranulum variabile"
+                     /db_xref="taxon:214851"
+     Protein         1..125
+                     /product="mRNA interferase PemK"
+                     /calculated_mol_wt=13815
+     Region          5..110
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 mevhrgevfy adlspvvgse qggirpvlii qneignrhsp tviaaaitsr qdknrlpthi
+       61 svradrcgls kdsivlteqi rtldkrrlre ragrippddm rrvdealgvs mglesqnthe
+      121 dggyf
+//
+
+LOCUS       CDE70956                 114 aa            linear   ENV 31-MAY-2013
+DEFINITION  transcriptional modulator of MazE/toxin MazF [Subdoligranulum sp.
+            CAG:314].
+ACCESSION   CDE70956
+VERSION     CDE70956.1
+DBSOURCE    embl accession CBJL010000018.1
+KEYWORDS    ENV.
+SOURCE      Subdoligranulum sp. CAG:314
+  ORGANISM  Subdoligranulum sp. CAG:314
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Subdoligranulum; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..114
+                     /organism="Subdoligranulum sp. CAG:314"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262970"
+                     /environmental_sample
+                     /note="contig 25"
+     Protein         1..114
+                     /product="transcriptional modulator of MazE/toxin MazF"
+     Region          3..110
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+     CDS             1..114
+                     /locus_tag="BN603_00440"
+                     /coded_by="CBJL010000018.1:6540..6884"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mikrgelyya dlspvvgseq ggirpvlvlq ndignkyspt viaaattsrl tkaklpthie
+       61 lpgdkyclpk dsvvlleqir tidktrlkek igelpedvmk evnnallisl gffh
+//
+
+LOCUS       WP_009322997             120 aa            linear   BCT 28-MAY-2013
+DEFINITION  toxin RelE [Subdoligranulum sp. 4_3_54A2FAA].
+ACCESSION   WP_009322997
+VERSION     WP_009322997.1
+KEYWORDS    RefSeq.
+SOURCE      Subdoligranulum sp. 4_3_54A2FAA
+  ORGANISM  Subdoligranulum sp. 4_3_54A2FAA
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Subdoligranulum.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..120
+                     /organism="Subdoligranulum sp. 4_3_54A2FAA"
+                     /db_xref="taxon:665956"
+     Protein         1..120
+                     /product="toxin RelE"
+                     /calculated_mol_wt=13883
+     Region          <46..114
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 mtreyiimpe ferqwkamgq sdtelkylqe qlllnpqqgp vmkgtgglrk irvafehqgk
+       61 sgsgrvvyvd fpayetiyli taypknekdn lsaaernair klieqleqfl ktkyekgrlr
+//
+

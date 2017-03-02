@@ -1,0 +1,3539 @@
+LOCUS       WP_008374952             120 aa            linear   BCT 04-JUL-2015
+DEFINITION  antitoxin HicB [Coprococcus comes].
+ACCESSION   WP_008374952
+VERSION     WP_008374952.1
+KEYWORDS    RefSeq.
+SOURCE      Coprococcus comes
+  ORGANISM  Coprococcus comes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..120
+                     /organism="Coprococcus comes"
+                     /db_xref="taxon:410072"
+     Protein         1..120
+                     /product="antitoxin HicB"
+                     /calculated_mol_wt=13716
+     Region          16..77
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+     Region          <75..111
+                     /region_name="HicB"
+                     /note="HicB family; cl23837"
+                     /db_xref="CDD:304994"
+ORIGIN      
+        1 mktlneymkm pyrmeivede eeggfvvsyp dlpgcitcge tiesavqnal dakrtwieaa
+       61 leerieiyep dslenysgqf klriprslhr slaehsqkeg ismnqyciyl ltkndavfsk
+//
+
+LOCUS       CDB79901                  70 aa            linear   ENV 31-MAY-2013
+DEFINITION  ribbon-helix-helix protein CopG family [Coprococcus sp. CAG:131].
+ACCESSION   CDB79901
+VERSION     CDB79901.1
+DBSOURCE    embl accession CBEE010000123.1
+KEYWORDS    ENV.
+SOURCE      Coprococcus sp. CAG:131
+  ORGANISM  Coprococcus sp. CAG:131
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..70
+                     /organism="Coprococcus sp. CAG:131"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262862"
+                     /environmental_sample
+                     /note="contig 209"
+     Protein         1..70
+                     /product="ribbon-helix-helix protein CopG family"
+     Region          10..53
+                     /region_name="HicB"
+                     /note="HicB family; cl23837"
+                     /db_xref="CDD:304994"
+     CDS             1..70
+                     /locus_tag="BN485_01859"
+                     /coded_by="complement(CBEE010000123.1:5316..5528)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mtdgnkkrgp grptekrkdt ilrlridtdt hrklsecaav rqvsmselvr eaideifrre
+       61 kekqqkneae
+//
+
+LOCUS       CBK81739                  68 aa            linear   BCT 27-FEB-2015
+DEFINITION  Uncharacterized conserved protein [Coprococcus catus GD/7].
+ACCESSION   CBK81739
+VERSION     CBK81739.1
+DBLINK      BioProject: PRJEA45861
+            BioSample: SAMEA2272068
+DBSOURCE    embl accession FP929038.1
+KEYWORDS    .
+SOURCE      Coprococcus catus GD/7
+  ORGANISM  Coprococcus catus GD/7
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+REFERENCE   1
+  AUTHORS   Pajon,A., Turner,K., Parkhill,J., Duncan,S. and Flint,H.
+  CONSRTM   metaHIT consortium -- http://www.metahit.eu/
+  TITLE     The genome sequence of Coprococcus catus GD/7
+  JOURNAL   Unpublished
+REFERENCE   2
+  AUTHORS   Pajon,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2010) Sanger Institute, Wellcome Trust Genome
+            Campus, Hinxton, Cambridge CB10 1SA, United Kingdom
+COMMENT     This is a reference genome for the metaHIT project DNA source:
+            Rowett Institute of Nutrition and Health, University of Aberdeen --
+            http://www.rowett.ac.uk/divisions/ghp/ Sequencing technology: 454
+            Genome coverage: 21x
+            Annotation was added using ab initio prediction IMG/ER --
+            http://img.jgi.doe.gov/submit (Markowitz, Szeto et al. 2007).
+FEATURES             Location/Qualifiers
+     source          1..68
+                     /organism="Coprococcus catus GD/7"
+                     /strain="GD/7"
+                     /db_xref="taxon:717962"
+     Protein         1..68
+                     /product="Uncharacterized conserved protein"
+     Region          16..>59
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+     CDS             1..68
+                     /locus_tag="CC1_31930"
+                     /coded_by="FP929038.1:3226352..3226558"
+                     /transl_table=11
+                     /db_xref="EnsemblGenomes-Gn:CC1_31930"
+                     /db_xref="EnsemblGenomes-Tr:CBK81739"
+                     /db_xref="InterPro:IPR005357"
+                     /db_xref="UniProtKB/TrEMBL:D4JBL8"
+ORIGIN      
+        1 mkipndymek syrmeivedk deggfvvsyp dlpgcitcge tresavvnal dakkewfeah
+       61 ifkiviak
+//
+
+LOCUS       WP_008370779             132 aa            linear   BCT 26-AUG-2016
+DEFINITION  HicB family protein [Coprococcus comes].
+ACCESSION   WP_008370779
+VERSION     WP_008370779.1
+KEYWORDS    RefSeq.
+SOURCE      Coprococcus comes
+  ORGANISM  Coprococcus comes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..132
+                     /organism="Coprococcus comes"
+                     /db_xref="taxon:410072"
+     Protein         1..132
+                     /product="HicB family protein"
+                     /calculated_mol_wt=14699
+     Region          3..74
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+ORIGIN      
+        1 mcyiypavfy revdgrysvi fpdlndlaty gndfadafam aqeacgqylf nelkegnvlp
+       61 vassiedvia eedgaivnmv didlkaferk ygersvkktl tipgwlnasc eerginfskv
+      121 lqealiarlq ar
+//
+
+LOCUS       CCY53650                 139 aa            linear   ENV 31-MAY-2013
+DEFINITION  putative uncharacterized protein [Coprococcus sp. CAG:782].
+ACCESSION   CCY53650
+VERSION     CCY53650.1
+DBSOURCE    embl accession CAYJ010000040.1
+KEYWORDS    ENV.
+SOURCE      Coprococcus sp. CAG:782
+  ORGANISM  Coprococcus sp. CAG:782
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..139
+                     /organism="Coprococcus sp. CAG:782"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262863"
+                     /environmental_sample
+                     /note="contig 16"
+     Protein         1..139
+                     /product="putative uncharacterized protein"
+     Region          2..62
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+     Region          18..110
+                     /region_name="HicB_lk_antitox"
+                     /note="HicB_like antitoxin of bacterial toxin-antitoxin
+                     system; pfam15919"
+                     /db_xref="CDD:292541"
+     CDS             1..139
+                     /locus_tag="BN781_00209"
+                     /coded_by="CAYJ010000040.1:6606..7025"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mknvypvfft ktkdnilvev pdldiltegt dmndaidmar daielkcvtm edanetiptp
+       61 sdistldvhk gtfsadgetv isfvdidstt yrkktdmktv rrnvalpswl nyaadqagvn
+      121 vsrilqealm svlkierki
+//
+
+LOCUS       EEG89846                 175 aa            linear   BCT 15-AUG-2012
+DEFINITION  putative stage V sporulation protein T [Coprococcus comes ATCC
+            27758].
+ACCESSION   EEG89846
+VERSION     EEG89846.1
+DBLINK      BioProject: PRJNA20525
+            BioSample: SAMN00000016
+DBSOURCE    accession ABVR01000040.1
+KEYWORDS    .
+SOURCE      Coprococcus comes ATCC 27758
+  ORGANISM  Coprococcus comes ATCC 27758
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+REFERENCE   1  (residues 1 to 175)
+  AUTHORS   Sudarsanam,P., Ley,R., Guruge,J., Turnbaugh,P.J., Mahowald,M.,
+            Liep,D. and Gordon,J.
+  TITLE     Draft genome sequence of Coprococcus comes (ATCC 27758)
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 175)
+  AUTHORS   Fulton,L., Clifton,S., Fulton,B., Xu,J., Minx,P., Pepin,K.H.,
+            Johnson,M., Bhonagiri,V., Nash,W.E., Mardis,E.R. and Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-FEB-2009) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+COMMENT     Coprococcus comes (16S rDNA gene sequence is not available) is a
+            member of the Firmicutes division of the domain bacteria and has
+            been isolated from human feces. The sequenced strain was obtained
+            from ATCC (ATCC 27758).
+            
+            This is a Pcap assembly comprised of 1/4 FLX Fragment Titration
+            run, 1 full FLX fragment run, and 1 full FLX PE run of 454 data
+            with a Q20 coverage of 67.2X. We have performed one round of
+            automated sequence improvement (pre-finishing), along with manual
+            improvement that includes breaking apart any mis-assembly, and
+            making manual joins where possible. Manual edits also are made
+            where the consensus appears to be incorrect. All low quality data
+            on the ends of contigs is removed. Contigs are ordered and oriented
+            where possible.
+            
+            This sequenced strain is part of a comprehensive, sequence-based
+            survey of members of the normal human gut microbiota.  A joint
+            effort of the WU-GSC and the Center for Genome Sciences at
+            Washington University School of Medicine, the purpose of this
+            survey is to provide the general scientific community with a broad
+            view of the gene content of 100 representatives of the major
+            divisions represented in the intestine's microbial community. This
+            information should provide a frame of reference for analyzing
+            metagenomic studies of the human gut microbiome. Further details of
+            this effort are described in a white paper entitled 'Extending Our
+            View of Self: the Human Gut Microbiome Initiative (HGMI)'
+            (http://www.genome.gov/Pages/Research/Sequencing/SeqProposals/HGMIS
+            eq.pdf). These studies are supported by National Human Genome
+            Research Institute.
+            
+            Coding sequences were predicted using GeneMark v3.3 and Glimmer2
+            v2.13. Intergenic regions not spanned by GeneMark and Glimmer2 were
+            blasted against NCBI's non-redundant (NR) database and predictions
+            generated based on protein alignments. tRNA genes were determined
+            using tRNAscan-SE 1.23 and non-coding RNA genes by RNAmmer-1.2 and
+            Rfam v8.0. Gene names are generated at the contig level and may not
+            necessarily reflect any known order or orientation between contigs.
+            
+            For answers to your questions regarding this assembly or project,
+            or any other GSC genome project, please visit our Genome Groups web
+            page (http://genome.wustl.edu/genome_group_index.cgi) and email the
+            designated contact person.
+            
+            This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Product names were updated in August 2012.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..175
+                     /organism="Coprococcus comes ATCC 27758"
+                     /strain="ATCC 27758"
+                     /culture_collection="ATCC:27758"
+                     /db_xref="taxon:470146"
+     Protein         1..175
+                     /product="putative stage V sporulation protein T"
+     Region          14..>73
+                     /region_name="AbrB"
+                     /note="Bifunctional DNA-binding transcriptional regulator
+                     of stationary/sporulation/toxin gene expression and
+                     antitoxin component of the YhaV-PrlF toxin-antitoxin
+                     module [Transcription, Defense mechanisms]; COG2002"
+                     /db_xref="CDD:224913"
+     Region          67..173
+                     /region_name="SpoVT_C"
+                     /note="Stage V sporulation protein T C-terminal,
+                     transcription factor; pfam15714"
+                     /db_xref="CDD:292342"
+     CDS             1..175
+                     /locus_tag="COPCOM_01720"
+                     /coded_by="complement(ABVR01000040.1:98640..99167)"
+                     /inference="protein motif:HMMPfam:IPR007159"
+                     /inference="protein motif:HMMTigr:IPR006339"
+                     /inference="protein motif:superfamily:IPR001048"
+                     /inference="similar to AA sequence:REFSEQ:YP_001557255.1"
+                     /note="Psort location: Cytoplasmic, score: 9.98"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR001048"
+                     /db_xref="InterPro:IPR006339"
+                     /db_xref="InterPro:IPR007159"
+ORIGIN      
+        1 mekyvehrrn rinmkatgiv rriddlgriv vpkeirrtlr iregdaleif tdregeiilk
+       61 kysplgemgn fadqyaesla qtlgylvcit dtdqviaaag pgkkefqeql itrqlaevia
+      121 rreqflassm drkftvivsg qnaelkwqvi spiicagdai gsvvilakdg rkktr
+//
+
+LOCUS       EEG89890                 107 aa            linear   BCT 15-AUG-2012
+DEFINITION  SpoVT/AbrB-like protein [Coprococcus comes ATCC 27758].
+ACCESSION   EEG89890
+VERSION     EEG89890.1
+DBLINK      BioProject: PRJNA20525
+            BioSample: SAMN00000016
+DBSOURCE    accession ABVR01000040.1
+KEYWORDS    .
+SOURCE      Coprococcus comes ATCC 27758
+  ORGANISM  Coprococcus comes ATCC 27758
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+REFERENCE   1  (residues 1 to 107)
+  AUTHORS   Sudarsanam,P., Ley,R., Guruge,J., Turnbaugh,P.J., Mahowald,M.,
+            Liep,D. and Gordon,J.
+  TITLE     Draft genome sequence of Coprococcus comes (ATCC 27758)
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 107)
+  AUTHORS   Fulton,L., Clifton,S., Fulton,B., Xu,J., Minx,P., Pepin,K.H.,
+            Johnson,M., Bhonagiri,V., Nash,W.E., Mardis,E.R. and Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-FEB-2009) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+COMMENT     Coprococcus comes (16S rDNA gene sequence is not available) is a
+            member of the Firmicutes division of the domain bacteria and has
+            been isolated from human feces. The sequenced strain was obtained
+            from ATCC (ATCC 27758).
+            
+            This is a Pcap assembly comprised of 1/4 FLX Fragment Titration
+            run, 1 full FLX fragment run, and 1 full FLX PE run of 454 data
+            with a Q20 coverage of 67.2X. We have performed one round of
+            automated sequence improvement (pre-finishing), along with manual
+            improvement that includes breaking apart any mis-assembly, and
+            making manual joins where possible. Manual edits also are made
+            where the consensus appears to be incorrect. All low quality data
+            on the ends of contigs is removed. Contigs are ordered and oriented
+            where possible.
+            
+            This sequenced strain is part of a comprehensive, sequence-based
+            survey of members of the normal human gut microbiota.  A joint
+            effort of the WU-GSC and the Center for Genome Sciences at
+            Washington University School of Medicine, the purpose of this
+            survey is to provide the general scientific community with a broad
+            view of the gene content of 100 representatives of the major
+            divisions represented in the intestine's microbial community. This
+            information should provide a frame of reference for analyzing
+            metagenomic studies of the human gut microbiome. Further details of
+            this effort are described in a white paper entitled 'Extending Our
+            View of Self: the Human Gut Microbiome Initiative (HGMI)'
+            (http://www.genome.gov/Pages/Research/Sequencing/SeqProposals/HGMIS
+            eq.pdf). These studies are supported by National Human Genome
+            Research Institute.
+            
+            Coding sequences were predicted using GeneMark v3.3 and Glimmer2
+            v2.13. Intergenic regions not spanned by GeneMark and Glimmer2 were
+            blasted against NCBI's non-redundant (NR) database and predictions
+            generated based on protein alignments. tRNA genes were determined
+            using tRNAscan-SE 1.23 and non-coding RNA genes by RNAmmer-1.2 and
+            Rfam v8.0. Gene names are generated at the contig level and may not
+            necessarily reflect any known order or orientation between contigs.
+            
+            For answers to your questions regarding this assembly or project,
+            or any other GSC genome project, please visit our Genome Groups web
+            page (http://genome.wustl.edu/genome_group_index.cgi) and email the
+            designated contact person.
+            
+            This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Product names were updated in August 2012.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..107
+                     /organism="Coprococcus comes ATCC 27758"
+                     /strain="ATCC 27758"
+                     /culture_collection="ATCC:27758"
+                     /db_xref="taxon:470146"
+     Protein         1..107
+                     /product="SpoVT/AbrB-like protein"
+     Region          28..107
+                     /region_name="MazE_antitoxin"
+                     /note="Antidote-toxin recognition MazE, bacterial
+                     antitoxin; cl00877"
+                     /db_xref="CDD:294570"
+     CDS             1..107
+                     /locus_tag="COPCOM_01764"
+                     /coded_by="complement(ABVR01000040.1:137038..137361)"
+                     /inference="protein motif:HMMPfam:IPR007159"
+                     /note="Psort location: Cytoplasmic, score: 8.87"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR007159"
+ORIGIN      
+        1 mirrekifdy fqnnvytkyi hymevnfmqt qvkawgnsqg irlpkdilqe anveindmle
+       61 vkvsdgmiml vktfrhqkle eraekfggkl nldgeyewdk pegrevw
+//
+
+LOCUS       CBK79421                  89 aa            linear   BCT 27-FEB-2015
+DEFINITION  transcriptional regulator, AbrB family [Coprococcus catus GD/7].
+ACCESSION   CBK79421
+VERSION     CBK79421.1
+DBLINK      BioProject: PRJEA45861
+            BioSample: SAMEA2272068
+DBSOURCE    embl accession FP929038.1
+KEYWORDS    .
+SOURCE      Coprococcus catus GD/7
+  ORGANISM  Coprococcus catus GD/7
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+REFERENCE   1
+  AUTHORS   Pajon,A., Turner,K., Parkhill,J., Duncan,S. and Flint,H.
+  CONSRTM   metaHIT consortium -- http://www.metahit.eu/
+  TITLE     The genome sequence of Coprococcus catus GD/7
+  JOURNAL   Unpublished
+REFERENCE   2
+  AUTHORS   Pajon,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2010) Sanger Institute, Wellcome Trust Genome
+            Campus, Hinxton, Cambridge CB10 1SA, United Kingdom
+COMMENT     This is a reference genome for the metaHIT project DNA source:
+            Rowett Institute of Nutrition and Health, University of Aberdeen --
+            http://www.rowett.ac.uk/divisions/ghp/ Sequencing technology: 454
+            Genome coverage: 21x
+            Annotation was added using ab initio prediction IMG/ER --
+            http://img.jgi.doe.gov/submit (Markowitz, Szeto et al. 2007).
+FEATURES             Location/Qualifiers
+     source          1..89
+                     /organism="Coprococcus catus GD/7"
+                     /strain="GD/7"
+                     /db_xref="taxon:717962"
+     Protein         1..89
+                     /product="transcriptional regulator, AbrB family"
+                     /function="transcriptional regulator, AbrB family"
+     Region          1..>51
+                     /region_name="AbrB"
+                     /note="Bifunctional DNA-binding transcriptional regulator
+                     of stationary/sporulation/toxin gene expression and
+                     antitoxin component of the YhaV-PrlF toxin-antitoxin
+                     module [Transcription, Defense mechanisms]; COG2002"
+                     /db_xref="CDD:224913"
+     CDS             1..89
+                     /locus_tag="CC1_05120"
+                     /coded_by="complement(FP929038.1:544291..544560)"
+                     /transl_table=11
+                     /db_xref="EnsemblGenomes-Gn:CC1_05120"
+                     /db_xref="EnsemblGenomes-Tr:CBK79421"
+                     /db_xref="InterPro:IPR007159"
+                     /db_xref="UniProtKB/TrEMBL:D4J500"
+ORIGIN      
+        1 mkstgvvrkl ddlgritlpi elrrnlnige hdpleifvdd driilrkyea sdiftgnmde
+       61 lidfhdkkvs kqsimemarl aglhviegv
+//
+
+LOCUS       CBK81803                 182 aa            linear   BCT 27-FEB-2015
+DEFINITION  transcriptional regulator, AbrB family [Coprococcus catus GD/7].
+ACCESSION   CBK81803
+VERSION     CBK81803.1
+DBLINK      BioProject: PRJEA45861
+            BioSample: SAMEA2272068
+DBSOURCE    embl accession FP929038.1
+KEYWORDS    .
+SOURCE      Coprococcus catus GD/7
+  ORGANISM  Coprococcus catus GD/7
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+REFERENCE   1
+  AUTHORS   Pajon,A., Turner,K., Parkhill,J., Duncan,S. and Flint,H.
+  CONSRTM   metaHIT consortium -- http://www.metahit.eu/
+  TITLE     The genome sequence of Coprococcus catus GD/7
+  JOURNAL   Unpublished
+REFERENCE   2
+  AUTHORS   Pajon,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2010) Sanger Institute, Wellcome Trust Genome
+            Campus, Hinxton, Cambridge CB10 1SA, United Kingdom
+COMMENT     This is a reference genome for the metaHIT project DNA source:
+            Rowett Institute of Nutrition and Health, University of Aberdeen --
+            http://www.rowett.ac.uk/divisions/ghp/ Sequencing technology: 454
+            Genome coverage: 21x
+            Annotation was added using ab initio prediction IMG/ER --
+            http://img.jgi.doe.gov/submit (Markowitz, Szeto et al. 2007).
+FEATURES             Location/Qualifiers
+     source          1..182
+                     /organism="Coprococcus catus GD/7"
+                     /strain="GD/7"
+                     /db_xref="taxon:717962"
+     Protein         1..182
+                     /product="transcriptional regulator, AbrB family"
+                     /function="transcriptional regulator, AbrB family"
+     Region          1..>60
+                     /region_name="AbrB"
+                     /note="Bifunctional DNA-binding transcriptional regulator
+                     of stationary/sporulation/toxin gene expression and
+                     antitoxin component of the YhaV-PrlF toxin-antitoxin
+                     module [Transcription, Defense mechanisms]; COG2002"
+                     /db_xref="CDD:224913"
+     Region          2..181
+                     /region_name="spore_V_T"
+                     /note="stage V sporulation protein T; TIGR02851"
+                     /db_xref="CDD:131898"
+     Region          54..181
+                     /region_name="SpoVT_C"
+                     /note="Stage V sporulation protein T C-terminal,
+                     transcription factor; pfam15714"
+                     /db_xref="CDD:292342"
+     CDS             1..182
+                     /locus_tag="CC1_32640"
+                     /coded_by="FP929038.1:3307051..3307599"
+                     /transl_table=11
+                     /db_xref="EnsemblGenomes-Gn:CC1_32640"
+                     /db_xref="EnsemblGenomes-Tr:CBK81803"
+                     /db_xref="InterPro:IPR007159"
+                     /db_xref="InterPro:IPR014213"
+                     /db_xref="UniProtKB/TrEMBL:D4JBT2"
+ORIGIN      
+        1 mkatgivrri ddlgrvvvpk eirrtlrire gdpleiytdr eggiilrkys pigelsqfsk
+       61 qyaealaqnt gyivsitdrd rhiatagsgk kelmqkeisr qldnlmnqre nllavkgerk
+      121 fipitedgge nytaqviypi iaegdaigtv ilttkdekvr mgememklaa saasflgrql
+      181 eq
+//
+
+LOCUS       CBK83597                 181 aa            linear   BCT 27-FEB-2015
+DEFINITION  transcriptional regulator, AbrB family [Coprococcus sp. ART55/1].
+ACCESSION   CBK83597
+VERSION     CBK83597.1
+DBLINK      BioProject: PRJNA45915
+            BioSample: SAMEA3138371
+DBSOURCE    embl accession FP929039.1
+KEYWORDS    .
+SOURCE      Coprococcus sp. ART55/1
+  ORGANISM  Coprococcus sp. ART55/1
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+REFERENCE   1
+  AUTHORS   Pajon,A., Turner,K., Parkhill,J., Duncan,S. and Flint,H.
+  CONSRTM   metaHIT consortium -- http://www.metahit.eu/
+  TITLE     The genome sequence of Coprococcus sp. ART55/1
+  JOURNAL   Unpublished
+REFERENCE   2
+  AUTHORS   Pajon,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2010) Sanger Institute, Wellcome Trust Genome
+            Campus, Hinxton, Cambridge CB10 1SA, United Kingdom
+COMMENT     This is a reference genome for the metaHIT project DNA source:
+            Rowett Institute of Nutrition and Health, University of Aberdeen --
+            http://www.rowett.ac.uk/divisions/ghp/ Sequencing technology: 454
+            Genome coverage: 17x
+            Annotation was added using ab initio prediction IMG/ER --
+            http://img.jgi.doe.gov/submit (Markowitz, Szeto et al. 2007).
+FEATURES             Location/Qualifiers
+     source          1..181
+                     /organism="Coprococcus sp. ART55/1"
+                     /strain="ART55/1"
+                     /db_xref="taxon:751585"
+     Protein         1..181
+                     /product="transcriptional regulator, AbrB family"
+                     /function="transcriptional regulator, AbrB family"
+     Region          1..>56
+                     /region_name="AbrB"
+                     /note="Bifunctional DNA-binding transcriptional regulator
+                     of stationary/sporulation/toxin gene expression and
+                     antitoxin component of the YhaV-PrlF toxin-antitoxin
+                     module [Transcription, Defense mechanisms]; COG2002"
+                     /db_xref="CDD:224913"
+     Region          2..180
+                     /region_name="spore_V_T"
+                     /note="stage V sporulation protein T; TIGR02851"
+                     /db_xref="CDD:131898"
+     Region          54..180
+                     /region_name="SpoVT_C"
+                     /note="Stage V sporulation protein T C-terminal,
+                     transcription factor; pfam15714"
+                     /db_xref="CDD:292342"
+     CDS             1..181
+                     /locus_tag="CCU_21760"
+                     /coded_by="FP929039.1:2304713..2305258"
+                     /transl_table=11
+                     /db_xref="EnsemblGenomes-Gn:CCU_21760"
+                     /db_xref="EnsemblGenomes-Tr:CBK83597"
+                     /db_xref="InterPro:IPR007159"
+                     /db_xref="InterPro:IPR014213"
+                     /db_xref="UniProtKB/TrEMBL:D5HFB4"
+ORIGIN      
+        1 mkatgivrri ddlgrivvpk eirkvlrire gdpleiftgk egeivlkkys pmadltafaq
+       61 qyveaisqsl glpvaitdrd sviavagmpk kelmgkelhs elesvindrk aivarkgdak
+      121 fihittddld ydgqvvqtii segdavgsvi vivrdsghri geieqkaavi aaaflgkqme
+      181 g
+//
+
+LOCUS       WP_004852080             181 aa            linear   BCT 04-JUL-2015
+DEFINITION  stage V sporulation protein T [Coprococcus eutactus].
+ACCESSION   WP_004852080
+VERSION     WP_004852080.1
+KEYWORDS    RefSeq.
+SOURCE      Coprococcus eutactus
+  ORGANISM  Coprococcus eutactus
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..181
+                     /organism="Coprococcus eutactus"
+                     /db_xref="taxon:33043"
+     Protein         1..181
+                     /product="stage V sporulation protein T"
+                     /calculated_mol_wt=19619
+     Region          1..>60
+                     /region_name="AbrB"
+                     /note="Bifunctional DNA-binding transcriptional regulator
+                     of stationary/sporulation/toxin gene expression and
+                     antitoxin component of the YhaV-PrlF toxin-antitoxin
+                     module [Transcription, Defense mechanisms]; COG2002"
+                     /db_xref="CDD:224913"
+     Region          2..180
+                     /region_name="spore_V_T"
+                     /note="stage V sporulation protein T; TIGR02851"
+                     /db_xref="CDD:131898"
+     Region          54..180
+                     /region_name="SpoVT_C"
+                     /note="Stage V sporulation protein T C-terminal,
+                     transcription factor; pfam15714"
+                     /db_xref="CDD:292342"
+ORIGIN      
+        1 mkatgiirri dnlgrlvvpk eirkvlrike gdpleifmgn dgeimlkkys pmadlavfaq
+       61 qyvdavsqsl glpvaitdrd sviavagipk kymlgkelhr eledvisdrk mivarkgepg
+      121 fvritvdgme cdgqviqtii aegdaigsvi vmvrdsshki gdieqkaaai aasflgkqme
+      181 g
+//
+
+LOCUS       WP_008976447             182 aa            linear   BCT 04-DEC-2014
+DEFINITION  stage V sporulation protein T [Coprococcus sp. HPP0074].
+ACCESSION   WP_008976447
+VERSION     WP_008976447.1
+KEYWORDS    RefSeq.
+SOURCE      Coprococcus sp. HPP0074
+  ORGANISM  Coprococcus sp. HPP0074
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..182
+                     /organism="Coprococcus sp. HPP0074"
+                     /db_xref="taxon:1078090"
+     Protein         1..182
+                     /product="stage V sporulation protein T"
+                     /calculated_mol_wt=19636
+     Region          1..>56
+                     /region_name="AbrB"
+                     /note="Bifunctional DNA-binding transcriptional regulator
+                     of stationary/sporulation/toxin gene expression and
+                     antitoxin component of the YhaV-PrlF toxin-antitoxin
+                     module [Transcription, Defense mechanisms]; COG2002"
+                     /db_xref="CDD:224913"
+     Region          2..181
+                     /region_name="spore_V_T"
+                     /note="stage V sporulation protein T; TIGR02851"
+                     /db_xref="CDD:131898"
+     Region          54..181
+                     /region_name="SpoVT_C"
+                     /note="Stage V sporulation protein T C-terminal,
+                     transcription factor; pfam15714"
+                     /db_xref="CDD:292342"
+ORIGIN      
+        1 mkatgvvrri ddlgrvvipk eirrtlrihe gdpleiftdr eggvilkkys pvgemtplai
+       61 qyaeslaqva kctvcitdhe tvvaaagngk kefagkrvse afqtclsdrk ercaargekg
+      121 fvlltegqsa vfteeiispi vaegdvigav vllmkeetkr tedgaeklal aaaaflgkqm
+      181 ef
+//
+
+LOCUS       WP_016440041             182 aa            linear   BCT 17-JUN-2013
+DEFINITION  stage V sporulation protein T [Coprococcus sp. HPP0048].
+ACCESSION   WP_016440041
+VERSION     WP_016440041.1
+KEYWORDS    RefSeq.
+SOURCE      Coprococcus sp. HPP0048
+  ORGANISM  Coprococcus sp. HPP0048
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..182
+                     /organism="Coprococcus sp. HPP0048"
+                     /db_xref="taxon:1078091"
+     Protein         1..182
+                     /product="stage V sporulation protein T"
+                     /calculated_mol_wt=19622
+     Region          1..>56
+                     /region_name="AbrB"
+                     /note="Bifunctional DNA-binding transcriptional regulator
+                     of stationary/sporulation/toxin gene expression and
+                     antitoxin component of the YhaV-PrlF toxin-antitoxin
+                     module [Transcription, Defense mechanisms]; COG2002"
+                     /db_xref="CDD:224913"
+     Region          2..181
+                     /region_name="spore_V_T"
+                     /note="stage V sporulation protein T; TIGR02851"
+                     /db_xref="CDD:131898"
+     Region          54..181
+                     /region_name="SpoVT_C"
+                     /note="Stage V sporulation protein T C-terminal,
+                     transcription factor; pfam15714"
+                     /db_xref="CDD:292342"
+ORIGIN      
+        1 mkatgvvrri ddlgrvvipk eirrtlrihe gdpleiftdr eggvilkkys pvgemtplav
+       61 qyaeslaqva kctvcitdhe tvvaaagngk kefagkrvse afqtclsdrk ercaargekg
+      121 fvlltegqsa vfteeiispi vaegdvigav vllmkeetkr tedgaeklal aaaaflgkqm
+      181 ef
+//
+
+LOCUS       CCY54229                 181 aa            linear   ENV 31-MAY-2013
+DEFINITION  transcriptional regulator AbrB family [Coprococcus sp. CAG:782].
+ACCESSION   CCY54229
+VERSION     CCY54229.1
+DBSOURCE    embl accession CAYJ010000093.1
+KEYWORDS    ENV.
+SOURCE      Coprococcus sp. CAG:782
+  ORGANISM  Coprococcus sp. CAG:782
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..181
+                     /organism="Coprococcus sp. CAG:782"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262863"
+                     /environmental_sample
+                     /note="contig 64"
+     Protein         1..181
+                     /product="transcriptional regulator AbrB family"
+     Region          1..>58
+                     /region_name="AbrB"
+                     /note="Bifunctional DNA-binding transcriptional regulator
+                     of stationary/sporulation/toxin gene expression and
+                     antitoxin component of the YhaV-PrlF toxin-antitoxin
+                     module [Transcription, Defense mechanisms]; COG2002"
+                     /db_xref="CDD:224913"
+     Region          2..180
+                     /region_name="spore_V_T"
+                     /note="stage V sporulation protein T; TIGR02851"
+                     /db_xref="CDD:131898"
+     Region          54..180
+                     /region_name="SpoVT_C"
+                     /note="Stage V sporulation protein T C-terminal,
+                     transcription factor; pfam15714"
+                     /db_xref="CDD:292342"
+     CDS             1..181
+                     /locus_tag="BN781_00751"
+                     /coded_by="complement(CAYJ010000093.1:32327..32872)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mkatgivrri delgrivvpk eirknlrire gdpleiytaa dgevvlkkfs pmlelkefag
+       61 qyaeimaatl gcsvcitdre hivavagkgk kelqgraisr klselidlrk svsgevktgn
+      121 cinitdddis fegqviqtii cqgdaigavv llnrdagkai gdtekkavdl aarflgrqme
+      181 g
+//
+
+LOCUS       CDB85353                  80 aa            linear   ENV 31-MAY-2013
+DEFINITION  spoVT/AbrB-like protein [Coprococcus comes CAG:19].
+ACCESSION   CDB85353
+VERSION     CDB85353.1
+DBSOURCE    embl accession CBEG010000118.1
+KEYWORDS    ENV.
+SOURCE      Coprococcus comes CAG:19
+  ORGANISM  Coprococcus comes CAG:19
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..80
+                     /organism="Coprococcus comes CAG:19"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1263070"
+                     /environmental_sample
+                     /note="contig 204"
+     Protein         1..80
+                     /product="spoVT/AbrB-like protein"
+     Region          1..80
+                     /region_name="MazE_antitoxin"
+                     /note="Antidote-toxin recognition MazE, bacterial
+                     antitoxin; cl00877"
+                     /db_xref="CDD:294570"
+     CDS             1..80
+                     /locus_tag="BN524_02087"
+                     /coded_by="complement(CBEG010000118.1:6039..6281)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mqtqvkawgn sqgirlpkdi lqeanveind mlevkvsdgm imlfktfrhq kleeraekfg
+       61 gklnldgeye wdkpegrevw
+//
+
+LOCUS       CDB84251                 182 aa            linear   ENV 31-MAY-2013
+DEFINITION  putative stage V sporulation protein T [Coprococcus comes CAG:19].
+ACCESSION   CDB84251
+VERSION     CDB84251.1
+DBSOURCE    embl accession CBEG010000004.1
+KEYWORDS    ENV.
+SOURCE      Coprococcus comes CAG:19
+  ORGANISM  Coprococcus comes CAG:19
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..182
+                     /organism="Coprococcus comes CAG:19"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1263070"
+                     /environmental_sample
+                     /note="contig 101"
+     Protein         1..182
+                     /product="putative stage V sporulation protein T"
+     Region          1..>60
+                     /region_name="AbrB"
+                     /note="Bifunctional DNA-binding transcriptional regulator
+                     of stationary/sporulation/toxin gene expression and
+                     antitoxin component of the YhaV-PrlF toxin-antitoxin
+                     module [Transcription, Defense mechanisms]; COG2002"
+                     /db_xref="CDD:224913"
+     Region          2..181
+                     /region_name="spore_V_T"
+                     /note="stage V sporulation protein T; TIGR02851"
+                     /db_xref="CDD:131898"
+     Region          54..181
+                     /region_name="SpoVT_C"
+                     /note="Stage V sporulation protein T C-terminal,
+                     transcription factor; pfam15714"
+                     /db_xref="CDD:292342"
+     CDS             1..182
+                     /locus_tag="BN524_01118"
+                     /coded_by="complement(CBEG010000004.1:476..1024)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mkatgivrri ddlgrivvpk eirrtlrire gdaleiftdr egeiilkkys plgemgnfad
+       61 qyaeslaqtl gylvcitdtd qviaaagpgk kefqeqlitr qlaeviarre qflassmdrk
+      121 ftvivsgqna elkwqvvspi icagdaigsv vilakdgrkk pgeleqkmil caagflgrqm
+      181 eq
+//
+
+LOCUS       EEG90229                 166 aa            linear   BCT 15-AUG-2012
+DEFINITION  protein MraZ [Coprococcus comes ATCC 27758].
+ACCESSION   EEG90229
+VERSION     EEG90229.1
+DBLINK      BioProject: PRJNA20525
+            BioSample: SAMN00000016
+DBSOURCE    accession ABVR01000039.1
+KEYWORDS    .
+SOURCE      Coprococcus comes ATCC 27758
+  ORGANISM  Coprococcus comes ATCC 27758
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+REFERENCE   1  (residues 1 to 166)
+  AUTHORS   Sudarsanam,P., Ley,R., Guruge,J., Turnbaugh,P.J., Mahowald,M.,
+            Liep,D. and Gordon,J.
+  TITLE     Draft genome sequence of Coprococcus comes (ATCC 27758)
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 166)
+  AUTHORS   Fulton,L., Clifton,S., Fulton,B., Xu,J., Minx,P., Pepin,K.H.,
+            Johnson,M., Bhonagiri,V., Nash,W.E., Mardis,E.R. and Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-FEB-2009) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+COMMENT     Coprococcus comes (16S rDNA gene sequence is not available) is a
+            member of the Firmicutes division of the domain bacteria and has
+            been isolated from human feces. The sequenced strain was obtained
+            from ATCC (ATCC 27758).
+            
+            This is a Pcap assembly comprised of 1/4 FLX Fragment Titration
+            run, 1 full FLX fragment run, and 1 full FLX PE run of 454 data
+            with a Q20 coverage of 67.2X. We have performed one round of
+            automated sequence improvement (pre-finishing), along with manual
+            improvement that includes breaking apart any mis-assembly, and
+            making manual joins where possible. Manual edits also are made
+            where the consensus appears to be incorrect. All low quality data
+            on the ends of contigs is removed. Contigs are ordered and oriented
+            where possible.
+            
+            This sequenced strain is part of a comprehensive, sequence-based
+            survey of members of the normal human gut microbiota.  A joint
+            effort of the WU-GSC and the Center for Genome Sciences at
+            Washington University School of Medicine, the purpose of this
+            survey is to provide the general scientific community with a broad
+            view of the gene content of 100 representatives of the major
+            divisions represented in the intestine's microbial community. This
+            information should provide a frame of reference for analyzing
+            metagenomic studies of the human gut microbiome. Further details of
+            this effort are described in a white paper entitled 'Extending Our
+            View of Self: the Human Gut Microbiome Initiative (HGMI)'
+            (http://www.genome.gov/Pages/Research/Sequencing/SeqProposals/HGMIS
+            eq.pdf). These studies are supported by National Human Genome
+            Research Institute.
+            
+            Coding sequences were predicted using GeneMark v3.3 and Glimmer2
+            v2.13. Intergenic regions not spanned by GeneMark and Glimmer2 were
+            blasted against NCBI's non-redundant (NR) database and predictions
+            generated based on protein alignments. tRNA genes were determined
+            using tRNAscan-SE 1.23 and non-coding RNA genes by RNAmmer-1.2 and
+            Rfam v8.0. Gene names are generated at the contig level and may not
+            necessarily reflect any known order or orientation between contigs.
+            
+            For answers to your questions regarding this assembly or project,
+            or any other GSC genome project, please visit our Genome Groups web
+            page (http://genome.wustl.edu/genome_group_index.cgi) and email the
+            designated contact person.
+            
+            This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Product names were updated in August 2012.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..166
+                     /organism="Coprococcus comes ATCC 27758"
+                     /strain="ATCC 27758"
+                     /culture_collection="ATCC:27758"
+                     /db_xref="taxon:470146"
+     Protein         1..166
+                     /product="protein MraZ"
+     Region          22..154
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          24..80
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(24..26,52,60,69..70,73)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          32..36
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          87..147
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(95,97,125,132,141..142,145)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          103..107
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+     CDS             1..166
+                     /gene="mraZ"
+                     /locus_tag="COPCOM_01466"
+                     /coded_by="complement(ABVR01000039.1:107062..107562)"
+                     /inference="protein motif:BlastProDom:IPR003444"
+                     /inference="protein motif:HMMPfam:IPR003444"
+                     /inference="protein motif:HMMTigr:IPR003444"
+                     /inference="similar to AA sequence:REFSEQ:YP_001559580.1"
+                     /note="Psort location: Cytoplasmic, score: 8.87"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR003444"
+ORIGIN      
+        1 mersgakwhg kwqttlkegd pmltgefnhs idskgrliip sklreslgeh fvitkgmdgc
+       61 lflypdnewk afeeklrtlp ltnkkardfk rfflgsateg eldkqgrvli ssslrayadl
+      121 ekevvlagvl dkveiwskea weartadvee niediasdme dlglsi
+//
+
+LOCUS       CBK80982                 147 aa            linear   BCT 27-FEB-2015
+DEFINITION  mraZ protein [Coprococcus catus GD/7].
+ACCESSION   CBK80982
+VERSION     CBK80982.1
+DBLINK      BioProject: PRJEA45861
+            BioSample: SAMEA2272068
+DBSOURCE    embl accession FP929038.1
+KEYWORDS    .
+SOURCE      Coprococcus catus GD/7
+  ORGANISM  Coprococcus catus GD/7
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+REFERENCE   1
+  AUTHORS   Pajon,A., Turner,K., Parkhill,J., Duncan,S. and Flint,H.
+  CONSRTM   metaHIT consortium -- http://www.metahit.eu/
+  TITLE     The genome sequence of Coprococcus catus GD/7
+  JOURNAL   Unpublished
+REFERENCE   2
+  AUTHORS   Pajon,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2010) Sanger Institute, Wellcome Trust Genome
+            Campus, Hinxton, Cambridge CB10 1SA, United Kingdom
+COMMENT     This is a reference genome for the metaHIT project DNA source:
+            Rowett Institute of Nutrition and Health, University of Aberdeen --
+            http://www.rowett.ac.uk/divisions/ghp/ Sequencing technology: 454
+            Genome coverage: 21x
+            Annotation was added using ab initio prediction IMG/ER --
+            http://img.jgi.doe.gov/submit (Markowitz, Szeto et al. 2007).
+FEATURES             Location/Qualifiers
+     source          1..147
+                     /organism="Coprococcus catus GD/7"
+                     /strain="GD/7"
+                     /db_xref="taxon:717962"
+     Protein         1..147
+                     /product="mraZ protein"
+     Region          4..134
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          5..61
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(5..7,33,41,50..51,54)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          13..17
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          68..127
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(76,78,106,113,122..123,126)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          84..88
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+     CDS             1..147
+                     /locus_tag="CC1_23060"
+                     /coded_by="complement(FP929038.1:2334289..2334732)"
+                     /transl_table=11
+                     /db_xref="EnsemblGenomes-Gn:CC1_23060"
+                     /db_xref="EnsemblGenomes-Tr:CBK80982"
+                     /db_xref="GOA:D4J9G1"
+                     /db_xref="InterPro:IPR003444"
+                     /db_xref="InterPro:IPR020603"
+                     /db_xref="UniProtKB/TrEMBL:D4J9G1"
+ORIGIN      
+        1 mdgfigeyyh tidtkgrvii pqkyredlgd tfilskgldg clwihpmdew reftaklrel
+       61 stidkesrqf krffmsgate cefdkqgril vpaslrkyad lqkdvvltgm dtrielwsae
+      121 kwdvendmdd edmeavaahm aslgvni
+//
+
+LOCUS       CBK82060                 150 aa            linear   BCT 27-FEB-2015
+DEFINITION  mraZ protein [Coprococcus sp. ART55/1].
+ACCESSION   CBK82060
+VERSION     CBK82060.1
+DBLINK      BioProject: PRJNA45915
+            BioSample: SAMEA3138371
+DBSOURCE    embl accession FP929039.1
+KEYWORDS    .
+SOURCE      Coprococcus sp. ART55/1
+  ORGANISM  Coprococcus sp. ART55/1
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+REFERENCE   1
+  AUTHORS   Pajon,A., Turner,K., Parkhill,J., Duncan,S. and Flint,H.
+  CONSRTM   metaHIT consortium -- http://www.metahit.eu/
+  TITLE     The genome sequence of Coprococcus sp. ART55/1
+  JOURNAL   Unpublished
+REFERENCE   2
+  AUTHORS   Pajon,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2010) Sanger Institute, Wellcome Trust Genome
+            Campus, Hinxton, Cambridge CB10 1SA, United Kingdom
+COMMENT     This is a reference genome for the metaHIT project DNA source:
+            Rowett Institute of Nutrition and Health, University of Aberdeen --
+            http://www.rowett.ac.uk/divisions/ghp/ Sequencing technology: 454
+            Genome coverage: 17x
+            Annotation was added using ab initio prediction IMG/ER --
+            http://img.jgi.doe.gov/submit (Markowitz, Szeto et al. 2007).
+FEATURES             Location/Qualifiers
+     source          1..150
+                     /organism="Coprococcus sp. ART55/1"
+                     /strain="ART55/1"
+                     /db_xref="taxon:751585"
+     Protein         1..150
+                     /product="mraZ protein"
+     Region          7..139
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          7..62
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(7..8,34,42,51..52,55)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          14..18
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          69..124
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(77,79,107,114,123..124)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          85..89
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+     CDS             1..150
+                     /locus_tag="CCU_01200"
+                     /coded_by="complement(FP929039.1:116734..117186)"
+                     /transl_table=11
+                     /db_xref="EnsemblGenomes-Gn:CCU_01200"
+                     /db_xref="EnsemblGenomes-Tr:CBK82060"
+                     /db_xref="GOA:D5HH05"
+                     /db_xref="InterPro:IPR003444"
+                     /db_xref="InterPro:IPR020603"
+                     /db_xref="UniProtKB/TrEMBL:D5HH05"
+ORIGIN      
+        1 msrclsgeye hkldakgrli mplklrselg esfmvtkgid cclyvygmte weefveklnk
+       61 lpmtnrtara fkrgflagav kcepdaqgri llspkqreya hidkdvyvig ngekaeiwsk
+      121 eewdgpenms dnqasmdela deldaldfsf
+//
+
+LOCUS       WP_004848756             149 aa            linear   BCT 17-SEP-2015
+DEFINITION  division/cell wall cluster transcriptional repressor MraZ
+            [Coprococcus eutactus].
+ACCESSION   WP_004848756
+VERSION     WP_004848756.1
+KEYWORDS    RefSeq.
+SOURCE      Coprococcus eutactus
+  ORGANISM  Coprococcus eutactus
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..149
+                     /organism="Coprococcus eutactus"
+                     /db_xref="taxon:33043"
+     Protein         1..149
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=16983
+     Region          7..147
+                     /region_name="MraZ"
+                     /note="MraZ, DNA-binding transcriptional regulator and
+                     inhibitor of RsmH methyltransferase activity [Translation,
+                     ribosomal structure and biogenesis]; COG2001"
+                     /db_xref="CDD:224912"
+     Region          7..62
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(7..8,34,42,51..52,55)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          14..18
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          69..128
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(77,79,107,114,123..124,127)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          85..89
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 msrclsgeye hkldakgrli mplklraelg esfmvtkgid kclyvysnee wesfveklnk
+       61 lpitnrtart fkrrflsgav kcepdgqgri llspkqreya eidkdviiig ngekaeiwsk
+      121 anwegeenvt ddesmaelad kldeldfsf
+//
+
+LOCUS       WP_008976470             145 aa            linear   BCT 17-SEP-2015
+DEFINITION  MULTISPECIES: division/cell wall cluster transcriptional repressor
+            MraZ [Coprococcus].
+ACCESSION   WP_008976470
+VERSION     WP_008976470.1
+KEYWORDS    RefSeq.
+SOURCE      Coprococcus
+  ORGANISM  Coprococcus
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..145
+                     /organism="Coprococcus"
+                     /db_xref="taxon:33042"
+     Protein         1..145
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=16230
+     Region          1..133
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          3..59
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(3..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..126
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,104,111,120..121,124)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mltgeynhsi dskgrliipa kfreilgdsf vitkgldncl fvypdnewkl feeklrtlpl
+       61 tnknartftr fflgsavegv ldkqgrvlis salrdfagle kevvlvgvld rveiwdkakw
+      121 desnaevean mddiaghmee lglgi
+//
+
+LOCUS       CCY53549                 148 aa            linear   ENV 31-MAY-2013
+DEFINITION  protein MraZ [Coprococcus sp. CAG:782].
+ACCESSION   CCY53549
+VERSION     CCY53549.1
+DBSOURCE    embl accession CAYJ010000035.1
+KEYWORDS    ENV.
+SOURCE      Coprococcus sp. CAG:782
+  ORGANISM  Coprococcus sp. CAG:782
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..148
+                     /organism="Coprococcus sp. CAG:782"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262863"
+                     /environmental_sample
+                     /note="contig 13"
+     Protein         1..148
+                     /product="protein MraZ"
+     Region          6..62
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(6..8,34,42,51..52,55)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          7..144
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          14..18
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          69..127
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(77,79,107,114,123..124,127)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          85..89
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+     CDS             1..148
+                     /locus_tag="BN781_00143"
+                     /coded_by="complement(CAYJ010000035.1:12964..13410)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 marcltgeye hkldakgrli mplklreelg ctfmvtkgld dclfvypnde werfaaelne
+       61 lpllntkara lkrrfnsgav kcdtdsqgri llpqtlrdfa gidkevviig ngeraeiwsk
+      121 esweavncde gidmdaiaae ldtlgfkl
+//
+
+LOCUS       EDP25686                  96 aa            linear   BCT 03-AUG-2012
+DEFINITION  prevent-host-death family protein [Coprococcus eutactus ATCC
+            27759].
+ACCESSION   EDP25686
+VERSION     EDP25686.1
+DBLINK      BioProject: PRJNA18187
+            BioSample: SAMN00627069
+DBSOURCE    accession ABEY02000025.1
+KEYWORDS    .
+SOURCE      Coprococcus eutactus ATCC 27759
+  ORGANISM  Coprococcus eutactus ATCC 27759
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+REFERENCE   1  (residues 1 to 96)
+  AUTHORS   Sudarsanam,P., Ley,R., Guruge,J., Turnbaugh,P.J., Mahowald,M.,
+            Liep,D. and Gordon,J.
+  TITLE     Draft genome sequence of Coprococcus_eutactus(ATCC 27759)
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 96)
+  AUTHORS   Fulton,L., Clifton,S., Fulton,B., Xu,J., Minx,P., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-SEP-2007) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+REFERENCE   3  (residues 1 to 96)
+  AUTHORS   Fulton,L., Clifton,S., Fulton,B., Xu,J., Minx,P., Pepin,K.H.,
+            Johnson,M., Thiruvilangam,P., Bhonagiri,V., Nash,W.E., Mardis,E.R.
+            and Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-SEP-2007) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+COMMENT     Coprococcus eutactus (GenBank Accession Number for 16S rDNA gene:
+            D14148) is a member of the division Firmicutes. In one
+            comprehensive 16S rDNA sequence-based enumeration of the colonic
+            microbiota of three healthy adult humans, it represents, on
+            average, 0.042% of all 16S rDNA sequences and 0.083% of the
+            sequences in its division (Eckburg et. al. (2005)). The sequenced
+            strain was obtained from ATCC (ATCC 27759).
+            
+            We have collected 9.4X coverage in plasmid end reads and 454 reads.
+            We will be performing one round of automated sequence improvement
+            (pre-finishing).
+            
+            Sequencing/Assembly: The genomic DNA was purified from liquid
+            culture derived from a single bacterial colony. A hybrid sequencing
+            strategy that utilized reads from both 454 GS-20 and ABI 3730xl
+            sequencers was devised and implemented to generate the draft genome
+            sequences. 454 reads were assembled using Newbler (454 Life
+            Sciences) into 454 de novo contigs. These de novo contigs were
+            converted in silico to 800 base paired reads ('superreads') with
+            400 base overlaps with neighboring superreads.  Finally, PCAP
+            (Huang, et al, Genome Research, 13:2164, (2003)) was used to
+            assemble the super-reads and the conventional 3730xl capillary
+            reads.
+            
+            This sequenced strain is part of a comprehensive, sequence-based
+            survey of members of the normal human gut microbiota.  A joint
+            effort of the WU-GSC and the Center for Genome Sciences at
+            Washington University School of Medicine, the purpose of this
+            survey is to provide the general scientific community with a broad
+            view of the gene content of 100 representatives of the major
+            divisions represented in the intestine's microbial community. This
+            information should provide a frame of reference for analyzing
+            metagenomic studies of the human gut microbiome. Further details of
+            this effort are described in a white paper entitled 'Extending Our
+            View of Self: the Human Gut Microbiome Initiative (HGMI)'
+            (http://www.genome.gov/Pages/Research/Sequencing/SeqProposals/HGMIS
+            eq.pdf). These studies are supported by National Human Genome
+            Research Institute.
+            
+            Coding sequences were predicted using GeneMark v3.3 and Glimmer2
+            v2.13. Intergenic regions not spanned by GeneMark and Glimmer2 were
+            blasted against NCBI's non-redundant (NR) database and predictions
+            generated based on protein alignments. RNA genes were determined
+            using tRNAscan-SE 1.23 or Rfam v8.0. Gene names are generated at
+            the contig level and may not necessarily reflect any known order or
+            orientation between contigs.These studies are supported by National
+            Human Genome Research Institute.
+            
+            For answers to your questions regarding this assembly or project,
+            or any other GSC genome project, please visit our Genome Groups web
+            page (http://genome.wustl.edu/genome_group_index.cgi) and email the
+            designated contact person.
+            
+            Annotation was added to the contigs in October 2007, and the CDS
+            comments were updated in January 2008.
+            
+            This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Product names were updated in August 2012.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..96
+                     /organism="Coprococcus eutactus ATCC 27759"
+                     /strain="ATCC 27759"
+                     /db_xref="ATCC:27759"
+                     /db_xref="taxon:411474"
+     Protein         1..96
+                     /product="prevent-host-death family protein"
+     Region          12..75
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+     CDS             1..96
+                     /locus_tag="COPEUT_02060"
+                     /coded_by="ABEY02000025.1:65131..65421"
+                     /inference="protein motif:HMMTigr:IPR006442"
+                     /inference="similar to AA sequence:REFSEQ:YP_001408731.1"
+                     /note="COG: NOG34332 non supervised orthologous group;
+                     Psort location: Cytoplasmic, score:8.87"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR006442"
+ORIGIN      
+        1 mtqerevlim ptimpirdlr ntseiselah kkqepifitk ngysdlvvms aelyekfaqi
+       61 nridqaiyea ekevengael isvdsaierl nkkyyg
+//
+
+LOCUS       EEG89735                  92 aa            linear   BCT 15-AUG-2012
+DEFINITION  prevent-host-death family protein [Coprococcus comes ATCC 27758].
+ACCESSION   EEG89735
+VERSION     EEG89735.1
+DBLINK      BioProject: PRJNA20525
+            BioSample: SAMN00000016
+DBSOURCE    accession ABVR01000041.1
+KEYWORDS    .
+SOURCE      Coprococcus comes ATCC 27758
+  ORGANISM  Coprococcus comes ATCC 27758
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+REFERENCE   1  (residues 1 to 92)
+  AUTHORS   Sudarsanam,P., Ley,R., Guruge,J., Turnbaugh,P.J., Mahowald,M.,
+            Liep,D. and Gordon,J.
+  TITLE     Draft genome sequence of Coprococcus comes (ATCC 27758)
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 92)
+  AUTHORS   Fulton,L., Clifton,S., Fulton,B., Xu,J., Minx,P., Pepin,K.H.,
+            Johnson,M., Bhonagiri,V., Nash,W.E., Mardis,E.R. and Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-FEB-2009) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+COMMENT     Coprococcus comes (16S rDNA gene sequence is not available) is a
+            member of the Firmicutes division of the domain bacteria and has
+            been isolated from human feces. The sequenced strain was obtained
+            from ATCC (ATCC 27758).
+            
+            This is a Pcap assembly comprised of 1/4 FLX Fragment Titration
+            run, 1 full FLX fragment run, and 1 full FLX PE run of 454 data
+            with a Q20 coverage of 67.2X. We have performed one round of
+            automated sequence improvement (pre-finishing), along with manual
+            improvement that includes breaking apart any mis-assembly, and
+            making manual joins where possible. Manual edits also are made
+            where the consensus appears to be incorrect. All low quality data
+            on the ends of contigs is removed. Contigs are ordered and oriented
+            where possible.
+            
+            This sequenced strain is part of a comprehensive, sequence-based
+            survey of members of the normal human gut microbiota.  A joint
+            effort of the WU-GSC and the Center for Genome Sciences at
+            Washington University School of Medicine, the purpose of this
+            survey is to provide the general scientific community with a broad
+            view of the gene content of 100 representatives of the major
+            divisions represented in the intestine's microbial community. This
+            information should provide a frame of reference for analyzing
+            metagenomic studies of the human gut microbiome. Further details of
+            this effort are described in a white paper entitled 'Extending Our
+            View of Self: the Human Gut Microbiome Initiative (HGMI)'
+            (http://www.genome.gov/Pages/Research/Sequencing/SeqProposals/HGMIS
+            eq.pdf). These studies are supported by National Human Genome
+            Research Institute.
+            
+            Coding sequences were predicted using GeneMark v3.3 and Glimmer2
+            v2.13. Intergenic regions not spanned by GeneMark and Glimmer2 were
+            blasted against NCBI's non-redundant (NR) database and predictions
+            generated based on protein alignments. tRNA genes were determined
+            using tRNAscan-SE 1.23 and non-coding RNA genes by RNAmmer-1.2 and
+            Rfam v8.0. Gene names are generated at the contig level and may not
+            necessarily reflect any known order or orientation between contigs.
+            
+            For answers to your questions regarding this assembly or project,
+            or any other GSC genome project, please visit our Genome Groups web
+            page (http://genome.wustl.edu/genome_group_index.cgi) and email the
+            designated contact person.
+            
+            This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Product names were updated in August 2012.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..92
+                     /organism="Coprococcus comes ATCC 27758"
+                     /strain="ATCC 27758"
+                     /culture_collection="ATCC:27758"
+                     /db_xref="taxon:470146"
+     Protein         1..92
+                     /product="prevent-host-death family protein"
+     Region          9..68
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+     CDS             1..92
+                     /locus_tag="COPCOM_02725"
+                     /coded_by="ABVR01000041.1:610676..610954"
+                     /inference="protein motif:HMMTigr:IPR006442"
+                     /inference="similar to AA sequence:REFSEQ:NP_972557.1"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR006442"
+ORIGIN      
+        1 mkgevemiqi rpvsdlrnkf peietlvnsg npvyltkngy gamvvlslee yasltdniem
+       61 kldeadrqaa gtderlshes vfknarsaih gk
+//
+
+LOCUS       CBK80334                  87 aa            linear   BCT 27-FEB-2015
+DEFINITION  prevent-host-death family protein [Coprococcus catus GD/7].
+ACCESSION   CBK80334
+VERSION     CBK80334.1
+DBLINK      BioProject: PRJEA45861
+            BioSample: SAMEA2272068
+DBSOURCE    embl accession FP929038.1
+KEYWORDS    .
+SOURCE      Coprococcus catus GD/7
+  ORGANISM  Coprococcus catus GD/7
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+REFERENCE   1
+  AUTHORS   Pajon,A., Turner,K., Parkhill,J., Duncan,S. and Flint,H.
+  CONSRTM   metaHIT consortium -- http://www.metahit.eu/
+  TITLE     The genome sequence of Coprococcus catus GD/7
+  JOURNAL   Unpublished
+REFERENCE   2
+  AUTHORS   Pajon,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2010) Sanger Institute, Wellcome Trust Genome
+            Campus, Hinxton, Cambridge CB10 1SA, United Kingdom
+COMMENT     This is a reference genome for the metaHIT project DNA source:
+            Rowett Institute of Nutrition and Health, University of Aberdeen --
+            http://www.rowett.ac.uk/divisions/ghp/ Sequencing technology: 454
+            Genome coverage: 21x
+            Annotation was added using ab initio prediction IMG/ER --
+            http://img.jgi.doe.gov/submit (Markowitz, Szeto et al. 2007).
+FEATURES             Location/Qualifiers
+     source          1..87
+                     /organism="Coprococcus catus GD/7"
+                     /strain="GD/7"
+                     /db_xref="taxon:717962"
+     Protein         1..87
+                     /product="prevent-host-death family protein"
+     Region          1..83
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     cl09153"
+                     /db_xref="CDD:298842"
+     CDS             1..87
+                     /locus_tag="CC1_15680"
+                     /coded_by="FP929038.1:1615058..1615321"
+                     /transl_table=11
+                     /db_xref="EnsemblGenomes-Gn:CC1_15680"
+                     /db_xref="EnsemblGenomes-Tr:CBK80334"
+                     /db_xref="InterPro:IPR006442"
+                     /db_xref="UniProtKB/TrEMBL:D4J7L3"
+ORIGIN      
+        1 mlavnytclr dnmkrymdqv tddyetlivt rknnknvvmm seemynnlme nvhivsskan
+       61 fewlmqskqq ltagnfsqhe laevdde
+//
+
+LOCUS       CBK81652                  71 aa            linear   BCT 27-FEB-2015
+DEFINITION  Phd_YefM [Coprococcus catus GD/7].
+ACCESSION   CBK81652
+VERSION     CBK81652.1
+DBLINK      BioProject: PRJEA45861
+            BioSample: SAMEA2272068
+DBSOURCE    embl accession FP929038.1
+KEYWORDS    .
+SOURCE      Coprococcus catus GD/7
+  ORGANISM  Coprococcus catus GD/7
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+REFERENCE   1
+  AUTHORS   Pajon,A., Turner,K., Parkhill,J., Duncan,S. and Flint,H.
+  CONSRTM   metaHIT consortium -- http://www.metahit.eu/
+  TITLE     The genome sequence of Coprococcus catus GD/7
+  JOURNAL   Unpublished
+REFERENCE   2
+  AUTHORS   Pajon,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2010) Sanger Institute, Wellcome Trust Genome
+            Campus, Hinxton, Cambridge CB10 1SA, United Kingdom
+COMMENT     This is a reference genome for the metaHIT project DNA source:
+            Rowett Institute of Nutrition and Health, University of Aberdeen --
+            http://www.rowett.ac.uk/divisions/ghp/ Sequencing technology: 454
+            Genome coverage: 21x
+            Annotation was added using ab initio prediction IMG/ER --
+            http://img.jgi.doe.gov/submit (Markowitz, Szeto et al. 2007).
+FEATURES             Location/Qualifiers
+     source          1..71
+                     /organism="Coprococcus catus GD/7"
+                     /strain="GD/7"
+                     /db_xref="taxon:717962"
+     Protein         1..71
+                     /product="Phd_YefM."
+     Region          1..>37
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     cl09153"
+                     /db_xref="CDD:298842"
+     CDS             1..71
+                     /locus_tag="CC1_30900"
+                     /coded_by="complement(FP929038.1:3134004..3134219)"
+                     /transl_table=11
+                     /db_xref="EnsemblGenomes-Gn:CC1_30900"
+                     /db_xref="EnsemblGenomes-Tr:CBK81652"
+                     /db_xref="InterPro:IPR006442"
+                     /db_xref="UniProtKB/TrEMBL:D4JBD1"
+ORIGIN      
+        1 maitatelkn nlgkylilaa tedifitkng ktiakltspy qnkldtvdal fgsipdtitf
+       61 eearkeqlsk v
+//
+
+LOCUS       CBK83855                  88 aa            linear   BCT 27-FEB-2015
+DEFINITION  Antitoxin of toxin-antitoxin stability system [Coprococcus sp.
+            ART55/1].
+ACCESSION   CBK83855
+VERSION     CBK83855.1
+DBLINK      BioProject: PRJNA45915
+            BioSample: SAMEA3138371
+DBSOURCE    embl accession FP929039.1
+KEYWORDS    .
+SOURCE      Coprococcus sp. ART55/1
+  ORGANISM  Coprococcus sp. ART55/1
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+REFERENCE   1
+  AUTHORS   Pajon,A., Turner,K., Parkhill,J., Duncan,S. and Flint,H.
+  CONSRTM   metaHIT consortium -- http://www.metahit.eu/
+  TITLE     The genome sequence of Coprococcus sp. ART55/1
+  JOURNAL   Unpublished
+REFERENCE   2
+  AUTHORS   Pajon,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2010) Sanger Institute, Wellcome Trust Genome
+            Campus, Hinxton, Cambridge CB10 1SA, United Kingdom
+COMMENT     This is a reference genome for the metaHIT project DNA source:
+            Rowett Institute of Nutrition and Health, University of Aberdeen --
+            http://www.rowett.ac.uk/divisions/ghp/ Sequencing technology: 454
+            Genome coverage: 17x
+            Annotation was added using ab initio prediction IMG/ER --
+            http://img.jgi.doe.gov/submit (Markowitz, Szeto et al. 2007).
+FEATURES             Location/Qualifiers
+     source          1..88
+                     /organism="Coprococcus sp. ART55/1"
+                     /strain="ART55/1"
+                     /db_xref="taxon:751585"
+     Protein         1..88
+                     /product="Antitoxin of toxin-antitoxin stability system"
+     Region          1..83
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     cl09153"
+                     /db_xref="CDD:298842"
+     CDS             1..88
+                     /locus_tag="CCU_25170"
+                     /coded_by="FP929039.1:2670508..2670774"
+                     /transl_table=11
+                     /db_xref="EnsemblGenomes-Gn:CCU_25170"
+                     /db_xref="EnsemblGenomes-Tr:CBK83855"
+                     /db_xref="InterPro:IPR006442"
+                     /db_xref="UniProtKB/TrEMBL:D5HG22"
+ORIGIN      
+        1 mlavnytnlr dnmkkymdkv tddyetmivt rkdnknvvml seeaynnlme nvyvmgnkan
+       61 ydwlmesktq lekgnfavhd ltevsvde
+//
+
+LOCUS       WP_008372201              88 aa            linear   BCT 04-JUL-2015
+DEFINITION  prevent-host-death protein [Coprococcus comes].
+ACCESSION   WP_008372201
+VERSION     WP_008372201.1
+KEYWORDS    RefSeq.
+SOURCE      Coprococcus comes
+  ORGANISM  Coprococcus comes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..88
+                     /organism="Coprococcus comes"
+                     /db_xref="taxon:410072"
+     Protein         1..88
+                     /product="prevent-host-death protein"
+                     /calculated_mol_wt=10157
+     Region          1..83
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     cl09153"
+                     /db_xref="CDD:298842"
+ORIGIN      
+        1 mlavnytnlr dnmksymdqv tddyetmivt rknnknvvmm seeaynnlme nvyvmgnkan
+       61 ydwlmeskaq lekgnfasht lsevvdde
+//
+
+LOCUS       WP_008373765              82 aa            linear   BCT 26-MAY-2013
+DEFINITION  prevent-host-death protein [Coprococcus comes].
+ACCESSION   WP_008373765
+VERSION     WP_008373765.1
+KEYWORDS    RefSeq.
+SOURCE      Coprococcus comes
+  ORGANISM  Coprococcus comes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..82
+                     /organism="Coprococcus comes"
+                     /db_xref="taxon:410072"
+     Protein         1..82
+                     /product="prevent-host-death protein"
+                     /calculated_mol_wt=9347
+     Region          4..54
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     cl09153"
+                     /db_xref="CDD:298842"
+ORIGIN      
+        1 manilpvsdl rnynevlknc hkgepvyltk ngrgrfvvmd iedyerdrae kkllmklqea
+       61 eevvkdgegw lnldelkalv ge
+//
+
+LOCUS       CCY54162                  84 aa            linear   ENV 31-MAY-2013
+DEFINITION  putative uncharacterized protein [Coprococcus sp. CAG:782].
+ACCESSION   CCY54162
+VERSION     CCY54162.1
+DBSOURCE    embl accession CAYJ010000091.1
+KEYWORDS    ENV.
+SOURCE      Coprococcus sp. CAG:782
+  ORGANISM  Coprococcus sp. CAG:782
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..84
+                     /organism="Coprococcus sp. CAG:782"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262863"
+                     /environmental_sample
+                     /note="contig 62"
+     Protein         1..84
+                     /product="putative uncharacterized protein"
+     CDS             1..84
+                     /locus_tag="BN781_00684"
+                     /coded_by="complement(CAYJ010000091.1:5950..6204)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mlavksmdvr enfkalcdkv frgetlivsr pknenivmms eaeyneimka krnaeylaml
+       61 dksmaeaeag gfitktidel geye
+//
+
+LOCUS       CCY53071                  80 aa            linear   ENV 31-MAY-2013
+DEFINITION  phd_YefM [Coprococcus sp. CAG:782].
+ACCESSION   CCY53071
+VERSION     CCY53071.1
+DBSOURCE    embl accession CAYJ010000015.1
+KEYWORDS    ENV.
+SOURCE      Coprococcus sp. CAG:782
+  ORGANISM  Coprococcus sp. CAG:782
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..80
+                     /organism="Coprococcus sp. CAG:782"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262863"
+                     /environmental_sample
+                     /note="contig 111"
+     Protein         1..80
+                     /product="phd_YefM"
+     Region          9..>48
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     cl09153"
+                     /db_xref="CDD:298842"
+     CDS             1..80
+                     /locus_tag="BN781_01473"
+                     /coded_by="complement(CAYJ010000015.1:6530..6772)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mtvdtntmvs iteanqnfsk varlvdelgs vvilknnapr ylvidfskad dsaiakdedv
+       61 leiskrllaq nkeayevlak
+//
+
+LOCUS       CCZ93426                  62 aa            linear   ENV 31-MAY-2013
+DEFINITION  prevent-host-death family protein [Coprococcus eutactus CAG:665].
+ACCESSION   CCZ93426
+VERSION     CCZ93426.1
+DBSOURCE    embl accession CBAW010000109.1
+KEYWORDS    ENV.
+SOURCE      Coprococcus eutactus CAG:665
+  ORGANISM  Coprococcus eutactus CAG:665
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..62
+                     /organism="Coprococcus eutactus CAG:665"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1263071"
+                     /environmental_sample
+                     /note="contig 28"
+     Protein         1..62
+                     /product="prevent-host-death family protein"
+     Region          3..>52
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+     CDS             1..62
+                     /locus_tag="BN751_00242"
+                     /coded_by="CBAW010000109.1:13211..13399"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mpqiipikel kntseisemc hgtdepiyit kngygdmvim smevyeqmmr kitdikmrre
+       61 di
+//
+
+LOCUS       CDB78926                  88 aa            linear   ENV 31-MAY-2013
+DEFINITION  antitoxin of toxin-antitoxin stability system [Coprococcus sp.
+            CAG:131].
+ACCESSION   CDB78926
+VERSION     CDB78926.1
+DBSOURCE    embl accession CBEE010000007.1
+KEYWORDS    ENV.
+SOURCE      Coprococcus sp. CAG:131
+  ORGANISM  Coprococcus sp. CAG:131
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..88
+                     /organism="Coprococcus sp. CAG:131"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262862"
+                     /environmental_sample
+                     /note="contig 104"
+     Protein         1..88
+                     /product="antitoxin of toxin-antitoxin stability system"
+     Region          1..83
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     cl09153"
+                     /db_xref="CDD:298842"
+     CDS             1..88
+                     /locus_tag="BN485_01034"
+                     /coded_by="complement(CBEE010000007.1:2661..2927)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mlavnytnlr dnmkkymdkv tddyetmivt rkdnknvvml seeaynnlme nvyvmgnkan
+       61 ydwlmeskaq lekgnfavhd ltevsade
+//
+
+LOCUS       EDP27210                 119 aa            linear   BCT 03-AUG-2012
+DEFINITION  addiction module antitoxin, RelB/DinJ family [Coprococcus eutactus
+            ATCC 27759].
+ACCESSION   EDP27210
+VERSION     EDP27210.1
+DBLINK      BioProject: PRJNA18187
+            BioSample: SAMN00627069
+DBSOURCE    accession ABEY02000006.1
+KEYWORDS    .
+SOURCE      Coprococcus eutactus ATCC 27759
+  ORGANISM  Coprococcus eutactus ATCC 27759
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+REFERENCE   1  (residues 1 to 119)
+  AUTHORS   Sudarsanam,P., Ley,R., Guruge,J., Turnbaugh,P.J., Mahowald,M.,
+            Liep,D. and Gordon,J.
+  TITLE     Draft genome sequence of Coprococcus_eutactus(ATCC 27759)
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 119)
+  AUTHORS   Fulton,L., Clifton,S., Fulton,B., Xu,J., Minx,P., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-SEP-2007) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+REFERENCE   3  (residues 1 to 119)
+  AUTHORS   Fulton,L., Clifton,S., Fulton,B., Xu,J., Minx,P., Pepin,K.H.,
+            Johnson,M., Thiruvilangam,P., Bhonagiri,V., Nash,W.E., Mardis,E.R.
+            and Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-SEP-2007) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+COMMENT     Coprococcus eutactus (GenBank Accession Number for 16S rDNA gene:
+            D14148) is a member of the division Firmicutes. In one
+            comprehensive 16S rDNA sequence-based enumeration of the colonic
+            microbiota of three healthy adult humans, it represents, on
+            average, 0.042% of all 16S rDNA sequences and 0.083% of the
+            sequences in its division (Eckburg et. al. (2005)). The sequenced
+            strain was obtained from ATCC (ATCC 27759).
+            
+            We have collected 9.4X coverage in plasmid end reads and 454 reads.
+            We will be performing one round of automated sequence improvement
+            (pre-finishing).
+            
+            Sequencing/Assembly: The genomic DNA was purified from liquid
+            culture derived from a single bacterial colony. A hybrid sequencing
+            strategy that utilized reads from both 454 GS-20 and ABI 3730xl
+            sequencers was devised and implemented to generate the draft genome
+            sequences. 454 reads were assembled using Newbler (454 Life
+            Sciences) into 454 de novo contigs. These de novo contigs were
+            converted in silico to 800 base paired reads ('superreads') with
+            400 base overlaps with neighboring superreads.  Finally, PCAP
+            (Huang, et al, Genome Research, 13:2164, (2003)) was used to
+            assemble the super-reads and the conventional 3730xl capillary
+            reads.
+            
+            This sequenced strain is part of a comprehensive, sequence-based
+            survey of members of the normal human gut microbiota.  A joint
+            effort of the WU-GSC and the Center for Genome Sciences at
+            Washington University School of Medicine, the purpose of this
+            survey is to provide the general scientific community with a broad
+            view of the gene content of 100 representatives of the major
+            divisions represented in the intestine's microbial community. This
+            information should provide a frame of reference for analyzing
+            metagenomic studies of the human gut microbiome. Further details of
+            this effort are described in a white paper entitled 'Extending Our
+            View of Self: the Human Gut Microbiome Initiative (HGMI)'
+            (http://www.genome.gov/Pages/Research/Sequencing/SeqProposals/HGMIS
+            eq.pdf). These studies are supported by National Human Genome
+            Research Institute.
+            
+            Coding sequences were predicted using GeneMark v3.3 and Glimmer2
+            v2.13. Intergenic regions not spanned by GeneMark and Glimmer2 were
+            blasted against NCBI's non-redundant (NR) database and predictions
+            generated based on protein alignments. RNA genes were determined
+            using tRNAscan-SE 1.23 or Rfam v8.0. Gene names are generated at
+            the contig level and may not necessarily reflect any known order or
+            orientation between contigs.These studies are supported by National
+            Human Genome Research Institute.
+            
+            For answers to your questions regarding this assembly or project,
+            or any other GSC genome project, please visit our Genome Groups web
+            page (http://genome.wustl.edu/genome_group_index.cgi) and email the
+            designated contact person.
+            
+            Annotation was added to the contigs in October 2007, and the CDS
+            comments were updated in January 2008.
+            
+            This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Product names were updated in August 2012.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..119
+                     /organism="Coprococcus eutactus ATCC 27759"
+                     /strain="ATCC 27759"
+                     /db_xref="ATCC:27759"
+                     /db_xref="taxon:411474"
+     Protein         1..119
+                     /product="addiction module antitoxin, RelB/DinJ family"
+     Region          19..115
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+     CDS             1..119
+                     /locus_tag="COPEUT_00731"
+                     /coded_by="complement(ABEY02000006.1:350851..351210)"
+                     /inference="protein motif:HMMPfam:IPR007337"
+                     /inference="protein motif:HMMTigr:IPR007337"
+                     /inference="protein motif:superfamily:IPR010985"
+                     /note="COG: COG3077 DNA-damage-inducible protein J"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR007337"
+                     /db_xref="InterPro:IPR010985"
+ORIGIN      
+        1 mlviasknky neekggdtma ntsavyarid tnlkdnaesi lsqlgispss aiqmlysqiv
+       61 lkkgmpfelk lpsskpsavg amtreeldae lqkgvdsika gkvysadevd avlakefgi
+//
+
+LOCUS       CBK83044                 102 aa            linear   BCT 27-FEB-2015
+DEFINITION  addiction module antitoxin, RelB/DinJ family [Coprococcus sp.
+            ART55/1].
+ACCESSION   CBK83044
+VERSION     CBK83044.1
+DBLINK      BioProject: PRJNA45915
+            BioSample: SAMEA3138371
+DBSOURCE    embl accession FP929039.1
+KEYWORDS    .
+SOURCE      Coprococcus sp. ART55/1
+  ORGANISM  Coprococcus sp. ART55/1
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+REFERENCE   1
+  AUTHORS   Pajon,A., Turner,K., Parkhill,J., Duncan,S. and Flint,H.
+  CONSRTM   metaHIT consortium -- http://www.metahit.eu/
+  TITLE     The genome sequence of Coprococcus sp. ART55/1
+  JOURNAL   Unpublished
+REFERENCE   2
+  AUTHORS   Pajon,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2010) Sanger Institute, Wellcome Trust Genome
+            Campus, Hinxton, Cambridge CB10 1SA, United Kingdom
+COMMENT     This is a reference genome for the metaHIT project DNA source:
+            Rowett Institute of Nutrition and Health, University of Aberdeen --
+            http://www.rowett.ac.uk/divisions/ghp/ Sequencing technology: 454
+            Genome coverage: 17x
+            Annotation was added using ab initio prediction IMG/ER --
+            http://img.jgi.doe.gov/submit (Markowitz, Szeto et al. 2007).
+FEATURES             Location/Qualifiers
+     source          1..102
+                     /organism="Coprococcus sp. ART55/1"
+                     /strain="ART55/1"
+                     /db_xref="taxon:751585"
+     Protein         1..102
+                     /product="addiction module antitoxin, RelB/DinJ family"
+     Region          1..78
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+     CDS             1..102
+                     /locus_tag="CCU_14500"
+                     /coded_by="complement(FP929039.1:1496690..1496998)"
+                     /transl_table=11
+                     /db_xref="EnsemblGenomes-Gn:CCU_14500"
+                     /db_xref="EnsemblGenomes-Tr:CBK83044"
+                     /db_xref="InterPro:IPR007337"
+                     /db_xref="UniProtKB/TrEMBL:D5HDR1"
+ORIGIN      
+        1 matksanlya riepdvkeka esilatlgip assainmfyk qiilqrglpf evkipydrpv
+       61 distlsdaef deelekgyad mqagrtknak kvstdirkdy gi
+//
+
+LOCUS       CBK83046                  97 aa            linear   BCT 27-FEB-2015
+DEFINITION  addiction module antitoxin, RelB/DinJ family [Coprococcus sp.
+            ART55/1].
+ACCESSION   CBK83046
+VERSION     CBK83046.1
+DBLINK      BioProject: PRJNA45915
+            BioSample: SAMEA3138371
+DBSOURCE    embl accession FP929039.1
+KEYWORDS    .
+SOURCE      Coprococcus sp. ART55/1
+  ORGANISM  Coprococcus sp. ART55/1
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+REFERENCE   1
+  AUTHORS   Pajon,A., Turner,K., Parkhill,J., Duncan,S. and Flint,H.
+  CONSRTM   metaHIT consortium -- http://www.metahit.eu/
+  TITLE     The genome sequence of Coprococcus sp. ART55/1
+  JOURNAL   Unpublished
+REFERENCE   2
+  AUTHORS   Pajon,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2010) Sanger Institute, Wellcome Trust Genome
+            Campus, Hinxton, Cambridge CB10 1SA, United Kingdom
+COMMENT     This is a reference genome for the metaHIT project DNA source:
+            Rowett Institute of Nutrition and Health, University of Aberdeen --
+            http://www.rowett.ac.uk/divisions/ghp/ Sequencing technology: 454
+            Genome coverage: 17x
+            Annotation was added using ab initio prediction IMG/ER --
+            http://img.jgi.doe.gov/submit (Markowitz, Szeto et al. 2007).
+FEATURES             Location/Qualifiers
+     source          1..97
+                     /organism="Coprococcus sp. ART55/1"
+                     /strain="ART55/1"
+                     /db_xref="taxon:751585"
+     Protein         1..97
+                     /product="addiction module antitoxin, RelB/DinJ family"
+     Region          1..85
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+     CDS             1..97
+                     /locus_tag="CCU_14520"
+                     /coded_by="complement(FP929039.1:1497489..1497782)"
+                     /transl_table=11
+                     /db_xref="EnsemblGenomes-Gn:CCU_14520"
+                     /db_xref="EnsemblGenomes-Tr:CBK83046"
+                     /db_xref="InterPro:IPR007337"
+                     /db_xref="UniProtKB/TrEMBL:D5HDR3"
+ORIGIN      
+        1 mastiqvrvd ndlksksdkl fhdlgtdttt airifltqav anngfpfeik rvvtdpyvam
+       61 teeqmidkla ksrqhaekge crdadvvidd mrkkydl
+//
+
+LOCUS       WP_004851281             100 aa            linear   BCT 04-AUG-2015
+DEFINITION  acyl-CoA--6-aminopenicillanic acid acyl transferase [Coprococcus
+            eutactus].
+ACCESSION   WP_004851281
+VERSION     WP_004851281.1
+KEYWORDS    RefSeq.
+SOURCE      Coprococcus eutactus
+  ORGANISM  Coprococcus eutactus
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..100
+                     /organism="Coprococcus eutactus"
+                     /db_xref="taxon:33043"
+     Protein         1..100
+                     /product="acyl-CoA--6-aminopenicillanic acid acyl
+                     transferase"
+                     /calculated_mol_wt=11315
+     Region          1..72
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mastiqvrvd delkvksdel frdlgtdttt airifltqal aangfpfeik risknpyekm
+       61 teneilekle ksrehaaqgk yrdaaevsrd mrainrngei
+//
+
+LOCUS       WP_004851528             105 aa            linear   BCT 25-MAY-2013
+DEFINITION  plasmid stabilization protein [Coprococcus eutactus].
+ACCESSION   WP_004851528
+VERSION     WP_004851528.1
+KEYWORDS    RefSeq.
+SOURCE      Coprococcus eutactus
+  ORGANISM  Coprococcus eutactus
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..105
+                     /organism="Coprococcus eutactus"
+                     /db_xref="taxon:33043"
+     Protein         1..105
+                     /product="plasmid stabilization protein"
+                     /calculated_mol_wt=11348
+     Region          9..87
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mevysmgkta tlnirvnpdv kenaervlaq lgipmataid mylkqislvg gipfsivlpk
+       61 aansvnadmm svtqihqkle kgyadiekgn vedaasafva frerh
+//
+
+LOCUS       WP_016440515             100 aa            linear   BCT 17-JUN-2013
+DEFINITION  RelB/DinJ family addiction module antitoxin [Coprococcus sp.
+            HPP0048].
+ACCESSION   WP_016440515
+VERSION     WP_016440515.1
+KEYWORDS    RefSeq.
+SOURCE      Coprococcus sp. HPP0048
+  ORGANISM  Coprococcus sp. HPP0048
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..100
+                     /organism="Coprococcus sp. HPP0048"
+                     /db_xref="taxon:1078091"
+     Protein         1..100
+                     /product="RelB/DinJ family addiction module antitoxin"
+                     /calculated_mol_wt=10834
+     Region          4..78
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mektatlnlr vnptvkerae kvlsqlgvpm staidmylnq isltggipfs vslpkaplsi
+       61 hadamtteei hqklekgynd iaagrvqnaa eafakfrenh
+//
+
+LOCUS       CDB80612                 102 aa            linear   ENV 31-MAY-2013
+DEFINITION  addiction module antitoxin RelB/DinJ family [Coprococcus sp.
+            CAG:131].
+ACCESSION   CDB80612
+VERSION     CDB80612.1
+DBSOURCE    embl accession CBEE010000180.1
+KEYWORDS    ENV.
+SOURCE      Coprococcus sp. CAG:131
+  ORGANISM  Coprococcus sp. CAG:131
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..102
+                     /organism="Coprococcus sp. CAG:131"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262862"
+                     /environmental_sample
+                     /note="contig 31"
+     Protein         1..102
+                     /product="addiction module antitoxin RelB/DinJ family"
+     Region          1..78
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+     CDS             1..102
+                     /locus_tag="BN485_00369"
+                     /coded_by="complement(CBEE010000180.1:386..694)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 matksanlya riepdvkeka esilatlgip assainmfyk qiilqrglpf evkipydrpv
+       61 distlsdaef deelekgyad mqagrtknak kaftdtrkdy gi
+//
+
+LOCUS       CBK79748                 102 aa            linear   BCT 27-FEB-2015
+DEFINITION  Bacterial mobilisation protein (MobC)./Ribbon-helix-helix protein,
+            copG family [Coprococcus catus GD/7].
+ACCESSION   CBK79748
+VERSION     CBK79748.1
+DBLINK      BioProject: PRJEA45861
+            BioSample: SAMEA2272068
+DBSOURCE    embl accession FP929038.1
+KEYWORDS    .
+SOURCE      Coprococcus catus GD/7
+  ORGANISM  Coprococcus catus GD/7
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+REFERENCE   1
+  AUTHORS   Pajon,A., Turner,K., Parkhill,J., Duncan,S. and Flint,H.
+  CONSRTM   metaHIT consortium -- http://www.metahit.eu/
+  TITLE     The genome sequence of Coprococcus catus GD/7
+  JOURNAL   Unpublished
+REFERENCE   2
+  AUTHORS   Pajon,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2010) Sanger Institute, Wellcome Trust Genome
+            Campus, Hinxton, Cambridge CB10 1SA, United Kingdom
+COMMENT     This is a reference genome for the metaHIT project DNA source:
+            Rowett Institute of Nutrition and Health, University of Aberdeen --
+            http://www.rowett.ac.uk/divisions/ghp/ Sequencing technology: 454
+            Genome coverage: 21x
+            Annotation was added using ab initio prediction IMG/ER --
+            http://img.jgi.doe.gov/submit (Markowitz, Szeto et al. 2007).
+FEATURES             Location/Qualifiers
+     source          1..102
+                     /organism="Coprococcus catus GD/7"
+                     /strain="GD/7"
+                     /db_xref="taxon:717962"
+     Protein         1..102
+                     /product="Bacterial mobilisation protein
+                     (MobC)./Ribbon-helix-helix protein, copG family."
+     Region          7..>74
+                     /region_name="PRK13858"
+                     /note="type IV secretion system T-DNA border endonuclease
+                     VirD1; Provisional"
+                     /db_xref="CDD:237532"
+     CDS             1..102
+                     /locus_tag="CC1_08890"
+                     /coded_by="FP929038.1:919594..919902"
+                     /transl_table=11
+                     /db_xref="EnsemblGenomes-Gn:CC1_08890"
+                     /db_xref="EnsemblGenomes-Tr:CBK79748"
+                     /db_xref="GOA:D4J5X7"
+                     /db_xref="InterPro:IPR002145"
+                     /db_xref="InterPro:IPR008687"
+                     /db_xref="UniProtKB/TrEMBL:D4J5X7"
+ORIGIN      
+        1 mrkrnhvipv rlnarevrel neqversgls reefmrslil gaqvhakpce hhpellrkia
+       61 glcnnanqla hvanasgmas eqsiqemlrl tketwhlvke ew
+//
+
+LOCUS       CBK83769                 130 aa            linear   BCT 27-FEB-2015
+DEFINITION  Bacterial mobilisation protein (MobC)./Ribbon-helix-helix protein,
+            copG family [Coprococcus sp. ART55/1].
+ACCESSION   CBK83769
+VERSION     CBK83769.1
+DBLINK      BioProject: PRJNA45915
+            BioSample: SAMEA3138371
+DBSOURCE    embl accession FP929039.1
+KEYWORDS    .
+SOURCE      Coprococcus sp. ART55/1
+  ORGANISM  Coprococcus sp. ART55/1
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+REFERENCE   1
+  AUTHORS   Pajon,A., Turner,K., Parkhill,J., Duncan,S. and Flint,H.
+  CONSRTM   metaHIT consortium -- http://www.metahit.eu/
+  TITLE     The genome sequence of Coprococcus sp. ART55/1
+  JOURNAL   Unpublished
+REFERENCE   2
+  AUTHORS   Pajon,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2010) Sanger Institute, Wellcome Trust Genome
+            Campus, Hinxton, Cambridge CB10 1SA, United Kingdom
+COMMENT     This is a reference genome for the metaHIT project DNA source:
+            Rowett Institute of Nutrition and Health, University of Aberdeen --
+            http://www.rowett.ac.uk/divisions/ghp/ Sequencing technology: 454
+            Genome coverage: 17x
+            Annotation was added using ab initio prediction IMG/ER --
+            http://img.jgi.doe.gov/submit (Markowitz, Szeto et al. 2007).
+FEATURES             Location/Qualifiers
+     source          1..130
+                     /organism="Coprococcus sp. ART55/1"
+                     /strain="ART55/1"
+                     /db_xref="taxon:751585"
+     Protein         1..130
+                     /product="Bacterial mobilisation protein
+                     (MobC)./Ribbon-helix-helix protein, copG family."
+     Region          21..>73
+                     /region_name="PRK13877"
+                     /note="conjugal transfer relaxosome component TraJ;
+                     Provisional"
+                     /db_xref="CDD:184361"
+     Region          65..103
+                     /region_name="MobC"
+                     /note="Bacterial mobilization protein (MobC); pfam05713"
+                     /db_xref="CDD:283391"
+     CDS             1..130
+                     /locus_tag="CCU_23960"
+                     /coded_by="complement(FP929039.1:2537838..2538230)"
+                     /transl_table=11
+                     /db_xref="EnsemblGenomes-Gn:CCU_23960"
+                     /db_xref="EnsemblGenomes-Tr:CBK83769"
+                     /db_xref="GOA:D5HFT6"
+                     /db_xref="InterPro:IPR002145"
+                     /db_xref="InterPro:IPR008687"
+                     /db_xref="UniProtKB/TrEMBL:D5HFT6"
+ORIGIN      
+        1 mrntdkkken mvlmsmrisa edkeeieaka rktglstsey irrcalgrkl pcygdtsllk
+       61 eysmqlgkig snlnqiakhl ngggdfysiy yelkeairel ldlkfkilpa ledvacgkkr
+      121 rrksgedgeg
+//
+
+LOCUS       WP_004849753              79 aa            linear   BCT 25-MAY-2013
+DEFINITION  hypothetical protein [Coprococcus eutactus].
+ACCESSION   WP_004849753
+VERSION     WP_004849753.1
+KEYWORDS    RefSeq.
+SOURCE      Coprococcus eutactus
+  ORGANISM  Coprococcus eutactus
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..79
+                     /organism="Coprococcus eutactus"
+                     /db_xref="taxon:33043"
+     Protein         1..79
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=8931
+     Region          10..53
+                     /region_name="HicB"
+                     /note="HicB family; cl23837"
+                     /db_xref="CDD:304994"
+ORIGIN      
+        1 madekikrgp grptdkrkdt vlrlridaet hkklnrcaek rqvsmseivr eaineivrea
+       61 eaesydakvp ggkktqdnr
+//
+
+LOCUS       CCZ92051                  79 aa            linear   ENV 31-MAY-2013
+DEFINITION  ribbon-helix-helix protein CopG family [Coprococcus eutactus
+            CAG:665].
+ACCESSION   CCZ92051
+VERSION     CCZ92051.1
+DBSOURCE    embl accession CBAW010000008.1
+KEYWORDS    ENV.
+SOURCE      Coprococcus eutactus CAG:665
+  ORGANISM  Coprococcus eutactus CAG:665
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..79
+                     /organism="Coprococcus eutactus CAG:665"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1263071"
+                     /environmental_sample
+                     /note="contig 105"
+     Protein         1..79
+                     /product="ribbon-helix-helix protein CopG family"
+     Region          <10..60
+                     /region_name="HicB"
+                     /note="HicB family; cl23837"
+                     /db_xref="CDD:304994"
+     CDS             1..79
+                     /locus_tag="BN751_01211"
+                     /coded_by="CBAW010000008.1:22398..22637"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 madekikrgp grptdkrkdt vlrlridaet hkklnrcaek rqvsmseivr eaineivqea
+       61 eaesydakvl ggkktqnnr
+//
+
+LOCUS       EEG88941                  60 aa            linear   BCT 15-AUG-2012
+DEFINITION  toxin-antitoxin system, toxin component, HicA family [Coprococcus
+            comes ATCC 27758].
+ACCESSION   EEG88941
+VERSION     EEG88941.1
+DBLINK      BioProject: PRJNA20525
+            BioSample: SAMN00000016
+DBSOURCE    accession ABVR01000042.1
+KEYWORDS    .
+SOURCE      Coprococcus comes ATCC 27758
+  ORGANISM  Coprococcus comes ATCC 27758
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+REFERENCE   1  (residues 1 to 60)
+  AUTHORS   Sudarsanam,P., Ley,R., Guruge,J., Turnbaugh,P.J., Mahowald,M.,
+            Liep,D. and Gordon,J.
+  TITLE     Draft genome sequence of Coprococcus comes (ATCC 27758)
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 60)
+  AUTHORS   Fulton,L., Clifton,S., Fulton,B., Xu,J., Minx,P., Pepin,K.H.,
+            Johnson,M., Bhonagiri,V., Nash,W.E., Mardis,E.R. and Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-FEB-2009) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+COMMENT     Coprococcus comes (16S rDNA gene sequence is not available) is a
+            member of the Firmicutes division of the domain bacteria and has
+            been isolated from human feces. The sequenced strain was obtained
+            from ATCC (ATCC 27758).
+            
+            This is a Pcap assembly comprised of 1/4 FLX Fragment Titration
+            run, 1 full FLX fragment run, and 1 full FLX PE run of 454 data
+            with a Q20 coverage of 67.2X. We have performed one round of
+            automated sequence improvement (pre-finishing), along with manual
+            improvement that includes breaking apart any mis-assembly, and
+            making manual joins where possible. Manual edits also are made
+            where the consensus appears to be incorrect. All low quality data
+            on the ends of contigs is removed. Contigs are ordered and oriented
+            where possible.
+            
+            This sequenced strain is part of a comprehensive, sequence-based
+            survey of members of the normal human gut microbiota.  A joint
+            effort of the WU-GSC and the Center for Genome Sciences at
+            Washington University School of Medicine, the purpose of this
+            survey is to provide the general scientific community with a broad
+            view of the gene content of 100 representatives of the major
+            divisions represented in the intestine's microbial community. This
+            information should provide a frame of reference for analyzing
+            metagenomic studies of the human gut microbiome. Further details of
+            this effort are described in a white paper entitled 'Extending Our
+            View of Self: the Human Gut Microbiome Initiative (HGMI)'
+            (http://www.genome.gov/Pages/Research/Sequencing/SeqProposals/HGMIS
+            eq.pdf). These studies are supported by National Human Genome
+            Research Institute.
+            
+            Coding sequences were predicted using GeneMark v3.3 and Glimmer2
+            v2.13. Intergenic regions not spanned by GeneMark and Glimmer2 were
+            blasted against NCBI's non-redundant (NR) database and predictions
+            generated based on protein alignments. tRNA genes were determined
+            using tRNAscan-SE 1.23 and non-coding RNA genes by RNAmmer-1.2 and
+            Rfam v8.0. Gene names are generated at the contig level and may not
+            necessarily reflect any known order or orientation between contigs.
+            
+            For answers to your questions regarding this assembly or project,
+            or any other GSC genome project, please visit our Genome Groups web
+            page (http://genome.wustl.edu/genome_group_index.cgi) and email the
+            designated contact person.
+            
+            This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Product names were updated in August 2012.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..60
+                     /organism="Coprococcus comes ATCC 27758"
+                     /strain="ATCC 27758"
+                     /culture_collection="ATCC:27758"
+                     /db_xref="taxon:470146"
+     Protein         1..60
+                     /product="toxin-antitoxin system, toxin component, HicA
+                     family"
+     Region          4..58
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; pfam07927"
+                     /db_xref="CDD:285205"
+     CDS             1..60
+                     /locus_tag="COPCOM_03031"
+                     /coded_by="complement(ABVR01000042.1:237613..237795)"
+                     /inference="protein motif:HMMPfam:IPR012933"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR012933"
+ORIGIN      
+        1 mrfrelerli vadgwircdv kgshyqyrhp lkkgkvtipr hggdiplrva isvlrqaglk
+//
+
+LOCUS       WP_008374951              85 aa            linear   BCT 04-JUL-2015
+DEFINITION  toxin HicA [Coprococcus comes].
+ACCESSION   WP_008374951
+VERSION     WP_008374951.1
+KEYWORDS    RefSeq.
+SOURCE      Coprococcus comes
+  ORGANISM  Coprococcus comes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..85
+                     /organism="Coprococcus comes"
+                     /db_xref="taxon:410072"
+     Protein         1..85
+                     /product="toxin HicA"
+                     /calculated_mol_wt=9870
+     Region          21..73
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; pfam07927"
+                     /db_xref="CDD:285205"
+ORIGIN      
+        1 mskwdklimq icnlskdirf delrkvlesy gyemnspkgg sshytfrkcg cmpvtipkhe
+       61 pikkvyvemv rqivesetrk denae
+//
+
+LOCUS       CCY53649                  57 aa            linear   ENV 31-MAY-2013
+DEFINITION  conserved domain protein [Coprococcus sp. CAG:782].
+ACCESSION   CCY53649
+VERSION     CCY53649.1
+DBSOURCE    embl accession CAYJ010000040.1
+KEYWORDS    ENV.
+SOURCE      Coprococcus sp. CAG:782
+  ORGANISM  Coprococcus sp. CAG:782
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..57
+                     /organism="Coprococcus sp. CAG:782"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262863"
+                     /environmental_sample
+                     /note="contig 16"
+     Protein         1..57
+                     /product="conserved domain protein"
+     Region          6..55
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; pfam07927"
+                     /db_xref="CDD:285205"
+     CDS             1..57
+                     /locus_tag="BN781_00208"
+                     /coded_by="CAYJ010000040.1:6359..6532"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mkrnilikkl ldggfvfdrh ganhdmyikg niketiprhk einerlaqai lkrngll
+//
+
+LOCUS       CBK82282                  96 aa            linear   BCT 27-FEB-2015
+DEFINITION  addiction module toxin, RelE/StbE family [Coprococcus sp. ART55/1].
+ACCESSION   CBK82282
+VERSION     CBK82282.1
+DBLINK      BioProject: PRJNA45915
+            BioSample: SAMEA3138371
+DBSOURCE    embl accession FP929039.1
+KEYWORDS    .
+SOURCE      Coprococcus sp. ART55/1
+  ORGANISM  Coprococcus sp. ART55/1
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+REFERENCE   1
+  AUTHORS   Pajon,A., Turner,K., Parkhill,J., Duncan,S. and Flint,H.
+  CONSRTM   metaHIT consortium -- http://www.metahit.eu/
+  TITLE     The genome sequence of Coprococcus sp. ART55/1
+  JOURNAL   Unpublished
+REFERENCE   2
+  AUTHORS   Pajon,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2010) Sanger Institute, Wellcome Trust Genome
+            Campus, Hinxton, Cambridge CB10 1SA, United Kingdom
+COMMENT     This is a reference genome for the metaHIT project DNA source:
+            Rowett Institute of Nutrition and Health, University of Aberdeen --
+            http://www.rowett.ac.uk/divisions/ghp/ Sequencing technology: 454
+            Genome coverage: 17x
+            Annotation was added using ab initio prediction IMG/ER --
+            http://img.jgi.doe.gov/submit (Markowitz, Szeto et al. 2007).
+FEATURES             Location/Qualifiers
+     source          1..96
+                     /organism="Coprococcus sp. ART55/1"
+                     /strain="ART55/1"
+                     /db_xref="taxon:751585"
+     Protein         1..96
+                     /product="addiction module toxin, RelE/StbE family"
+     Region          6..94
+                     /region_name="YafQ"
+                     /note="mRNA-degrading endonuclease (mRNA interferase)
+                     YafQ, toxin component of the YafQ-DinJ toxin-antitoxin
+                     module [Translation, ribosomal structure and biogenesis];
+                     COG3041"
+                     /db_xref="CDD:225583"
+     CDS             1..96
+                     /locus_tag="CCU_04260"
+                     /coded_by="complement(FP929039.1:411068..411358)"
+                     /transl_table=11
+                     /db_xref="EnsemblGenomes-Gn:CCU_04260"
+                     /db_xref="EnsemblGenomes-Tr:CBK82282"
+                     /db_xref="InterPro:IPR004386"
+                     /db_xref="InterPro:IPR007712"
+                     /db_xref="UniProtKB/TrEMBL:D5HHM7"
+ORIGIN      
+        1 mketkytvky ttsfkkdykr aikrglkiel leqvvallam geplpdknrd hdlsgdwagh
+       61 rechilpdwl liyrieddvl vltlartgsh sdlfgk
+//
+
+LOCUS       CBK83045                 104 aa            linear   BCT 27-FEB-2015
+DEFINITION  Plasmid stabilisation system protein [Coprococcus sp. ART55/1].
+ACCESSION   CBK83045
+VERSION     CBK83045.1
+DBLINK      BioProject: PRJNA45915
+            BioSample: SAMEA3138371
+DBSOURCE    embl accession FP929039.1
+KEYWORDS    .
+SOURCE      Coprococcus sp. ART55/1
+  ORGANISM  Coprococcus sp. ART55/1
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+REFERENCE   1
+  AUTHORS   Pajon,A., Turner,K., Parkhill,J., Duncan,S. and Flint,H.
+  CONSRTM   metaHIT consortium -- http://www.metahit.eu/
+  TITLE     The genome sequence of Coprococcus sp. ART55/1
+  JOURNAL   Unpublished
+REFERENCE   2
+  AUTHORS   Pajon,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2010) Sanger Institute, Wellcome Trust Genome
+            Campus, Hinxton, Cambridge CB10 1SA, United Kingdom
+COMMENT     This is a reference genome for the metaHIT project DNA source:
+            Rowett Institute of Nutrition and Health, University of Aberdeen --
+            http://www.rowett.ac.uk/divisions/ghp/ Sequencing technology: 454
+            Genome coverage: 17x
+            Annotation was added using ab initio prediction IMG/ER --
+            http://img.jgi.doe.gov/submit (Markowitz, Szeto et al. 2007).
+FEATURES             Location/Qualifiers
+     source          1..104
+                     /organism="Coprococcus sp. ART55/1"
+                     /strain="ART55/1"
+                     /db_xref="taxon:751585"
+     Protein         1..104
+                     /product="Plasmid stabilisation system protein."
+     Region          5..99
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; pfam05016"
+                     /db_xref="CDD:282823"
+     CDS             1..104
+                     /locus_tag="CCU_14510"
+                     /coded_by="complement(FP929039.1:1497185..1497499)"
+                     /transl_table=11
+                     /db_xref="EnsemblGenomes-Gn:CCU_14510"
+                     /db_xref="EnsemblGenomes-Tr:CBK83045"
+                     /db_xref="InterPro:IPR007712"
+                     /db_xref="UniProtKB/TrEMBL:D5HDR2"
+ORIGIN      
+        1 mtyevvltkd aendldnfiq yllfekhskq aaanvlqdfe ntkrslekia sslklcdnlr
+       61 lrklgyrrin ferhryfmly riegeriivd nifhelqdfe gkmi
+//
+
+LOCUS       WP_004849939             100 aa            linear   BCT 25-MAY-2013
+DEFINITION  cytotoxic translational repressor of toxin-antitoxin stability
+            system [Coprococcus eutactus].
+ACCESSION   WP_004849939
+VERSION     WP_004849939.1
+KEYWORDS    RefSeq.
+SOURCE      Coprococcus eutactus
+  ORGANISM  Coprococcus eutactus
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..100
+                     /organism="Coprococcus eutactus"
+                     /db_xref="taxon:33043"
+     Protein         1..100
+                     /product="cytotoxic translational repressor of
+                     toxin-antitoxin stability system"
+                     /calculated_mol_wt=11657
+     Region          6..99
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; pfam05016"
+                     /db_xref="CDD:282823"
+ORIGIN      
+        1 mdkysvilyp rafrdiddiy ayialekmsp enakgqtdri wdaiksleql peshqdrlvg
+       61 rfagkgykql ivdnyivifk idkeqnrvyi vtvqyqgrni
+//
+
+LOCUS       WP_004851526             106 aa            linear   BCT 25-MAY-2013
+DEFINITION  toxin RelE [Coprococcus eutactus].
+ACCESSION   WP_004851526
+VERSION     WP_004851526.1
+KEYWORDS    RefSeq.
+SOURCE      Coprococcus eutactus
+  ORGANISM  Coprococcus eutactus
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..106
+                     /organism="Coprococcus eutactus"
+                     /db_xref="taxon:33043"
+     Protein         1..106
+                     /product="toxin RelE"
+                     /calculated_mol_wt=12457
+     Region          6..89
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; pfam05016"
+                     /db_xref="CDD:282823"
+ORIGIN      
+        1 mkqykveitk ealqdmediy nyiaidllap dnamgqynli adeiltldtf perfrimdse
+       61 pekrmelrrm lvdnysvfyi irdervivtd vlytasdiea rlrgel
+//
+
+LOCUS       WP_004852844             100 aa            linear   BCT 25-MAY-2013
+DEFINITION  cytotoxic translational repressor of toxin-antitoxin stability
+            system [Coprococcus eutactus].
+ACCESSION   WP_004852844
+VERSION     WP_004852844.1
+KEYWORDS    RefSeq.
+SOURCE      Coprococcus eutactus
+  ORGANISM  Coprococcus eutactus
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..100
+                     /organism="Coprococcus eutactus"
+                     /db_xref="taxon:33043"
+     Protein         1..100
+                     /product="cytotoxic translational repressor of
+                     toxin-antitoxin stability system"
+                     /calculated_mol_wt=11631
+     Region          6..100
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; pfam05016"
+                     /db_xref="CDD:282823"
+ORIGIN      
+        1 mdkykvkinp kaireldqiy eyianeklap envkgqieri kksilsldtf pqshqerseg
+       61 ryagkgylql lidnyiaifr ideprktvyv vtvqyqgrnl
+//
+
+LOCUS       WP_008375511              98 aa            linear   BCT 26-MAY-2013
+DEFINITION  toxin RelE [Coprococcus comes].
+ACCESSION   WP_008375511
+VERSION     WP_008375511.1
+KEYWORDS    RefSeq.
+SOURCE      Coprococcus comes
+  ORGANISM  Coprococcus comes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..98
+                     /organism="Coprococcus comes"
+                     /db_xref="taxon:410072"
+     Protein         1..98
+                     /product="toxin RelE"
+                     /calculated_mol_wt=11718
+ORIGIN      
+        1 menksyqlry lpifetdlls tvnyitnvlk nedaahrlvd diesailkrl enplafepyr
+       61 sakrreypyy riyvrnyvvy yvvignvmev rrliykst
+//
+
+LOCUS       WP_008375613              98 aa            linear   BCT 26-MAY-2013
+DEFINITION  toxin RelE [Coprococcus comes].
+ACCESSION   WP_008375613
+VERSION     WP_008375613.1
+KEYWORDS    RefSeq.
+SOURCE      Coprococcus comes
+  ORGANISM  Coprococcus comes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..98
+                     /organism="Coprococcus comes"
+                     /db_xref="taxon:410072"
+     Protein         1..98
+                     /product="toxin RelE"
+                     /calculated_mol_wt=11647
+ORIGIN      
+        1 menksyqlrc lsifetdlls tvnyitnvlk nedaahrlvd diesailkrl enplafepyr
+       61 sakrreypyy riyvrnyvvy yvvignvmev rrliykst
+//
+
+LOCUS       WP_016438893              96 aa            linear   BCT 17-JUN-2013
+DEFINITION  RelE/StbE family addiction module toxin [Coprococcus sp. HPP0074].
+ACCESSION   WP_016438893
+VERSION     WP_016438893.1
+KEYWORDS    RefSeq.
+SOURCE      Coprococcus sp. HPP0074
+  ORGANISM  Coprococcus sp. HPP0074
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..96
+                     /organism="Coprococcus sp. HPP0074"
+                     /db_xref="taxon:1078090"
+     Protein         1..96
+                     /product="RelE/StbE family addiction module toxin"
+                     /calculated_mol_wt=10968
+     Region          6..94
+                     /region_name="YafQ"
+                     /note="mRNA-degrading endonuclease (mRNA interferase)
+                     YafQ, toxin component of the YafQ-DinJ toxin-antitoxin
+                     module [Translation, ribosomal structure and biogenesis];
+                     COG3041"
+                     /db_xref="CDD:225583"
+ORIGIN      
+        1 mketkytvky ttsfkkdykr aikrglkiev leqvvallam geplpdknrd hdlsgdwagh
+       61 rechilpdwl liyrieddvl vltlartgsh sdlfgk
+//
+
+LOCUS       WP_016440514             104 aa            linear   BCT 17-JUN-2013
+DEFINITION  hypothetical protein [Coprococcus sp. HPP0048].
+ACCESSION   WP_016440514
+VERSION     WP_016440514.1
+KEYWORDS    RefSeq.
+SOURCE      Coprococcus sp. HPP0048
+  ORGANISM  Coprococcus sp. HPP0048
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..104
+                     /organism="Coprococcus sp. HPP0048"
+                     /db_xref="taxon:1078091"
+     Protein         1..104
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=11969
+     Region          5..99
+                     /region_name="ParE"
+                     /note="Plasmid stabilization system protein ParE
+                     [Mobilome: prophages, transposons]; COG3668"
+                     /db_xref="CDD:226194"
+ORIGIN      
+        1 mkhytveitn ealadmeqly nhiayvlqap enamdqynri adviltletl aeririmese
+       61 perskemrrl lvdnysvffv iqgdkvivtd vlysasdiec rlkg
+//
+
+LOCUS       CDB80611                 109 aa            linear   ENV 31-MAY-2013
+DEFINITION  addiction module toxin RelE/StbE family [Coprococcus sp. CAG:131].
+ACCESSION   CDB80611
+VERSION     CDB80611.1
+DBSOURCE    embl accession CBEE010000180.1
+KEYWORDS    ENV.
+SOURCE      Coprococcus sp. CAG:131
+  ORGANISM  Coprococcus sp. CAG:131
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..109
+                     /organism="Coprococcus sp. CAG:131"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262862"
+                     /environmental_sample
+                     /note="contig 31"
+     Protein         1..109
+                     /product="addiction module toxin RelE/StbE family"
+     Region          5..98
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; pfam05016"
+                     /db_xref="CDD:282823"
+     CDS             1..109
+                     /locus_tag="BN485_00368"
+                     /coded_by="complement(CBEE010000180.1:60..389)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 miyeleiseq adndlrgife niafelqspq nasgqldhle eqilsldtmp eryrryekep
+       61 wksrglrvll vdnyvvfyip dsdkkvvtil rvmyagrdtd nqlnlytkq
+//
+
+LOCUS       CDB80613                 104 aa            linear   ENV 31-MAY-2013
+DEFINITION  plasmid stabilisation system protein [Coprococcus sp. CAG:131].
+ACCESSION   CDB80613
+VERSION     CDB80613.1
+DBSOURCE    embl accession CBEE010000180.1
+KEYWORDS    ENV.
+SOURCE      Coprococcus sp. CAG:131
+  ORGANISM  Coprococcus sp. CAG:131
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..104
+                     /organism="Coprococcus sp. CAG:131"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262862"
+                     /environmental_sample
+                     /note="contig 31"
+     Protein         1..104
+                     /product="plasmid stabilisation system protein"
+     Region          5..99
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; pfam05016"
+                     /db_xref="CDD:282823"
+     CDS             1..104
+                     /locus_tag="BN485_00370"
+                     /coded_by="complement(CBEE010000180.1:882..1196)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mtyevvltkd aendldnfiq yllfekhskq aaanvlqdfd ntkrslekia sslklcdnlr
+       61 lrklgyrrin ferhryfmly riegeriivd nifhelqdfe gkmi
+//
+
+LOCUS       CDB86430                  98 aa            linear   ENV 31-MAY-2013
+DEFINITION  uncharacterized protein BN524_01100 [Coprococcus comes CAG:19].
+ACCESSION   CDB86430
+VERSION     CDB86430.1
+DBSOURCE    embl accession CBEG010000211.1
+KEYWORDS    ENV.
+SOURCE      Coprococcus comes CAG:19
+  ORGANISM  Coprococcus comes CAG:19
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..98
+                     /organism="Coprococcus comes CAG:19"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1263070"
+                     /environmental_sample
+                     /note="contig 94"
+     Protein         1..98
+                     /product="uncharacterized protein"
+     CDS             1..98
+                     /locus_tag="BN524_01100"
+                     /coded_by="CBEG010000211.1:100..396"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 menksyqlry lpifetdlls tvnyitnvlk nedaahrsvd dlesailkrl enplafepyr
+       61 sakrreypyy riyvrnyvvy yvvignvmev rrliykst
+//
+
+LOCUS       EDP24965                 117 aa            linear   BCT 03-AUG-2012
+DEFINITION  toxin-antitoxin system, toxin component, MazF family [Coprococcus
+            eutactus ATCC 27759].
+ACCESSION   EDP24965
+VERSION     EDP24965.1
+DBLINK      BioProject: PRJNA18187
+            BioSample: SAMN00627069
+DBSOURCE    accession ABEY02000032.1
+KEYWORDS    .
+SOURCE      Coprococcus eutactus ATCC 27759
+  ORGANISM  Coprococcus eutactus ATCC 27759
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+REFERENCE   1  (residues 1 to 117)
+  AUTHORS   Sudarsanam,P., Ley,R., Guruge,J., Turnbaugh,P.J., Mahowald,M.,
+            Liep,D. and Gordon,J.
+  TITLE     Draft genome sequence of Coprococcus_eutactus(ATCC 27759)
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 117)
+  AUTHORS   Fulton,L., Clifton,S., Fulton,B., Xu,J., Minx,P., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-SEP-2007) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+REFERENCE   3  (residues 1 to 117)
+  AUTHORS   Fulton,L., Clifton,S., Fulton,B., Xu,J., Minx,P., Pepin,K.H.,
+            Johnson,M., Thiruvilangam,P., Bhonagiri,V., Nash,W.E., Mardis,E.R.
+            and Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-SEP-2007) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+COMMENT     Coprococcus eutactus (GenBank Accession Number for 16S rDNA gene:
+            D14148) is a member of the division Firmicutes. In one
+            comprehensive 16S rDNA sequence-based enumeration of the colonic
+            microbiota of three healthy adult humans, it represents, on
+            average, 0.042% of all 16S rDNA sequences and 0.083% of the
+            sequences in its division (Eckburg et. al. (2005)). The sequenced
+            strain was obtained from ATCC (ATCC 27759).
+            
+            We have collected 9.4X coverage in plasmid end reads and 454 reads.
+            We will be performing one round of automated sequence improvement
+            (pre-finishing).
+            
+            Sequencing/Assembly: The genomic DNA was purified from liquid
+            culture derived from a single bacterial colony. A hybrid sequencing
+            strategy that utilized reads from both 454 GS-20 and ABI 3730xl
+            sequencers was devised and implemented to generate the draft genome
+            sequences. 454 reads were assembled using Newbler (454 Life
+            Sciences) into 454 de novo contigs. These de novo contigs were
+            converted in silico to 800 base paired reads ('superreads') with
+            400 base overlaps with neighboring superreads.  Finally, PCAP
+            (Huang, et al, Genome Research, 13:2164, (2003)) was used to
+            assemble the super-reads and the conventional 3730xl capillary
+            reads.
+            
+            This sequenced strain is part of a comprehensive, sequence-based
+            survey of members of the normal human gut microbiota.  A joint
+            effort of the WU-GSC and the Center for Genome Sciences at
+            Washington University School of Medicine, the purpose of this
+            survey is to provide the general scientific community with a broad
+            view of the gene content of 100 representatives of the major
+            divisions represented in the intestine's microbial community. This
+            information should provide a frame of reference for analyzing
+            metagenomic studies of the human gut microbiome. Further details of
+            this effort are described in a white paper entitled 'Extending Our
+            View of Self: the Human Gut Microbiome Initiative (HGMI)'
+            (http://www.genome.gov/Pages/Research/Sequencing/SeqProposals/HGMIS
+            eq.pdf). These studies are supported by National Human Genome
+            Research Institute.
+            
+            Coding sequences were predicted using GeneMark v3.3 and Glimmer2
+            v2.13. Intergenic regions not spanned by GeneMark and Glimmer2 were
+            blasted against NCBI's non-redundant (NR) database and predictions
+            generated based on protein alignments. RNA genes were determined
+            using tRNAscan-SE 1.23 or Rfam v8.0. Gene names are generated at
+            the contig level and may not necessarily reflect any known order or
+            orientation between contigs.These studies are supported by National
+            Human Genome Research Institute.
+            
+            For answers to your questions regarding this assembly or project,
+            or any other GSC genome project, please visit our Genome Groups web
+            page (http://genome.wustl.edu/genome_group_index.cgi) and email the
+            designated contact person.
+            
+            Annotation was added to the contigs in October 2007, and the CDS
+            comments were updated in January 2008.
+            
+            This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Product names were updated in August 2012.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..117
+                     /organism="Coprococcus eutactus ATCC 27759"
+                     /strain="ATCC 27759"
+                     /db_xref="ATCC:27759"
+                     /db_xref="taxon:411474"
+     Protein         1..117
+                     /product="toxin-antitoxin system, toxin component, MazF
+                     family"
+     Region          7..114
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+     CDS             1..117
+                     /locus_tag="COPEUT_02903"
+                     /coded_by="ABEY02000032.1:105585..105938"
+                     /inference="protein motif:HMMPfam:IPR003477"
+                     /inference="protein motif:superfamily:IPR011067"
+                     /note="KEGG: rfe:RF_1343 2.2e-08 growth inhibitor K06180;
+                     COG: COG2337 Growth inhibitor;
+                     Psort location: Cytoplasmic, score:8.87"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR003477"
+                     /db_xref="InterPro:IPR011067"
+ORIGIN      
+        1 minlvirrgd iyyadlrpvv gseqggirpv ivvqneagnk hsstviiaai tskmkrpklp
+       61 thimldsarc diakdsvill eqlrtidkqr lkekvchvds dvlkkvdeal kislelv
+//
+
+LOCUS       WP_008369773              99 aa            linear   BCT 06-JUN-2015
+DEFINITION  mRNA interferase PemK [Coprococcus comes].
+ACCESSION   WP_008369773
+VERSION     WP_008369773.1
+KEYWORDS    RefSeq.
+SOURCE      Coprococcus comes
+  ORGANISM  Coprococcus comes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..99
+                     /organism="Coprococcus comes"
+                     /db_xref="taxon:410072"
+     Protein         1..99
+                     /product="mRNA interferase PemK"
+                     /calculated_mol_wt=11253
+     Region          <4..97
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; cl00995"
+                     /db_xref="CDD:294640"
+ORIGIN      
+        1 meiqqgdvlk vekikdpvfv asknffnqsg eiigcpilge stesplhiyv emdenkgyiq
+       61 ceqmkmldlr irgykiidrv kradvinvtd aiqsifdyi
+//
+
+LOCUS       WP_009261949             115 aa            linear   BCT 06-JUN-2015
+DEFINITION  MULTISPECIES: mRNA interferase PemK [Coprococcus].
+ACCESSION   WP_009261949
+VERSION     WP_009261949.1
+KEYWORDS    RefSeq.
+SOURCE      Coprococcus
+  ORGANISM  Coprococcus
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..115
+                     /organism="Coprococcus"
+                     /db_xref="taxon:33042"
+     Protein         1..115
+                     /product="mRNA interferase PemK"
+                     /calculated_mol_wt=12792
+     Region          4..111
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 mvvkrgdify adlspvvgse qggirpvlii qndignkhsp tvicaaitsk mnkaklpthi
+       61 eidakkcrlv knsvvlleqi rtidkqrlre qvchldqelm kkvnealkis lelht
+//
+
+LOCUS       WP_016438739             126 aa            linear   BCT 17-JUN-2013
+DEFINITION  hypothetical protein [Coprococcus sp. HPP0074].
+ACCESSION   WP_016438739
+VERSION     WP_016438739.1
+KEYWORDS    RefSeq.
+SOURCE      Coprococcus sp. HPP0074
+  ORGANISM  Coprococcus sp. HPP0074
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..126
+                     /organism="Coprococcus sp. HPP0074"
+                     /db_xref="taxon:1078090"
+     Protein         1..126
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=14229
+     Region          5..99
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 melhrydiie aeiktasgsv qgkkrpyviv snesgtkhas iitimplthv ikklympvhg
+       61 cieaesengl skysmvlgeq pmtickeevl rklgrvtnqn hknminkvcy nsffygeein
+      121 weevla
+//
+
+LOCUS       CCY53418                 113 aa            linear   ENV 31-MAY-2013
+DEFINITION  toxin-antitoxin system toxin component MazF family [Coprococcus sp.
+            CAG:782].
+ACCESSION   CCY53418
+VERSION     CCY53418.1
+DBSOURCE    embl accession CAYJ010000028.1
+KEYWORDS    ENV.
+SOURCE      Coprococcus sp. CAG:782
+  ORGANISM  Coprococcus sp. CAG:782
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..113
+                     /organism="Coprococcus sp. CAG:782"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262863"
+                     /environmental_sample
+                     /note="contig 123"
+     Protein         1..113
+                     /product="toxin-antitoxin system toxin component MazF
+                     family"
+     Region          4..110
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+     CDS             1..113
+                     /locus_tag="BN781_01804"
+                     /coded_by="CAYJ010000028.1:9769..10110"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mvirrgdiyy adlspvvgse qggvrpvlii qnevgnrhss tvivaaitsk mkpklpthve
+       61 llarsneltr dsvilleqlr tidkarlkek vchinedilk rvdsalkisl elm
+//
+
+LOCUS       CCZ94010                 265 aa            linear   ENV 31-MAY-2013
+DEFINITION  putative uncharacterized protein [Coprococcus eutactus CAG:665].
+ACCESSION   CCZ94010
+VERSION     CCZ94010.1
+DBSOURCE    embl accession CBAW010000165.1
+KEYWORDS    ENV.
+SOURCE      Coprococcus eutactus CAG:665
+  ORGANISM  Coprococcus eutactus CAG:665
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..265
+                     /organism="Coprococcus eutactus CAG:665"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1263071"
+                     /environmental_sample
+                     /note="contig 79"
+     Protein         1..265
+                     /product="putative uncharacterized protein"
+     Region          68..>111
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+     CDS             1..265
+                     /locus_tag="BN751_00787"
+                     /coded_by="CBAW010000165.1:28668..29465"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mskkntksdv irnkkysikl lnnllekyit destlrkadl mskwivdyvr yidfegtfdp
+       61 rknisysrgd ivkvnfgfni gselggvhya vvidnknnqs sdsitvvpms sikedtvikt
+      121 ydlnignefy nimnakynnl lkehtthrde ltqilteird lifnapcdnd dlessstpen
+      181 ttditigslt kkiekmndei dilkknkaei dlmktgsllk pcqirtiski riwypktprd
+      241 plygvklsda tmdkltkkli eyfik
+//
+
+LOCUS       CDB79982                  99 aa            linear   ENV 31-MAY-2013
+DEFINITION  toxin-antitoxin system toxin component MazF family [Coprococcus sp.
+            CAG:131].
+ACCESSION   CDB79982
+VERSION     CDB79982.1
+DBSOURCE    embl accession CBEE010000134.1
+KEYWORDS    ENV.
+SOURCE      Coprococcus sp. CAG:131
+  ORGANISM  Coprococcus sp. CAG:131
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..99
+                     /organism="Coprococcus sp. CAG:131"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262862"
+                     /environmental_sample
+                     /note="contig 219"
+     Protein         1..99
+                     /product="toxin-antitoxin system toxin component MazF
+                     family"
+     Region          2..96
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+     CDS             1..99
+                     /locus_tag="BN485_01940"
+                     /coded_by="CBEE010000134.1:17036..17335"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mvgseqggir pvivvqneag nrhsstviia aitskmkrpk lpthimldss scdiakdsvi
+       61 lleqlrtidk qrlkekvchv dadvlrrvde alkislela
+//
+
+LOCUS       CDB86150                 115 aa            linear   ENV 31-MAY-2013
+DEFINITION  endoribonuclease EndoA [Coprococcus comes CAG:19].
+ACCESSION   CDB86150
+VERSION     CDB86150.1
+DBSOURCE    embl accession CBEG010000184.1
+KEYWORDS    ENV.
+SOURCE      Coprococcus comes CAG:19
+  ORGANISM  Coprococcus comes CAG:19
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..115
+                     /organism="Coprococcus comes CAG:19"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1263070"
+                     /environmental_sample
+                     /note="contig 7"
+     Protein         1..115
+                     /product="endoribonuclease EndoA"
+     Region          4..111
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+     CDS             1..115
+                     /locus_tag="BN524_00046"
+                     /coded_by="CBEG010000184.1:31143..31490"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mqirrgdiyy adlspvvgse qggvrpvlvi qndvgnrhsp tvicaaitsr mnkaklpthv
+       61 eidakryriv kdsvvlleqi rtidkqrlkd yvcrvdkelm rkvdealcvs lmlht
+//
+
+LOCUS       CDB85352                  99 aa            linear   ENV 31-MAY-2013
+DEFINITION  uncharacterized protein BN524_02086 [Coprococcus comes CAG:19].
+ACCESSION   CDB85352
+VERSION     CDB85352.1
+DBSOURCE    embl accession CBEG010000118.1
+KEYWORDS    ENV.
+SOURCE      Coprococcus comes CAG:19
+  ORGANISM  Coprococcus comes CAG:19
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..99
+                     /organism="Coprococcus comes CAG:19"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1263070"
+                     /environmental_sample
+                     /note="contig 204"
+     Protein         1..99
+                     /product="uncharacterized protein"
+     Region          <4..97
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; cl00995"
+                     /db_xref="CDD:294640"
+     CDS             1..99
+                     /locus_tag="BN524_02086"
+                     /coded_by="complement(CBEG010000118.1:5736..6035)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 meiqqgavlk vekikdpvfv asknffnqsg eiigcpilge stesplhiyv emdenkgyiq
+       61 ceqmkmldlr vrgykiidrv kmadvinvtd aiqsifdyi
+//
+
+LOCUS       WP_044997672             114 aa            linear   BCT 06-JUN-2015
+DEFINITION  mRNA interferase PemK [Coprococcus eutactus].
+ACCESSION   WP_044997672
+VERSION     WP_044997672.1
+KEYWORDS    RefSeq.
+SOURCE      Coprococcus eutactus
+  ORGANISM  Coprococcus eutactus
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..114
+                     /organism="Coprococcus eutactus"
+                     /db_xref="taxon:33043"
+     Protein         1..114
+                     /product="mRNA interferase PemK"
+                     /calculated_mol_wt=12599
+     Region          4..111
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 mvirrgdiyy adlrpvvgse qggirpvivv qneagnkhss tviiaaitsk mkrpklpthi
+       61 mldsarcdia kdsvilleql rtidkqrlke kvchvdsdvl kkvdealkis lelv
+//
+
+LOCUS       CBK80335                  87 aa            linear   BCT 27-FEB-2015
+DEFINITION  toxin-antitoxin system, toxin component, Txe/YoeB family
+            [Coprococcus catus GD/7].
+ACCESSION   CBK80335
+VERSION     CBK80335.1
+DBLINK      BioProject: PRJEA45861
+            BioSample: SAMEA2272068
+DBSOURCE    embl accession FP929038.1
+KEYWORDS    .
+SOURCE      Coprococcus catus GD/7
+  ORGANISM  Coprococcus catus GD/7
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+REFERENCE   1
+  AUTHORS   Pajon,A., Turner,K., Parkhill,J., Duncan,S. and Flint,H.
+  CONSRTM   metaHIT consortium -- http://www.metahit.eu/
+  TITLE     The genome sequence of Coprococcus catus GD/7
+  JOURNAL   Unpublished
+REFERENCE   2
+  AUTHORS   Pajon,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2010) Sanger Institute, Wellcome Trust Genome
+            Campus, Hinxton, Cambridge CB10 1SA, United Kingdom
+COMMENT     This is a reference genome for the metaHIT project DNA source:
+            Rowett Institute of Nutrition and Health, University of Aberdeen --
+            http://www.rowett.ac.uk/divisions/ghp/ Sequencing technology: 454
+            Genome coverage: 21x
+            Annotation was added using ab initio prediction IMG/ER --
+            http://img.jgi.doe.gov/submit (Markowitz, Szeto et al. 2007).
+FEATURES             Location/Qualifiers
+     source          1..87
+                     /organism="Coprococcus catus GD/7"
+                     /strain="GD/7"
+                     /db_xref="taxon:717962"
+     Protein         1..87
+                     /product="toxin-antitoxin system, toxin component,
+                     Txe/YoeB family"
+     Region          5..84
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+     CDS             1..87
+                     /locus_tag="CC1_15690"
+                     /coded_by="FP929038.1:1615314..1615577"
+                     /transl_table=11
+                     /db_xref="EnsemblGenomes-Gn:CC1_15690"
+                     /db_xref="EnsemblGenomes-Tr:CBK80335"
+                     /db_xref="GOA:D4J7L4"
+                     /db_xref="InterPro:IPR009614"
+                     /db_xref="UniProtKB/TrEMBL:D4J7L4"
+ORIGIN      
+        1 mnkvftsngw edyiywqted kktlkkintl lkdidrngne gigkpeplig nlsgfwsrri
+       61 nekdrliyki deyniyilsc ryhysdt
+//
+
+LOCUS       WP_008372199              88 aa            linear   BCT 04-JUL-2015
+DEFINITION  hypothetical protein [Coprococcus comes].
+ACCESSION   WP_008372199
+VERSION     WP_008372199.1
+KEYWORDS    RefSeq.
+SOURCE      Coprococcus comes
+  ORGANISM  Coprococcus comes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..88
+                     /organism="Coprococcus comes"
+                     /db_xref="taxon:410072"
+     Protein         1..88
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=10463
+     Region          6..85
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 mmnkvftdng wedytywqte dkktlkkinn likdidrngn egigkpeplt gnltgfwsrr
+       61 indkdrliyk iddkniyils cryhyndk
+//
+
+LOCUS       CCY54161                  86 aa            linear   ENV 31-MAY-2013
+DEFINITION  putative uncharacterized protein [Coprococcus sp. CAG:782].
+ACCESSION   CCY54161
+VERSION     CCY54161.1
+DBSOURCE    embl accession CAYJ010000091.1
+KEYWORDS    ENV.
+SOURCE      Coprococcus sp. CAG:782
+  ORGANISM  Coprococcus sp. CAG:782
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..86
+                     /organism="Coprococcus sp. CAG:782"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262863"
+                     /environmental_sample
+                     /note="contig 62"
+     Protein         1..86
+                     /product="putative uncharacterized protein"
+     Region          5..84
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+     CDS             1..86
+                     /locus_tag="BN781_00683"
+                     /coded_by="complement(CAYJ010000091.1:5690..5950)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mnvvftptaw qqytdwqked kkivkrinel iksidrdgll egigkpeplk hrkvcsrrit
+       61 dehritynfd snqnliiysc kfhyed
+//
+
+LOCUS       CDB78925                  87 aa            linear   ENV 31-MAY-2013
+DEFINITION  addiction module toxin Txe/YoeB family [Coprococcus sp. CAG:131].
+ACCESSION   CDB78925
+VERSION     CDB78925.1
+DBSOURCE    embl accession CBEE010000007.1
+KEYWORDS    ENV.
+SOURCE      Coprococcus sp. CAG:131
+  ORGANISM  Coprococcus sp. CAG:131
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Coprococcus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..87
+                     /organism="Coprococcus sp. CAG:131"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262862"
+                     /environmental_sample
+                     /note="contig 104"
+     Protein         1..87
+                     /product="addiction module toxin Txe/YoeB family"
+     Region          5..84
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+     CDS             1..87
+                     /locus_tag="BN485_01033"
+                     /coded_by="complement(CBEE010000007.1:2405..2668)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mnkvftdngw kdyvywqted rktlkkinsl iedicrngne gigkpepltg nltgfwsrri
+       61 ndkdriiyki ddtnvyilac kyhysdr
+//
+

@@ -1,0 +1,1499 @@
+LOCUS       WP_016318032             128 aa            linear   BCT 26-AUG-2016
+DEFINITION  HicB family protein [Anaerotruncus sp. G3(2012)].
+ACCESSION   WP_016318032
+VERSION     WP_016318032.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerotruncus sp. G3(2012)
+  ORGANISM  Anaerotruncus sp. G3(2012)
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Anaerotruncus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..128
+                     /organism="Anaerotruncus sp. G3(2012)"
+                     /db_xref="taxon:1235835"
+     Protein         1..128
+                     /product="HicB family protein"
+                     /calculated_mol_wt=13725
+     Region          3..61
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+ORIGIN      
+        1 mhytytavit pgegkyyacv pdipgcittg rdiedavsqi tdalsgclvv wedqnlpips
+       61 atpqpgvshg qddiltlvsv dtiayraqtd travrknvsi pawmaamaer kgincskvlq
+      121 daliqqfs
+//
+
+LOCUS       WP_016318037             129 aa            linear   BCT 26-AUG-2016
+DEFINITION  HicB family protein [Anaerotruncus sp. G3(2012)].
+ACCESSION   WP_016318037
+VERSION     WP_016318037.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerotruncus sp. G3(2012)
+  ORGANISM  Anaerotruncus sp. G3(2012)
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Anaerotruncus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..129
+                     /organism="Anaerotruncus sp. G3(2012)"
+                     /db_xref="taxon:1235835"
+     Protein         1..129
+                     /product="HicB family protein"
+                     /calculated_mol_wt=14262
+     Region          2..67
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+     Region          5..121
+                     /region_name="HicB_lk_antitox"
+                     /note="HicB_like antitoxin of bacterial toxin-antitoxin
+                     system; pfam15919"
+                     /db_xref="CDD:292541"
+ORIGIN      
+        1 mkyaypaift piedgmfdvk vpdlpgcrtf gtnladavfm aedaasmwlw daenkkepip
+       61 aatevpqves pqfvsivaad tdeyrrrnds ravkktltlp swlnaraeqa gvnfsqvlqe
+      121 alkerlgvq
+//
+
+LOCUS       WP_006873932              84 aa            linear   BCT 25-MAY-2013
+DEFINITION  AbrB family transcriptional regulator [Anaerotruncus colihominis].
+ACCESSION   WP_006873932
+VERSION     WP_006873932.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerotruncus colihominis
+  ORGANISM  Anaerotruncus colihominis
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Anaerotruncus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..84
+                     /organism="Anaerotruncus colihominis"
+                     /db_xref="taxon:169435"
+     Protein         1..84
+                     /product="AbrB family transcriptional regulator"
+                     /calculated_mol_wt=9141
+     Region          6..49
+                     /region_name="SpoVT_AbrB"
+                     /note="SpoVT / AbrB like domain; smart00966"
+                     /db_xref="CDD:198034"
+ORIGIN      
+        1 mrniskrmgk rgaltipqhl rhelglqggd avdlaptgdg glvirkhrpt cnichgtcev
+       61 vtfkgfqicr ecfqgireev gkld
+//
+
+LOCUS       WP_006874461             179 aa            linear   BCT 04-DEC-2014
+DEFINITION  stage V sporulation protein T [Anaerotruncus colihominis].
+ACCESSION   WP_006874461
+VERSION     WP_006874461.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerotruncus colihominis
+  ORGANISM  Anaerotruncus colihominis
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Anaerotruncus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..179
+                     /organism="Anaerotruncus colihominis"
+                     /db_xref="taxon:169435"
+     Protein         1..179
+                     /product="stage V sporulation protein T"
+                     /calculated_mol_wt=19467
+     Region          1..>55
+                     /region_name="AbrB"
+                     /note="Bifunctional DNA-binding transcriptional regulator
+                     of stationary/sporulation/toxin gene expression and
+                     antitoxin component of the YhaV-PrlF toxin-antitoxin
+                     module [Transcription, Defense mechanisms]; COG2002"
+                     /db_xref="CDD:224913"
+     Region          2..178
+                     /region_name="spore_V_T"
+                     /note="stage V sporulation protein T; TIGR02851"
+                     /db_xref="CDD:131898"
+     Region          54..178
+                     /region_name="SpoVT_C"
+                     /note="Stage V sporulation protein T C-terminal,
+                     transcription factor; pfam15714"
+                     /db_xref="CDD:292342"
+ORIGIN      
+        1 mkatgivrri ddlgrvvipk eirrtmrire gdpleiytdn dgqvifkkys pigelsafag
+       61 qyaevlskta gypvivcdrd hvisvagvpk kelierrvsp aleemmeqrr sfavtadgkk
+      121 mqpvegvdry alaqapivaa gdvcgslmfl agdspapate teikliqaga sflgrqmee
+//
+
+LOCUS       WP_016315328              83 aa            linear   BCT 07-JUN-2013
+DEFINITION  transition state regulatory protein AbrB [Anaerotruncus sp.
+            G3(2012)].
+ACCESSION   WP_016315328
+VERSION     WP_016315328.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerotruncus sp. G3(2012)
+  ORGANISM  Anaerotruncus sp. G3(2012)
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Anaerotruncus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..83
+                     /organism="Anaerotruncus sp. G3(2012)"
+                     /db_xref="taxon:1235835"
+     Protein         1..83
+                     /product="transition state regulatory protein AbrB"
+                     /calculated_mol_wt=9186
+     Region          1..>69
+                     /region_name="AbrB"
+                     /note="Bifunctional DNA-binding transcriptional regulator
+                     of stationary/sporulation/toxin gene expression and
+                     antitoxin component of the YhaV-PrlF toxin-antitoxin
+                     module [Transcription, Defense mechanisms]; COG2002"
+                     /db_xref="CDD:224913"
+ORIGIN      
+        1 mkstgivrkv delgrivlpi elrrtldine kdsleiyvdg shiilkkyep acifcnsand
+       61 iinfkgknvc secaksmsea rqg
+//
+
+LOCUS       WP_016317966             179 aa            linear   BCT 07-JUN-2013
+DEFINITION  stage V sporulation protein T [Anaerotruncus sp. G3(2012)].
+ACCESSION   WP_016317966
+VERSION     WP_016317966.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerotruncus sp. G3(2012)
+  ORGANISM  Anaerotruncus sp. G3(2012)
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Anaerotruncus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..179
+                     /organism="Anaerotruncus sp. G3(2012)"
+                     /db_xref="taxon:1235835"
+     Protein         1..179
+                     /product="stage V sporulation protein T"
+                     /calculated_mol_wt=19597
+     Region          1..>55
+                     /region_name="AbrB"
+                     /note="Bifunctional DNA-binding transcriptional regulator
+                     of stationary/sporulation/toxin gene expression and
+                     antitoxin component of the YhaV-PrlF toxin-antitoxin
+                     module [Transcription, Defense mechanisms]; COG2002"
+                     /db_xref="CDD:224913"
+     Region          2..178
+                     /region_name="spore_V_T"
+                     /note="stage V sporulation protein T; TIGR02851"
+                     /db_xref="CDD:131898"
+     Region          54..178
+                     /region_name="SpoVT_C"
+                     /note="Stage V sporulation protein T C-terminal,
+                     transcription factor; pfam15714"
+                     /db_xref="CDD:292342"
+ORIGIN      
+        1 mkatgivrri ddlgrvvipk eirrtmrire gdpleiytdn dgevifkkys pigelsafas
+       61 qyaevlhkvg gypvvvcdrd hvisvagipk kellerrvsp aleevmeqrr nfavsgdgkk
+      121 mqpvegvdrf alveapiiaa gdvcgslmfi agdnptpatd teikliqvga sflgrqmee
+//
+
+LOCUS       CDA12941                 178 aa            linear   ENV 31-MAY-2013
+DEFINITION  putative stage V sporulation protein T [Anaerotruncus sp. CAG:528].
+ACCESSION   CDA12941
+VERSION     CDA12941.1
+DBSOURCE    embl accession CBBE010000041.1
+KEYWORDS    ENV.
+SOURCE      Anaerotruncus sp. CAG:528
+  ORGANISM  Anaerotruncus sp. CAG:528
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Anaerotruncus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..178
+                     /organism="Anaerotruncus sp. CAG:528"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262700"
+                     /environmental_sample
+                     /note="contig 46"
+     Protein         1..178
+                     /product="putative stage V sporulation protein T"
+     Region          1..>58
+                     /region_name="AbrB"
+                     /note="Bifunctional DNA-binding transcriptional regulator
+                     of stationary/sporulation/toxin gene expression and
+                     antitoxin component of the YhaV-PrlF toxin-antitoxin
+                     module [Transcription, Defense mechanisms]; COG2002"
+                     /db_xref="CDD:224913"
+     Region          2..178
+                     /region_name="spore_V_T"
+                     /note="stage V sporulation protein T; TIGR02851"
+                     /db_xref="CDD:131898"
+     Region          54..178
+                     /region_name="SpoVT_C"
+                     /note="Stage V sporulation protein T C-terminal,
+                     transcription factor; pfam15714"
+                     /db_xref="CDD:292342"
+     CDS             1..178
+                     /locus_tag="BN695_01192"
+                     /coded_by="complement(CBBE010000041.1:1857..2393)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mkatgivrri ddlgrivipk eirrsfrire gdpleiftda egevifkkys pigelsnfag
+       61 qyaevlhkng glpiaimdnd hviaasgmsk revlerritk nleelmenrs vhittrdvpp
+      121 mnaieglqrk anvvypivyg gdvsgavalm qgdenhipte teiklvqvaa aflgkqme
+//
+
+LOCUS       CDE05029                  81 aa            linear   ENV 31-MAY-2013
+DEFINITION  transcriptional regulator AbrB family [Anaerotruncus sp. CAG:390].
+ACCESSION   CDE05029
+VERSION     CDE05029.1
+DBSOURCE    embl accession CBID010000173.1
+KEYWORDS    ENV.
+SOURCE      Anaerotruncus sp. CAG:390
+  ORGANISM  Anaerotruncus sp. CAG:390
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Anaerotruncus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..81
+                     /organism="Anaerotruncus sp. CAG:390"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262703"
+                     /environmental_sample
+                     /note="contig 254"
+     Protein         1..81
+                     /product="transcriptional regulator AbrB family"
+     Region          1..>57
+                     /region_name="AbrB"
+                     /note="Bifunctional DNA-binding transcriptional regulator
+                     of stationary/sporulation/toxin gene expression and
+                     antitoxin component of the YhaV-PrlF toxin-antitoxin
+                     module [Transcription, Defense mechanisms]; COG2002"
+                     /db_xref="CDD:224913"
+     CDS             1..81
+                     /locus_tag="BN640_01326"
+                     /coded_by="CBID010000173.1:20..265"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mkstgivrkv delgrivlpm elrkmldlnv kdpveifvdd eriilqkyyp acifcgdadd
+       61 ivyyngkric akclanlksk y
+//
+
+LOCUS       WP_024729768              85 aa            linear   BCT 24-JAN-2015
+DEFINITION  AbrB family transcriptional regulator [Anaerotruncus colihominis].
+ACCESSION   WP_024729768
+VERSION     WP_024729768.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerotruncus colihominis
+  ORGANISM  Anaerotruncus colihominis
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Anaerotruncus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..85
+                     /organism="Anaerotruncus colihominis"
+                     /db_xref="taxon:169435"
+     Protein         1..85
+                     /product="AbrB family transcriptional regulator"
+                     /calculated_mol_wt=9499
+     Region          1..>51
+                     /region_name="AbrB"
+                     /note="Bifunctional DNA-binding transcriptional regulator
+                     of stationary/sporulation/toxin gene expression and
+                     antitoxin component of the YhaV-PrlF toxin-antitoxin
+                     module [Transcription, Defense mechanisms]; COG2002"
+                     /db_xref="CDD:224913"
+ORIGIN      
+        1 mkstgivrkv delgrivlpi elrrtldine kdsleiyvdg shiilkkyep acifcnsasn
+       61 vvnfkgrnvc aecikelfda nskke
+//
+
+LOCUS       WP_040341999              81 aa            linear   BCT 23-JAN-2015
+DEFINITION  AbrB family transcriptional regulator [Anaerotruncus colihominis].
+ACCESSION   WP_040341999
+VERSION     WP_040341999.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerotruncus colihominis
+  ORGANISM  Anaerotruncus colihominis
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Anaerotruncus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..81
+                     /organism="Anaerotruncus colihominis"
+                     /db_xref="taxon:169435"
+     Protein         1..81
+                     /product="AbrB family transcriptional regulator"
+                     /calculated_mol_wt=8902
+     Region          1..>54
+                     /region_name="AbrB"
+                     /note="Bifunctional DNA-binding transcriptional regulator
+                     of stationary/sporulation/toxin gene expression and
+                     antitoxin component of the YhaV-PrlF toxin-antitoxin
+                     module [Transcription, Defense mechanisms]; COG2002"
+                     /db_xref="CDD:224913"
+ORIGIN      
+        1 mkavgivrri dhlgrlvipk efrrtlgine ndpmeilvtd dgilarpykq gciccgsted
+       61 lvnfkdvslc gncihafaer s
+//
+
+LOCUS       WP_006876406             139 aa            linear   BCT 17-SEP-2015
+DEFINITION  division/cell wall cluster transcriptional repressor MraZ
+            [Anaerotruncus colihominis].
+ACCESSION   WP_006876406
+VERSION     WP_006876406.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerotruncus colihominis
+  ORGANISM  Anaerotruncus colihominis
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Anaerotruncus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..139
+                     /organism="Anaerotruncus colihominis"
+                     /db_xref="taxon:169435"
+     Protein         1..139
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=15537
+     Region          1..137
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          3..59
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(3..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..123
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(72,74,102,109,118..119,122)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          80..84
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mltgqyahnl dakgrvnfpa rlreelgdrf vvtrgldncl fvysmeewer laaklrelpi
+       61 sksaplnrff fagaaevepd rqgrvvlpah lreyaglerd vtiagvsnra eiwdtarwea
+      121 qnelltseai agamddlgf
+//
+
+LOCUS       WP_016316147             139 aa            linear   BCT 17-SEP-2015
+DEFINITION  division/cell wall cluster transcriptional repressor MraZ
+            [Anaerotruncus sp. G3(2012)].
+ACCESSION   WP_016316147
+VERSION     WP_016316147.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerotruncus sp. G3(2012)
+  ORGANISM  Anaerotruncus sp. G3(2012)
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Anaerotruncus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..139
+                     /organism="Anaerotruncus sp. G3(2012)"
+                     /db_xref="taxon:1235835"
+     Protein         1..139
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=15632
+     Region          1..137
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          3..59
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(3..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..123
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(72,74,102,109,118..119,122)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          80..84
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mltgqyshnl dpkgrisfpa rlreelgerf mvtrgldncl fvysmeewel laaklrelpi
+       61 sksaplnrff fsgaaevepd kqgrvllpah lreyaglekd vtiagvfnra eiwdtarweq
+      121 nnalltsesi aaamdelgf
+//
+
+LOCUS       CDA12191                 170 aa            linear   ENV 31-MAY-2013
+DEFINITION  protein MraZ [Anaerotruncus sp. CAG:528].
+ACCESSION   CDA12191
+VERSION     CDA12191.1
+DBSOURCE    embl accession CBBE010000014.1
+KEYWORDS    ENV.
+SOURCE      Anaerotruncus sp. CAG:528
+  ORGANISM  Anaerotruncus sp. CAG:528
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Anaerotruncus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..170
+                     /organism="Anaerotruncus sp. CAG:528"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262700"
+                     /environmental_sample
+                     /note="contig 21"
+     Protein         1..170
+                     /product="protein MraZ"
+     Region          3..137
+                     /region_name="MraZ"
+                     /note="MraZ, DNA-binding transcriptional regulator and
+                     inhibitor of RsmH methyltransferase activity [Translation,
+                     ribosomal structure and biogenesis]; COG2001"
+                     /db_xref="CDD:224912"
+     Region          5..62
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(5..6,36,44,53..54,57)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          13..17
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          75..130
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(77,79,109,116,125..126,129)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          85..89
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+     CDS             1..170
+                     /locus_tag="BN695_00520"
+                     /coded_by="CBBE010000014.1:155972..156484"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mlfvgtyeny kldgkgrlsv pvkwrerlgr dfymvavtvk gckcitlypi eefektysqm
+       61 qrgtenqkya tskdflrnae ecsmdaqgrl tlnqrlkkla lleneseivf egngetieiw
+      121 npqefkkmde tfdsslgiyd lmdkvnesrg nneepsketd gdveksened
+//
+
+LOCUS       CDE05450                 155 aa            linear   ENV 31-MAY-2013
+DEFINITION  protein MraZ [Anaerotruncus sp. CAG:390].
+ACCESSION   CDE05450
+VERSION     CDE05450.1
+DBSOURCE    embl accession CBID010000235.1
+KEYWORDS    ENV.
+SOURCE      Anaerotruncus sp. CAG:390
+  ORGANISM  Anaerotruncus sp. CAG:390
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Anaerotruncus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..155
+                     /organism="Anaerotruncus sp. CAG:390"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262703"
+                     /environmental_sample
+                     /note="contig 31"
+     Protein         1..155
+                     /product="protein MraZ"
+     Region          17..139
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          17..74
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(17..19,45,54,63..64,67)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          25..29
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          80..139
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(87,89,118,125,134..135,138)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          95..99
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+     CDS             1..155
+                     /locus_tag="BN640_00219"
+                     /coded_by="complement(CBID010000235.1:1603..2070)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mdeetkgtaa eqqlplmgvf hhnvdgknrl fipakhrdil gasfiicpsi rdkslkaysl
+       61 sewnkyiapi ekldrkyqem lkrfynsnaa avtpdsqgrv vltpelvefa glkssgaviv
+      121 gcgnyseiws ednyraeqet vnmadllsvi esqgl
+//
+
+LOCUS       EDS09406                 104 aa            linear   BCT 04-AUG-2012
+DEFINITION  prevent-host-death family protein [Anaerotruncus colihominis DSM
+            17241].
+ACCESSION   EDS09406
+VERSION     EDS09406.1
+DBLINK      BioProject: PRJNA19659
+            BioSample: SAMN00000003
+DBSOURCE    accession ABGD02000030.1
+KEYWORDS    .
+SOURCE      Anaerotruncus colihominis DSM 17241
+  ORGANISM  Anaerotruncus colihominis DSM 17241
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Anaerotruncus.
+REFERENCE   1  (residues 1 to 104)
+  AUTHORS   Sudarsanam,P., Ley,R., Guruge,J., Turnbaugh,P.J., Mahowald,M.,
+            Liep,D. and Gordon,J.
+  TITLE     Draft genome sequence of Anaerotruncus colihominis(DSM 17241)
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 104)
+  AUTHORS   Fulton,L., Clifton,S., Fulton,B., Xu,J., Minx,P., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-OCT-2007) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+REFERENCE   3  (residues 1 to 104)
+  AUTHORS   Fulton,L., Clifton,S., Fulton,B., Xu,J., Minx,P., Pepin,K.H.,
+            Johnson,M., Thiruvilangam,P., Bhonagiri,V., Nash,W.E., Mardis,E.R.
+            and Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-NOV-2007) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+COMMENT     Anaerotruncus colihominis (GenBank Accession Number for 16S rDNA
+            gene: AJ315980) is a member of the Firmicutes division of the
+            domain bacteria and has been isolated from human feces. It has been
+            found in 16S rDNA sequence-based enumerations of the colonic
+            microbiota of adult humans (Eckburg et. al. (2005), Ley et. al.
+            (2006)). The sequenced strain was obtained from from Deutsche
+            Sammlung von Mikroorganismen und Zellkulturen GmbH (DSMZ) (DSM
+            17241).
+            
+            We have collected 6X coverage in plasmid end reads and 454 reads.
+            We have performed one round of automated sequence
+            improvement(pre-finishing), along with manual improvement that
+            includes breaking apart any mis-assembly, and making manual joins
+            where possible. Manual edits also are made where the consensus
+            appears to be incorrect. All low quality data on the ends of
+            contigs is removed. Contigs are ordered and oriented where
+            possible.
+            
+            Sequencing/Assembly: The genomic DNA was purified from liquid
+            culture derived from a single bacterial colony. A hybrid sequencing
+            strategy that utilized reads from both 454 GS-20 and ABI 3730xl
+            sequencers was devised and implemented to generate the draft genome
+            sequences. 454 reads were assembled using Newbler (454 Life
+            Sciences) into 454 de novo contigs. These de novo contigs were
+            converted in silico to 800 base paired reads ('superreads') with
+            400 base overlaps with neighboring superreads.  Finally, PCAP
+            (Huang, et al, Genome Research, 13:2164, (2003)) was used to
+            assemble the super-reads and the conventional 3730xl capillary
+            reads.
+            
+            This sequenced strain is part of a comprehensive, sequence-based
+            survey of members of the normal human gut microbiota.  A joint
+            effort of the WU-GSC and the Center for Genome Sciences at
+            Washington University School of Medicine, the purpose of this
+            survey is to provide the general scientific community with a broad
+            view of the gene content of 100 representatives of the major
+            divisions represented in the intestine's microbial community.
+            
+            Coding sequences were predicted using GeneMark v3.3 and Glimmer2
+            v2.13. Intergenic regions not spanned by GeneMark and Glimmer2 were
+            blasted against NCBI's non-redundant (NR) database and predictions
+            generated based on protein alignments. tRNA genes were determined
+            using tRNAscan-SE 1.23 and non-coding RNA genes by RNAmmer-1.2 and
+            Rfam v8.0. Gene names are generated at the contig level and may not
+            necessarily reflect any known order or orientation between contigs.
+            This information should provide a frame of reference for analyzing
+            metagenomic studies of the human gut microbiome. Further details of
+            this effort are described in a white paper entitled 'Extending Our
+            View of Self: the Human Gut Microbiome Initiative (HGMI)'
+            (http://www.genome.gov/Pages/Research/Sequencing/SeqProposals/HGMIS
+            eq.pdf). These studies are supported by National Human Genome
+            Research Institute.
+            
+            For answers to your questions regarding this assembly or project,
+            or any other GSC genome project, please visit our Genome Groups web
+            page (http://genome.wustl.edu/genome_group_index.cgi) and email the
+            designated contact person.
+            
+            Annotation was added to the contigs in February 2008.
+            
+            This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Product names were updated in August 2012.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..104
+                     /organism="Anaerotruncus colihominis DSM 17241"
+                     /strain="DSM 17241"
+                     /db_xref="taxon:445972"
+     Protein         1..104
+                     /product="prevent-host-death family protein"
+     Region          23..85
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+     CDS             1..104
+                     /locus_tag="ANACOL_04180"
+                     /coded_by="ABGD02000030.1:235432..235746"
+                     /inference="protein motif:HMMTigr:IPR006442"
+                     /note="Psort location: Cytoplasmic, score: 8.87"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR006442"
+ORIGIN      
+        1 mllnftadrg ilrarkglnt mpnikpisdl rnytevlhdv avgapvfltk ngrgryaivd
+       61 mqdyertqat lrlmnelakg rksgeekgwl tleavekhlg iade
+//
+
+LOCUS       WP_016316018              88 aa            linear   BCT 07-JUN-2013
+DEFINITION  prevent-host-death family protein [Anaerotruncus sp. G3(2012)].
+ACCESSION   WP_016316018
+VERSION     WP_016316018.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerotruncus sp. G3(2012)
+  ORGANISM  Anaerotruncus sp. G3(2012)
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Anaerotruncus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..88
+                     /organism="Anaerotruncus sp. G3(2012)"
+                     /db_xref="taxon:1235835"
+     Protein         1..88
+                     /product="prevent-host-death family protein"
+                     /calculated_mol_wt=9927
+     Region          1..65
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+ORIGIN      
+        1 mlikssttlr ndydslvkls kesgepiyit rngegemifl siedyekrea elklleqllt
+       61 aernrlagap tyttgqvrae ledlyeqa
+//
+
+LOCUS       WP_016317871              60 aa            linear   BCT 07-JUN-2013
+DEFINITION  RelB/DinJ family addiction module antitoxin [Anaerotruncus sp.
+            G3(2012)].
+ACCESSION   WP_016317871
+VERSION     WP_016317871.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerotruncus sp. G3(2012)
+  ORGANISM  Anaerotruncus sp. G3(2012)
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Anaerotruncus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..60
+                     /organism="Anaerotruncus sp. G3(2012)"
+                     /db_xref="taxon:1235835"
+     Protein         1..60
+                     /product="RelB/DinJ family addiction module antitoxin"
+                     /calculated_mol_wt=6635
+     Region          1..>53
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 maqttlsarm deevkrqfda fcasvglnas vavnlfvkav lrerripfei ssdpfdteee
+//
+
+LOCUS       CDE06393                 133 aa            linear   ENV 31-MAY-2013
+DEFINITION  putative uncharacterized protein [Anaerotruncus sp. CAG:390].
+ACCESSION   CDE06393
+VERSION     CDE06393.1
+DBSOURCE    embl accession CBID010000406.1
+KEYWORDS    ENV.
+SOURCE      Anaerotruncus sp. CAG:390
+  ORGANISM  Anaerotruncus sp. CAG:390
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Anaerotruncus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..133
+                     /organism="Anaerotruncus sp. CAG:390"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262703"
+                     /environmental_sample
+                     /note="contig 65"
+     Protein         1..133
+                     /product="putative uncharacterized protein"
+     CDS             1..133
+                     /locus_tag="BN640_00355"
+                     /coded_by="CBID010000406.1:13355..13756"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mkeankagcr avrkrqnrve vylndeelkl ldelsgfchh drsktirqli rlkvpvqapp
+       61 mevteltrql ravgnnlnql aakahaldyv depvyrdnai tvfrlcgeir eafakggvdl
+      121 gchknmagkk ssr
+//
+
+LOCUS       WP_016318031              70 aa            linear   BCT 19-MAY-2016
+DEFINITION  addiction module toxin, HicA family [Anaerotruncus sp. G3(2012)].
+ACCESSION   WP_016318031
+VERSION     WP_016318031.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerotruncus sp. G3(2012)
+  ORGANISM  Anaerotruncus sp. G3(2012)
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Anaerotruncus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..70
+                     /organism="Anaerotruncus sp. G3(2012)"
+                     /db_xref="taxon:1235835"
+     Protein         1..70
+                     /product="addiction module toxin, HicA family"
+                     /calculated_mol_wt=8225
+     Region          5..57
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; pfam07927"
+                     /db_xref="CDD:285205"
+ORIGIN      
+        1 mnprketirl leahgfllar hggnhdiyfh petrltipvk rhdfdeddmr yilkeakidk
+       61 nqmgkrkgkk
+//
+
+LOCUS       WP_016318036              59 aa            linear   BCT 19-MAY-2016
+DEFINITION  addiction module toxin, HicA family [Anaerotruncus sp. G3(2012)].
+ACCESSION   WP_016318036
+VERSION     WP_016318036.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerotruncus sp. G3(2012)
+  ORGANISM  Anaerotruncus sp. G3(2012)
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Anaerotruncus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..59
+                     /organism="Anaerotruncus sp. G3(2012)"
+                     /db_xref="taxon:1235835"
+     Protein         1..59
+                     /product="addiction module toxin, HicA family"
+                     /calculated_mol_wt=6375
+     Region          4..57
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; pfam07927"
+                     /db_xref="CDD:285205"
+ORIGIN      
+        1 mkrkdidkal kkagwiishg gshdlathpq kpgikiaipr hkevpeftar giledaglk
+//
+
+LOCUS       WP_006875101              82 aa            linear   BCT 25-MAY-2013
+DEFINITION  plasmid stabilization protein [Anaerotruncus colihominis].
+ACCESSION   WP_006875101
+VERSION     WP_006875101.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerotruncus colihominis
+  ORGANISM  Anaerotruncus colihominis
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Anaerotruncus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..82
+                     /organism="Anaerotruncus colihominis"
+                     /db_xref="taxon:169435"
+     Protein         1..82
+                     /product="plasmid stabilization protein"
+                     /calculated_mol_wt=9439
+     Region          1..82
+                     /region_name="RelE"
+                     /note="mRNA-degrading endonuclease RelE, toxin component
+                     of the RelBE toxin-antitoxin system [Defense mechanisms];
+                     COG2026"
+                     /db_xref="CDD:224937"
+ORIGIN      
+        1 msykiviekp amkflqkqqq syrdriikai qalpntgdik qmagysnlyr lrvgsfrily
+       61 tiendvlvvr vmnignrgdv yk
+//
+
+LOCUS       WP_006877030             111 aa            linear   BCT 04-JUN-2013
+DEFINITION  hypothetical protein [Anaerotruncus colihominis].
+ACCESSION   WP_006877030
+VERSION     WP_006877030.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerotruncus colihominis
+  ORGANISM  Anaerotruncus colihominis
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Anaerotruncus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..111
+                     /organism="Anaerotruncus colihominis"
+                     /db_xref="taxon:169435"
+     Protein         1..111
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=12544
+     Region          1..101
+                     /region_name="ParE"
+                     /note="Plasmid stabilization system protein ParE
+                     [Mobilome: prophages, transposons]; COG3668"
+                     /db_xref="CDD:226194"
+ORIGIN      
+        1 mnnlhlsdea qadlagiksy iaknlenpsa aistvrnitk dirrlrehsl igaslssiad
+       61 iesdyrflvt gsyltfyrvl dndvyvdrvl ygrrdylril fgdvqddetn e
+//
+
+LOCUS       WP_016316019             104 aa            linear   BCT 07-JUN-2013
+DEFINITION  hypothetical protein [Anaerotruncus sp. G3(2012)].
+ACCESSION   WP_016316019
+VERSION     WP_016316019.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerotruncus sp. G3(2012)
+  ORGANISM  Anaerotruncus sp. G3(2012)
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Anaerotruncus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..104
+                     /organism="Anaerotruncus sp. G3(2012)"
+                     /db_xref="taxon:1235835"
+     Protein         1..104
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=11870
+     Region          6..95
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; pfam05016"
+                     /db_xref="CDD:282823"
+ORIGIN      
+        1 mskhkvqllt earlqlrdia ayhllnvgpq sarkitdril daidkledfp emgtklpgkr
+       61 ldgyrmlvvg rylcfyhidg ntvyvshivh sstdyikklf penl
+//
+
+LOCUS       EDS11749                 159 aa            linear   BCT 04-AUG-2012
+DEFINITION  toxin-antitoxin system, toxin component, MazF family [Anaerotruncus
+            colihominis DSM 17241].
+ACCESSION   EDS11749
+VERSION     EDS11749.1
+DBLINK      BioProject: PRJNA19659
+            BioSample: SAMN00000003
+DBSOURCE    accession ABGD02000012.1
+KEYWORDS    .
+SOURCE      Anaerotruncus colihominis DSM 17241
+  ORGANISM  Anaerotruncus colihominis DSM 17241
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Anaerotruncus.
+REFERENCE   1  (residues 1 to 159)
+  AUTHORS   Sudarsanam,P., Ley,R., Guruge,J., Turnbaugh,P.J., Mahowald,M.,
+            Liep,D. and Gordon,J.
+  TITLE     Draft genome sequence of Anaerotruncus colihominis(DSM 17241)
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 159)
+  AUTHORS   Fulton,L., Clifton,S., Fulton,B., Xu,J., Minx,P., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-OCT-2007) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+REFERENCE   3  (residues 1 to 159)
+  AUTHORS   Fulton,L., Clifton,S., Fulton,B., Xu,J., Minx,P., Pepin,K.H.,
+            Johnson,M., Thiruvilangam,P., Bhonagiri,V., Nash,W.E., Mardis,E.R.
+            and Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-NOV-2007) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+COMMENT     Anaerotruncus colihominis (GenBank Accession Number for 16S rDNA
+            gene: AJ315980) is a member of the Firmicutes division of the
+            domain bacteria and has been isolated from human feces. It has been
+            found in 16S rDNA sequence-based enumerations of the colonic
+            microbiota of adult humans (Eckburg et. al. (2005), Ley et. al.
+            (2006)). The sequenced strain was obtained from from Deutsche
+            Sammlung von Mikroorganismen und Zellkulturen GmbH (DSMZ) (DSM
+            17241).
+            
+            We have collected 6X coverage in plasmid end reads and 454 reads.
+            We have performed one round of automated sequence
+            improvement(pre-finishing), along with manual improvement that
+            includes breaking apart any mis-assembly, and making manual joins
+            where possible. Manual edits also are made where the consensus
+            appears to be incorrect. All low quality data on the ends of
+            contigs is removed. Contigs are ordered and oriented where
+            possible.
+            
+            Sequencing/Assembly: The genomic DNA was purified from liquid
+            culture derived from a single bacterial colony. A hybrid sequencing
+            strategy that utilized reads from both 454 GS-20 and ABI 3730xl
+            sequencers was devised and implemented to generate the draft genome
+            sequences. 454 reads were assembled using Newbler (454 Life
+            Sciences) into 454 de novo contigs. These de novo contigs were
+            converted in silico to 800 base paired reads ('superreads') with
+            400 base overlaps with neighboring superreads.  Finally, PCAP
+            (Huang, et al, Genome Research, 13:2164, (2003)) was used to
+            assemble the super-reads and the conventional 3730xl capillary
+            reads.
+            
+            This sequenced strain is part of a comprehensive, sequence-based
+            survey of members of the normal human gut microbiota.  A joint
+            effort of the WU-GSC and the Center for Genome Sciences at
+            Washington University School of Medicine, the purpose of this
+            survey is to provide the general scientific community with a broad
+            view of the gene content of 100 representatives of the major
+            divisions represented in the intestine's microbial community.
+            
+            Coding sequences were predicted using GeneMark v3.3 and Glimmer2
+            v2.13. Intergenic regions not spanned by GeneMark and Glimmer2 were
+            blasted against NCBI's non-redundant (NR) database and predictions
+            generated based on protein alignments. tRNA genes were determined
+            using tRNAscan-SE 1.23 and non-coding RNA genes by RNAmmer-1.2 and
+            Rfam v8.0. Gene names are generated at the contig level and may not
+            necessarily reflect any known order or orientation between contigs.
+            This information should provide a frame of reference for analyzing
+            metagenomic studies of the human gut microbiome. Further details of
+            this effort are described in a white paper entitled 'Extending Our
+            View of Self: the Human Gut Microbiome Initiative (HGMI)'
+            (http://www.genome.gov/Pages/Research/Sequencing/SeqProposals/HGMIS
+            eq.pdf). These studies are supported by National Human Genome
+            Research Institute.
+            
+            For answers to your questions regarding this assembly or project,
+            or any other GSC genome project, please visit our Genome Groups web
+            page (http://genome.wustl.edu/genome_group_index.cgi) and email the
+            designated contact person.
+            
+            Annotation was added to the contigs in February 2008.
+            
+            This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Product names were updated in August 2012.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..159
+                     /organism="Anaerotruncus colihominis DSM 17241"
+                     /strain="DSM 17241"
+                     /db_xref="taxon:445972"
+     Protein         1..159
+                     /product="toxin-antitoxin system, toxin component, MazF
+                     family"
+     Region          40..147
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+     CDS             1..159
+                     /locus_tag="ANACOL_01640"
+                     /coded_by="complement(ABGD02000012.1:171764..172243)"
+                     /inference="protein motif:Gene3D:IPR011067"
+                     /inference="protein motif:HMMPfam:IPR003477"
+                     /inference="protein motif:superfamily:IPR011067"
+                     /note="KEGG: rfe:RF_1343 3.6e-08 growth inhibitor K06180;
+                     COG: COG2337 Growth inhibitor"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR003477"
+                     /db_xref="InterPro:IPR011067"
+ORIGIN      
+        1 mhehaiyfsa aagsleslks snetalnrqs prrvinvtvk rgdiyyadls pvvgseqggv
+       61 rpvlivqndv gnrysptvia aaitsqkdks klpthieins qvcglsrdsv vlleqirtid
+      121 krrlkekmgr lddgsmgqvn halsisfgld gfgnplapt
+//
+
+LOCUS       EDS13210                 131 aa            linear   BCT 04-AUG-2012
+DEFINITION  toxin-antitoxin system, toxin component, MazF family, partial
+            [Anaerotruncus colihominis DSM 17241].
+ACCESSION   EDS13210
+VERSION     EDS13210.1
+DBLINK      BioProject: PRJNA19659
+            BioSample: SAMN00000003
+DBSOURCE    accession ABGD02000003.1
+KEYWORDS    .
+SOURCE      Anaerotruncus colihominis DSM 17241
+  ORGANISM  Anaerotruncus colihominis DSM 17241
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Anaerotruncus.
+REFERENCE   1  (residues 1 to 131)
+  AUTHORS   Sudarsanam,P., Ley,R., Guruge,J., Turnbaugh,P.J., Mahowald,M.,
+            Liep,D. and Gordon,J.
+  TITLE     Draft genome sequence of Anaerotruncus colihominis(DSM 17241)
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 131)
+  AUTHORS   Fulton,L., Clifton,S., Fulton,B., Xu,J., Minx,P., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-OCT-2007) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+REFERENCE   3  (residues 1 to 131)
+  AUTHORS   Fulton,L., Clifton,S., Fulton,B., Xu,J., Minx,P., Pepin,K.H.,
+            Johnson,M., Thiruvilangam,P., Bhonagiri,V., Nash,W.E., Mardis,E.R.
+            and Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-NOV-2007) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+COMMENT     Anaerotruncus colihominis (GenBank Accession Number for 16S rDNA
+            gene: AJ315980) is a member of the Firmicutes division of the
+            domain bacteria and has been isolated from human feces. It has been
+            found in 16S rDNA sequence-based enumerations of the colonic
+            microbiota of adult humans (Eckburg et. al. (2005), Ley et. al.
+            (2006)). The sequenced strain was obtained from from Deutsche
+            Sammlung von Mikroorganismen und Zellkulturen GmbH (DSMZ) (DSM
+            17241).
+            
+            We have collected 6X coverage in plasmid end reads and 454 reads.
+            We have performed one round of automated sequence
+            improvement(pre-finishing), along with manual improvement that
+            includes breaking apart any mis-assembly, and making manual joins
+            where possible. Manual edits also are made where the consensus
+            appears to be incorrect. All low quality data on the ends of
+            contigs is removed. Contigs are ordered and oriented where
+            possible.
+            
+            Sequencing/Assembly: The genomic DNA was purified from liquid
+            culture derived from a single bacterial colony. A hybrid sequencing
+            strategy that utilized reads from both 454 GS-20 and ABI 3730xl
+            sequencers was devised and implemented to generate the draft genome
+            sequences. 454 reads were assembled using Newbler (454 Life
+            Sciences) into 454 de novo contigs. These de novo contigs were
+            converted in silico to 800 base paired reads ('superreads') with
+            400 base overlaps with neighboring superreads.  Finally, PCAP
+            (Huang, et al, Genome Research, 13:2164, (2003)) was used to
+            assemble the super-reads and the conventional 3730xl capillary
+            reads.
+            
+            This sequenced strain is part of a comprehensive, sequence-based
+            survey of members of the normal human gut microbiota.  A joint
+            effort of the WU-GSC and the Center for Genome Sciences at
+            Washington University School of Medicine, the purpose of this
+            survey is to provide the general scientific community with a broad
+            view of the gene content of 100 representatives of the major
+            divisions represented in the intestine's microbial community.
+            
+            Coding sequences were predicted using GeneMark v3.3 and Glimmer2
+            v2.13. Intergenic regions not spanned by GeneMark and Glimmer2 were
+            blasted against NCBI's non-redundant (NR) database and predictions
+            generated based on protein alignments. tRNA genes were determined
+            using tRNAscan-SE 1.23 and non-coding RNA genes by RNAmmer-1.2 and
+            Rfam v8.0. Gene names are generated at the contig level and may not
+            necessarily reflect any known order or orientation between contigs.
+            This information should provide a frame of reference for analyzing
+            metagenomic studies of the human gut microbiome. Further details of
+            this effort are described in a white paper entitled 'Extending Our
+            View of Self: the Human Gut Microbiome Initiative (HGMI)'
+            (http://www.genome.gov/Pages/Research/Sequencing/SeqProposals/HGMIS
+            eq.pdf). These studies are supported by National Human Genome
+            Research Institute.
+            
+            For answers to your questions regarding this assembly or project,
+            or any other GSC genome project, please visit our Genome Groups web
+            page (http://genome.wustl.edu/genome_group_index.cgi) and email the
+            designated contact person.
+            
+            Annotation was added to the contigs in February 2008.
+            
+            This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Product names were updated in August 2012.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..131
+                     /organism="Anaerotruncus colihominis DSM 17241"
+                     /strain="DSM 17241"
+                     /db_xref="taxon:445972"
+     Protein         <1..131
+                     /product="toxin-antitoxin system, toxin component, MazF
+                     family"
+     Region          18..124
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+     CDS             1..131
+                     /locus_tag="ANACOL_00225"
+                     /coded_by="complement(ABGD02000003.1:125684..>126081)"
+                     /inference="protein motif:Gene3D:IPR011067"
+                     /inference="protein motif:HMMPfam:IPR003477"
+                     /inference="protein motif:superfamily:IPR011067"
+                     /inference="similar to AA sequence:REFSEQ:YP_396224.1"
+                     /note="KEGG: rfe:RF_1343 1.1e-06 growth inhibitor K06180;
+                     COG: COG2337 Growth inhibitor;
+                     Psort location: Cytoplasmic, score: 8.87"
+                     /codon_start=3
+                     /transl_table=11
+                     /db_xref="InterPro:IPR003477"
+                     /db_xref="InterPro:IPR011067"
+ORIGIN      
+        1 yaeevysvkt ycrqeisrgd iyyadlrpvi gseqggirpv lilqnnvgnr hsptviaapi
+       61 tskmgkprlp thvclnrqan glscgsvill eqlrtidksr lrervgaldt semkqidwal
+      121 gvsvglaegy r
+//
+
+LOCUS       WP_006874591             126 aa            linear   BCT 06-JUN-2015
+DEFINITION  mRNA interferase PemK [Anaerotruncus colihominis].
+ACCESSION   WP_006874591
+VERSION     WP_006874591.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerotruncus colihominis
+  ORGANISM  Anaerotruncus colihominis
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Anaerotruncus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..126
+                     /organism="Anaerotruncus colihominis"
+                     /db_xref="taxon:169435"
+     Protein         1..126
+                     /product="mRNA interferase PemK"
+                     /calculated_mol_wt=13811
+     Region          10..117
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 metyrkedir rgdiyyadls pvvgseqggi rpvvilqnnv gnrhsptvia aaitsrkgkh
+       61 klpthvnlda pvpglyrdsi illeqlrtid ksrlrgkvgs lgedqmckld halevsvgll
+      121 plynti
+//
+
+LOCUS       WP_016316142             123 aa            linear   BCT 07-JUN-2013
+DEFINITION  mRNA interferase [Anaerotruncus sp. G3(2012)].
+ACCESSION   WP_016316142
+VERSION     WP_016316142.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerotruncus sp. G3(2012)
+  ORGANISM  Anaerotruncus sp. G3(2012)
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Anaerotruncus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..123
+                     /organism="Anaerotruncus sp. G3(2012)"
+                     /db_xref="taxon:1235835"
+     Protein         1..123
+                     /product="mRNA interferase"
+                     /calculated_mol_wt=13240
+     Region          4..111
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 mtvkrgeiyy adlspvvgse qggvrpvliv qndvgnrysp tviaaaitsq keksklpthi
+       61 einsqvcgls rdsvvlleqi rtldkkrlke kmgrlddgsm gqinqalsis fglgentgrn
+      121 pst
+//
+
+LOCUS       WP_016317156             122 aa            linear   BCT 07-JUN-2013
+DEFINITION  hypothetical protein [Anaerotruncus sp. G3(2012)].
+ACCESSION   WP_016317156
+VERSION     WP_016317156.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerotruncus sp. G3(2012)
+  ORGANISM  Anaerotruncus sp. G3(2012)
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Anaerotruncus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..122
+                     /organism="Anaerotruncus sp. G3(2012)"
+                     /db_xref="taxon:1235835"
+     Protein         1..122
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=13221
+     Region          10..117
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 mdfkrtrliq rgdiyyadls pvtgseqggi rpvlilqnnv gnhhsptvia aaitgyvkgk
+       61 rqpthvrlkg aacglfrdst vlleqvrtld ksrlgeymgs vgedkmrevd aalnisvglk
+      121 nt
+//
+
+LOCUS       CDA12791                 113 aa            linear   ENV 31-MAY-2013
+DEFINITION  toxin-antitoxin system toxin component MazF family [Anaerotruncus
+            sp. CAG:528].
+ACCESSION   CDA12791
+VERSION     CDA12791.1
+DBSOURCE    embl accession CBBE010000035.1
+KEYWORDS    ENV.
+SOURCE      Anaerotruncus sp. CAG:528
+  ORGANISM  Anaerotruncus sp. CAG:528
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Anaerotruncus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..113
+                     /organism="Anaerotruncus sp. CAG:528"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262700"
+                     /environmental_sample
+                     /note="contig 40"
+     Protein         1..113
+                     /product="toxin-antitoxin system toxin component MazF
+                     family"
+     Region          4..111
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+     CDS             1..113
+                     /locus_tag="BN695_01042"
+                     /coded_by="CBBE010000035.1:26859..27200"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mtvkrgdiyy adlspvvgse qggvrpvliv qndignkfsp tviaaaitsq kdktnlpthi
+       61 evdaghcgla kdsivlleqv rtidkrrlre kmgaldggdm gkvnealsvs fgl
+//
+
+LOCUS       CDE06293                 121 aa            linear   ENV 31-MAY-2013
+DEFINITION  transcriptional modulator of MazE/toxin MazF [Anaerotruncus sp.
+            CAG:390].
+ACCESSION   CDE06293
+VERSION     CDE06293.1
+DBSOURCE    embl accession CBID010000397.1
+KEYWORDS    ENV.
+SOURCE      Anaerotruncus sp. CAG:390
+  ORGANISM  Anaerotruncus sp. CAG:390
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Anaerotruncus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..121
+                     /organism="Anaerotruncus sp. CAG:390"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262703"
+                     /environmental_sample
+                     /note="contig 57"
+     Protein         1..121
+                     /product="transcriptional modulator of MazE/toxin MazF"
+     Region          6..112
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+     CDS             1..121
+                     /locus_tag="BN640_00320"
+                     /coded_by="CBID010000397.1:63..428"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mkgfvkrgev yyadfdptvg seqggvrpll iiqndvgnky spttvvvpit skvgkkshqp
+       61 thvpvrcegl smnsmalleq irtldksrlk srvgeldaet mkrietalli svgmkeeshg
+      121 g
+//
+
+LOCUS       CDE05825                 165 aa            linear   ENV 31-MAY-2013
+DEFINITION  growth inhibitor [Anaerotruncus sp. CAG:390].
+ACCESSION   CDE05825
+VERSION     CDE05825.1
+DBSOURCE    embl accession CBID010000323.1
+KEYWORDS    ENV.
+SOURCE      Anaerotruncus sp. CAG:390
+  ORGANISM  Anaerotruncus sp. CAG:390
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Anaerotruncus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..165
+                     /organism="Anaerotruncus sp. CAG:390"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262703"
+                     /environmental_sample
+                     /note="contig 39"
+     Protein         1..165
+                     /product="growth inhibitor"
+     Region          2..104
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+     CDS             1..165
+                     /locus_tag="BN640_00258"
+                     /coded_by="CBID010000323.1:3..500"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 myyadlgqgi gseqegyrpv viiqnnvgnk hsptviiasv tsktdakpkl pthyyinaed
+       61 glelpsivll eqlrtvdkrr lgdfighlsd khirginhal avsigliesi pkklilclcs
+      121 acadnfygsg ayslrridpq qtekdtctyc nqrtgydyei ipknr
+//
+
+LOCUS       CDE04413                 198 aa            linear   ENV 31-MAY-2013
+DEFINITION  pemK-like protein [Anaerotruncus sp. CAG:390].
+ACCESSION   CDE04413
+VERSION     CDE04413.1
+DBSOURCE    embl accession CBID010000124.1
+KEYWORDS    ENV.
+SOURCE      Anaerotruncus sp. CAG:390
+  ORGANISM  Anaerotruncus sp. CAG:390
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Anaerotruncus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..198
+                     /organism="Anaerotruncus sp. CAG:390"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262703"
+                     /environmental_sample
+                     /note="contig 21"
+     Protein         1..198
+                     /product="pemK-like protein"
+     Region          10..108
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+     CDS             1..198
+                     /locus_tag="BN640_00137"
+                     /coded_by="complement(CBID010000124.1:6365..6961)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mneekkvkyg eiyfydfgeh egsiqnglrp avviqdnkln dhgpttiiaa itsvtkklyl
+       61 pshiligeqf gltkpsmill eqvacvnqkd lgnfvgainn ekikraircg lkktfglwdy
+      121 aprgdadvrc lcpkclqdyi hsnkyivkrl dpfaaakeqc dkcdsngydy iliprkvelk
+      181 dqmcksqirt femeaane
+//
+
+LOCUS       WP_024730116             123 aa            linear   BCT 24-JAN-2015
+DEFINITION  hypothetical protein [Anaerotruncus colihominis].
+ACCESSION   WP_024730116
+VERSION     WP_024730116.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerotruncus colihominis
+  ORGANISM  Anaerotruncus colihominis
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Anaerotruncus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..123
+                     /organism="Anaerotruncus colihominis"
+                     /db_xref="taxon:169435"
+     Protein         1..123
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=13191
+     Region          4..111
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 mtvkrgdiyy adlspvvgse qggvrpvliv qndvgnrysp tviaaaitsq kdksklpthi
+       61 einsqvcgls rdsvvlleqi rtidkrrlke kmgrlddgsm gqvnhalsis fgldgfgnpl
+      121 apt
+//
+
+LOCUS       WP_024731058             123 aa            linear   BCT 13-OCT-2016
+DEFINITION  mRNA interferase PemK [Anaerotruncus colihominis].
+ACCESSION   WP_024731058
+VERSION     WP_024731058.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerotruncus colihominis
+  ORGANISM  Anaerotruncus colihominis
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Ruminococcaceae;
+            Anaerotruncus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..123
+                     /organism="Anaerotruncus colihominis"
+                     /db_xref="taxon:169435"
+     Protein         1..123
+                     /product="mRNA interferase PemK"
+                     /calculated_mol_wt=13541
+     Region          11..118
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 mnlqrktrqi qrgdiycadl spvvgseqgg nrpvlviqnn tgnhfsptvi aaaitghtkr
+       61 drqpthvrin hstcglfqns tvlleqirtl dksrlseymg rvddekmrev dtalgvsvgl
+      121 qnt
+//
+

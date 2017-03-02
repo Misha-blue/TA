@@ -1,0 +1,776 @@
+LOCUS       WP_005876140             113 aa            linear   BCT 26-MAY-2013
+DEFINITION  hypothetical protein [Oxalobacter formigenes].
+ACCESSION   WP_005876140
+VERSION     WP_005876140.1
+KEYWORDS    RefSeq.
+SOURCE      Oxalobacter formigenes
+  ORGANISM  Oxalobacter formigenes
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Oxalobacteraceae; Oxalobacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..113
+                     /organism="Oxalobacter formigenes"
+                     /db_xref="taxon:847"
+     Protein         1..113
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=12576
+     Region          33..111
+                     /region_name="BrnA_antitoxin"
+                     /note="BrnA antitoxin of type II toxin-antitoxin system;
+                     cl23863"
+                     /db_xref="CDD:305020"
+ORIGIN      
+        1 mpktvktksg raiimptpee dkvinegima dpdnpemsdd afknaklase fftpeqfaal
+       61 kekrprgrph adqpkvstsi rldadlleal ratgrgwqst vnsilrekim rdr
+//
+
+LOCUS       EEO29568                  59 aa            linear   BCT 11-MAR-2015
+DEFINITION  toxin-antitoxin system, antitoxin component, ribbon-helix-helix
+            domain protein [Oxalobacter formigenes OXCC13].
+ACCESSION   EEO29568
+VERSION     EEO29568.1
+DBLINK      BioProject: PRJNA32499
+            BioSample: SAMN02463717
+DBSOURCE    accession GG658170.1
+KEYWORDS    .
+SOURCE      Oxalobacter formigenes OXCC13
+  ORGANISM  Oxalobacter formigenes OXCC13
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Oxalobacteraceae; Oxalobacter.
+REFERENCE   1  (residues 1 to 59)
+  AUTHORS   Ward,D., Young,S.K., Kodira,C.D., Zeng,Q., Koehrsen,M.,
+            Alvarado,L., Berlin,A., Borenstein,D., Chen,Z., Engels,R.,
+            Freedman,E., Gellesch,M., Goldberg,J., Griggs,A., Gujja,S.,
+            Heiman,D., Hepburn,T., Howarth,C., Jen,D., Larson,L., Lewis,B.,
+            Mehta,T., Park,D., Pearson,M., Roberts,A., Saif,S., Shea,T.,
+            Shenoy,N., Sisk,P., Stolte,C., Sykes,S., Walk,T., White,J.,
+            Yandava,C., Allison,M.J., Lander,E., Nusbaum,C., Galagan,J. and
+            Birren,B.
+  CONSRTM   The Broad Institute Genome Sequencing Platform
+  TITLE     The Genome Sequence of Oxalobacter formigenes OXCC13
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 59)
+  AUTHORS   Ward,D., Young,S.K., Kodira,C.D., Zeng,Q., Koehrsen,M.,
+            Alvarado,L., Berlin,A., Borenstein,D., Chen,Z., Engels,R.,
+            Freedman,E., Gellesch,M., Goldberg,J., Griggs,A., Gujja,S.,
+            Heiman,D., Hepburn,T., Howarth,C., Jen,D., Larson,L., Lewis,B.,
+            Mehta,T., Park,D., Pearson,M., Roberts,A., Saif,S., Shea,T.,
+            Shenoy,N., Sisk,P., Stolte,C., Sykes,S., Walk,T., White,J.,
+            Yandava,C., Allison,M.J., Lander,E., Nusbaum,C., Galagan,J. and
+            Birren,B.
+  CONSRTM   The Broad Institute Genome Sequencing Platform
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-FEB-2009) Broad Institute of MIT and Harvard, 7
+            Cambridge Center, Cambridge, MA 02142, USA
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..59
+                     /organism="Oxalobacter formigenes OXCC13"
+                     /strain="OXCC13"
+                     /db_xref="taxon:556269"
+     Protein         1..59
+                     /product="toxin-antitoxin system, antitoxin component,
+                     ribbon-helix-helix domain protein"
+     Region          3..59
+                     /region_name="CcdA"
+                     /note="Post-segregation antitoxin CcdA; cl02188"
+                     /db_xref="CDD:295211"
+     CDS             1..59
+                     /locus_tag="OFBG_00596"
+                     /coded_by="complement(GG658170.1:749644..749823)"
+                     /transl_table=11
+ORIGIN      
+        1 mnksremkir lsreaetgim kaiaekraai wqkenekaie ssnayvekhg lppekyrmf
+//
+
+LOCUS       WP_036602725              81 aa            linear   BCT 24-DEC-2014
+DEFINITION  post-segregation antitoxin CcdA [Oxalobacter formigenes].
+ACCESSION   WP_036602725
+VERSION     WP_036602725.1
+KEYWORDS    RefSeq.
+SOURCE      Oxalobacter formigenes
+  ORGANISM  Oxalobacter formigenes
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Oxalobacteraceae; Oxalobacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..81
+                     /organism="Oxalobacter formigenes"
+                     /db_xref="taxon:847"
+     Protein         1..81
+                     /product="post-segregation antitoxin CcdA"
+                     /calculated_mol_wt=9262
+     Region          18..81
+                     /region_name="CcdA"
+                     /note="Post-segregation antitoxin CcdA; cl02188"
+                     /db_xref="CDD:295211"
+ORIGIN      
+        1 metsrssspp sknrqpelek qslnksremk irlsreaetg imkaiaekra aiwqkeneka
+       61 iessnayvek hglppekyrm f
+//
+
+LOCUS       EEO28976                 167 aa            linear   BCT 11-MAR-2015
+DEFINITION  putative toxin-antitoxin system, antitoxin component, HicB family
+            [Oxalobacter formigenes OXCC13].
+ACCESSION   EEO28976
+VERSION     EEO28976.1
+DBLINK      BioProject: PRJNA32499
+            BioSample: SAMN02463717
+DBSOURCE    accession GG658170.1
+KEYWORDS    .
+SOURCE      Oxalobacter formigenes OXCC13
+  ORGANISM  Oxalobacter formigenes OXCC13
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Oxalobacteraceae; Oxalobacter.
+REFERENCE   1  (residues 1 to 167)
+  AUTHORS   Ward,D., Young,S.K., Kodira,C.D., Zeng,Q., Koehrsen,M.,
+            Alvarado,L., Berlin,A., Borenstein,D., Chen,Z., Engels,R.,
+            Freedman,E., Gellesch,M., Goldberg,J., Griggs,A., Gujja,S.,
+            Heiman,D., Hepburn,T., Howarth,C., Jen,D., Larson,L., Lewis,B.,
+            Mehta,T., Park,D., Pearson,M., Roberts,A., Saif,S., Shea,T.,
+            Shenoy,N., Sisk,P., Stolte,C., Sykes,S., Walk,T., White,J.,
+            Yandava,C., Allison,M.J., Lander,E., Nusbaum,C., Galagan,J. and
+            Birren,B.
+  CONSRTM   The Broad Institute Genome Sequencing Platform
+  TITLE     The Genome Sequence of Oxalobacter formigenes OXCC13
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 167)
+  AUTHORS   Ward,D., Young,S.K., Kodira,C.D., Zeng,Q., Koehrsen,M.,
+            Alvarado,L., Berlin,A., Borenstein,D., Chen,Z., Engels,R.,
+            Freedman,E., Gellesch,M., Goldberg,J., Griggs,A., Gujja,S.,
+            Heiman,D., Hepburn,T., Howarth,C., Jen,D., Larson,L., Lewis,B.,
+            Mehta,T., Park,D., Pearson,M., Roberts,A., Saif,S., Shea,T.,
+            Shenoy,N., Sisk,P., Stolte,C., Sykes,S., Walk,T., White,J.,
+            Yandava,C., Allison,M.J., Lander,E., Nusbaum,C., Galagan,J. and
+            Birren,B.
+  CONSRTM   The Broad Institute Genome Sequencing Platform
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-FEB-2009) Broad Institute of MIT and Harvard, 7
+            Cambridge Center, Cambridge, MA 02142, USA
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..167
+                     /organism="Oxalobacter formigenes OXCC13"
+                     /strain="OXCC13"
+                     /db_xref="taxon:556269"
+     Protein         1..167
+                     /product="putative toxin-antitoxin system, antitoxin
+                     component, HicB family"
+     Region          1..106
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [General function prediction only]; COG4226"
+                     /db_xref="CDD:226679"
+     CDS             1..167
+                     /locus_tag="OFBG_00004"
+                     /coded_by="GG658170.1:4143..4646"
+                     /transl_table=11
+ORIGIN      
+        1 mdilkykgye gsteidmdrg vcrgkilfin dlvtyeaetp sklkvefeaa vddyidtchq
+       61 lnrdpqkslk gqfnvrvppe lhrkavrkam engvslneiv sralsehlmk kekvaekisl
+      121 iapgiekaff itmqqwkate nqffnfvqgs eislksaene eghvcyh
+//
+
+LOCUS       WP_005879655             111 aa            linear   BCT 26-MAY-2013
+DEFINITION  DNA repair protein HhH-GPD [Oxalobacter formigenes].
+ACCESSION   WP_005879655
+VERSION     WP_005879655.1
+KEYWORDS    RefSeq.
+SOURCE      Oxalobacter formigenes
+  ORGANISM  Oxalobacter formigenes
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Oxalobacteraceae; Oxalobacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..111
+                     /organism="Oxalobacter formigenes"
+                     /db_xref="taxon:847"
+     Protein         1..111
+                     /product="DNA repair protein HhH-GPD"
+                     /calculated_mol_wt=12224
+     Region          3..111
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [General function prediction only]; COG4226"
+                     /db_xref="CDD:226679"
+ORIGIN      
+        1 mnnimiidgq kaviqydpei emfrgeflgl sggadfyasd idglkkegkr sldvylemck
+       61 ekgiepyksy sgrfnirmsp elhaevaika aasgkslndl vveavaehtr h
+//
+
+LOCUS       WP_005879792             113 aa            linear   BCT 26-MAY-2013
+DEFINITION  DNA repair protein HhH-GPD [Oxalobacter formigenes].
+ACCESSION   WP_005879792
+VERSION     WP_005879792.1
+KEYWORDS    RefSeq.
+SOURCE      Oxalobacter formigenes
+  ORGANISM  Oxalobacter formigenes
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Oxalobacteraceae; Oxalobacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..113
+                     /organism="Oxalobacter formigenes"
+                     /db_xref="taxon:847"
+     Protein         1..113
+                     /product="DNA repair protein HhH-GPD"
+                     /calculated_mol_wt=12366
+     Region          8..66
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+     Region          61..106
+                     /region_name="HicB"
+                     /note="HicB family; pfam05534"
+                     /db_xref="CDD:283242"
+ORIGIN      
+        1 mdqrfdgfsv slylddegaw lahftelpdi safgqtpeaa laelaiawea mketyrdkgm
+       61 tipiaparkk ysgsfnvrid kslhralaie aaregvslna ivakklsest klh
+//
+
+LOCUS       EEO27874                 114 aa            linear   BCT 28-AUG-2013
+DEFINITION  hypothetical protein OFAG_01027 [Oxalobacter formigenes HOxBLS].
+ACCESSION   EEO27874
+VERSION     EEO27874.2
+DBLINK      BioProject: PRJNA32497
+            BioSample: SAMN02463716
+DBSOURCE    accession ACDP02000011.1
+KEYWORDS    HIGH_QUALITY_DRAFT.
+SOURCE      Oxalobacter formigenes HOxBLS
+  ORGANISM  Oxalobacter formigenes HOxBLS
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Oxalobacteraceae; Oxalobacter.
+REFERENCE   1  (residues 1 to 114)
+  AUTHORS   Earl,A., Ward,D., Feldgarden,M., Gevers,D., Allison,M.J.,
+            Humphrey,S., Young,S.K., Zeng,Q., Gargeya,S., Fitzgerald,M.,
+            Haas,B., Abouelleil,A., Alvarado,L., Arachchi,H.M., Berlin,A.,
+            Brown,A., Chapman,S.B., Chen,Z., Dunbar,C., Freedman,E., Gearin,G.,
+            Goldberg,J., Griggs,A., Gujja,S., Heiman,D., Howarth,C., Larson,L.,
+            Lui,A., MacDonald,P.J.P., Montmayeur,A., Murphy,C., Neiman,D.,
+            Pearson,M., Priest,M., Roberts,A., Saif,S., Shea,T., Shenoy,N.,
+            Sisk,P., Stolte,C., Sykes,S., Wortman,J., Nusbaum,C. and Birren,B.
+  CONSRTM   The Broad Institute Genome Sequencing Platform
+  TITLE     The Genome Sequence of Oxalobacter formigenes HOxBLS
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 114)
+  AUTHORS   Ward,D., Young,S.K., Kodira,C.D., Zeng,Q., Koehrsen,M.,
+            Alvarado,L., Berlin,A., Borenstein,D., Chen,Z., Engels,R.,
+            Freedman,E., Gellesch,M., Goldberg,J., Griggs,A., Gujja,S.,
+            Heiman,D., Hepburn,T., Howarth,C., Jen,D., Larson,L., Lewis,B.,
+            Mehta,T., Park,D., Pearson,M., Roberts,A., Saif,S., Shea,T.,
+            Shenoy,N., Sisk,P., Stolte,C., Sykes,S., Walk,T., White,J.,
+            Yandava,C., Allison,M.J., Lander,E., Nusbaum,C., Galagan,J. and
+            Birren,B.
+  CONSRTM   The Broad Institute Genome Sequencing Platform
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-FEB-2009) Broad Institute of MIT and Harvard, 7
+            Cambridge Center, Cambridge, MA 02142, USA
+REFERENCE   3  (residues 1 to 114)
+  AUTHORS   Earl,A., Ward,D., Feldgarden,M., Gevers,D., Allison,M.J.,
+            Humphrey,S., Young,S.K., Zeng,Q., Gargeya,S., Fitzgerald,M.,
+            Haas,B., Abouelleil,A., Alvarado,L., Arachchi,H.M., Berlin,A.,
+            Brown,A., Chapman,S.B., Chen,Z., Dunbar,C., Freedman,E., Gearin,G.,
+            Goldberg,J., Griggs,A., Gujja,S., Heiman,D., Howarth,C., Larson,L.,
+            Lui,A., MacDonald,P.J.P., Montmayeur,A., Murphy,C., Neiman,D.,
+            Pearson,M., Priest,M., Roberts,A., Saif,S., Shea,T., Shenoy,N.,
+            Sisk,P., Stolte,C., Sykes,S., Wortman,J., Nusbaum,C. and Birren,B.
+  CONSRTM   The Broad Institute Genome Sequencing Platform
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-OCT-2011) Broad Institute of MIT and Harvard, 7
+            Cambridge Center, Cambridge, MA 02142, USA
+COMMENT     On Aug 28, 2013 this sequence version replaced gi:229377783.
+            This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Source DNA provided by Allison, M.J. and Humphrey, S. (National
+            Animal Disease Center at Ames, Iowa, USA).
+            Bacteria provided by Allison, M.J. and Humphrey, S. (National
+            Animal Disease Center at Ames, Iowa, USA).
+            Please be aware that the annotation is done automatically with
+            little or no manual curation.
+            Gene Calling Method: Prodigal.
+            
+            ##Genome-Assembly-Data-START##
+            Finishing Goal           :: High-Quality Draft
+            Current Finishing Status :: High-Quality Draft
+            Assembly Method          :: Newbler v. 2.0.0-PostRelease-1/21/2009
+            Assembly Name            :: Oxal_for_HOxBLS_2_V2
+            Genome Coverage          :: 45.80x
+            Sequencing Technology    :: 454
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..114
+                     /organism="Oxalobacter formigenes HOxBLS"
+                     /strain="HOxBLS"
+                     /db_xref="HMP:614"
+                     /db_xref="taxon:556268"
+     Protein         1..114
+                     /product="hypothetical protein"
+     Region          9..67
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+     Region          62..100
+                     /region_name="HicB"
+                     /note="HicB family; cl23837"
+                     /db_xref="CDD:304994"
+     CDS             1..114
+                     /locus_tag="OFAG_01027"
+                     /coded_by="ACDP02000011.1:83050..83394"
+                     /transl_table=11
+ORIGIN      
+        1 mmdkrfdgfs vhlhqddega wlahfverpe isafgespet alselaiawc avkavyedrg
+       61 ipvpvapark nysgsfnvrv sktlhrslam eaarqgvsln alvaaklaka vrpf
+//
+
+LOCUS       WP_005877735              95 aa            linear   BCT 26-AUG-2016
+DEFINITION  HicB family protein [Oxalobacter formigenes].
+ACCESSION   WP_005877735
+VERSION     WP_005877735.1
+KEYWORDS    RefSeq.
+SOURCE      Oxalobacter formigenes
+  ORGANISM  Oxalobacter formigenes
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Oxalobacteraceae; Oxalobacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..95
+                     /organism="Oxalobacter formigenes"
+                     /db_xref="taxon:847"
+     Protein         1..95
+                     /product="HicB family protein"
+                     /calculated_mol_wt=10091
+     Region          1..61
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+ORIGIN      
+        1 mkyliaidpg tddtafgvvv pdlpgcfsag dtveeaidna heaaklwlet viddggtvps
+       61 aspfsalqik ddykgwiwav invdlsdypt kqsay
+//
+
+LOCUS       WP_020994706             142 aa            linear   BCT 17-SEP-2015
+DEFINITION  division/cell wall cluster transcriptional repressor MraZ
+            [Oxalobacter formigenes].
+ACCESSION   WP_020994706
+VERSION     WP_020994706.1
+KEYWORDS    RefSeq.
+SOURCE      Oxalobacter formigenes
+  ORGANISM  Oxalobacter formigenes
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Oxalobacteraceae; Oxalobacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..142
+                     /organism="Oxalobacter formigenes"
+                     /db_xref="taxon:847"
+     Protein         1..142
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=15731
+     Region          1..135
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          4..63
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(4..5,35,43,52..53,56)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          67..128
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(75,77,105,112,121..122,125)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          83..87
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mfqgassisl dakgrmvips rhrdalslqc egritltrhp hgcllffprp vwethrekia
+       61 swpmsarawq riflgsasdv emdsagrili ppelrkaael srdvmllgmg shfeiwdaak
+      121 laeneaqaia sgmpealqdf sf
+//
+
+LOCUS       WP_036603219             142 aa            linear   BCT 17-SEP-2015
+DEFINITION  division/cell wall cluster transcriptional repressor MraZ
+            [Oxalobacter formigenes].
+ACCESSION   WP_036603219
+VERSION     WP_036603219.1
+KEYWORDS    RefSeq.
+SOURCE      Oxalobacter formigenes
+  ORGANISM  Oxalobacter formigenes
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Oxalobacteraceae; Oxalobacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..142
+                     /organism="Oxalobacter formigenes"
+                     /db_xref="taxon:847"
+     Protein         1..142
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=15701
+     Region          1..135
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          4..63
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(4..5,35,43,52..53,56)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          67..128
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(75,77,105,112,121..122,125)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          83..87
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mfqgassisl dakgrmvipa rhrdalslqc dgrvtltrhp hgcllffprp vweahrekia
+       61 awpmsarawq riflgsasdv eidsagrili spelrqavgl trdvmllgmg shfeiwdasr
+      121 lqeneseaia sgmpealqdf sf
+//
+
+LOCUS       WP_020995119              83 aa            linear   BCT 03-SEP-2013
+DEFINITION  RelB/DinJ family addiction module antitoxin [Oxalobacter
+            formigenes].
+ACCESSION   WP_020995119
+VERSION     WP_020995119.1
+KEYWORDS    RefSeq.
+SOURCE      Oxalobacter formigenes
+  ORGANISM  Oxalobacter formigenes
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Oxalobacteraceae; Oxalobacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..83
+                     /organism="Oxalobacter formigenes"
+                     /db_xref="taxon:847"
+     Protein         1..83
+                     /product="RelB/DinJ family addiction module antitoxin"
+                     /calculated_mol_wt=9296
+     Region          2..78
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 manlqirldd elrnkaqeva gnmgldlasa vrmflcqmvr enalpfrpsa dpfyseanmt
+       61 rlrdslnqlq sgkasrhevf pde
+//
+
+LOCUS       WP_005876139              90 aa            linear   BCT 26-MAY-2013
+DEFINITION  hypothetical protein [Oxalobacter formigenes].
+ACCESSION   WP_005876139
+VERSION     WP_005876139.1
+KEYWORDS    RefSeq.
+SOURCE      Oxalobacter formigenes
+  ORGANISM  Oxalobacter formigenes
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Oxalobacteraceae; Oxalobacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..90
+                     /organism="Oxalobacter formigenes"
+                     /db_xref="taxon:847"
+     Protein         1..90
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=10600
+     Region          1..89
+                     /region_name="BrnT_toxin"
+                     /note="Ribonuclease toxin, BrnT, of type II
+                     toxin-antitoxin system; cl01108"
+                     /db_xref="CDD:294697"
+ORIGIN      
+        1 mkyefdpvkn asniikhgls ledaqwlewe tayiledtrk ayperryqal glieerlhml
+       61 vfcmpdsqti rvislrkanr revkiyaens
+//
+
+LOCUS       WP_005877169              85 aa            linear   BCT 26-MAY-2013
+DEFINITION  hypothetical protein [Oxalobacter formigenes].
+ACCESSION   WP_005877169
+VERSION     WP_005877169.1
+KEYWORDS    RefSeq.
+SOURCE      Oxalobacter formigenes
+  ORGANISM  Oxalobacter formigenes
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Oxalobacteraceae; Oxalobacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..85
+                     /organism="Oxalobacter formigenes"
+                     /db_xref="taxon:847"
+     Protein         1..85
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=9766
+     Region          21..70
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; pfam07927"
+                     /db_xref="CDD:285205"
+ORIGIN      
+        1 mnkreklltk aqrvpggllf deletlmrqq gwefdrqkgs hriwvspgkt avplqpdgkr
+       61 aksyqvkqvl lilekekkrp vpdml
+//
+
+LOCUS       WP_005879794              81 aa            linear   BCT 26-MAY-2013
+DEFINITION  hypothetical protein [Oxalobacter formigenes].
+ACCESSION   WP_005879794
+VERSION     WP_005879794.1
+KEYWORDS    RefSeq.
+SOURCE      Oxalobacter formigenes
+  ORGANISM  Oxalobacter formigenes
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Oxalobacteraceae; Oxalobacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..81
+                     /organism="Oxalobacter formigenes"
+                     /db_xref="taxon:847"
+     Protein         1..81
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=9528
+     Region          21..70
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; pfam07927"
+                     /db_xref="CDD:285205"
+ORIGIN      
+        1 mnqrekllak akrtpdklsf eelekllksk gwtfarqkgs hriwispene lvpiqsfgkt
+       61 aksyqvrril fimereekpq e
+//
+
+LOCUS       EEO29550                  92 aa            linear   BCT 11-MAR-2015
+DEFINITION  toxin-antitoxin system, toxin component, RelE family [Oxalobacter
+            formigenes OXCC13].
+ACCESSION   EEO29550
+VERSION     EEO29550.1
+DBLINK      BioProject: PRJNA32499
+            BioSample: SAMN02463717
+DBSOURCE    accession GG658170.1
+KEYWORDS    .
+SOURCE      Oxalobacter formigenes OXCC13
+  ORGANISM  Oxalobacter formigenes OXCC13
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Oxalobacteraceae; Oxalobacter.
+REFERENCE   1  (residues 1 to 92)
+  AUTHORS   Ward,D., Young,S.K., Kodira,C.D., Zeng,Q., Koehrsen,M.,
+            Alvarado,L., Berlin,A., Borenstein,D., Chen,Z., Engels,R.,
+            Freedman,E., Gellesch,M., Goldberg,J., Griggs,A., Gujja,S.,
+            Heiman,D., Hepburn,T., Howarth,C., Jen,D., Larson,L., Lewis,B.,
+            Mehta,T., Park,D., Pearson,M., Roberts,A., Saif,S., Shea,T.,
+            Shenoy,N., Sisk,P., Stolte,C., Sykes,S., Walk,T., White,J.,
+            Yandava,C., Allison,M.J., Lander,E., Nusbaum,C., Galagan,J. and
+            Birren,B.
+  CONSRTM   The Broad Institute Genome Sequencing Platform
+  TITLE     The Genome Sequence of Oxalobacter formigenes OXCC13
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 92)
+  AUTHORS   Ward,D., Young,S.K., Kodira,C.D., Zeng,Q., Koehrsen,M.,
+            Alvarado,L., Berlin,A., Borenstein,D., Chen,Z., Engels,R.,
+            Freedman,E., Gellesch,M., Goldberg,J., Griggs,A., Gujja,S.,
+            Heiman,D., Hepburn,T., Howarth,C., Jen,D., Larson,L., Lewis,B.,
+            Mehta,T., Park,D., Pearson,M., Roberts,A., Saif,S., Shea,T.,
+            Shenoy,N., Sisk,P., Stolte,C., Sykes,S., Walk,T., White,J.,
+            Yandava,C., Allison,M.J., Lander,E., Nusbaum,C., Galagan,J. and
+            Birren,B.
+  CONSRTM   The Broad Institute Genome Sequencing Platform
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-FEB-2009) Broad Institute of MIT and Harvard, 7
+            Cambridge Center, Cambridge, MA 02142, USA
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..92
+                     /organism="Oxalobacter formigenes OXCC13"
+                     /strain="OXCC13"
+                     /db_xref="taxon:556269"
+     Protein         1..92
+                     /product="toxin-antitoxin system, toxin component, RelE
+                     family"
+     Region          1..92
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+     CDS             1..92
+                     /locus_tag="OFBG_00578"
+                     /coded_by="complement(GG658170.1:722566..722844)"
+                     /transl_table=11
+ORIGIN      
+        1 miksftcpdt qdlfagktvp rfvnirsvae rklqmihrat gindlrippn nrlealkgdr
+       61 kgqysirind qwricftfdn gqafdvsivd yh
+//
+
+LOCUS       WP_005876354              91 aa            linear   BCT 26-MAY-2013
+DEFINITION  hypothetical protein [Oxalobacter formigenes].
+ACCESSION   WP_005876354
+VERSION     WP_005876354.1
+KEYWORDS    RefSeq.
+SOURCE      Oxalobacter formigenes
+  ORGANISM  Oxalobacter formigenes
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Oxalobacteraceae; Oxalobacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..91
+                     /organism="Oxalobacter formigenes"
+                     /db_xref="taxon:847"
+     Protein         1..91
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=10123
+     Region          6..85
+                     /region_name="ParE"
+                     /note="Plasmid stabilization system protein ParE
+                     [Mobilome: prophages, transposons]; COG3668"
+                     /db_xref="CDD:226194"
+ORIGIN      
+        1 mpkkkklmwt rlalndrnel fyahadrdea iftdeaidev aeklvtptet gfpgrvkgtm
+       61 eagisdqlvl vydstdsqir ilrilstasl p
+//
+
+LOCUS       EEO29583                  89 aa            linear   BCT 11-MAR-2015
+DEFINITION  addiction module toxin, Txe/YoeB family [Oxalobacter formigenes
+            OXCC13].
+ACCESSION   EEO29583
+VERSION     EEO29583.1
+DBLINK      BioProject: PRJNA32499
+            BioSample: SAMN02463717
+DBSOURCE    accession GG658170.1
+KEYWORDS    .
+SOURCE      Oxalobacter formigenes OXCC13
+  ORGANISM  Oxalobacter formigenes OXCC13
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Oxalobacteraceae; Oxalobacter.
+REFERENCE   1  (residues 1 to 89)
+  AUTHORS   Ward,D., Young,S.K., Kodira,C.D., Zeng,Q., Koehrsen,M.,
+            Alvarado,L., Berlin,A., Borenstein,D., Chen,Z., Engels,R.,
+            Freedman,E., Gellesch,M., Goldberg,J., Griggs,A., Gujja,S.,
+            Heiman,D., Hepburn,T., Howarth,C., Jen,D., Larson,L., Lewis,B.,
+            Mehta,T., Park,D., Pearson,M., Roberts,A., Saif,S., Shea,T.,
+            Shenoy,N., Sisk,P., Stolte,C., Sykes,S., Walk,T., White,J.,
+            Yandava,C., Allison,M.J., Lander,E., Nusbaum,C., Galagan,J. and
+            Birren,B.
+  CONSRTM   The Broad Institute Genome Sequencing Platform
+  TITLE     The Genome Sequence of Oxalobacter formigenes OXCC13
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 89)
+  AUTHORS   Ward,D., Young,S.K., Kodira,C.D., Zeng,Q., Koehrsen,M.,
+            Alvarado,L., Berlin,A., Borenstein,D., Chen,Z., Engels,R.,
+            Freedman,E., Gellesch,M., Goldberg,J., Griggs,A., Gujja,S.,
+            Heiman,D., Hepburn,T., Howarth,C., Jen,D., Larson,L., Lewis,B.,
+            Mehta,T., Park,D., Pearson,M., Roberts,A., Saif,S., Shea,T.,
+            Shenoy,N., Sisk,P., Stolte,C., Sykes,S., Walk,T., White,J.,
+            Yandava,C., Allison,M.J., Lander,E., Nusbaum,C., Galagan,J. and
+            Birren,B.
+  CONSRTM   The Broad Institute Genome Sequencing Platform
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-FEB-2009) Broad Institute of MIT and Harvard, 7
+            Cambridge Center, Cambridge, MA 02142, USA
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..89
+                     /organism="Oxalobacter formigenes OXCC13"
+                     /strain="OXCC13"
+                     /db_xref="taxon:556269"
+     Protein         1..89
+                     /product="addiction module toxin, Txe/YoeB family"
+     Region          <30..86
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+     CDS             1..89
+                     /locus_tag="OFBG_00611"
+                     /coded_by="GG658170.1:765717..765986"
+                     /transl_table=11
+ORIGIN      
+        1 msyrivycny almdipklka ahpeektknl idvlrndpfg tipayeklvg dlqgvfsrri
+       61 nirhrlvyev feeekvarml smwshyegf
+//
+
+LOCUS       WP_020995118              93 aa            linear   BCT 03-SEP-2013
+DEFINITION  txe/YoeB family addiction module toxin [Oxalobacter formigenes].
+ACCESSION   WP_020995118
+VERSION     WP_020995118.1
+KEYWORDS    RefSeq.
+SOURCE      Oxalobacter formigenes
+  ORGANISM  Oxalobacter formigenes
+            Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+            Oxalobacteraceae; Oxalobacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..93
+                     /organism="Oxalobacter formigenes"
+                     /db_xref="taxon:847"
+     Protein         1..93
+                     /product="txe/YoeB family addiction module toxin"
+                     /calculated_mol_wt=11234
+     Region          5..90
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 mnklwtdnaw edylywqqqd kktlkrihil lkdiernhee tgdesvgigk peplkyelqg
+       61 fwsrrideen rlvyrvnndv ieilsckthy kkn
+//
+

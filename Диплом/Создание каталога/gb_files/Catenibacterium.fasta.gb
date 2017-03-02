@@ -1,0 +1,1150 @@
+LOCUS       WP_006504272             120 aa            linear   BCT 26-MAY-2013
+DEFINITION  antitoxin HicB [Catenibacterium mitsuokai].
+ACCESSION   WP_006504272
+VERSION     WP_006504272.1
+KEYWORDS    RefSeq.
+SOURCE      Catenibacterium mitsuokai
+  ORGANISM  Catenibacterium mitsuokai
+            Bacteria; Firmicutes; Erysipelotrichia; Erysipelotrichales;
+            Erysipelotrichaceae; Catenibacterium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..120
+                     /organism="Catenibacterium mitsuokai"
+                     /db_xref="taxon:100886"
+     Protein         1..120
+                     /product="antitoxin HicB"
+                     /calculated_mol_wt=13471
+     Region          16..77
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+     Region          57..111
+                     /region_name="HicB"
+                     /note="HicB family; cl23837"
+                     /db_xref="CDD:304994"
+ORIGIN      
+        1 mktlndymal pyrleivedq eeggyvvsyp dlpgcitcgd tiedamnnak dakkawieaa
+       61 leegieinep dsiedysgqf klripktlhr tlalharkeg ismnqycvyl lsrndtllsk
+//
+
+LOCUS       WP_006504936             143 aa            linear   BCT 31-OCT-2016
+DEFINITION  division/cell wall cluster transcriptional repressor MraZ
+            [Catenibacterium mitsuokai].
+ACCESSION   WP_006504936
+VERSION     WP_006504936.1
+KEYWORDS    RefSeq.
+SOURCE      Catenibacterium mitsuokai
+  ORGANISM  Catenibacterium mitsuokai
+            Bacteria; Firmicutes; Erysipelotrichia; Erysipelotrichales;
+            Erysipelotrichaceae; Catenibacterium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..143
+                     /organism="Catenibacterium mitsuokai"
+                     /db_xref="taxon:100886"
+     Protein         1..143
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=16866
+     Region          1..134
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          4..59
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(4..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..126
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,104,111,120..121,124)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mfygeykhnl dtkgrlsipa kfrgecgdhv yimrghegcl diyteegwqa yyeelkklsn
+       61 kkkeeraylr mvtsrmncse fdklgrinip qvlrthahle kectivgage hieiwdtakw
+      121 eafydeyddq fdelserise nee
+//
+
+LOCUS       CDE28328                 143 aa            linear   ENV 31-MAY-2013
+DEFINITION  protein MraZ [Catenibacterium sp. CAG:290].
+ACCESSION   CDE28328
+VERSION     CDE28328.1
+DBSOURCE    embl accession CBIQ010000101.1
+KEYWORDS    ENV.
+SOURCE      Catenibacterium sp. CAG:290
+  ORGANISM  Catenibacterium sp. CAG:290
+            Bacteria; Firmicutes; Erysipelotrichia; Erysipelotrichales;
+            Erysipelotrichaceae; Catenibacterium; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..143
+                     /organism="Catenibacterium sp. CAG:290"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262767"
+                     /environmental_sample
+                     /note="contig 47"
+     Protein         1..143
+                     /product="protein MraZ"
+     Region          1..134
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          3..59
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(3..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..126
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,104,111,120..121,124)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+     CDS             1..143
+                     /locus_tag="BN591_00714"
+                     /coded_by="complement(CBIQ010000101.1:11885..12316)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mffgeyqhnl dtkgrlsipa kfrgecgdhv yimrghegcl dvyteegwqt yyaelkklsn
+       61 kkkeeraylr mvtsrmscse fdklgrinip qvlrthahle kectivgage hieiwdtakw
+      121 dafydeyddq fddlserise nee
+//
+
+LOCUS       WP_006504293              85 aa            linear   BCT 26-MAY-2013
+DEFINITION  antitoxin PHD [Catenibacterium mitsuokai].
+ACCESSION   WP_006504293
+VERSION     WP_006504293.1
+KEYWORDS    RefSeq.
+SOURCE      Catenibacterium mitsuokai
+  ORGANISM  Catenibacterium mitsuokai
+            Bacteria; Firmicutes; Erysipelotrichia; Erysipelotrichales;
+            Erysipelotrichaceae; Catenibacterium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..85
+                     /organism="Catenibacterium mitsuokai"
+                     /db_xref="taxon:100886"
+     Protein         1..85
+                     /product="antitoxin PHD"
+                     /calculated_mol_wt=9511
+     Region          1..>52
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+ORIGIN      
+        1 mkiipmrdlk ntvevehrca eengpvfvtk ngygrlvvmd idyyektmrk mdeattildg
+       61 lkdvksgntv egetaiskir skygi
+//
+
+LOCUS       WP_006506403              86 aa            linear   BCT 26-MAY-2013
+DEFINITION  prevent-host-death protein [Catenibacterium mitsuokai].
+ACCESSION   WP_006506403
+VERSION     WP_006506403.1
+KEYWORDS    RefSeq.
+SOURCE      Catenibacterium mitsuokai
+  ORGANISM  Catenibacterium mitsuokai
+            Bacteria; Firmicutes; Erysipelotrichia; Erysipelotrichales;
+            Erysipelotrichaceae; Catenibacterium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..86
+                     /organism="Catenibacterium mitsuokai"
+                     /db_xref="taxon:100886"
+     Protein         1..86
+                     /product="prevent-host-death protein"
+                     /calculated_mol_wt=9855
+     Region          3..65
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+ORIGIN      
+        1 mpqiipikdl kktseisemc hntnnpifit kngygdmvim smeayeeamk kidiyrniei
+       61 seeqvkngqv kdakkslenm rakydl
+//
+
+LOCUS       WP_006506569              82 aa            linear   BCT 26-MAY-2013
+DEFINITION  prevent-host-death protein [Catenibacterium mitsuokai].
+ACCESSION   WP_006506569
+VERSION     WP_006506569.1
+KEYWORDS    RefSeq.
+SOURCE      Catenibacterium mitsuokai
+  ORGANISM  Catenibacterium mitsuokai
+            Bacteria; Firmicutes; Erysipelotrichia; Erysipelotrichales;
+            Erysipelotrichaceae; Catenibacterium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..82
+                     /organism="Catenibacterium mitsuokai"
+                     /db_xref="taxon:100886"
+     Protein         1..82
+                     /product="prevent-host-death protein"
+                     /calculated_mol_wt=9230
+     Region          4..54
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     cl09153"
+                     /db_xref="CDD:298842"
+ORIGIN      
+        1 manilpvsdl rnynevlkkc hsgepvfltk ngrgrfvvld iedyerdrae kkllmklqea
+       61 ekavkdgegw lsldelkalv ge
+//
+
+LOCUS       CDE28871                  86 aa            linear   ENV 31-MAY-2013
+DEFINITION  prevent-host-death family protein [Catenibacterium sp. CAG:290].
+ACCESSION   CDE28871
+VERSION     CDE28871.1
+DBSOURCE    embl accession CBIQ010000133.1
+KEYWORDS    ENV.
+SOURCE      Catenibacterium sp. CAG:290
+  ORGANISM  Catenibacterium sp. CAG:290
+            Bacteria; Firmicutes; Erysipelotrichia; Erysipelotrichales;
+            Erysipelotrichaceae; Catenibacterium; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..86
+                     /organism="Catenibacterium sp. CAG:290"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262767"
+                     /environmental_sample
+                     /note="contig 76"
+     Protein         1..86
+                     /product="prevent-host-death family protein"
+     Region          3..65
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+     CDS             1..86
+                     /locus_tag="BN591_01215"
+                     /coded_by="complement(CBIQ010000133.1:5260..5520)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mpqiipikdl kktseisemc httnepvfit kngygdmvim smevyeetmk kldiyrniei
+       61 seeqvkngqv kdakkslenm rakyel
+//
+
+LOCUS       CDE27825                  85 aa            linear   ENV 31-MAY-2013
+DEFINITION  prevent-host-death family protein [Catenibacterium sp. CAG:290].
+ACCESSION   CDE27825
+VERSION     CDE27825.1
+DBSOURCE    embl accession CBIQ010000060.1
+KEYWORDS    ENV.
+SOURCE      Catenibacterium sp. CAG:290
+  ORGANISM  Catenibacterium sp. CAG:290
+            Bacteria; Firmicutes; Erysipelotrichia; Erysipelotrichales;
+            Erysipelotrichaceae; Catenibacterium; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..85
+                     /organism="Catenibacterium sp. CAG:290"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262767"
+                     /environmental_sample
+                     /note="contig 152"
+     Protein         1..85
+                     /product="prevent-host-death family protein"
+     Region          1..>52
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+     CDS             1..85
+                     /locus_tag="BN591_01980"
+                     /coded_by="complement(CBIQ010000060.1:1092..1349)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mkiipmhdlk ntaeverlca eengpvfvtk ngygrlvimn ieyyektmrk mdeattildg
+       61 lkdvksentv kgdaaisnir nkysi
+//
+
+LOCUS       WP_040389712              91 aa            linear   BCT 23-JAN-2015
+DEFINITION  prevent-host-death protein [Catenibacterium mitsuokai].
+ACCESSION   WP_040389712
+VERSION     WP_040389712.1
+KEYWORDS    RefSeq.
+SOURCE      Catenibacterium mitsuokai
+  ORGANISM  Catenibacterium mitsuokai
+            Bacteria; Firmicutes; Erysipelotrichia; Erysipelotrichales;
+            Erysipelotrichaceae; Catenibacterium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..91
+                     /organism="Catenibacterium mitsuokai"
+                     /db_xref="taxon:100886"
+     Protein         1..91
+                     /product="prevent-host-death protein"
+                     /calculated_mol_wt=10603
+     Region          1..65
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+ORIGIN      
+        1 mkvypsssmk enyneivnvc rksqepiflt engevdlvim dietfkrkek mldlrellls
+       61 aeeerisgsk qytideldhi leaviqgyre y
+//
+
+LOCUS       EEF95250                  95 aa            linear   BCT 15-AUG-2012
+DEFINITION  addiction module antitoxin, RelB/DinJ family [Catenibacterium
+            mitsuokai DSM 15897].
+ACCESSION   EEF95250
+VERSION     EEF95250.1
+DBLINK      BioProject: PRJNA19923
+            BioSample: SAMN00000012
+DBSOURCE    accession ACCK01000006.1
+KEYWORDS    .
+SOURCE      Catenibacterium mitsuokai DSM 15897
+  ORGANISM  Catenibacterium mitsuokai DSM 15897
+            Bacteria; Firmicutes; Erysipelotrichia; Erysipelotrichales;
+            Erysipelotrichaceae; Catenibacterium.
+REFERENCE   1  (residues 1 to 95)
+  AUTHORS   Fulton,L., Clifton,S., Fulton,B., Xu,J., Minx,P., Pepin,K.H.,
+            Johnson,M., Bhonagiri,V., Nash,W.E., Mardis,E.R. and Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-DEC-2008) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+COMMENT     Catenibacterium mitsuokai (GenBank Accession Number for 16S rDNA
+            gene: AB030221) is a member of the Firmicutes division of the
+            domain bacteria. In one comprehensive 16S rDNA sequence-based
+            enumeration of the colonic microbiota of three healthy adult
+            humans, it represents, on average, 0.482% of all 16S rDNA sequences
+            and 0.095% of the sequences in its division (Eckburg et. al.
+            (2005)). The sequenced strain was obtained from the Deutsche
+            Sammlung von Mikroorganismen und Zellkulturen GmbH(DSMZ) (DSM#
+            15897).
+            
+            This is a Newbler assembly
+            (http://www.454.com/enabling-technology/the-software.asp) comprised
+            of 1 full plate of FLX Fragment 454 Data and 5 regions of FLX
+            Fragment Titration 454 run with a Q20 coverage of 46.6X.
+            
+            This sequenced strain is part of a comprehensive, sequence-based
+            survey of members of the normal human gut microbiota.  A joint
+            effort of the WU-GSC and the Center for Genome Sciences at
+            Washington University School of Medicine, the purpose of this
+            survey is to provide the general scientific community with a broad
+            view of the gene content of 100 representatives of the major
+            divisions represented in the intestine's microbial community. This
+            information should provide a frame of reference for analyzing
+            metagenomic studies of the human gut microbiome. Further details of
+            this effort are described in a white paper entitled 'Extending Our
+            View of Self: the Human Gut Microbiome Initiative (HGMI)'
+            (http://www.genome.gov/Pages/Research/Sequencing/SeqProposals/HGMIS
+            eq.pdf). These studies are supported by National Human Genome
+            Research Institute.
+            
+            Coding sequences were predicted using GeneMark v3.3 and Glimmer2
+            v2.13. Intergenic regions not spanned by GeneMark and Glimmer2 were
+            blasted against NCBI's non-redundant (NR)  database and predictions
+            generated based on protein alignments. tRNA genes were determined
+            using tRNAscan-SE 1.23 and non-coding RNA genes by RNAmmer-1.2 and
+            Rfam v8.0. Gene names are generated at the contig level and may not
+            necessarily reflect any known order or orientation between contigs.
+            
+            For answers to your questions regarding this assembly or project,
+            or any other GSC genome project, please visit our Genome Groups web
+            page (http://genome.wustl.edu/genome_group_index.cgi) and email the
+            designated contact person.
+            
+            Annotation was added to the contigs in March 2009
+            
+            This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Product names were updated in August 2012.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..95
+                     /organism="Catenibacterium mitsuokai DSM 15897"
+                     /strain="DSM 15897"
+                     /db_xref="taxon:451640"
+     Protein         1..95
+                     /product="addiction module antitoxin, RelB/DinJ family"
+     Region          6..93
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+     CDS             1..95
+                     /locus_tag="CATMIT_00063"
+                     /coded_by="complement(ACCK01000006.1:8300..8587)"
+                     /inference="protein motif:HMMPfam:IPR007337"
+                     /inference="protein motif:HMMTigr:IPR007337"
+                     /inference="similar to AA sequence:REFSEQ:NP_971120.1"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR007337"
+ORIGIN      
+        1 mevfcmattn lnirtdkaik dqaeeifnel glnmttavnm flraaicehg ipfglklevp
+       61 ndttaaaiee grkmmkdssa pcyssmdalk evldv
+//
+
+LOCUS       WP_006504785              95 aa            linear   BCT 04-AUG-2015
+DEFINITION  acyl-CoA--6-aminopenicillanic acid acyl transferase
+            [Catenibacterium mitsuokai].
+ACCESSION   WP_006504785
+VERSION     WP_006504785.1
+KEYWORDS    RefSeq.
+SOURCE      Catenibacterium mitsuokai
+  ORGANISM  Catenibacterium mitsuokai
+            Bacteria; Firmicutes; Erysipelotrichia; Erysipelotrichales;
+            Erysipelotrichaceae; Catenibacterium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..95
+                     /organism="Catenibacterium mitsuokai"
+                     /db_xref="taxon:100886"
+     Protein         1..95
+                     /product="acyl-CoA--6-aminopenicillanic acid acyl
+                     transferase"
+                     /calculated_mol_wt=10592
+     Region          1..89
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mastiqvrve delksksdal fkdlgtdttt airifltqav atngfpfeik rqtglnpyap
+       61 miekemlakl eksreqgefr dadhvisdlr skygl
+//
+
+LOCUS       WP_006504970             101 aa            linear   BCT 31-OCT-2016
+DEFINITION  XRE family transcriptional regulator [Catenibacterium mitsuokai].
+ACCESSION   WP_006504970
+VERSION     WP_006504970.1
+KEYWORDS    RefSeq.
+SOURCE      Catenibacterium mitsuokai
+  ORGANISM  Catenibacterium mitsuokai
+            Bacteria; Firmicutes; Erysipelotrichia; Erysipelotrichales;
+            Erysipelotrichaceae; Catenibacterium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..101
+                     /organism="Catenibacterium mitsuokai"
+                     /db_xref="taxon:100886"
+     Protein         1..101
+                     /product="XRE family transcriptional regulator"
+                     /calculated_mol_wt=11355
+     Region          3..>67
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 martanvfar vepelkeqae dilqqlgipm snavgmflkq ivlqkgipfe mklprteplq
+       61 yqsltkeqfd aeiekgiadi kagrvysade veaemkrdfn l
+//
+
+LOCUS       WP_006505232             106 aa            linear   BCT 26-MAY-2013
+DEFINITION  hypothetical protein [Catenibacterium mitsuokai].
+ACCESSION   WP_006505232
+VERSION     WP_006505232.1
+KEYWORDS    RefSeq.
+SOURCE      Catenibacterium mitsuokai
+  ORGANISM  Catenibacterium mitsuokai
+            Bacteria; Firmicutes; Erysipelotrichia; Erysipelotrichales;
+            Erysipelotrichaceae; Catenibacterium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..106
+                     /organism="Catenibacterium mitsuokai"
+                     /db_xref="taxon:100886"
+     Protein         1..106
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=11548
+     Region          14..87
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mkkttltvat apktstfqmr inpeikaqve giyaqcgmtl tdainafiqq sinvegmpfl
+       61 vtsnskqalr eqaisqlmie ldkgekapad esiseedilk efgiel
+//
+
+LOCUS       WP_006506565             101 aa            linear   BCT 26-MAY-2013
+DEFINITION  toxin-antitoxin system protein [Catenibacterium mitsuokai].
+ACCESSION   WP_006506565
+VERSION     WP_006506565.1
+KEYWORDS    RefSeq.
+SOURCE      Catenibacterium mitsuokai
+  ORGANISM  Catenibacterium mitsuokai
+            Bacteria; Firmicutes; Erysipelotrichia; Erysipelotrichales;
+            Erysipelotrichaceae; Catenibacterium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..101
+                     /organism="Catenibacterium mitsuokai"
+                     /db_xref="taxon:100886"
+     Protein         1..101
+                     /product="toxin-antitoxin system protein"
+                     /calculated_mol_wt=10758
+     Region          4..83
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 manttavyar idtglkenae eilsqlgitp ssaiqmlysq ivltrglpld lhlpptnpta
+       61 iggmsreeld aelrkgvesl ksaktytadq vdaelakefg i
+//
+
+LOCUS       WP_006506577              86 aa            linear   BCT 26-MAY-2013
+DEFINITION  DNA-damage-inducible protein J [Catenibacterium mitsuokai].
+ACCESSION   WP_006506577
+VERSION     WP_006506577.1
+KEYWORDS    RefSeq.
+SOURCE      Catenibacterium mitsuokai
+  ORGANISM  Catenibacterium mitsuokai
+            Bacteria; Firmicutes; Erysipelotrichia; Erysipelotrichales;
+            Erysipelotrichaceae; Catenibacterium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..86
+                     /organism="Catenibacterium mitsuokai"
+                     /db_xref="taxon:100886"
+     Protein         1..86
+                     /product="DNA-damage-inducible protein J"
+                     /calculated_mol_wt=9642
+     Region          3..84
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mdtditicmd nnvkekadal fselgmdlnt afnlfvresl raggfpfelr pnkkvieamk
+       61 eakrithdss iegynnldel fdelkg
+//
+
+LOCUS       CDE28758                 106 aa            linear   ENV 31-MAY-2013
+DEFINITION  addiction module antitoxin RelB/DinJ family [Catenibacterium sp.
+            CAG:290].
+ACCESSION   CDE28758
+VERSION     CDE28758.1
+DBSOURCE    embl accession CBIQ010000122.1
+KEYWORDS    ENV.
+SOURCE      Catenibacterium sp. CAG:290
+  ORGANISM  Catenibacterium sp. CAG:290
+            Bacteria; Firmicutes; Erysipelotrichia; Erysipelotrichales;
+            Erysipelotrichaceae; Catenibacterium; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..106
+                     /organism="Catenibacterium sp. CAG:290"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262767"
+                     /environmental_sample
+                     /note="contig 66"
+     Protein         1..106
+                     /product="addiction module antitoxin RelB/DinJ family"
+     Region          14..87
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+     CDS             1..106
+                     /locus_tag="BN591_01103"
+                     /coded_by="complement(CBIQ010000122.1:23035..23355)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mkkttltvat apktstfqmr inpeikaqve giyaqcgmtl tdainafiqq sinvegmpfl
+       61 vtanskqalr eqaisqlmie ldkgekapad dsiseedilk efgiel
+//
+
+LOCUS       CDE27998                 100 aa            linear   ENV 31-MAY-2013
+DEFINITION  putative uncharacterized protein [Catenibacterium sp. CAG:290].
+ACCESSION   CDE27998
+VERSION     CDE27998.1
+DBSOURCE    embl accession CBIQ010000074.1
+KEYWORDS    ENV.
+SOURCE      Catenibacterium sp. CAG:290
+  ORGANISM  Catenibacterium sp. CAG:290
+            Bacteria; Firmicutes; Erysipelotrichia; Erysipelotrichales;
+            Erysipelotrichaceae; Catenibacterium; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..100
+                     /organism="Catenibacterium sp. CAG:290"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262767"
+                     /environmental_sample
+                     /note="contig 22"
+     Protein         1..100
+                     /product="putative uncharacterized protein"
+     Region          1..>55
+                     /region_name="RelB"
+                     /note="Antitoxin component of the RelBE or YafQ-DinJ
+                     toxin-antitoxin module [Defense mechanisms]; COG3077"
+                     /db_xref="CDD:225619"
+     CDS             1..100
+                     /locus_tag="BN591_00414"
+                     /coded_by="CBIQ010000074.1:7126..7428"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mgktatlnlr vnpvvkerae kvlsqlgvpm staidmylnq isltggipfs vslpnapvsi
+       61 htdgmtteei hqklekgynd idagrvqnat eafakfrenh
+//
+
+LOCUS       CDE27540                  95 aa            linear   ENV 31-MAY-2013
+DEFINITION  addiction module antitoxin RelB/DinJ family [Catenibacterium sp.
+            CAG:290].
+ACCESSION   CDE27540
+VERSION     CDE27540.1
+DBSOURCE    embl accession CBIQ010000045.1
+KEYWORDS    ENV.
+SOURCE      Catenibacterium sp. CAG:290
+  ORGANISM  Catenibacterium sp. CAG:290
+            Bacteria; Firmicutes; Erysipelotrichia; Erysipelotrichales;
+            Erysipelotrichaceae; Catenibacterium; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..95
+                     /organism="Catenibacterium sp. CAG:290"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262767"
+                     /environmental_sample
+                     /note="contig 139"
+     Protein         1..95
+                     /product="addiction module antitoxin RelB/DinJ family"
+     Region          1..89
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+     CDS             1..95
+                     /locus_tag="BN591_01787"
+                     /coded_by="CBIQ010000045.1:885..1172"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mastiqvrve delksksdal fkdlgtdttt airifltqav atngfpfeik rqtglnpyap
+       61 mtekemlakl eksreqgefr dadhvisdlr skygl
+//
+
+LOCUS       CDE27462                 101 aa            linear   ENV 31-MAY-2013
+DEFINITION  addiction module antitoxin RelB/DinJ family [Catenibacterium sp.
+            CAG:290].
+ACCESSION   CDE27462
+VERSION     CDE27462.1
+DBSOURCE    embl accession CBIQ010000038.1
+KEYWORDS    ENV.
+SOURCE      Catenibacterium sp. CAG:290
+  ORGANISM  Catenibacterium sp. CAG:290
+            Bacteria; Firmicutes; Erysipelotrichia; Erysipelotrichales;
+            Erysipelotrichaceae; Catenibacterium; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..101
+                     /organism="Catenibacterium sp. CAG:290"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262767"
+                     /environmental_sample
+                     /note="contig 132"
+     Protein         1..101
+                     /product="addiction module antitoxin RelB/DinJ family"
+     Region          1..95
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+     CDS             1..101
+                     /locus_tag="BN591_01709"
+                     /coded_by="complement(CBIQ010000038.1:51823..52128)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 maksasvyar idpvlkeqae tilstlgitt snaidmffkq ivlkkglpfe vrlpyekpvc
+       61 mgalskeeln akiekgytdi legktkpakq afdemrkdfn l
+//
+
+LOCUS       CDE27166                  92 aa            linear   ENV 31-MAY-2013
+DEFINITION  addiction module antitoxin RelB/DinJ family [Catenibacterium sp.
+            CAG:290].
+ACCESSION   CDE27166
+VERSION     CDE27166.1
+DBSOURCE    embl accession CBIQ010000017.1
+KEYWORDS    ENV.
+SOURCE      Catenibacterium sp. CAG:290
+  ORGANISM  Catenibacterium sp. CAG:290
+            Bacteria; Firmicutes; Erysipelotrichia; Erysipelotrichales;
+            Erysipelotrichaceae; Catenibacterium; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..92
+                     /organism="Catenibacterium sp. CAG:290"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262767"
+                     /environmental_sample
+                     /note="contig 113"
+     Protein         1..92
+                     /product="addiction module antitoxin RelB/DinJ family"
+     Region          5..90
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+     CDS             1..92
+                     /locus_tag="BN591_01525"
+                     /coded_by="complement(CBIQ010000017.1:481..759)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 magnttnvsi rmdtelkaqa dvlfselgmn lttafnifvr qslreggipf kisieqpnke
+       61 tvaamleakr iakdpsvkgy ndldelfddl kr
+//
+
+LOCUS       WP_006505114              98 aa            linear   BCT 04-JUN-2013
+DEFINITION  hypothetical protein [Catenibacterium mitsuokai].
+ACCESSION   WP_006505114
+VERSION     WP_006505114.1
+KEYWORDS    RefSeq.
+SOURCE      Catenibacterium mitsuokai
+  ORGANISM  Catenibacterium mitsuokai
+            Bacteria; Firmicutes; Erysipelotrichia; Erysipelotrichales;
+            Erysipelotrichaceae; Catenibacterium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..98
+                     /organism="Catenibacterium mitsuokai"
+                     /db_xref="taxon:100886"
+     Protein         1..98
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=11420
+     Region          1..98
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 mkityknkki ekvctiadea errygprmae kihqrideid asdtveemvq srigrchplk
+       61 gdrkgqyame ltqpyrlift krgneiqivn vieivdyh
+//
+
+LOCUS       WP_006504784             104 aa            linear   BCT 26-MAY-2013
+DEFINITION  plasmid stabilization protein [Catenibacterium mitsuokai].
+ACCESSION   WP_006504784
+VERSION     WP_006504784.1
+KEYWORDS    RefSeq.
+SOURCE      Catenibacterium mitsuokai
+  ORGANISM  Catenibacterium mitsuokai
+            Bacteria; Firmicutes; Erysipelotrichia; Erysipelotrichales;
+            Erysipelotrichaceae; Catenibacterium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..104
+                     /organism="Catenibacterium mitsuokai"
+                     /db_xref="taxon:100886"
+     Protein         1..104
+                     /product="plasmid stabilization protein"
+                     /calculated_mol_wt=12344
+     Region          11..103
+                     /region_name="ParE"
+                     /note="Plasmid stabilization system protein ParE
+                     [Mobilome: prophages, transposons]; COG3668"
+                     /db_xref="CDD:226194"
+ORIGIN      
+        1 mdykivlmkg aeedfdrfia yllfekkteq varhllndfe atkiglsnva gslklcdnpk
+       61 lrelgyrrin flshryfmly rikndtvyvd nifhelqdye nimn
+//
+
+LOCUS       WP_006504886             101 aa            linear   BCT 26-MAY-2013
+DEFINITION  hypothetical protein [Catenibacterium mitsuokai].
+ACCESSION   WP_006504886
+VERSION     WP_006504886.1
+KEYWORDS    RefSeq.
+SOURCE      Catenibacterium mitsuokai
+  ORGANISM  Catenibacterium mitsuokai
+            Bacteria; Firmicutes; Erysipelotrichia; Erysipelotrichales;
+            Erysipelotrichaceae; Catenibacterium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..101
+                     /organism="Catenibacterium mitsuokai"
+                     /db_xref="taxon:100886"
+     Protein         1..101
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=11974
+     Region          1..101
+                     /region_name="ParE"
+                     /note="Plasmid stabilization system protein ParE
+                     [Mobilome: prophages, transposons]; COG3668"
+                     /db_xref="CDD:226194"
+ORIGIN      
+        1 mikifyspks rkdldriydy iyddlnnpia aektvkgild kiselkeypq lgpvwylenn
+       61 idsgfrfltc dnyiifyqit ketilivril hclqnyvkql f
+//
+
+LOCUS       WP_006504969             110 aa            linear   BCT 26-MAY-2013
+DEFINITION  addiction module toxin RelE [Catenibacterium mitsuokai].
+ACCESSION   WP_006504969
+VERSION     WP_006504969.1
+KEYWORDS    RefSeq.
+SOURCE      Catenibacterium mitsuokai
+  ORGANISM  Catenibacterium mitsuokai
+            Bacteria; Firmicutes; Erysipelotrichia; Erysipelotrichales;
+            Erysipelotrichaceae; Catenibacterium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..110
+                     /organism="Catenibacterium mitsuokai"
+                     /db_xref="taxon:100886"
+     Protein         1..110
+                     /product="addiction module toxin RelE"
+                     /calculated_mol_wt=13182
+     Region          11..98
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; pfam05016"
+                     /db_xref="CDD:282823"
+ORIGIN      
+        1 mtfridysiv arhdireiyq yiayhlcqpe aasrqinhnm eeirslefmp mryklyeeep
+       61 wnsmglrvlp vdnylvfyll nevngvvniv himyggrdis kqfhdiwikl
+//
+
+LOCUS       WP_006505231              89 aa            linear   BCT 14-AUG-2015
+DEFINITION  hypothetical protein [Catenibacterium mitsuokai].
+ACCESSION   WP_006505231
+VERSION     WP_006505231.1
+KEYWORDS    RefSeq.
+SOURCE      Catenibacterium mitsuokai
+  ORGANISM  Catenibacterium mitsuokai
+            Bacteria; Firmicutes; Erysipelotrichia; Erysipelotrichales;
+            Erysipelotrichaceae; Catenibacterium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..89
+                     /organism="Catenibacterium mitsuokai"
+                     /db_xref="taxon:100886"
+     Protein         1..89
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=10325
+     Region          3..81
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; pfam05016"
+                     /db_xref="CDD:282823"
+ORIGIN      
+        1 mnlrytrqar adlrnpmrln pkivklcavl kthpeiggql snrtgwttdl yyviagkysi
+       61 fykydhdtvt iiriltneek ymnvifgdk
+//
+
+LOCUS       WP_006506402             103 aa            linear   BCT 26-MAY-2013
+DEFINITION  hypothetical protein [Catenibacterium mitsuokai].
+ACCESSION   WP_006506402
+VERSION     WP_006506402.1
+KEYWORDS    RefSeq.
+SOURCE      Catenibacterium mitsuokai
+  ORGANISM  Catenibacterium mitsuokai
+            Bacteria; Firmicutes; Erysipelotrichia; Erysipelotrichales;
+            Erysipelotrichaceae; Catenibacterium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..103
+                     /organism="Catenibacterium mitsuokai"
+                     /db_xref="taxon:100886"
+     Protein         1..103
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=12161
+     Region          4..99
+                     /region_name="ParE"
+                     /note="Plasmid stabilization system protein ParE
+                     [Mobilome: prophages, transposons]; COG3668"
+                     /db_xref="CDD:226194"
+ORIGIN      
+        1 miyrlnitkn adelldhlvy yliyclknkq aarhlldgid miydnlienp yqyppcidqy
+       61 lakkhyrnai vpqmnysvvf dikddevnil gifhqlenik dkl
+//
+
+LOCUS       WP_006506564             112 aa            linear   BCT 26-MAY-2013
+DEFINITION  addiction module toxin RelE [Catenibacterium mitsuokai].
+ACCESSION   WP_006506564
+VERSION     WP_006506564.1
+KEYWORDS    RefSeq.
+SOURCE      Catenibacterium mitsuokai
+  ORGANISM  Catenibacterium mitsuokai
+            Bacteria; Firmicutes; Erysipelotrichia; Erysipelotrichales;
+            Erysipelotrichaceae; Catenibacterium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..112
+                     /organism="Catenibacterium mitsuokai"
+                     /db_xref="taxon:100886"
+     Protein         1..112
+                     /product="addiction module toxin RelE"
+                     /calculated_mol_wt=13295
+     Region          7..100
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; pfam05016"
+                     /db_xref="CDD:282823"
+ORIGIN      
+        1 mndrysviyn eearkdikei ytyiafklmv pitaedqinr irklihsldc mpsrypivew
+       61 epwksygmhr aqvnhyvvyy evddsqmevi iirifydgqd vegitshist dn
+//
+
+LOCUS       WP_006506568              99 aa            linear   BCT 26-MAY-2013
+DEFINITION  toxin RelE [Catenibacterium mitsuokai].
+ACCESSION   WP_006506568
+VERSION     WP_006506568.1
+KEYWORDS    RefSeq.
+SOURCE      Catenibacterium mitsuokai
+  ORGANISM  Catenibacterium mitsuokai
+            Bacteria; Firmicutes; Erysipelotrichia; Erysipelotrichales;
+            Erysipelotrichaceae; Catenibacterium.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..99
+                     /organism="Catenibacterium mitsuokai"
+                     /db_xref="taxon:100886"
+     Protein         1..99
+                     /product="toxin RelE"
+                     /calculated_mol_wt=11725
+     Region          4..93
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; pfam05016"
+                     /db_xref="CDD:282823"
+ORIGIN      
+        1 mlnlrinplv akdlkeirdy iaednaeyaa ktikeiygkf envqmfpgig adlskrvsfr
+       61 tdykyavwen yviiykigee yveiyrvvnr yrditrifd
+//
+
+LOCUS       CDE28870                 103 aa            linear   ENV 31-MAY-2013
+DEFINITION  uncharacterized protein BN591_01214 [Catenibacterium sp. CAG:290].
+ACCESSION   CDE28870
+VERSION     CDE28870.1
+DBSOURCE    embl accession CBIQ010000133.1
+KEYWORDS    ENV.
+SOURCE      Catenibacterium sp. CAG:290
+  ORGANISM  Catenibacterium sp. CAG:290
+            Bacteria; Firmicutes; Erysipelotrichia; Erysipelotrichales;
+            Erysipelotrichaceae; Catenibacterium; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..103
+                     /organism="Catenibacterium sp. CAG:290"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262767"
+                     /environmental_sample
+                     /note="contig 76"
+     Protein         1..103
+                     /product="uncharacterized protein"
+     Region          1..103
+                     /region_name="ParE"
+                     /note="Plasmid stabilization system protein ParE
+                     [Mobilome: prophages, transposons]; COG3668"
+                     /db_xref="CDD:226194"
+     CDS             1..103
+                     /locus_tag="BN591_01214"
+                     /coded_by="complement(CBIQ010000133.1:4959..5270)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 msyrlnitkn adelvdhlvy yliyclknkq aarhlldgid miydnlienp yqyplcidqy
+       61 lakkyyrnai vsqmnysvvy dikdnevnvl gifhqlenir dkl
+//
+
+LOCUS       CDE27541                 104 aa            linear   ENV 31-MAY-2013
+DEFINITION  uncharacterized protein BN591_01788 [Catenibacterium sp. CAG:290].
+ACCESSION   CDE27541
+VERSION     CDE27541.1
+DBSOURCE    embl accession CBIQ010000045.1
+KEYWORDS    ENV.
+SOURCE      Catenibacterium sp. CAG:290
+  ORGANISM  Catenibacterium sp. CAG:290
+            Bacteria; Firmicutes; Erysipelotrichia; Erysipelotrichales;
+            Erysipelotrichaceae; Catenibacterium; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..104
+                     /organism="Catenibacterium sp. CAG:290"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262767"
+                     /environmental_sample
+                     /note="contig 139"
+     Protein         1..104
+                     /product="uncharacterized protein"
+     Region          4..103
+                     /region_name="ParE"
+                     /note="Plasmid stabilization system protein ParE
+                     [Mobilome: prophages, transposons]; COG3668"
+                     /db_xref="CDD:226194"
+     CDS             1..104
+                     /locus_tag="BN591_01788"
+                     /coded_by="CBIQ010000045.1:1162..1476"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mdykivlmkd aeedfdrfia yllfekkseq aarnllndfe atkislsnva gslklcdnpk
+       61 lrelgyrrin flshryfmly rikndivyvd nifhelqdye nkmn
+//
+
+LOCUS       CDE27461                 108 aa            linear   ENV 31-MAY-2013
+DEFINITION  plasmid stabilization system protein [Catenibacterium sp. CAG:290].
+ACCESSION   CDE27461
+VERSION     CDE27461.1
+DBSOURCE    embl accession CBIQ010000038.1
+KEYWORDS    ENV.
+SOURCE      Catenibacterium sp. CAG:290
+  ORGANISM  Catenibacterium sp. CAG:290
+            Bacteria; Firmicutes; Erysipelotrichia; Erysipelotrichales;
+            Erysipelotrichaceae; Catenibacterium; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..108
+                     /organism="Catenibacterium sp. CAG:290"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262767"
+                     /environmental_sample
+                     /note="contig 132"
+     Protein         1..108
+                     /product="plasmid stabilization system protein"
+     Region          5..98
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; pfam05016"
+                     /db_xref="CDD:282823"
+     CDS             1..108
+                     /locus_tag="BN591_01708"
+                     /coded_by="complement(CBIQ010000038.1:51500..51826)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mkfnvelteq adkdlrsiyl yisvdlnspe naikqikrlw dailsldelp qryrryedep
+       61 whsrgirvlp vdnfvilyip fvkekivriv tvmysgrnid ehlskign
+//
+
+LOCUS       CDE27357                  79 aa            linear   ENV 31-MAY-2013
+DEFINITION  addiction module toxin RelE/StbE family [Catenibacterium sp.
+            CAG:290].
+ACCESSION   CDE27357
+VERSION     CDE27357.1
+DBSOURCE    embl accession CBIQ010000035.1
+KEYWORDS    ENV.
+SOURCE      Catenibacterium sp. CAG:290
+  ORGANISM  Catenibacterium sp. CAG:290
+            Bacteria; Firmicutes; Erysipelotrichia; Erysipelotrichales;
+            Erysipelotrichaceae; Catenibacterium; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..79
+                     /organism="Catenibacterium sp. CAG:290"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262767"
+                     /environmental_sample
+                     /note="contig 13"
+     Protein         1..79
+                     /product="addiction module toxin RelE/StbE family"
+     Region          1..>77
+                     /region_name="ParE"
+                     /note="Plasmid stabilization system protein ParE
+                     [Mobilome: prophages, transposons]; COG3668"
+                     /db_xref="CDD:226194"
+     CDS             1..79
+                     /locus_tag="BN591_00142"
+                     /coded_by="complement(CBIQ010000035.1:43..282)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mikifyspks rkdldriydy iyddlnnpia aektvkgild kiselkeypq lgpvwylenn
+       61 idsgfrfltc dnyiifrsi
+//
+
+LOCUS       CDE27165                  95 aa            linear   ENV 31-MAY-2013
+DEFINITION  addiction module toxin RelE/StbE family [Catenibacterium sp.
+            CAG:290].
+ACCESSION   CDE27165
+VERSION     CDE27165.1
+DBSOURCE    embl accession CBIQ010000017.1
+KEYWORDS    ENV.
+SOURCE      Catenibacterium sp. CAG:290
+  ORGANISM  Catenibacterium sp. CAG:290
+            Bacteria; Firmicutes; Erysipelotrichia; Erysipelotrichales;
+            Erysipelotrichaceae; Catenibacterium; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..95
+                     /organism="Catenibacterium sp. CAG:290"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262767"
+                     /environmental_sample
+                     /note="contig 113"
+     Protein         1..95
+                     /product="addiction module toxin RelE/StbE family"
+     Region          6..94
+                     /region_name="YafQ"
+                     /note="mRNA-degrading endonuclease (mRNA interferase)
+                     YafQ, toxin component of the YafQ-DinJ toxin-antitoxin
+                     module [Translation, ribosomal structure and biogenesis];
+                     COG3041"
+                     /db_xref="CDD:225583"
+     CDS             1..95
+                     /locus_tag="BN591_01524"
+                     /coded_by="complement(CBIQ010000017.1:197..484)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mkenkytiky tnsfkkdykr aikrglkiel lnqiitllat geslpdkcrd halsgdwtgy
+       61 rechilpdwl liyyieedvl vltlantgth sdlyi
+//
+

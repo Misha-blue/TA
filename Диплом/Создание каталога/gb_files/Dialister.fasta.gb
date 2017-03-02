@@ -1,0 +1,1996 @@
+LOCUS       CDA47997                 120 aa            linear   ENV 31-MAY-2013
+DEFINITION  uncharacterized protein family UPF0150 [Dialister sp. CAG:486].
+ACCESSION   CDA47997
+VERSION     CDA47997.1
+DBSOURCE    embl accession CBBY010000101.1
+KEYWORDS    ENV.
+SOURCE      Dialister sp. CAG:486
+  ORGANISM  Dialister sp. CAG:486
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..120
+                     /organism="Dialister sp. CAG:486"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262870"
+                     /environmental_sample
+                     /note="contig 19"
+     Protein         1..120
+                     /product="uncharacterized protein family UPF0150"
+     Region          16..70
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+     Region          63..111
+                     /region_name="HicB"
+                     /note="HicB family; cl23837"
+                     /db_xref="CDD:304994"
+     CDS             1..120
+                     /locus_tag="BN678_00058"
+                     /coded_by="complement(CBBY010000101.1:144..506)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mkdlsyfmkr pykieliedt eeggytaalp elpgcltcgk tmdealanlk dakkawlsaa
+       61 lkdgypipep astetfsgqf klrlpkslhr dlterakeeg tslnqycvyl lsqrirshsi
+//
+
+LOCUS       EEW97054                 135 aa            linear   BCT 07-JUN-2013
+DEFINITION  hypothetical protein GCWU000321_01038 [Dialister invisus DSM
+            15470].
+ACCESSION   EEW97054
+VERSION     EEW97054.1
+DBLINK      BioProject: PRJNA33143
+            BioSample: SAMN00008820
+DBSOURCE    accession ACIM02000001.1
+KEYWORDS    .
+SOURCE      Dialister invisus DSM 15470
+  ORGANISM  Dialister invisus DSM 15470
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister.
+REFERENCE   1  (residues 1 to 135)
+  AUTHORS   Weinstock,G., Sodergren,E., Clifton,S., Fulton,L., Fulton,B.,
+            Courtney,L., Fronick,C., Harrison,M., Strong,C., Farmer,C.,
+            Delahaunty,K., Markovic,C., Hall,O., Minx,P., Tomlinson,C.,
+            Mitreva,M., Nelson,J., Hou,S., Wollam,A., Pepin,K.H., Johnson,M.,
+            Bhonagiri,V., Nash,W.E., Warren,W., Chinwalla,A., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-MAR-2009) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+REFERENCE   2  (residues 1 to 135)
+  AUTHORS   Weinstock,G., Sodergren,E., Clifton,S., Fulton,L., Fulton,B.,
+            Courtney,L., Fronick,C., Harrison,M., Strong,C., Farmer,C.,
+            Delahaunty,K., Markovic,C., Hall,O., Minx,P., Tomlinson,C.,
+            Mitreva,M., Nelson,J., Hou,S., Wollam,A., Pepin,K.H., Johnson,M.,
+            Bhonagiri,V., Nash,W.E., Warren,W., Chinwalla,A., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-JUL-2009) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+REFERENCE   3  (residues 1 to 135)
+  AUTHORS   Weinstock,G., Sodergren,E., Clifton,S., Fulton,L., Fulton,B.,
+            Courtney,L., Fronick,C., Harrison,M., Strong,C., Farmer,C.,
+            Delahaunty,K., Markovic,C., Hall,O., Minx,P., Tomlinson,C.,
+            Mitreva,M., Nelson,J., Hou,S., Wollam,A., Pepin,K.H., Johnson,M.,
+            Bhonagiri,V., Nash,W.E., Warren,W., Chinwalla,A., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-SEP-2009) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+COMMENT     Product names were updated in June 2013.
+            Dialister invisus (GenBank Accession Number for 16S rDNA gene:
+            AY162469) is a member of the Firmicutes division of the domain
+            bacteria and has been isolated from an infected dental root canal.
+            The sequenced strain was obtained from Floyd E. Dewhirst and
+            Jacques Izard the Deutsche Sammlung von Mikroorganismen und
+            Zellkulturen GmbH (DSMZ) (DSM 15470).
+            
+            We have performed one round of automated sequence improvement
+            (pre-finishing), along with manual improvement that includes
+            breaking apart any mis-assembly, and making manual joins where
+            possible. Manual edits also are made where the consensus appears to
+            be incorrect. All low quality data on the ends of contigs is
+            removed. Contigs are ordered and oriented where possible.
+            
+            Coding sequences were predicted using GeneMark v3.3 and Glimmer2
+            v2.13. Intergenic regions not spanned by GeneMark and Glimmer2 were
+            blasted against NCBI's non-redundant (NR) database and predictions
+            generated based on protein alignments. tRNA genes were determined
+            using tRNAscan-SE 1.23 and non-coding RNA genes by RNAmmer-1.2 and
+            Rfam v8.0. Gene names are generated at the contig level and may not
+            necessarily reflect any known order or orientation between contigs.
+            
+            This work was supported by the National Human Genome Research
+            Institute and the NIH Roadmap Human Microbiome Project
+            [http://nihroadmap.nih.gov/hmp/].
+            
+            This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Genome Coverage: 38.3x
+            Sequencing Technology: 454
+            
+            Annotation was added to the contigs in September 2009.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..135
+                     /organism="Dialister invisus DSM 15470"
+                     /strain="DSM 15470"
+                     /culture_collection="DSM:15470"
+                     /db_xref="taxon:592028"
+     Protein         1..135
+                     /product="hypothetical protein"
+     CDS             1..135
+                     /locus_tag="GCWU000321_01038"
+                     /coded_by="complement(ACIM02000001.1:985192..985599)"
+                     /inference="protein motif:HMMPfam:IPR005357"
+                     /note="Psort location: Cytoplasmic, score: 8.96"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR005357"
+ORIGIN      
+        1 mvqvgekrnl mkyfypaift ldrkknefra vfpdltgcav kaesmaeaar karealgmal
+       61 meleekgief paasdecvlq raypccqvgv vlldmdvyra yreyrmeqae ldsaewaeks
+      121 krrrltlfqk vfggr
+//
+
+LOCUS       EEW97554                 128 aa            linear   BCT 07-JUN-2013
+DEFINITION  toxin-antitoxin system, antitoxin component, HicB family [Dialister
+            invisus DSM 15470].
+ACCESSION   EEW97554
+VERSION     EEW97554.1
+DBLINK      BioProject: PRJNA33143
+            BioSample: SAMN00008820
+DBSOURCE    accession ACIM02000001.1
+KEYWORDS    .
+SOURCE      Dialister invisus DSM 15470
+  ORGANISM  Dialister invisus DSM 15470
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister.
+REFERENCE   1  (residues 1 to 128)
+  AUTHORS   Weinstock,G., Sodergren,E., Clifton,S., Fulton,L., Fulton,B.,
+            Courtney,L., Fronick,C., Harrison,M., Strong,C., Farmer,C.,
+            Delahaunty,K., Markovic,C., Hall,O., Minx,P., Tomlinson,C.,
+            Mitreva,M., Nelson,J., Hou,S., Wollam,A., Pepin,K.H., Johnson,M.,
+            Bhonagiri,V., Nash,W.E., Warren,W., Chinwalla,A., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-MAR-2009) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+REFERENCE   2  (residues 1 to 128)
+  AUTHORS   Weinstock,G., Sodergren,E., Clifton,S., Fulton,L., Fulton,B.,
+            Courtney,L., Fronick,C., Harrison,M., Strong,C., Farmer,C.,
+            Delahaunty,K., Markovic,C., Hall,O., Minx,P., Tomlinson,C.,
+            Mitreva,M., Nelson,J., Hou,S., Wollam,A., Pepin,K.H., Johnson,M.,
+            Bhonagiri,V., Nash,W.E., Warren,W., Chinwalla,A., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-JUL-2009) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+REFERENCE   3  (residues 1 to 128)
+  AUTHORS   Weinstock,G., Sodergren,E., Clifton,S., Fulton,L., Fulton,B.,
+            Courtney,L., Fronick,C., Harrison,M., Strong,C., Farmer,C.,
+            Delahaunty,K., Markovic,C., Hall,O., Minx,P., Tomlinson,C.,
+            Mitreva,M., Nelson,J., Hou,S., Wollam,A., Pepin,K.H., Johnson,M.,
+            Bhonagiri,V., Nash,W.E., Warren,W., Chinwalla,A., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-SEP-2009) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+COMMENT     Product names were updated in June 2013.
+            Dialister invisus (GenBank Accession Number for 16S rDNA gene:
+            AY162469) is a member of the Firmicutes division of the domain
+            bacteria and has been isolated from an infected dental root canal.
+            The sequenced strain was obtained from Floyd E. Dewhirst and
+            Jacques Izard the Deutsche Sammlung von Mikroorganismen und
+            Zellkulturen GmbH (DSMZ) (DSM 15470).
+            
+            We have performed one round of automated sequence improvement
+            (pre-finishing), along with manual improvement that includes
+            breaking apart any mis-assembly, and making manual joins where
+            possible. Manual edits also are made where the consensus appears to
+            be incorrect. All low quality data on the ends of contigs is
+            removed. Contigs are ordered and oriented where possible.
+            
+            Coding sequences were predicted using GeneMark v3.3 and Glimmer2
+            v2.13. Intergenic regions not spanned by GeneMark and Glimmer2 were
+            blasted against NCBI's non-redundant (NR) database and predictions
+            generated based on protein alignments. tRNA genes were determined
+            using tRNAscan-SE 1.23 and non-coding RNA genes by RNAmmer-1.2 and
+            Rfam v8.0. Gene names are generated at the contig level and may not
+            necessarily reflect any known order or orientation between contigs.
+            
+            This work was supported by the National Human Genome Research
+            Institute and the NIH Roadmap Human Microbiome Project
+            [http://nihroadmap.nih.gov/hmp/].
+            
+            This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Genome Coverage: 38.3x
+            Sequencing Technology: 454
+            
+            Annotation was added to the contigs in September 2009.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..128
+                     /organism="Dialister invisus DSM 15470"
+                     /strain="DSM 15470"
+                     /culture_collection="DSM:15470"
+                     /db_xref="taxon:592028"
+     Protein         1..128
+                     /product="toxin-antitoxin system, antitoxin component,
+                     HicB family"
+     Region          5..63
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+     CDS             1..128
+                     /locus_tag="GCWU000321_01548"
+                     /coded_by="ACIM02000001.1:1429518..1429904"
+                     /inference="protein motif:HMMPfam:IPR005357"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR005357"
+ORIGIN      
+        1 mkmlfiypav ihedadgmwa efpdlegctt ygdtmeeils gaaeamelyv lgmmedgvql
+       61 pmptdikeik rldknafatl iqsdvdlakn tksvkktlti pawlnqrald kginfskvlq
+      121 ealvaktv
+//
+
+LOCUS       EHO62838                 133 aa            linear   BCT 11-JAN-2012
+DEFINITION  hypothetical protein HMPREF9453_01247 [Dialister succinatiphilus
+            YIT 11850].
+ACCESSION   EHO62838
+VERSION     EHO62838.1
+DBLINK      BioProject: PRJNA46405
+            BioSample: SAMN02463860
+DBSOURCE    accession ADLT01000043.1
+KEYWORDS    HIGH_QUALITY_DRAFT.
+SOURCE      Dialister succinatiphilus YIT 11850
+  ORGANISM  Dialister succinatiphilus YIT 11850
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister.
+REFERENCE   1  (residues 1 to 133)
+  AUTHORS   Earl,A., Ward,D., Feldgarden,M., Gevers,D., Morotomi,M.,
+            Young,S.K., Zeng,Q., Gargeya,S., Fitzgerald,M., Haas,B.,
+            Abouelleil,A., Alvarado,L., Arachchi,H.M., Berlin,A., Brown,A.,
+            Chapman,S.B., Dunbar,C., Gearin,G., Goldberg,J., Griggs,A.,
+            Gujja,S., Heiman,D., Howarth,C., Lui,A., MacDonald,P.J.P.,
+            Montmayeur,A., Murphy,C., Neiman,D., Pearson,M., Priest,M.,
+            Roberts,A., Saif,S., Shea,T., Sisk,P., Stolte,C., Sykes,S.,
+            Wortman,J., Nusbaum,C. and Birren,B.
+  CONSRTM   The Broad Institute Genome Sequencing Platform
+  TITLE     The Genome Sequence of Dialister succinatiphilus YIT 11850
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 133)
+  AUTHORS   Earl,A., Ward,D., Feldgarden,M., Gevers,D., Morotomi,M.,
+            Young,S.K., Zeng,Q., Gargeya,S., Fitzgerald,M., Haas,B.,
+            Abouelleil,A., Alvarado,L., Arachchi,H.M., Berlin,A., Brown,A.,
+            Chapman,S.B., Dunbar,C., Gearin,G., Goldberg,J., Griggs,A.,
+            Gujja,S., Heiman,D., Howarth,C., Lui,A., MacDonald,P.J.P.,
+            Montmayeur,A., Murphy,C., Neiman,D., Pearson,M., Priest,M.,
+            Roberts,A., Saif,S., Shea,T., Sisk,P., Stolte,C., Sykes,S.,
+            Wortman,J., Nusbaum,C. and Birren,B.
+  CONSRTM   The Broad Institute Genome Sequencing Platform
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-NOV-2011) Broad Institute of MIT and Harvard, 7
+            Cambridge Center, Cambridge, MA 02142, USA
+COMMENT     This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Source DNA provided by Morotomi, M. (Yakult Central Institute for
+            Microbiological Research, Japan).
+            Bacteria provided by Morotomi, M. (Yakult Central Institute for
+            Microbiological Research, Japan).
+            Please be aware that the annotation is done automatically with
+            little or no manual curation.
+            Gene Calling Method: Prodigal.
+            
+            ##Genome-Assembly-Data-START##
+            Finishing Goal           :: High-Quality Draft
+            Current Finishing Status :: High-Quality Draft
+            Assembly Method          :: Newbler v. 2.3-PostRelease-11/19/2009
+            Assembly Name            :: Dial_succ_YIT_11850_V1
+            Genome Coverage          :: 200x
+            Sequencing Technology    :: Illumina
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..133
+                     /organism="Dialister succinatiphilus YIT 11850"
+                     /strain="YIT 11850"
+                     /isolation_source="feces"
+                     /host="Homo sapiens"
+                     /db_xref="HMP:9453"
+                     /db_xref="taxon:742743"
+     Protein         1..133
+                     /product="hypothetical protein"
+     Region          7..78
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+     Region          12..129
+                     /region_name="HicB_lk_antitox"
+                     /note="HicB_like antitoxin of bacterial toxin-antitoxin
+                     system; pfam15919"
+                     /db_xref="CDD:292541"
+     CDS             1..133
+                     /locus_tag="HMPREF9453_01247"
+                     /coded_by="complement(ADLT01000043.1:15262..15663)"
+                     /transl_table=11
+ORIGIN      
+        1 mqergemmty fypaifkhda ekkiftavfp dlpgcqaqgr smdeaakkar damaasllem
+       61 eekeisiplp sderllqhrl rhakvcvmlv dmnsyrafra ykvkhaesks aewaasarks
+      121 rkssflsrvf glr
+//
+
+LOCUS       WP_007554855             126 aa            linear   BCT 26-AUG-2016
+DEFINITION  HicB family protein [Dialister micraerophilus].
+ACCESSION   WP_007554855
+VERSION     WP_007554855.1
+KEYWORDS    RefSeq.
+SOURCE      Dialister micraerophilus
+  ORGANISM  Dialister micraerophilus
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..126
+                     /organism="Dialister micraerophilus"
+                     /db_xref="taxon:309120"
+     Protein         1..126
+                     /product="HicB family protein"
+                     /calculated_mol_wt=15064
+     Region          5..63
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+ORIGIN      
+        1 mqyfypavfk ynhkkqyfta ifpdingcra qgssieeivs elkenlcayl weleeremei
+       61 papsmqkevq mkyrscsvit viadmekyre yreykvryah eqarlwaeea nnrrhssifs
+      121 rvfgir
+//
+
+LOCUS       WP_007555083             124 aa            linear   BCT 14-JUN-2015
+DEFINITION  toxin-antitoxin system antitoxin component HicB family [Dialister
+            micraerophilus].
+ACCESSION   WP_007555083
+VERSION     WP_007555083.1
+KEYWORDS    RefSeq.
+SOURCE      Dialister micraerophilus
+  ORGANISM  Dialister micraerophilus
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..124
+                     /organism="Dialister micraerophilus"
+                     /db_xref="taxon:309120"
+     Protein         1..124
+                     /product="toxin-antitoxin system antitoxin component HicB
+                     family"
+                     /calculated_mol_wt=13935
+     Region          2..62
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+     Region          5..123
+                     /region_name="HicB_lk_antitox"
+                     /note="HicB_like antitoxin of bacterial toxin-antitoxin
+                     system; pfam15919"
+                     /db_xref="CDD:292541"
+ORIGIN      
+        1 mnriypaift keetgkyave fpdlqgcftc gdsfdeamkn asealglyli salednedip
+       61 natnikeikc mknelvtyvv admennqdyr nktvtipiwl dtiaqkqkin fsstlreali
+      121 skiv
+//
+
+LOCUS       CCZ53272                 125 aa            linear   ENV 31-MAY-2013
+DEFINITION  toxin-antitoxin system antitoxin component HicB family [Dialister
+            invisus CAG:218].
+ACCESSION   CCZ53272
+VERSION     CCZ53272.1
+DBSOURCE    embl accession CBAF010000032.1
+KEYWORDS    ENV.
+SOURCE      Dialister invisus CAG:218
+  ORGANISM  Dialister invisus CAG:218
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..125
+                     /organism="Dialister invisus CAG:218"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1263072"
+                     /environmental_sample
+                     /note="contig 127"
+     Protein         1..125
+                     /product="toxin-antitoxin system antitoxin component HicB
+                     family"
+     CDS             1..125
+                     /locus_tag="BN540_01518"
+                     /coded_by="complement(CBAF010000032.1:47409..47786)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mkyfypaift ldrkknefra vfpdltgcav kaesmaeaar karealgmal meleekgief
+       61 paasdecalq raypycqvgv vlldmdvyra yreyrmeqae ldsaewaeks krrrltlfqr
+      121 vfggr
+//
+
+LOCUS       CDA50356                 126 aa            linear   ENV 31-MAY-2013
+DEFINITION  putative uncharacterized protein [Dialister sp. CAG:486].
+ACCESSION   CDA50356
+VERSION     CDA50356.1
+DBSOURCE    embl accession CBBY010000223.1
+KEYWORDS    ENV.
+SOURCE      Dialister sp. CAG:486
+  ORGANISM  Dialister sp. CAG:486
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..126
+                     /organism="Dialister sp. CAG:486"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262870"
+                     /environmental_sample
+                     /note="contig 47"
+     Protein         1..126
+                     /product="putative uncharacterized protein"
+     Region          2..63
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+     CDS             1..126
+                     /locus_tag="BN678_00211"
+                     /coded_by="CBBY010000223.1:4139..4519"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mkyfypaics ydqkkgmffv mfpdligcea kastmneaak karealaasl leleekalpi
+       61 pratserqlr lrengkrict flvdmdeyra yktykvrhad aksaewagea rkgrrqsfla
+      121 kvfgfr
+//
+
+LOCUS       CDA47038                 139 aa            linear   ENV 31-MAY-2013
+DEFINITION  putative uncharacterized protein [Dialister sp. CAG:486].
+ACCESSION   CDA47038
+VERSION     CDA47038.1
+DBSOURCE    embl accession CBBY010000025.1
+KEYWORDS    ENV.
+SOURCE      Dialister sp. CAG:486
+  ORGANISM  Dialister sp. CAG:486
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..139
+                     /organism="Dialister sp. CAG:486"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262870"
+                     /environmental_sample
+                     /note="contig 120"
+     Protein         1..139
+                     /product="putative uncharacterized protein"
+     Region          6..127
+                     /region_name="HicB_lk_antitox"
+                     /note="HicB_like antitoxin of bacterial toxin-antitoxin
+                     system; pfam15919"
+                     /db_xref="CDD:292541"
+     Region          6..67
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+     CDS             1..139
+                     /locus_tag="BN678_00735"
+                     /coded_by="CBBY010000025.1:57836..58255"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mkkllypacf ypcedkpgay tvvvpdlpgc isegdsleda iamatdaasg wvldemeegr
+       61 pvpaasdrst ihpdspdgfv nilvldmnay eerygnkavr knltipawln tfaetnhvnf
+      121 sqvlqdalis myqrqmakr
+//
+
+LOCUS       CDF27546                 123 aa            linear   ENV 31-MAY-2013
+DEFINITION  putative uncharacterized protein [Dialister sp. CAG:588].
+ACCESSION   CDF27546
+VERSION     CDF27546.1
+DBSOURCE    embl accession CBKO010000128.1
+KEYWORDS    ENV.
+SOURCE      Dialister sp. CAG:588
+  ORGANISM  Dialister sp. CAG:588
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..123
+                     /organism="Dialister sp. CAG:588"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262871"
+                     /environmental_sample
+                     /note="contig 36"
+     Protein         1..123
+                     /product="putative uncharacterized protein"
+     Region          2..66
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+     CDS             1..123
+                     /locus_tag="BN722_00261"
+                     /coded_by="complement(CBKO010000128.1:558..929)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mryiypaift ykrnqgvyva dfpdiagcsa ngksmeeamn sarlalcrml leleekseff
+       61 pppsdstllr lknrgcticm vvadtavtrl ereqrmkeas lwnqtkekag yskklsrvfe
+      121 fki
+//
+
+LOCUS       CDD80217                 132 aa            linear   ENV 31-MAY-2013
+DEFINITION  toxin-antitoxin system antitoxin component HicB family [Dialister
+            sp. CAG:357].
+ACCESSION   CDD80217
+VERSION     CDD80217.1
+DBSOURCE    embl accession CBHT010000108.1
+KEYWORDS    ENV.
+SOURCE      Dialister sp. CAG:357
+  ORGANISM  Dialister sp. CAG:357
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..132
+                     /organism="Dialister sp. CAG:357"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262869"
+                     /environmental_sample
+                     /note="contig 196"
+     Protein         1..132
+                     /product="toxin-antitoxin system antitoxin component HicB
+                     family"
+     Region          2..62
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+     Region          5..124
+                     /region_name="HicB_lk_antitox"
+                     /note="HicB_like antitoxin of bacterial toxin-antitoxin
+                     system; pfam15919"
+                     /db_xref="CDD:292541"
+     CDS             1..132
+                     /locus_tag="BN625_01581"
+                     /coded_by="complement(CBHT010000108.1:16364..16762)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mkyvypavfh aepeggytif fpdiegclsq getiqeccem aedaltlmlw dmeenhisap
+       61 sptpinkvhk enkddivtlv kadtlayrrk ydtkaikktl sipqwldtma qeksvnfsnv
+      121 lqqalikeln ir
+//
+
+LOCUS       CDD78978                 126 aa            linear   ENV 31-MAY-2013
+DEFINITION  putative uncharacterized protein [Dialister sp. CAG:357].
+ACCESSION   CDD78978
+VERSION     CDD78978.1
+DBSOURCE    embl accession CBHT010000033.1
+KEYWORDS    ENV.
+SOURCE      Dialister sp. CAG:357
+  ORGANISM  Dialister sp. CAG:357
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..126
+                     /organism="Dialister sp. CAG:357"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262869"
+                     /environmental_sample
+                     /note="contig 128"
+     Protein         1..126
+                     /product="putative uncharacterized protein"
+     Region          5..65
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+     CDS             1..126
+                     /locus_tag="BN625_01087"
+                     /coded_by="complement(CBHT010000033.1:20853..21233)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 meyfypaivk hdakggifsv ifpdlngcqa qgrtaeeavl karealaasl lemeekglei
+       61 ppasderlfr lryggsrcct ilvnmetyre yreykvraad hqtavwaeta rktrrvgila
+      121 rvfglr
+//
+
+LOCUS       EEW96132                 154 aa            linear   BCT 07-JUN-2013
+DEFINITION  protein MraZ [Dialister invisus DSM 15470].
+ACCESSION   EEW96132
+VERSION     EEW96132.1
+DBLINK      BioProject: PRJNA33143
+            BioSample: SAMN00008820
+DBSOURCE    accession ACIM02000001.1
+KEYWORDS    .
+SOURCE      Dialister invisus DSM 15470
+  ORGANISM  Dialister invisus DSM 15470
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister.
+REFERENCE   1  (residues 1 to 154)
+  AUTHORS   Weinstock,G., Sodergren,E., Clifton,S., Fulton,L., Fulton,B.,
+            Courtney,L., Fronick,C., Harrison,M., Strong,C., Farmer,C.,
+            Delahaunty,K., Markovic,C., Hall,O., Minx,P., Tomlinson,C.,
+            Mitreva,M., Nelson,J., Hou,S., Wollam,A., Pepin,K.H., Johnson,M.,
+            Bhonagiri,V., Nash,W.E., Warren,W., Chinwalla,A., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-MAR-2009) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+REFERENCE   2  (residues 1 to 154)
+  AUTHORS   Weinstock,G., Sodergren,E., Clifton,S., Fulton,L., Fulton,B.,
+            Courtney,L., Fronick,C., Harrison,M., Strong,C., Farmer,C.,
+            Delahaunty,K., Markovic,C., Hall,O., Minx,P., Tomlinson,C.,
+            Mitreva,M., Nelson,J., Hou,S., Wollam,A., Pepin,K.H., Johnson,M.,
+            Bhonagiri,V., Nash,W.E., Warren,W., Chinwalla,A., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-JUL-2009) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+REFERENCE   3  (residues 1 to 154)
+  AUTHORS   Weinstock,G., Sodergren,E., Clifton,S., Fulton,L., Fulton,B.,
+            Courtney,L., Fronick,C., Harrison,M., Strong,C., Farmer,C.,
+            Delahaunty,K., Markovic,C., Hall,O., Minx,P., Tomlinson,C.,
+            Mitreva,M., Nelson,J., Hou,S., Wollam,A., Pepin,K.H., Johnson,M.,
+            Bhonagiri,V., Nash,W.E., Warren,W., Chinwalla,A., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-SEP-2009) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+COMMENT     Product names were updated in June 2013.
+            Dialister invisus (GenBank Accession Number for 16S rDNA gene:
+            AY162469) is a member of the Firmicutes division of the domain
+            bacteria and has been isolated from an infected dental root canal.
+            The sequenced strain was obtained from Floyd E. Dewhirst and
+            Jacques Izard the Deutsche Sammlung von Mikroorganismen und
+            Zellkulturen GmbH (DSMZ) (DSM 15470).
+            
+            We have performed one round of automated sequence improvement
+            (pre-finishing), along with manual improvement that includes
+            breaking apart any mis-assembly, and making manual joins where
+            possible. Manual edits also are made where the consensus appears to
+            be incorrect. All low quality data on the ends of contigs is
+            removed. Contigs are ordered and oriented where possible.
+            
+            Coding sequences were predicted using GeneMark v3.3 and Glimmer2
+            v2.13. Intergenic regions not spanned by GeneMark and Glimmer2 were
+            blasted against NCBI's non-redundant (NR) database and predictions
+            generated based on protein alignments. tRNA genes were determined
+            using tRNAscan-SE 1.23 and non-coding RNA genes by RNAmmer-1.2 and
+            Rfam v8.0. Gene names are generated at the contig level and may not
+            necessarily reflect any known order or orientation between contigs.
+            
+            This work was supported by the National Human Genome Research
+            Institute and the NIH Roadmap Human Microbiome Project
+            [http://nihroadmap.nih.gov/hmp/].
+            
+            This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Genome Coverage: 38.3x
+            Sequencing Technology: 454
+            
+            Annotation was added to the contigs in September 2009.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..154
+                     /organism="Dialister invisus DSM 15470"
+                     /strain="DSM 15470"
+                     /culture_collection="DSM:15470"
+                     /db_xref="taxon:592028"
+     Protein         1..154
+                     /product="protein MraZ"
+     Region          12..145
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          14..70
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(14..16,42,50,59..60,63)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          22..26
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          77..138
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(85,87,115,122,131..132,135)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          93..97
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+     CDS             1..154
+                     /gene="mraZ"
+                     /locus_tag="GCWU000321_00069"
+                     /coded_by="ACIM02000001.1:72670..73134"
+                     /inference="protein motif:HMMPfam:IPR003444"
+                     /inference="protein motif:HMMTigr:IPR003444"
+                     /note="Psort location: Cytoplasmic, score: 8.96"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR003444"
+ORIGIN      
+        1 mwlkvegggr imfmseyshs idskgrmilp akfreelgdh fvlapgldsc lciytmehwn
+       61 nliskfeqms athqnvrkvk ryligkgsem ecdkqgrili pahlrkladl kknariigag
+      121 stieiwdpel ldrdlneees itdlaeslel plnf
+//
+
+LOCUS       WP_007553886             145 aa            linear   BCT 17-SEP-2015
+DEFINITION  division/cell wall cluster transcriptional repressor MraZ
+            [Dialister micraerophilus].
+ACCESSION   WP_007553886
+VERSION     WP_007553886.1
+KEYWORDS    RefSeq.
+SOURCE      Dialister micraerophilus
+  ORGANISM  Dialister micraerophilus
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..145
+                     /organism="Dialister micraerophilus"
+                     /db_xref="taxon:309120"
+     Protein         1..145
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=16725
+     Region          1..128
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          5..59
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..127
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,104,111,120..121,124)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mfmneyshti dtkgrmilpa kfreelgesf ilapgldscl ciyprerwda mieklqklpf
+       61 tkkdvrqlrr yligksteme cdkqgrilip ahlrtlaklk knariigtgs tieiwssevl
+      121 keqetesqpi delaesldmp mdfdf
+//
+
+LOCUS       WP_008859140             145 aa            linear   BCT 17-SEP-2015
+DEFINITION  division/cell wall cluster transcriptional repressor MraZ
+            [Dialister succinatiphilus].
+ACCESSION   WP_008859140
+VERSION     WP_008859140.1
+KEYWORDS    RefSeq.
+SOURCE      Dialister succinatiphilus
+  ORGANISM  Dialister succinatiphilus
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..145
+                     /organism="Dialister succinatiphilus"
+                     /db_xref="taxon:487173"
+     Protein         1..145
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=16422
+     Region          1..137
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          5..59
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..127
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,104,111,120..121,124)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mfmneyshti dskgrmilpa kfreelgnsf vlapgldtcl ciyprerwda liarlqklpf
+       61 tnhkvrkimr hligrgteme cdkqgrilip qhlrtfaqlk kdavivgtgs iieiwdpvll
+      121 dadengeesm adiadsldlp lnfdl
+//
+
+LOCUS       CCZ54870                 143 aa            linear   ENV 31-MAY-2013
+DEFINITION  protein MraZ [Dialister invisus CAG:218].
+ACCESSION   CCZ54870
+VERSION     CCZ54870.1
+DBSOURCE    embl accession CBAF010000115.1
+KEYWORDS    ENV.
+SOURCE      Dialister invisus CAG:218
+  ORGANISM  Dialister invisus CAG:218
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..143
+                     /organism="Dialister invisus CAG:218"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1263072"
+                     /environmental_sample
+                     /note="contig 85"
+     Protein         1..143
+                     /product="protein MraZ"
+     Region          1..134
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          3..59
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(3..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..127
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,104,111,120..121,124)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+     CDS             1..143
+                     /locus_tag="BN540_00894"
+                     /coded_by="complement(CBAF010000115.1:61383..61814)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mfmseyshsi dskgrmilpa kfreelgdhf vlapgldscl ciytmehwnn liskfeqmsa
+       61 thqnvrkvkr yligkgseme cdkqgrilip ahlrkladlk kdariigags tieiwdpell
+      121 drdlneeesi tdlaeslelp lnf
+//
+
+LOCUS       CDA48598                  99 aa            linear   ENV 31-MAY-2013
+DEFINITION  protein MraZ [Dialister sp. CAG:486].
+ACCESSION   CDA48598
+VERSION     CDA48598.1
+DBSOURCE    embl accession CBBY010000144.1
+KEYWORDS    ENV.
+SOURCE      Dialister sp. CAG:486
+  ORGANISM  Dialister sp. CAG:486
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..99
+                     /organism="Dialister sp. CAG:486"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262870"
+                     /environmental_sample
+                     /note="contig 228"
+     Protein         1..99
+                     /product="protein MraZ"
+     Region          5..59
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..>92
+                     /region_name="MraZ"
+                     /note="protein domain of unknown function (UPF0040)
+                     includes MraZ; cl03563"
+                     /db_xref="CDD:295914"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293782"
+     CDS             1..99
+                     /locus_tag="BN678_01400"
+                     /coded_by="CBBY010000144.1:9885..10184"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mfmneyshti dakgrmilpa kfreelgsrf vlapsldtcl niypkerwda liarlqklpf
+       61 tnrnvrkimr hligrgteme cdrqgripvp asatargvs
+//
+
+LOCUS       CDA48600                  76 aa            linear   ENV 31-MAY-2013
+DEFINITION  protein MraZ [Dialister sp. CAG:486].
+ACCESSION   CDA48600
+VERSION     CDA48600.1
+DBSOURCE    embl accession CBBY010000144.1
+KEYWORDS    ENV.
+SOURCE      Dialister sp. CAG:486
+  ORGANISM  Dialister sp. CAG:486
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..76
+                     /organism="Dialister sp. CAG:486"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262870"
+                     /environmental_sample
+                     /note="contig 228"
+     Protein         1..76
+                     /product="protein MraZ"
+     Region          <11..59
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Region          14..18
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+     CDS             1..76
+                     /locus_tag="BN678_01401"
+                     /coded_by="CBBY010000144.1:10124..10354"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mrppgaypgs cqcdrqgril ipahlrefak lkkeacivgt gpiieiwdpe llrqdeeged
+       61 iaeiadaldl plnfdl
+//
+
+LOCUS       CDF27324                 145 aa            linear   ENV 31-MAY-2013
+DEFINITION  protein MraZ [Dialister sp. CAG:588].
+ACCESSION   CDF27324
+VERSION     CDF27324.1
+DBSOURCE    embl accession CBKO010000098.1
+KEYWORDS    ENV.
+SOURCE      Dialister sp. CAG:588
+  ORGANISM  Dialister sp. CAG:588
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..145
+                     /organism="Dialister sp. CAG:588"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262871"
+                     /environmental_sample
+                     /note="contig 187"
+     Protein         1..145
+                     /product="protein MraZ"
+     Region          1..137
+                     /region_name="MraZ"
+                     /note="MraZ, DNA-binding transcriptional regulator and
+                     inhibitor of RsmH methyltransferase activity [Translation,
+                     ribosomal structure and biogenesis]; COG2001"
+                     /db_xref="CDD:224912"
+     Region          5..59
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..121
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,104,111,120..121)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+     CDS             1..145
+                     /locus_tag="BN722_01099"
+                     /coded_by="complement(CBKO010000098.1:7064..7501)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mfmneynhti dakgrmilpa kfreglgnrf vlsrgidqcl tiyplenwek lasslqklsf
+       61 tkssvrtlrr fligssteve cdkqgrvlip shlreyagik kealvigtga tieiwspeil
+      121 qltnskeesi gelaesldvp mdfei
+//
+
+LOCUS       CDD81236                 145 aa            linear   ENV 31-MAY-2013
+DEFINITION  protein MraZ [Dialister sp. CAG:357].
+ACCESSION   CDD81236
+VERSION     CDD81236.1
+DBSOURCE    embl accession CBHT010000210.1
+KEYWORDS    ENV.
+SOURCE      Dialister sp. CAG:357
+  ORGANISM  Dialister sp. CAG:357
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..145
+                     /organism="Dialister sp. CAG:357"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262869"
+                     /environmental_sample
+                     /note="contig 76"
+     Protein         1..145
+                     /product="protein MraZ"
+     Region          1..133
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          5..59
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..127
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,104,111,120..121,124)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+     CDS             1..145
+                     /locus_tag="BN625_00648"
+                     /coded_by="complement(CBHT010000210.1:6419..6856)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mfmneyshti dskgrmilpt kfreelgnvf ilapgldqcl ciypkekwds liaklqklpf
+       61 tnqkvrkimr hligrgtevs cdrqgrilip shlrefaqlk kdvciigtga iieiwdpell
+      121 dadengeesv aeiadsldlp lnfdl
+//
+
+LOCUS       CDA50413                  74 aa            linear   ENV 31-MAY-2013
+DEFINITION  putative uncharacterized protein [Dialister sp. CAG:486].
+ACCESSION   CDA50413
+VERSION     CDA50413.1
+DBSOURCE    embl accession CBBY010000247.1
+KEYWORDS    ENV.
+SOURCE      Dialister sp. CAG:486
+  ORGANISM  Dialister sp. CAG:486
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..74
+                     /organism="Dialister sp. CAG:486"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262870"
+                     /environmental_sample
+                     /note="contig 69"
+     Protein         1..74
+                     /product="putative uncharacterized protein"
+     Region          5..67
+                     /region_name="ParD_like"
+                     /note="ParD-like antitoxin of type II bacterial
+                     toxin-antitoxin system; pfam11903"
+                     /db_xref="CDD:288734"
+     CDS             1..74
+                     /locus_tag="BN678_00262"
+                     /coded_by="CBBY010000247.1:733..957"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mntipvrmdk alfdsasieg kaefrsaaqq lnfwalvgkn alanpdlpvd firdiliakn
+       61 qetepftfee dhgn
+//
+
+LOCUS       WP_008860551              79 aa            linear   BCT 28-MAY-2013
+DEFINITION  prevent-host-death protein [Dialister succinatiphilus].
+ACCESSION   WP_008860551
+VERSION     WP_008860551.1
+KEYWORDS    RefSeq.
+SOURCE      Dialister succinatiphilus
+  ORGANISM  Dialister succinatiphilus
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..79
+                     /organism="Dialister succinatiphilus"
+                     /db_xref="taxon:487173"
+     Protein         1..79
+                     /product="prevent-host-death protein"
+                     /calculated_mol_wt=8877
+ORIGIN      
+        1 mridtntmip mteanrnfsk varmvdekga avimknnrpr ylilnfdtle dgtagdeeve
+       61 aiskklmqqn rtayevlak
+//
+
+LOCUS       CDA47922                  85 aa            linear   ENV 31-MAY-2013
+DEFINITION  prevent-host-death protein [Dialister sp. CAG:486].
+ACCESSION   CDA47922
+VERSION     CDA47922.1
+DBSOURCE    embl accession CBBY010000100.1
+KEYWORDS    ENV.
+SOURCE      Dialister sp. CAG:486
+  ORGANISM  Dialister sp. CAG:486
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..85
+                     /organism="Dialister sp. CAG:486"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262870"
+                     /environmental_sample
+                     /note="contig 189"
+     Protein         1..85
+                     /product="prevent-host-death protein"
+     Region          1..83
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     cl09153"
+                     /db_xref="CDD:298842"
+     CDS             1..85
+                     /locus_tag="BN678_01128"
+                     /coded_by="complement(CBBY010000100.1:8448..8705)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 miamnystlr shmkyafdac cddmetlivt rkdnrnvvvl seesynnlme nlyvraskkn
+       61 ydrlltsiaq akagqckkrd liede
+//
+
+LOCUS       WP_007554649              85 aa            linear   BCT 27-MAY-2013
+DEFINITION  DNA damage-inducible protein [Dialister micraerophilus].
+ACCESSION   WP_007554649
+VERSION     WP_007554649.1
+KEYWORDS    RefSeq.
+SOURCE      Dialister micraerophilus
+  ORGANISM  Dialister micraerophilus
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..85
+                     /organism="Dialister micraerophilus"
+                     /db_xref="taxon:309120"
+     Protein         1..85
+                     /product="DNA damage-inducible protein"
+                     /calculated_mol_wt=9832
+     Region          1..80
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 meqatinfri dknikknmek acknmgltmt aaftlfavkv arenripfmi eadpfynekn
+       61 mkrlkksieq lengkgtihe vefyd
+//
+
+LOCUS       WP_007554711              85 aa            linear   BCT 27-MAY-2013
+DEFINITION  addiction module antitoxin [Dialister micraerophilus].
+ACCESSION   WP_007554711
+VERSION     WP_007554711.1
+KEYWORDS    RefSeq.
+SOURCE      Dialister micraerophilus
+  ORGANISM  Dialister micraerophilus
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..85
+                     /organism="Dialister micraerophilus"
+                     /db_xref="taxon:309120"
+     Protein         1..85
+                     /product="addiction module antitoxin"
+                     /calculated_mol_wt=9661
+     Region          4..78
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 maqislrvdd nlkknaeitf neiglnmsta iniflktvvr enkipfelra dpfyskenie
+       61 elekrianlk sgkstlkehd lievd
+//
+
+LOCUS       WP_007554867              88 aa            linear   BCT 27-MAY-2013
+DEFINITION  hypothetical protein [Dialister micraerophilus].
+ACCESSION   WP_007554867
+VERSION     WP_007554867.1
+KEYWORDS    RefSeq.
+SOURCE      Dialister micraerophilus
+  ORGANISM  Dialister micraerophilus
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..88
+                     /organism="Dialister micraerophilus"
+                     /db_xref="taxon:309120"
+     Protein         1..88
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=10123
+     Region          1..80
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 msqtnvnirm dsklkkdfss fceeigmsmt tafcvfakta vrekripfei slnddpfyse
+       61 snlrylkkkl deyksgkmql vehglied
+//
+
+LOCUS       WP_007555971              85 aa            linear   BCT 27-MAY-2013
+DEFINITION  DNA damage-inducible protein [Dialister micraerophilus].
+ACCESSION   WP_007555971
+VERSION     WP_007555971.1
+KEYWORDS    RefSeq.
+SOURCE      Dialister micraerophilus
+  ORGANISM  Dialister micraerophilus
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..85
+                     /organism="Dialister micraerophilus"
+                     /db_xref="taxon:309120"
+     Protein         1..85
+                     /product="DNA damage-inducible protein"
+                     /calculated_mol_wt=9805
+     Region          1..80
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 meqatinfri dknikknmek acksmgltmt aaftlfavkv arenripfmi eadpfynekn
+       61 mkrlkksieq lengkgtihe vefyd
+//
+
+LOCUS       CDA50641                  91 aa            linear   ENV 31-MAY-2013
+DEFINITION  addiction module antitoxin RelB/DinJ family [Dialister sp.
+            CAG:486].
+ACCESSION   CDA50641
+VERSION     CDA50641.1
+DBSOURCE    embl accession CBBY010000269.1
+KEYWORDS    ENV.
+SOURCE      Dialister sp. CAG:486
+  ORGANISM  Dialister sp. CAG:486
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..91
+                     /organism="Dialister sp. CAG:486"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262870"
+                     /environmental_sample
+                     /note="contig 89"
+     Protein         1..91
+                     /product="addiction module antitoxin RelB/DinJ family"
+     Region          1..70
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+     CDS             1..91
+                     /locus_tag="BN678_00477"
+                     /coded_by="complement(CBBY010000269.1:5984..6259)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mataatqiri dadtkrqaaa lfsqlgldms gavnlflrqc vlrgglpfav emprynqeal
+       61 aameegrria rdpsvkgytn madlkkaleq e
+//
+
+LOCUS       CDA49024                  90 aa            linear   ENV 31-MAY-2013
+DEFINITION  addiction module antitoxin RelB/DinJ family [Dialister sp.
+            CAG:486].
+ACCESSION   CDA49024
+VERSION     CDA49024.1
+DBSOURCE    embl accession CBBY010000152.1
+KEYWORDS    ENV.
+SOURCE      Dialister sp. CAG:486
+  ORGANISM  Dialister sp. CAG:486
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..90
+                     /organism="Dialister sp. CAG:486"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262870"
+                     /environmental_sample
+                     /note="contig 235"
+     Protein         1..90
+                     /product="addiction module antitoxin RelB/DinJ family"
+     Region          1..82
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+     CDS             1..90
+                     /locus_tag="BN678_01479"
+                     /coded_by="CBBY010000152.1:1018..1290"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 maqatmnirm dadlkkqfea fcseigmtmt tavcvfakma vkerripfei kadpdpfyse
+       61 enmrvlrera aairsgkakl kehglleade
+//
+
+LOCUS       WP_008859304             122 aa            linear   BCT 28-MAY-2013
+DEFINITION  hypothetical protein [Dialister succinatiphilus].
+ACCESSION   WP_008859304
+VERSION     WP_008859304.1
+KEYWORDS    RefSeq.
+SOURCE      Dialister succinatiphilus
+  ORGANISM  Dialister succinatiphilus
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..122
+                     /organism="Dialister succinatiphilus"
+                     /db_xref="taxon:487173"
+     Protein         1..122
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=14713
+     Region          40..108
+                     /region_name="Gp49"
+                     /note="Phage derived protein Gp49-like (DUF891);
+                     pfam05973"
+                     /db_xref="CDD:283596"
+ORIGIN      
+        1 mykiefyesq ngssdvwdfl etlrrkgnss kdariqynqi vfyidllskn gtnlptnitk
+       61 hleediwelr pgnnrvfyfy yakgcyvllh hfrkksqktp kreitrakye rddyirqkee
+      121 es
+//
+
+LOCUS       CDA48245                 122 aa            linear   ENV 31-MAY-2013
+DEFINITION  putative uncharacterized protein [Dialister sp. CAG:486].
+ACCESSION   CDA48245
+VERSION     CDA48245.1
+DBSOURCE    embl accession CBBY010000123.1
+KEYWORDS    ENV.
+SOURCE      Dialister sp. CAG:486
+  ORGANISM  Dialister sp. CAG:486
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..122
+                     /organism="Dialister sp. CAG:486"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262870"
+                     /environmental_sample
+                     /note="contig 209"
+     Protein         1..122
+                     /product="putative uncharacterized protein"
+     Region          40..109
+                     /region_name="Gp49"
+                     /note="Phage derived protein Gp49-like (DUF891);
+                     pfam05973"
+                     /db_xref="CDD:283596"
+     CDS             1..122
+                     /locus_tag="BN678_01279"
+                     /coded_by="CBBY010000123.1:177..545"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 myniefytnr ngqseilnfl ealrtkskts kdariqynqi vfyidllakn gsnlpikitk
+       61 hleediwelr pgynrvfyfy ydnkqyvllh hfrkksqktp akellqakae rddyikqkee
+      121 ks
+//
+
+LOCUS       EFR42335                  58 aa            linear   BCT 07-JUN-2013
+DEFINITION  YcfA-like protein [Dialister microaerophilus UPII 345-E].
+ACCESSION   EFR42335
+VERSION     EFR42335.1
+DBLINK      BioProject: PRJNA59521
+            BioSample: SAMN00116779
+DBSOURCE    accession AENT01000027.1
+KEYWORDS    HIGH_QUALITY_DRAFT.
+SOURCE      Dialister microaerophilus UPII 345-E
+  ORGANISM  Dialister microaerophilus UPII 345-E
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister.
+REFERENCE   1  (residues 1 to 58)
+  AUTHORS   Durkin,A.S., Madupu,R., Torralba,M., Gillis,M., Methe,B., Sutton,G.
+            and Nelson,K.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-NOV-2010) The J. Craig Venter Institute, 9704 Medical
+            Center Dr., Rockville, MD 20850, USA
+COMMENT     Product names were updated in June 2013.
+            This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            
+            ##Genome-Assembly-Data-START##
+            Finishing Goal           :: High-Quality Draft
+            Current Finishing Status :: High-Quality Draft
+            Assembly Method          :: Newbler v. 2.3
+            Genome Coverage          :: 94x
+            Sequencing Technology    :: 454
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..58
+                     /organism="Dialister microaerophilus UPII 345-E"
+                     /strain="UPII 345-E"
+                     /db_xref="HMP:9220"
+                     /db_xref="taxon:910314"
+     Protein         1..58
+                     /product="YcfA-like protein"
+     Region          1..58
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; cl00752"
+                     /db_xref="CDD:294488"
+     CDS             1..58
+                     /locus_tag="HMPREF9220_0601"
+                     /coded_by="complement(AENT01000027.1:5729..5905)"
+                     /note="identified by match to protein family HMM PF07927"
+                     /transl_table=11
+ORIGIN      
+        1 mtgkeiykkl irlgwvevss kgghrklrkn gvmlivpyht telarktehs ikkianlk
+//
+
+LOCUS       WP_007070485              58 aa            linear   BCT 26-MAY-2013
+DEFINITION  toxin HicA [Dialister invisus].
+ACCESSION   WP_007070485
+VERSION     WP_007070485.1
+KEYWORDS    RefSeq.
+SOURCE      Dialister invisus
+  ORGANISM  Dialister invisus
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..58
+                     /organism="Dialister invisus"
+                     /db_xref="taxon:218538"
+     Protein         1..58
+                     /product="toxin HicA"
+                     /calculated_mol_wt=6514
+     Region          13..56
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; pfam07927"
+                     /db_xref="CDD:285205"
+ORIGIN      
+        1 mkdkdllkll lkngwqdvrq rgshhrlvkg dkfeviavhg kdmpkgllna ilkrtglk
+//
+
+LOCUS       CDA50393                  63 aa            linear   ENV 31-MAY-2013
+DEFINITION  putative uncharacterized protein [Dialister sp. CAG:486].
+ACCESSION   CDA50393
+VERSION     CDA50393.1
+DBSOURCE    embl accession CBBY010000238.1
+KEYWORDS    ENV.
+SOURCE      Dialister sp. CAG:486
+  ORGANISM  Dialister sp. CAG:486
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..63
+                     /organism="Dialister sp. CAG:486"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262870"
+                     /environmental_sample
+                     /note="contig 60"
+     Protein         1..63
+                     /product="putative uncharacterized protein"
+     Region          7..60
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; pfam07927"
+                     /db_xref="CDD:285205"
+     CDS             1..63
+                     /locus_tag="BN678_00242"
+                     /coded_by="complement(CBBY010000238.1:194..385)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mptmkpkdli rllekdgwey vpsnggshqk ykkgtqtiti pyhnkdlptg lfmkimkvtg
+       61 lkk
+//
+
+LOCUS       CDA47999                  81 aa            linear   ENV 31-MAY-2013
+DEFINITION  putative uncharacterized protein [Dialister sp. CAG:486].
+ACCESSION   CDA47999
+VERSION     CDA47999.1
+DBSOURCE    embl accession CBBY010000101.1
+KEYWORDS    ENV.
+SOURCE      Dialister sp. CAG:486
+  ORGANISM  Dialister sp. CAG:486
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..81
+                     /organism="Dialister sp. CAG:486"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262870"
+                     /environmental_sample
+                     /note="contig 19"
+     Protein         1..81
+                     /product="putative uncharacterized protein"
+     Region          21..73
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; pfam07927"
+                     /db_xref="CDD:285205"
+     CDS             1..81
+                     /locus_tag="BN678_00059"
+                     /coded_by="complement(CBBY010000101.1:503..748)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 msqwdklikr lytipddmrf eelkkiliry gytdnnprgg sshhtfrkpg capltipahi
+       61 pikkiyvrmv kdivekemha k
+//
+
+LOCUS       CDA47037                  65 aa            linear   ENV 31-MAY-2013
+DEFINITION  toxin-antitoxin system toxin component HicA family [Dialister sp.
+            CAG:486].
+ACCESSION   CDA47037
+VERSION     CDA47037.1
+DBSOURCE    embl accession CBBY010000025.1
+KEYWORDS    ENV.
+SOURCE      Dialister sp. CAG:486
+  ORGANISM  Dialister sp. CAG:486
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..65
+                     /organism="Dialister sp. CAG:486"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262870"
+                     /environmental_sample
+                     /note="contig 120"
+     Protein         1..65
+                     /product="toxin-antitoxin system toxin component HicA
+                     family"
+     Region          4..58
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; pfam07927"
+                     /db_xref="CDD:285205"
+     CDS             1..65
+                     /locus_tag="BN678_00734"
+                     /coded_by="CBBY010000025.1:57622..57819"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mkfrevikil edngwvqkav rgshyqythp grpgkitvpc hrgdldkrtv ksiftaagld
+       61 tsrli
+//
+
+LOCUS       CDA50414                  94 aa            linear   ENV 31-MAY-2013
+DEFINITION  putative uncharacterized protein [Dialister sp. CAG:486].
+ACCESSION   CDA50414
+VERSION     CDA50414.1
+DBSOURCE    embl accession CBBY010000247.1
+KEYWORDS    ENV.
+SOURCE      Dialister sp. CAG:486
+  ORGANISM  Dialister sp. CAG:486
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..94
+                     /organism="Dialister sp. CAG:486"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262870"
+                     /environmental_sample
+                     /note="contig 69"
+     Protein         1..94
+                     /product="putative uncharacterized protein"
+     Region          4..87
+                     /region_name="ParE-like_toxin"
+                     /note="ParE-like toxin of type II bacterial
+                     toxin-antitoxin system; pfam15781"
+                     /db_xref="CDD:292409"
+     CDS             1..94
+                     /locus_tag="BN678_00263"
+                     /coded_by="CBBY010000247.1:947..1231"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 meikqtrifk stykrlfskq rksvdhairl iienpsigeq kksdlsevfv ykfkvdaqly
+       61 llaytfdpvt ltlimlgvhe nfyrdlkrmp ylkk
+//
+
+LOCUS       WP_007554752              88 aa            linear   BCT 19-AUG-2015
+DEFINITION  hypothetical protein [Dialister micraerophilus].
+ACCESSION   WP_007554752
+VERSION     WP_007554752.1
+KEYWORDS    RefSeq.
+SOURCE      Dialister micraerophilus
+  ORGANISM  Dialister micraerophilus
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..88
+                     /organism="Dialister micraerophilus"
+                     /db_xref="taxon:309120"
+     Protein         1..88
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=10269
+     Region          1..87
+                     /region_name="RelE"
+                     /note="mRNA-degrading endonuclease RelE, toxin component
+                     of the RelBE toxin-antitoxin system [Defense mechanisms];
+                     COG2026"
+                     /db_xref="CDD:224937"
+ORIGIN      
+        1 mkfevlyrkk vkksigkldt sikiliksri dknlvntenp rlygkaltgn lrnywryrvg
+       61 nyriiaeikd nelivlavde nrgikiyn
+//
+
+LOCUS       WP_007554893              87 aa            linear   BCT 05-JUN-2013
+DEFINITION  addiction module toxin, Txe/YoeB family [Dialister micraerophilus].
+ACCESSION   WP_007554893
+VERSION     WP_007554893.1
+KEYWORDS    RefSeq.
+SOURCE      Dialister micraerophilus
+  ORGANISM  Dialister micraerophilus
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..87
+                     /organism="Dialister micraerophilus"
+                     /db_xref="taxon:309120"
+     Protein         1..87
+                     /product="addiction module toxin, Txe/YoeB family"
+                     /calculated_mol_wt=10352
+     Region          7..86
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 mkrslqwdid awknylfwqk edksilkrin qlikeilrhp fsgtgkpepl kgnlkglwsr
+       61 rinhehrlvy iveetviiiv dckghyn
+//
+
+LOCUS       WP_007556080              88 aa            linear   BCT 19-AUG-2015
+DEFINITION  hypothetical protein [Dialister micraerophilus].
+ACCESSION   WP_007556080
+VERSION     WP_007556080.1
+KEYWORDS    RefSeq.
+SOURCE      Dialister micraerophilus
+  ORGANISM  Dialister micraerophilus
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..88
+                     /organism="Dialister micraerophilus"
+                     /db_xref="taxon:309120"
+     Protein         1..88
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=10233
+     Region          1..87
+                     /region_name="RelE"
+                     /note="mRNA-degrading endonuclease RelE, toxin component
+                     of the RelBE toxin-antitoxin system [Defense mechanisms];
+                     COG2026"
+                     /db_xref="CDD:224937"
+ORIGIN      
+        1 mkfevlytkk akksigkldt sikiliksri dknlvntenp rlygkaltgn lrnyrryrvg
+       61 nyriafeikd nelivlavde nrgrkiyn
+//
+
+LOCUS       CDA50640                  92 aa            linear   ENV 31-MAY-2013
+DEFINITION  addiction module toxin rele/stbe family protein [Dialister sp.
+            CAG:486].
+ACCESSION   CDA50640
+VERSION     CDA50640.1
+DBSOURCE    embl accession CBBY010000269.1
+KEYWORDS    ENV.
+SOURCE      Dialister sp. CAG:486
+  ORGANISM  Dialister sp. CAG:486
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..92
+                     /organism="Dialister sp. CAG:486"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262870"
+                     /environmental_sample
+                     /note="contig 89"
+     Protein         1..92
+                     /product="addiction module toxin rele/stbe family protein"
+     Region          1..90
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+     CDS             1..92
+                     /locus_tag="BN678_00476"
+                     /coded_by="complement(CBBY010000269.1:5704..5982)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mylvkftsay kksyklmrkr gfdvslldev vetlmqgaal esryrdhgls grfqgfrech
+       61 vkpdwllvyl ieddiltltl idtgshadif rm
+//
+
+LOCUS       CDF26861                  88 aa            linear   ENV 31-MAY-2013
+DEFINITION  addiction module toxin RelE/StbE family [Dialister sp. CAG:588].
+ACCESSION   CDF26861
+VERSION     CDF26861.1
+DBSOURCE    embl accession CBKO010000016.1
+KEYWORDS    ENV.
+SOURCE      Dialister sp. CAG:588
+  ORGANISM  Dialister sp. CAG:588
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..88
+                     /organism="Dialister sp. CAG:588"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262871"
+                     /environmental_sample
+                     /note="contig 112"
+     Protein         1..88
+                     /product="addiction module toxin RelE/StbE family"
+     Region          1..87
+                     /region_name="RelE"
+                     /note="mRNA-degrading endonuclease RelE, toxin component
+                     of the RelBE toxin-antitoxin system [Defense mechanisms];
+                     COG2026"
+                     /db_xref="CDD:224937"
+     CDS             1..88
+                     /locus_tag="BN722_00703"
+                     /coded_by="complement(CBKO010000016.1:9843..10109)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mysvvfekqa ikqlskiski gqlqikklit kienaenpry igkalthnlk gfwryragdy
+       61 rviceikddk civvvinign rreiydrv
+//
+
+LOCUS       CDD79356                  91 aa            linear   ENV 31-MAY-2013
+DEFINITION  toxin-antitoxin system toxin component RelE family [Dialister sp.
+            CAG:357].
+ACCESSION   CDD79356
+VERSION     CDD79356.1
+DBSOURCE    embl accession CBHT010000057.1
+KEYWORDS    ENV.
+SOURCE      Dialister sp. CAG:357
+  ORGANISM  Dialister sp. CAG:357
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..91
+                     /organism="Dialister sp. CAG:357"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262869"
+                     /environmental_sample
+                     /note="contig 15"
+     Protein         1..91
+                     /product="toxin-antitoxin system toxin component RelE
+                     family"
+     Region          3..91
+                     /region_name="YafQ"
+                     /note="mRNA-degrading endonuclease (mRNA interferase)
+                     YafQ, toxin component of the YafQ-DinJ toxin-antitoxin
+                     module [Translation, ribosomal structure and biogenesis];
+                     COG3041"
+                     /db_xref="CDD:225583"
+     CDS             1..91
+                     /locus_tag="BN625_00122"
+                     /coded_by="complement(CBHT010000057.1:421..696)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mkyevkfttq fkkdlklakk qnkdidvlfs vieqlaqgkq ldekyrdhdl ggtykgcrec
+       61 hidpdwlliy etkddvlvll lyrlgshsql f
+//
+
+LOCUS       WP_007554638              87 aa            linear   BCT 05-JUN-2013
+DEFINITION  addiction module toxin, Txe/YoeB family [Dialister micraerophilus].
+ACCESSION   WP_007554638
+VERSION     WP_007554638.1
+KEYWORDS    RefSeq.
+SOURCE      Dialister micraerophilus
+  ORGANISM  Dialister micraerophilus
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..87
+                     /organism="Dialister micraerophilus"
+                     /db_xref="taxon:309120"
+     Protein         1..87
+                     /product="addiction module toxin, Txe/YoeB family"
+                     /calculated_mol_wt=10325
+     Region          5..84
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 mikswsdeaw edfnywikqd kktlkrilml lkdidrnlye gignpeplkg nfsgywsrri
+       61 dsknrivyki kndtvliaqc gshyrdk
+//
+
+LOCUS       WP_007554703              87 aa            linear   BCT 27-MAY-2013
+DEFINITION  addiction module protein [Dialister micraerophilus].
+ACCESSION   WP_007554703
+VERSION     WP_007554703.1
+KEYWORDS    RefSeq.
+SOURCE      Dialister micraerophilus
+  ORGANISM  Dialister micraerophilus
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..87
+                     /organism="Dialister micraerophilus"
+                     /db_xref="taxon:309120"
+     Protein         1..87
+                     /product="addiction module protein"
+                     /calculated_mol_wt=10425
+     Region          5..84
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 mkklweenaw eeyvywqtqd krtlkkinkl lkdierngyn cigkteplrg nlsgyysiri
+       61 dsknrivfri indnieiiqc gthyqek
+//
+
+LOCUS       CDA49029                  88 aa            linear   ENV 31-MAY-2013
+DEFINITION  addiction module toxin Txe/YoeB family [Dialister sp. CAG:486].
+ACCESSION   CDA49029
+VERSION     CDA49029.1
+DBSOURCE    embl accession CBBY010000152.1
+KEYWORDS    ENV.
+SOURCE      Dialister sp. CAG:486
+  ORGANISM  Dialister sp. CAG:486
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..88
+                     /organism="Dialister sp. CAG:486"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262870"
+                     /environmental_sample
+                     /note="contig 235"
+     Protein         1..88
+                     /product="addiction module toxin Txe/YoeB family"
+     Region          5..85
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+     CDS             1..88
+                     /locus_tag="BN678_01480"
+                     /coded_by="CBBY010000152.1:1287..1553"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mrklwleeaw eeyiswqtkd kavlkkinrl lkdidrygye csgkpeplkg dlsgywsvhi
+       61 dqknrivfri dgeenleiiq cgthygdr
+//
+
+LOCUS       CDA47921                  87 aa            linear   ENV 31-MAY-2013
+DEFINITION  toxin-antitoxin system toxin component Txe/YoeB family [Dialister
+            sp. CAG:486].
+ACCESSION   CDA47921
+VERSION     CDA47921.1
+DBSOURCE    embl accession CBBY010000100.1
+KEYWORDS    ENV.
+SOURCE      Dialister sp. CAG:486
+  ORGANISM  Dialister sp. CAG:486
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Dialister; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..87
+                     /organism="Dialister sp. CAG:486"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262870"
+                     /environmental_sample
+                     /note="contig 189"
+     Protein         1..87
+                     /product="toxin-antitoxin system toxin component Txe/YoeB
+                     family"
+     Region          5..84
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+     CDS             1..87
+                     /locus_tag="BN678_01127"
+                     /coded_by="complement(CBBY010000100.1:8192..8455)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mnkaftdigg edylywqted rktlrkintl lkdierngne gigkpepltg dlsgfwsrri
+       61 nqkdrliyal emdqiiiiac ryhyddt
+//
+

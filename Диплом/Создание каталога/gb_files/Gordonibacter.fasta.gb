@@ -1,0 +1,772 @@
+LOCUS       WP_015539852             152 aa            linear   BCT 26-AUG-2016
+DEFINITION  HicB family protein [Gordonibacter pamelaeae].
+ACCESSION   WP_015539852
+VERSION     WP_015539852.1
+KEYWORDS    RefSeq.
+SOURCE      Gordonibacter pamelaeae
+  ORGANISM  Gordonibacter pamelaeae
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Gordonibacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..152
+                     /organism="Gordonibacter pamelaeae"
+                     /db_xref="taxon:471189"
+     Protein         1..152
+                     /product="HicB family protein"
+                     /calculated_mol_wt=16352
+     Region          3..77
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+     Region          91..135
+                     /region_name="HTH_17"
+                     /note="Helix-turn-helix domain; pfam12728"
+                     /db_xref="CDD:289498"
+ORIGIN      
+        1 mgkfvyqaim speedggysv efpdlpgcft dgddymdavg maadaaktyv aslmlhgdtv
+       61 peanrhdape gyesvyvffe tdesyivrge vvsaaqaard lgvsagrvth midaglldgy
+      121 rsgrrtfvtk esvnrrksdp rgagrpsrak ea
+//
+
+LOCUS       WP_041239774              93 aa            linear   BCT 04-FEB-2015
+DEFINITION  hypothetical protein [Gordonibacter pamelaeae].
+ACCESSION   WP_041239774
+VERSION     WP_041239774.1
+KEYWORDS    RefSeq.
+SOURCE      Gordonibacter pamelaeae
+  ORGANISM  Gordonibacter pamelaeae
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Gordonibacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..93
+                     /organism="Gordonibacter pamelaeae"
+                     /db_xref="taxon:471189"
+     Protein         1..93
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=10319
+     Region          5..93
+                     /region_name="MazE_antitoxin"
+                     /note="Antidote-toxin recognition MazE, bacterial
+                     antitoxin; cl00877"
+                     /db_xref="CDD:294570"
+ORIGIN      
+        1 mvyatltkwg nsqgvlipks lcdkyglsvg dkliieegaa gielkpqrrr fathpvdlde
+       61 lfegwtgtye ppedwpcvgd eidwgepvgk eiw
+//
+
+LOCUS       WP_015539775             158 aa            linear   BCT 26-AUG-2016
+DEFINITION  division/cell wall cluster transcriptional repressor MraZ
+            [Gordonibacter pamelaeae].
+ACCESSION   WP_015539775
+VERSION     WP_015539775.1
+KEYWORDS    RefSeq.
+SOURCE      Gordonibacter pamelaeae
+  ORGANISM  Gordonibacter pamelaeae
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Gordonibacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..158
+                     /organism="Gordonibacter pamelaeae"
+                     /db_xref="taxon:471189"
+     Protein         1..158
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=17736
+     Region          22..151
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          22..74
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(22..23,49,58,67..68,71)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          29..33
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          91..150
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(98,100,128,135,144..145,148)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          106..110
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 maevvdtten tegaahivdl ngefrfkvda kgrmslpakf rkvlstdlvv trnpkdecly
+       61 vfeprgfnaw vaevfedkfg kydssndlhv rlrrklkara kdvevdgsgr imlptearea
+      121 tdidkdvvvv gntgyfevwd akryeaqddd tdlgvlfg
+//
+
+LOCUS       CBL03381                  96 aa            linear   BCT 27-FEB-2015
+DEFINITION  prevent-host-death family protein [Gordonibacter pamelaeae
+            7-10-1-b].
+ACCESSION   CBL03381
+VERSION     CBL03381.1
+DBLINK      BioProject: PRJNA39175
+            BioSample: SAMEA3138362
+DBSOURCE    embl accession FP929047.1
+KEYWORDS    .
+SOURCE      Gordonibacter pamelaeae 7-10-1-b
+  ORGANISM  Gordonibacter pamelaeae 7-10-1-b
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Gordonibacter.
+REFERENCE   1
+  AUTHORS   Pajon,A., Turner,K., Parkhill,J., Timmis,K., Oxley,A. and
+            Wurdemann,D.
+  CONSRTM   metaHIT consortium -- http://www.metahit.eu/
+  TITLE     The genome sequence of Gordonibacter pamelaeae 7-10-1-bT
+  JOURNAL   Unpublished
+REFERENCE   2
+  AUTHORS   Pajon,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2010) Sanger Institute, Wellcome Trust Genome
+            Campus, Hinxton, Cambridge CB10 1SA, United Kingdom
+COMMENT     This is a reference genome for the metaHIT project DNA source:
+            Helmholtz Centre for Infection Research --
+            http://www.helmholtz-hzi.de/
+            Sequencing technology: 454
+            Genome coverage: 20x
+            Annotation was added using ab initio prediction IMG/ER --
+            http://img.jgi.doe.gov/submit (Markowitz, Szeto et al. 2007).
+FEATURES             Location/Qualifiers
+     source          1..96
+                     /organism="Gordonibacter pamelaeae 7-10-1-b"
+                     /strain="7-10-1-bT"
+                     /db_xref="taxon:657308"
+     Protein         1..96
+                     /product="prevent-host-death family protein"
+     Region          12..>55
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+     CDS             1..96
+                     /locus_tag="GPA_03080"
+                     /coded_by="complement(FP929047.1:318806..319096)"
+                     /transl_table=11
+                     /db_xref="EnsemblGenomes-Gn:GPA_03080"
+                     /db_xref="EnsemblGenomes-Tr:CBL03381"
+                     /db_xref="InterPro:IPR006442"
+                     /db_xref="UniProtKB/TrEMBL:D6E6N4"
+ORIGIN      
+        1 marketamtv cvpikdlknt atfsklvess pdpvivtrng resfavmtve eldalrleaa
+       61 raqlyrdide aeddfahgrm teanesqrrt rerygl
+//
+
+LOCUS       WP_015538938             105 aa            linear   BCT 19-MAY-2013
+DEFINITION  prevent-host-death family protein [Gordonibacter pamelaeae].
+ACCESSION   WP_015538938
+VERSION     WP_015538938.1
+KEYWORDS    RefSeq.
+SOURCE      Gordonibacter pamelaeae
+  ORGANISM  Gordonibacter pamelaeae
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Gordonibacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..105
+                     /organism="Gordonibacter pamelaeae"
+                     /db_xref="taxon:471189"
+     Protein         1..105
+                     /product="prevent-host-death family protein"
+                     /calculated_mol_wt=11538
+     Region          11..74
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+ORIGIN      
+        1 mpalaaplpi irpitdlrtq lndvctqata tqepvvltkn gtasyvlmds gayetaerrn
+       61 rvylalreae ieeryrpeav paaesdakmr eifalwgldy qpsas
+//
+
+LOCUS       WP_015539924              83 aa            linear   BCT 19-MAY-2013
+DEFINITION  prevent-host-death family protein [Gordonibacter pamelaeae].
+ACCESSION   WP_015539924
+VERSION     WP_015539924.1
+KEYWORDS    RefSeq.
+SOURCE      Gordonibacter pamelaeae
+  ORGANISM  Gordonibacter pamelaeae
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Gordonibacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..83
+                     /organism="Gordonibacter pamelaeae"
+                     /db_xref="taxon:471189"
+     Protein         1..83
+                     /product="prevent-host-death family protein"
+                     /calculated_mol_wt=8897
+     Region          1..66
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+ORIGIN      
+        1 mtsitatalr qniyqtiaqv nenctpiait nskgkgavlv gesdwaaiee tlflngipgm
+       61 seslragkee kpedclsedq lew
+//
+
+LOCUS       WP_041238989             102 aa            linear   BCT 04-FEB-2015
+DEFINITION  prevent-host-death protein [Gordonibacter pamelaeae].
+ACCESSION   WP_041238989
+VERSION     WP_041238989.1
+KEYWORDS    RefSeq.
+SOURCE      Gordonibacter pamelaeae
+  ORGANISM  Gordonibacter pamelaeae
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Gordonibacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..102
+                     /organism="Gordonibacter pamelaeae"
+                     /db_xref="taxon:471189"
+     Protein         1..102
+                     /product="prevent-host-death protein"
+                     /calculated_mol_wt=11553
+     Region          9..69
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+ORIGIN      
+        1 mamqaalpqi rpisdlrtrl ndiealaret repiimtkng aaslvvidsk aydehlrher
+       61 avrklreaei eekyrpaaip fdevkarveq lidaaeqlha rd
+//
+
+LOCUS       WP_015538950             130 aa            linear   BCT 14-JUN-2015
+DEFINITION  antitoxin RelB [Gordonibacter pamelaeae].
+ACCESSION   WP_015538950
+VERSION     WP_015538950.1
+KEYWORDS    RefSeq.
+SOURCE      Gordonibacter pamelaeae
+  ORGANISM  Gordonibacter pamelaeae
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Gordonibacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..130
+                     /organism="Gordonibacter pamelaeae"
+                     /db_xref="taxon:471189"
+     Protein         1..130
+                     /product="antitoxin RelB"
+                     /calculated_mol_wt=13879
+     Region          28..>74
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mdavtekgdp rtskkavgka seksgrvdsi vtarvpteik kqgnavleki gatptelins
+       61 ayeyaishgs lpteggfvrp gprkltpgqk nklkergrrm lvkpggdaln grslkdvlae
+      121 mryadyeals
+//
+
+LOCUS       WP_015539063             100 aa            linear   BCT 14-JUN-2015
+DEFINITION  addiction module antitoxin RelB [Gordonibacter pamelaeae].
+ACCESSION   WP_015539063
+VERSION     WP_015539063.1
+KEYWORDS    RefSeq.
+SOURCE      Gordonibacter pamelaeae
+  ORGANISM  Gordonibacter pamelaeae
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Gordonibacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..100
+                     /organism="Gordonibacter pamelaeae"
+                     /db_xref="taxon:471189"
+     Protein         1..100
+                     /product="addiction module antitoxin RelB"
+                     /calculated_mol_wt=11404
+     Region          8..>64
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mgekglesvl tvrldrkvke qgaavmqryg ytpssavrrf fdyavkhdal pfeqqdkpnr
+       61 deikrriaaf dachtkrssg mtdeeirdar lrdryglgar
+//
+
+LOCUS       WP_015539454             121 aa            linear   BCT 19-MAY-2013
+DEFINITION  RelB antitoxin [Gordonibacter pamelaeae].
+ACCESSION   WP_015539454
+VERSION     WP_015539454.1
+KEYWORDS    RefSeq.
+SOURCE      Gordonibacter pamelaeae
+  ORGANISM  Gordonibacter pamelaeae
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Gordonibacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..121
+                     /organism="Gordonibacter pamelaeae"
+                     /db_xref="taxon:471189"
+     Protein         1..121
+                     /product="RelB antitoxin."
+                     /calculated_mol_wt=13116
+     Region          1..>52
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 msmaqmntri daevkergda vlaqagysss qavraiwsfa ashaheplvv rqflqqaegg
+       61 gqdpsakaaa daklealera lslherlett lgfqleaeea ltdrqlrgea llsrwedrgl
+      121 l
+//
+
+LOCUS       WP_041239436              99 aa            linear   BCT 04-FEB-2015
+DEFINITION  RelB/DinJ family addiction module antitoxin [Gordonibacter
+            pamelaeae].
+ACCESSION   WP_041239436
+VERSION     WP_041239436.1
+KEYWORDS    RefSeq.
+SOURCE      Gordonibacter pamelaeae
+  ORGANISM  Gordonibacter pamelaeae
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Gordonibacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..99
+                     /organism="Gordonibacter pamelaeae"
+                     /db_xref="taxon:471189"
+     Protein         1..99
+                     /product="RelB/DinJ family addiction module antitoxin"
+                     /calculated_mol_wt=10900
+     Region          1..85
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mddamvtarm aaekkrrgas vltrdglsas qainlmydrl idegeadflf ssdarpgdda
+       61 kwaaaarfvd altskrssrf ddmtkaevrr erlrakglm
+//
+
+LOCUS       WP_041239835              64 aa            linear   BCT 04-FEB-2015
+DEFINITION  hypothetical protein [Gordonibacter pamelaeae].
+ACCESSION   WP_041239835
+VERSION     WP_041239835.1
+KEYWORDS    RefSeq.
+SOURCE      Gordonibacter pamelaeae
+  ORGANISM  Gordonibacter pamelaeae
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Gordonibacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..64
+                     /organism="Gordonibacter pamelaeae"
+                     /db_xref="taxon:471189"
+     Protein         1..64
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=6975
+     Region          1..>51
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 metanvtvrm grqtrddaak lfselgistt qainmflkqa vreqripfev tarpavergg
+       61 ekpg
+//
+
+LOCUS       WP_015539353             140 aa            linear   BCT 28-MAY-2015
+DEFINITION  CopG family transcriptional regulator [Gordonibacter pamelaeae].
+ACCESSION   WP_015539353
+VERSION     WP_015539353.1
+KEYWORDS    RefSeq.
+SOURCE      Gordonibacter pamelaeae
+  ORGANISM  Gordonibacter pamelaeae
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Gordonibacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..140
+                     /organism="Gordonibacter pamelaeae"
+                     /db_xref="taxon:471189"
+     Protein         1..140
+                     /product="CopG family transcriptional regulator"
+                     /function="transcriptional regulator, CopG family"
+                     /calculated_mol_wt=15534
+     Region          4..138
+                     /region_name="PRK04460"
+                     /note="nickel responsive regulator; Provisional"
+                     /db_xref="CDD:179855"
+     Region          6..98
+                     /region_name="RHH_1"
+                     /note="Ribbon-helix-helix protein, copG family; cl22901"
+                     /db_xref="CDD:304625"
+     Region          61..134
+                     /region_name="NikR_C"
+                     /note="NikR C terminal nickel binding domain; pfam08753"
+                     /db_xref="CDD:285909"
+ORIGIN      
+        1 msndlmrfsv ampedllvrf drlvarrgla knrsevvrdl vrdalveeec atpgaevmgt
+       61 ltivfdhhas dlqeklhaiq heyfesivss mhvhldehnc levivlrget glvqdianli
+      121 lgtkgvkngr lvvtttgqyi
+//
+
+LOCUS       WP_015540233              88 aa            linear   BCT 19-MAY-2013
+DEFINITION  hypothetical protein [Gordonibacter pamelaeae].
+ACCESSION   WP_015540233
+VERSION     WP_015540233.1
+KEYWORDS    RefSeq.
+SOURCE      Gordonibacter pamelaeae
+  ORGANISM  Gordonibacter pamelaeae
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Gordonibacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..88
+                     /organism="Gordonibacter pamelaeae"
+                     /db_xref="taxon:471189"
+     Protein         1..88
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=9887
+     Region          <43..86
+                     /region_name="PHA00617"
+                     /note="ribbon-helix-helix domain containing protein"
+                     /db_xref="CDD:177289"
+ORIGIN      
+        1 mgfeadngtv ltdemldkra eeyedgtwsg hgevamgrpr lydedmgtvs frlpcsrira
+       61 veaaakrqge sksdffrrai drellesr
+//
+
+LOCUS       WP_015538610              91 aa            linear   BCT 19-MAY-2013
+DEFINITION  hypothetical protein [Gordonibacter pamelaeae].
+ACCESSION   WP_015538610
+VERSION     WP_015538610.1
+KEYWORDS    RefSeq.
+SOURCE      Gordonibacter pamelaeae
+  ORGANISM  Gordonibacter pamelaeae
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Gordonibacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..91
+                     /organism="Gordonibacter pamelaeae"
+                     /db_xref="taxon:471189"
+     Protein         1..91
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=10395
+     Region          5..80
+                     /region_name="BrnT_toxin"
+                     /note="Ribonuclease toxin, BrnT, of type II
+                     toxin-antitoxin system; pfam04365"
+                     /db_xref="CDD:282252"
+ORIGIN      
+        1 mefeydpqks arnlakhgid fgeaqrlwdd rtvaipslad cgearfvvlg midgkhwsav
+       61 vtyrgervri isvrrsrtke arcydskele h
+//
+
+LOCUS       WP_015539686              60 aa            linear   BCT 19-MAY-2016
+DEFINITION  addiction module toxin, HicA family [Gordonibacter pamelaeae].
+ACCESSION   WP_015539686
+VERSION     WP_015539686.1
+KEYWORDS    RefSeq.
+SOURCE      Gordonibacter pamelaeae
+  ORGANISM  Gordonibacter pamelaeae
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Gordonibacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..60
+                     /organism="Gordonibacter pamelaeae"
+                     /db_xref="taxon:471189"
+     Protein         1..60
+                     /product="addiction module toxin, HicA family"
+                     /calculated_mol_wt=6705
+     Region          5..55
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; pfam07927"
+                     /db_xref="CDD:285205"
+ORIGIN      
+        1 mvkrrdlvke veaqglknyg gashdifkkp gfttsiprhr eidenmarai rkqagiegkr
+//
+
+LOCUS       WP_015539853              62 aa            linear   BCT 26-MAY-2015
+DEFINITION  periplasmic or lipoprotein [Gordonibacter pamelaeae].
+ACCESSION   WP_015539853
+VERSION     WP_015539853.1
+KEYWORDS    RefSeq.
+SOURCE      Gordonibacter pamelaeae
+  ORGANISM  Gordonibacter pamelaeae
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Gordonibacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..62
+                     /organism="Gordonibacter pamelaeae"
+                     /db_xref="taxon:471189"
+     Protein         1..62
+                     /product="periplasmic or lipoprotein"
+                     /calculated_mol_wt=7130
+     Region          8..60
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; pfam07927"
+                     /db_xref="CDD:285205"
+ORIGIN      
+        1 mpkeqevrev mkrlrkeewe eesgkgshvv frkdgrtvsv ptskkelrtg tyrniaktag
+       61 wl
+//
+
+LOCUS       CBL04080                 103 aa            linear   BCT 27-FEB-2015
+DEFINITION  Plasmid maintenance system killer protein [Gordonibacter pamelaeae
+            7-10-1-b].
+ACCESSION   CBL04080
+VERSION     CBL04080.1
+DBLINK      BioProject: PRJNA39175
+            BioSample: SAMEA3138362
+DBSOURCE    embl accession FP929047.1
+KEYWORDS    .
+SOURCE      Gordonibacter pamelaeae 7-10-1-b
+  ORGANISM  Gordonibacter pamelaeae 7-10-1-b
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Gordonibacter.
+REFERENCE   1
+  AUTHORS   Pajon,A., Turner,K., Parkhill,J., Timmis,K., Oxley,A. and
+            Wurdemann,D.
+  CONSRTM   metaHIT consortium -- http://www.metahit.eu/
+  TITLE     The genome sequence of Gordonibacter pamelaeae 7-10-1-bT
+  JOURNAL   Unpublished
+REFERENCE   2
+  AUTHORS   Pajon,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2010) Sanger Institute, Wellcome Trust Genome
+            Campus, Hinxton, Cambridge CB10 1SA, United Kingdom
+COMMENT     This is a reference genome for the metaHIT project DNA source:
+            Helmholtz Centre for Infection Research --
+            http://www.helmholtz-hzi.de/
+            Sequencing technology: 454
+            Genome coverage: 20x
+            Annotation was added using ab initio prediction IMG/ER --
+            http://img.jgi.doe.gov/submit (Markowitz, Szeto et al. 2007).
+FEATURES             Location/Qualifiers
+     source          1..103
+                     /organism="Gordonibacter pamelaeae 7-10-1-b"
+                     /strain="7-10-1-bT"
+                     /db_xref="taxon:657308"
+     Protein         1..103
+                     /product="Plasmid maintenance system killer protein"
+     Region          11..103
+                     /region_name="HigB"
+                     /note="Plasmid maintenance system killer protein [Defense
+                     mechanisms]; COG3549"
+                     /db_xref="CDD:226079"
+     CDS             1..103
+                     /locus_tag="GPA_15100"
+                     /coded_by="FP929047.1:1521404..1521715"
+                     /transl_table=11
+                     /db_xref="EnsemblGenomes-Gn:GPA_15100"
+                     /db_xref="EnsemblGenomes-Tr:CBL04080"
+                     /db_xref="InterPro:IPR007711"
+                     /db_xref="UniProtKB/TrEMBL:D6E8N3"
+ORIGIN      
+        1 mrhvmrytla miksfvdkat eqlfcegssk klpvdvagra lrkldmldaa vsvgdmrvpp
+       61 gnrlhalqgd ragqhavsvn gqwricfrfd gedaydveic dyh
+//
+
+LOCUS       WP_015538730             101 aa            linear   BCT 19-MAY-2013
+DEFINITION  addiction module toxin, RelE/StbE family [Gordonibacter pamelaeae].
+ACCESSION   WP_015538730
+VERSION     WP_015538730.1
+KEYWORDS    RefSeq.
+SOURCE      Gordonibacter pamelaeae
+  ORGANISM  Gordonibacter pamelaeae
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Gordonibacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..101
+                     /organism="Gordonibacter pamelaeae"
+                     /db_xref="taxon:471189"
+     Protein         1..101
+                     /product="addiction module toxin, RelE/StbE family"
+                     /calculated_mol_wt=11779
+     Region          5..97
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; pfam05016"
+                     /db_xref="CDD:282823"
+ORIGIN      
+        1 maynvvwsfs aerdrdrive yllydlaspq aashvldeld kmivilsdnp klfalsaesr
+       61 larmgyrkyl fmryvvlyrv edrtvkvgri fhtaqnyarl v
+//
+
+LOCUS       WP_015538939             106 aa            linear   BCT 08-DEC-2015
+DEFINITION  plasmid stabilization system protein [Gordonibacter pamelaeae].
+ACCESSION   WP_015538939
+VERSION     WP_015538939.1
+KEYWORDS    RefSeq.
+SOURCE      Gordonibacter pamelaeae
+  ORGANISM  Gordonibacter pamelaeae
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Gordonibacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..106
+                     /organism="Gordonibacter pamelaeae"
+                     /db_xref="taxon:471189"
+     Protein         1..106
+                     /product="plasmid stabilization system protein"
+                     /calculated_mol_wt=11732
+     Region          6..94
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; pfam05016"
+                     /db_xref="CDD:282823"
+ORIGIN      
+        1 mldlawrpra hldresiaiy lgvecgnppa alaavqcida averaralpd aggrfrmegl
+       61 dakecrtvha npytvyyrfd dttltvyrvl hqrqsidtya lvdlpg
+//
+
+LOCUS       WP_015538977             106 aa            linear   BCT 08-DEC-2015
+DEFINITION  plasmid stabilization system protein [Gordonibacter pamelaeae].
+ACCESSION   WP_015538977
+VERSION     WP_015538977.1
+KEYWORDS    RefSeq.
+SOURCE      Gordonibacter pamelaeae
+  ORGANISM  Gordonibacter pamelaeae
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Gordonibacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..106
+                     /organism="Gordonibacter pamelaeae"
+                     /db_xref="taxon:471189"
+     Protein         1..106
+                     /product="plasmid stabilization system protein"
+                     /calculated_mol_wt=12164
+     Region          1..91
+                     /region_name="ParE"
+                     /note="Plasmid stabilization system protein ParE
+                     [Mobilome: prophages, transposons]; COG3668"
+                     /db_xref="CDD:226194"
+ORIGIN      
+        1 mraiefrpra sadldgilas ialtlkspqa ardtadaifa aieraaeipe lgqpffdedl
+       61 ehptyrrklv krywvyytyt ddtltvrrif hmtqdtdcyg feildd
+//
+
+LOCUS       WP_015539925              97 aa            linear   BCT 14-JUN-2015
+DEFINITION  toxin [Gordonibacter pamelaeae].
+ACCESSION   WP_015539925
+VERSION     WP_015539925.1
+KEYWORDS    RefSeq.
+SOURCE      Gordonibacter pamelaeae
+  ORGANISM  Gordonibacter pamelaeae
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Gordonibacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..97
+                     /organism="Gordonibacter pamelaeae"
+                     /db_xref="taxon:471189"
+     Protein         1..97
+                     /product="toxin"
+                     /calculated_mol_wt=10995
+     Region          6..94
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 myavkftkqa akdarklkaa gldkkakalv evlkrdpfqe apayealvgn lsglysrrin
+       61 lqhrlvyqvy aepfdeegvh yqgivkvvrm wthyegl
+//
+
+LOCUS       WP_015540433             110 aa            linear   BCT 08-DEC-2015
+DEFINITION  growth inhibitor [Gordonibacter pamelaeae].
+ACCESSION   WP_015540433
+VERSION     WP_015540433.1
+KEYWORDS    RefSeq.
+SOURCE      Gordonibacter pamelaeae
+  ORGANISM  Gordonibacter pamelaeae
+            Bacteria; Actinobacteria; Coriobacteriia; Eggerthellales;
+            Eggerthellaceae; Gordonibacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..110
+                     /organism="Gordonibacter pamelaeae"
+                     /db_xref="taxon:471189"
+     Protein         1..110
+                     /product="growth inhibitor"
+                     /calculated_mol_wt=11925
+     Region          6..108
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 mvmiceqgdi iavdfepsvg hepnkyrpal vvssntfnar ssltavcpit svnngyplhv
+       61 gidheevrgf vcveqvrtvd lsnrrckrla qaseddmglv lsyvasifgl
+//
+

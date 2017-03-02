@@ -1,0 +1,557 @@
+LOCUS       WP_057257280              71 aa            linear   BCT 31-OCT-2016
+DEFINITION  antitoxin [Parvimonas sp. KA00067].
+ACCESSION   WP_057257280
+VERSION     WP_057257280.1
+KEYWORDS    RefSeq.
+SOURCE      Parvimonas sp. KA00067
+  ORGANISM  Parvimonas sp. KA00067
+            Bacteria; Firmicutes; Tissierellia; Tissierellales;
+            Peptoniphilaceae; Parvimonas.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..71
+                     /organism="Parvimonas sp. KA00067"
+                     /db_xref="taxon:1588755"
+     Protein         1..71
+                     /product="antitoxin"
+                     /calculated_mol_wt=8463
+     Region          <8..58
+                     /region_name="BrnA_antitoxin"
+                     /note="BrnA antitoxin of type II toxin-antitoxin system;
+                     cl23863"
+                     /db_xref="CDD:305020"
+ORIGIN      
+        1 mrkeydirkl nprknpyskl ikkqvtikld edtiiyfknq aestgipyqt linlylrdcv
+       61 knkrnlecsw i
+//
+
+LOCUS       WP_029948711             135 aa            linear   BCT 26-AUG-2016
+DEFINITION  HicB family protein [Parvimonas micra].
+ACCESSION   WP_029948711
+VERSION     WP_029948711.1
+KEYWORDS    RefSeq.
+SOURCE      Parvimonas micra
+  ORGANISM  Parvimonas micra
+            Bacteria; Firmicutes; Tissierellia; Tissierellales;
+            Peptoniphilaceae; Parvimonas.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..135
+                     /organism="Parvimonas micra"
+                     /db_xref="taxon:33033"
+     Protein         1..135
+                     /product="HicB family protein"
+                     /calculated_mol_wt=15290
+     Region          9..>62
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+ORIGIN      
+        1 mnkgvrtfia lfkfndgvyt isfpdlrgai seagsieeai snakdvleiw llnaedynik
+       61 ipnsksfkel enlavgekdf iqyitvdldl arkkednrsv kktltipfwl nelavnnnvn
+      121 fsyclqkalr kelnv
+//
+
+LOCUS       WP_009354684              73 aa            linear   BCT 27-MAY-2013
+DEFINITION  AbrB family transcriptional regulator [Parvimonas sp. oral taxon
+            110].
+ACCESSION   WP_009354684
+VERSION     WP_009354684.1
+KEYWORDS    RefSeq.
+SOURCE      Parvimonas sp. oral taxon 110
+  ORGANISM  Parvimonas sp. oral taxon 110
+            Bacteria; Firmicutes; Tissierellia; Tissierellales;
+            Peptoniphilaceae; Parvimonas.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..73
+                     /organism="Parvimonas sp. oral taxon 110"
+                     /db_xref="taxon:671230"
+     Protein         1..73
+                     /product="AbrB family transcriptional regulator"
+                     /calculated_mol_wt=7877
+     Region          14..>48
+                     /region_name="SpoVT_AbrB"
+                     /note="SpoVT / AbrB like domain; smart00966"
+                     /db_xref="CDD:198034"
+ORIGIN      
+        1 mkskkdgklh awtakvgskg qivipkeark ifsietgdnl lilgderrgl aimngdvatk
+       61 vlmnirgdls eed
+//
+
+LOCUS       EGL35523                 143 aa            linear   BCT 07-JUN-2013
+DEFINITION  protein MraZ [Parvimonas sp. oral taxon 110 str. F0139].
+ACCESSION   EGL35523
+VERSION     EGL35523.1
+DBLINK      BioProject: PRJNA49295
+            BioSample: SAMN00031761
+DBSOURCE    accession AFII01000002.1
+KEYWORDS    NONCONTIGUOUS_FINISHED.
+SOURCE      Parvimonas sp. oral taxon 110 str. F0139
+  ORGANISM  Parvimonas sp. oral taxon 110 str. F0139
+            Bacteria; Firmicutes; Tissierellia; Tissierellales;
+            Peptoniphilaceae; Parvimonas.
+REFERENCE   1  (residues 1 to 143)
+  AUTHORS   Harkins,D.M., Madupu,R., Durkin,A.S., Torralba,M., Methe,B.,
+            Sutton,G.G. and Nelson,K.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-APR-2011) J. Craig Venter Institute, 9704 Medical
+            Center Drive, Rockville, MD 20850, USA
+COMMENT     Product names were updated in June 2013.
+            
+            ##Genome-Assembly-Data-START##
+            Finishing Goal           :: Noncontiguous Finished
+            Current Finishing Status :: Noncontiguous Finished
+            Assembly Method          :: Celera Assembler v. 5.42
+            Genome Coverage          :: 44.81x
+            Sequencing Technology    :: 454
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..143
+                     /organism="Parvimonas sp. oral taxon 110 str. F0139"
+                     /strain="F0139"
+                     /db_xref="HMP:9126"
+                     /db_xref="taxon:767100"
+     Protein         1..143
+                     /product="protein MraZ"
+     Region          1..125
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          3..58
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(3..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..125
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,104,111,120..121,124)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+     CDS             1..143
+                     /gene="mraZ"
+                     /locus_tag="HMPREF9126_0860"
+                     /coded_by="complement(AFII01000002.1:55238..55669)"
+                     /note="identified by match to protein family HMM PF02381;
+                     match to protein family HMM TIGR00242"
+                     /transl_table=11
+ORIGIN      
+        1 mfigdfphtl ddkgrlimps kfrnelgsnf vvtrglegcl fvftekkwte fteqlnskgf
+       61 skkdvrsitr ffcscamnad ldkqgrflvn knlrefaeie rdvmiigvsd rieiwskekw
+      121 deyseleysd dtimserfdg ldf
+//
+
+LOCUS       WP_004832110             145 aa            linear   BCT 17-SEP-2015
+DEFINITION  division/cell wall cluster transcriptional repressor MraZ
+            [Parvimonas micra].
+ACCESSION   WP_004832110
+VERSION     WP_004832110.1
+KEYWORDS    RefSeq.
+SOURCE      Parvimonas micra
+  ORGANISM  Parvimonas micra
+            Bacteria; Firmicutes; Tissierellia; Tissierellales;
+            Peptoniphilaceae; Parvimonas.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..145
+                     /organism="Parvimonas micra"
+                     /db_xref="taxon:33033"
+     Protein         1..145
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=16891
+     Region          4..145
+                     /region_name="MraZ"
+                     /note="MraZ, DNA-binding transcriptional regulator and
+                     inhibitor of RsmH methyltransferase activity [Translation,
+                     ribosomal structure and biogenesis]; COG2001"
+                     /db_xref="CDD:224912"
+     Region          5..60
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(5..7,33,41,50..51,54)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          13..17
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          68..129
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(76,78,106,113,122..123,126)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          84..88
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 malfigdfph tlddkgrlim pskfrnelgt nfvvtrgleg clfvfterkw tefteqlnsk
+       61 gfskkdvrsi trffcscamn adldkqgrfl vnknlrefae ierdvmiigv sdrieiwske
+      121 kwdeyskaey sddnimserf dgldf
+//
+
+LOCUS       WP_009448623             145 aa            linear   BCT 17-SEP-2015
+DEFINITION  division/cell wall cluster transcriptional repressor MraZ
+            [Parvimonas sp. oral taxon 393].
+ACCESSION   WP_009448623
+VERSION     WP_009448623.1
+KEYWORDS    RefSeq.
+SOURCE      Parvimonas sp. oral taxon 393
+  ORGANISM  Parvimonas sp. oral taxon 393
+            Bacteria; Firmicutes; Tissierellia; Tissierellales;
+            Peptoniphilaceae; Parvimonas.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..145
+                     /organism="Parvimonas sp. oral taxon 393"
+                     /db_xref="taxon:713008"
+     Protein         1..145
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=16832
+     Region          4..145
+                     /region_name="MraZ"
+                     /note="MraZ, DNA-binding transcriptional regulator and
+                     inhibitor of RsmH methyltransferase activity [Translation,
+                     ribosomal structure and biogenesis]; COG2001"
+                     /db_xref="CDD:224912"
+     Region          5..60
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(5..7,33,41,50..51,54)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          13..17
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          68..129
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(76,78,106,113,122..123,126)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          84..88
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 malflgdfph tlddkgrlim pskfrnelga nfivtrgleg clfvftekkw iefteqlnsk
+       61 gfskkdvrsi trffcscamn tdldkqgrfv vnknlrefae ierdvmiigv sdrieiwske
+      121 kwdeyskaey sddaimserf dgldf
+//
+
+LOCUS       WP_039868457             145 aa            linear   BCT 17-SEP-2015
+DEFINITION  division/cell wall cluster transcriptional repressor MraZ
+            [Parvimonas sp. oral taxon 110].
+ACCESSION   WP_039868457
+VERSION     WP_039868457.1
+KEYWORDS    RefSeq.
+SOURCE      Parvimonas sp. oral taxon 110
+  ORGANISM  Parvimonas sp. oral taxon 110
+            Bacteria; Firmicutes; Tissierellia; Tissierellales;
+            Peptoniphilaceae; Parvimonas.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..145
+                     /organism="Parvimonas sp. oral taxon 110"
+                     /db_xref="taxon:671230"
+     Protein         1..145
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=16879
+     Region          4..127
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          5..60
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(5..7,33,41,50..51,54)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          13..17
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          68..127
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(76,78,106,113,122..123,126)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          84..88
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 malfigdfph tlddkgrlim pskfrnelgs nfvvtrgleg clfvftekkw tefteqlnsk
+       61 gfskkdvrsi trffcscamn adldkqgrfl vnknlrefae ierdvmiigv sdrieiwske
+      121 kwdeyseley sddtimserf dgldf
+//
+
+LOCUS       WP_009354543              62 aa            linear   BCT 27-MAY-2013
+DEFINITION  toxin HicA [Parvimonas sp. oral taxon 110].
+ACCESSION   WP_009354543
+VERSION     WP_009354543.1
+KEYWORDS    RefSeq.
+SOURCE      Parvimonas sp. oral taxon 110
+  ORGANISM  Parvimonas sp. oral taxon 110
+            Bacteria; Firmicutes; Tissierellia; Tissierellales;
+            Peptoniphilaceae; Parvimonas.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..62
+                     /organism="Parvimonas sp. oral taxon 110"
+                     /db_xref="taxon:671230"
+     Protein         1..62
+                     /product="toxin HicA"
+                     /calculated_mol_wt=6879
+     Region          2..61
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; cl00752"
+                     /db_xref="CDD:294488"
+ORIGIN      
+        1 mpltgkemlr llkkngwkel rqegshhile kdgaiivvpv hanqdlgkgl eqrilkdtgl
+       61 kk
+//
+
+LOCUS       WP_009447886              55 aa            linear   BCT 27-MAY-2013
+DEFINITION  toxin HicA [Parvimonas sp. oral taxon 393].
+ACCESSION   WP_009447886
+VERSION     WP_009447886.1
+KEYWORDS    RefSeq.
+SOURCE      Parvimonas sp. oral taxon 393
+  ORGANISM  Parvimonas sp. oral taxon 393
+            Bacteria; Firmicutes; Tissierellia; Tissierellales;
+            Peptoniphilaceae; Parvimonas.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..55
+                     /organism="Parvimonas sp. oral taxon 393"
+                     /db_xref="taxon:713008"
+     Protein         1..55
+                     /product="toxin HicA"
+                     /calculated_mol_wt=6080
+     Region          1..52
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; pfam07927"
+                     /db_xref="CDD:285205"
+ORIGIN      
+        1 mlkllkkngw kelrqegshh ilekdgaiiv vpvhgnqdlg kgleqrilkd tglkk
+//
+
+LOCUS       WP_029948710              62 aa            linear   BCT 19-MAY-2016
+DEFINITION  addiction module toxin, HicA family [Parvimonas micra].
+ACCESSION   WP_029948710
+VERSION     WP_029948710.1
+KEYWORDS    RefSeq.
+SOURCE      Parvimonas micra
+  ORGANISM  Parvimonas micra
+            Bacteria; Firmicutes; Tissierellia; Tissierellales;
+            Peptoniphilaceae; Parvimonas.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..62
+                     /organism="Parvimonas micra"
+                     /db_xref="taxon:33033"
+     Protein         1..62
+                     /product="addiction module toxin, HicA family"
+                     /calculated_mol_wt=6989
+     Region          4..59
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; pfam07927"
+                     /db_xref="CDD:285205"
+ORIGIN      
+        1 mnkrelikil kkngfkqipk rgkgshecwl kddiiltipk ptrsdydkgt ldailkeagl
+       61 kk
+//
+
+LOCUS       WP_029950439              62 aa            linear   BCT 28-JUN-2014
+DEFINITION  toxin HicA [Parvimonas micra].
+ACCESSION   WP_029950439
+VERSION     WP_029950439.1
+KEYWORDS    RefSeq.
+SOURCE      Parvimonas micra
+  ORGANISM  Parvimonas micra
+            Bacteria; Firmicutes; Tissierellia; Tissierellales;
+            Peptoniphilaceae; Parvimonas.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..62
+                     /organism="Parvimonas micra"
+                     /db_xref="taxon:33033"
+     Protein         1..62
+                     /product="toxin HicA"
+                     /calculated_mol_wt=6897
+     Region          2..61
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; cl00752"
+                     /db_xref="CDD:294488"
+ORIGIN      
+        1 mpltgkemlk llnrngwkel rqegshhile kdgvmivvpv hgnqdlgkgl eqrilkdtgl
+       61 kk
+//
+
+LOCUS       WP_004832593             259 aa            linear   BCT 07-MAY-2013
+DEFINITION  hypothetical protein [Parvimonas micra].
+ACCESSION   WP_004832593
+VERSION     WP_004832593.1
+KEYWORDS    RefSeq.
+SOURCE      Parvimonas micra
+  ORGANISM  Parvimonas micra
+            Bacteria; Firmicutes; Tissierellia; Tissierellales;
+            Peptoniphilaceae; Parvimonas.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..259
+                     /organism="Parvimonas micra"
+                     /db_xref="taxon:33033"
+     Protein         1..259
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=30258
+     Region          72..>127
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; cl00995"
+                     /db_xref="CDD:294640"
+     Region          <128..175
+                     /region_name="DUF3874"
+                     /note="Domain of unknonw function from B. Theta Gene
+                     description (DUF3874); pfam12990"
+                     /db_xref="CDD:289741"
+ORIGIN      
+        1 mdykkeenne eflnfkssvf rdfekfinel sadineknky kqavnltywl ndykkylkqe
+       61 ksfnpkflpv ykkgsivevn lgfnigteyg gvhygivltp ndtkknsnlt ilplssmkan
+      121 ktkkdlhtye lflgaeiyni ltekaillln diqneinkls kilsnmnied ehtefpisid
+      181 lkgkidfekl ekrriqaync lnkskkmkkg sfakinqitt iskmrvrdpl nelsplynvv
+      241 vsddimnyin kflehffkf
+//
+
+LOCUS       WP_004833135             112 aa            linear   BCT 06-JUN-2015
+DEFINITION  mRNA interferase PemK [Parvimonas micra].
+ACCESSION   WP_004833135
+VERSION     WP_004833135.1
+KEYWORDS    RefSeq.
+SOURCE      Parvimonas micra
+  ORGANISM  Parvimonas micra
+            Bacteria; Firmicutes; Tissierellia; Tissierellales;
+            Peptoniphilaceae; Parvimonas.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..112
+                     /organism="Parvimonas micra"
+                     /db_xref="taxon:33033"
+     Protein         1..112
+                     /product="mRNA interferase PemK"
+                     /calculated_mol_wt=12270
+     Region          4..110
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 mkvkrgdify adlspvvgse qggvrpvlvv qndignkysp tviiaaitsq mnkvklpthv
+       61 evsaefglpk nsvvlleqir tidkkrlrek vgftdeffmk kvdeallksv gv
+//
+
+LOCUS       WP_009372758             112 aa            linear   BCT 06-JUN-2015
+DEFINITION  MULTISPECIES: mRNA interferase PemK [Parvimonas].
+ACCESSION   WP_009372758
+VERSION     WP_009372758.1
+KEYWORDS    RefSeq.
+SOURCE      Parvimonas
+  ORGANISM  Parvimonas
+            Bacteria; Firmicutes; Tissierellia; Tissierellales;
+            Peptoniphilaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..112
+                     /organism="Parvimonas"
+                     /db_xref="taxon:543311"
+     Protein         1..112
+                     /product="mRNA interferase PemK"
+                     /calculated_mol_wt=12255
+     Region          4..110
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 mkvkrgdify adlspvvgse qggvrpvlvv qndvgnkysp tviiaaitsq mnkvklpthv
+       61 evsaefglpk nsvvlleqir tidkkrlrek vgftdeffmk kvneallksv gv
+//
+

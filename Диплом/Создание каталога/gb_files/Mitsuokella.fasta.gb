@@ -1,0 +1,839 @@
+LOCUS       EEX69110                 145 aa            linear   BCT 04-JUN-2013
+DEFINITION  putative toxin-antitoxin system, antitoxin component, HicB family
+            [Mitsuokella multacida DSM 20544].
+ACCESSION   EEX69110
+VERSION     EEX69110.1
+DBLINK      BioProject: PRJNA28653
+            BioSample: SAMN00000736
+DBSOURCE    accession ABWK02000012.1
+KEYWORDS    .
+SOURCE      Mitsuokella multacida DSM 20544
+  ORGANISM  Mitsuokella multacida DSM 20544
+            Bacteria; Firmicutes; Negativicutes; Selenomonadales;
+            Selenomonadaceae; Mitsuokella.
+REFERENCE   1  (residues 1 to 145)
+  AUTHORS   Fulton,L., Clifton,S., Fulton,B., Xu,J., Minx,P., Pepin,K.H.,
+            Johnson,M., Thiruvilangam,P., Bhonagiri,V., Nash,W.E., Mardis,E.R.
+            and Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-SEP-2008) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+REFERENCE   2  (residues 1 to 145)
+  AUTHORS   Weinstock,G., Sodergren,E., Clifton,S., Fulton,L., Fulton,B.,
+            Courtney,L., Fronick,C., Harrison,M., Strong,C., Farmer,C.,
+            Delahaunty,K., Markovic,C., Hall,O., Minx,P., Tomlinson,C.,
+            Mitreva,M., Nelson,J., Hou,S., Wollam,A., Pepin,K.H., Johnson,M.,
+            Bhonagiri,V., Nash,W.E., Warren,W., Chinwalla,A., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2009) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+REFERENCE   3  (residues 1 to 145)
+  AUTHORS   Weinstock,G., Sodergren,E., Clifton,S., Fulton,L., Fulton,B.,
+            Courtney,L., Fronick,C., Harrison,M., Strong,C., Farmer,C.,
+            Delahaunty,K., Markovic,C., Hall,O., Minx,P., Tomlinson,C.,
+            Mitreva,M., Nelson,J., Hou,S., Wollam,A., Pepin,K.H., Johnson,M.,
+            Bhonagiri,V., Nash,W.E., Warren,W., Chinwalla,A., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-SEP-2009) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+COMMENT     Mitsuokella multacida (GenBank Accession Number for 16S rDNA gene:
+            X81878, the 16S rDNA gene of a related strain of Mitsuokella
+            multacida, not the sequenced strain) is a member of the Firmicutes
+            division of the domain bacteria and has been isolated from human
+            feces. The sequenced strain was obtained from Deutsche Sammlung von
+            Mikroorganismen und Zellkulturen GmbH (DSMZ) (DSM 20544).
+            
+            We have performed one round of automated sequence improvement
+            (pre-finishing), along with manual improvement that includes
+            breaking apart any mis-assembly, and making manual joins where
+            possible. Manual edits also are made where the consensus appears to
+            be incorrect. All low quality data on the ends of contigs is
+            removed. Contigs are ordered and oriented where possible.
+            
+            Coding sequences were predicted using GeneMark v3.3 and Glimmer2
+            v2.13. Intergenic regions not spanned by GeneMark and Glimmer2 were
+            blasted against NCBI's non-redundant (NR) database and predictions
+            generated based on protein alignments. tRNA genes were determined
+            using tRNAscan-SE 1.23 and non-coding RNA genes by RNAmmer-1.2 and
+            Rfam v8.0. Gene names are generated at the contig level and may not
+            necessarily reflect any known order or orientation between contigs.
+            
+            This work was supported by the National Human Genome Research
+            Institute and the NIH Roadmap Human Microbiome Project
+            [http://nihroadmap.nih.gov/hmp/].
+            
+            This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Genome Coverage: 45.9x
+            Sequencing Technology: 454
+            
+            Annotation was added to the contigs in October 2009.
+            Product names were updated in June 2013.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..145
+                     /organism="Mitsuokella multacida DSM 20544"
+                     /strain="DSM 20544"
+                     /culture_collection="DSM:20544"
+                     /db_xref="taxon:500635"
+     Protein         1..145
+                     /product="putative toxin-antitoxin system, antitoxin
+                     component, HicB family"
+     Region          17..>74
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+     Region          20..137
+                     /region_name="HicB_lk_antitox"
+                     /note="HicB_like antitoxin of bacterial toxin-antitoxin
+                     system; pfam15919"
+                     /db_xref="CDD:292541"
+     CDS             1..145
+                     /locus_tag="MITSMUL_04180"
+                     /coded_by="ABWK02000012.1:138991..139428"
+                     /inference="protein motif:HMMPfam:IPR005357"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR005357"
+ORIGIN      
+        1 mdcfhnnhen keviimkyvy pailtpeddg vivsfpdveg ayadgatiee aldnaedvln
+       61 vmlltmeeqh keihpptpla slripegstt alvradtlay srkvdtravr ksvsipawmd
+      121 alakdhnlnl snvlqnairr elnia
+//
+
+LOCUS       WP_021771954              89 aa            linear   BCT 24-SEP-2013
+DEFINITION  transcriptional regulator, AbrB family [Mitsuokella sp. oral taxon
+            131].
+ACCESSION   WP_021771954
+VERSION     WP_021771954.1
+KEYWORDS    RefSeq.
+SOURCE      Mitsuokella sp. oral taxon 131
+  ORGANISM  Mitsuokella sp. oral taxon 131
+            Bacteria; Firmicutes; Negativicutes; Selenomonadales;
+            Selenomonadaceae; Mitsuokella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..89
+                     /organism="Mitsuokella sp. oral taxon 131"
+                     /db_xref="taxon:1321780"
+     Protein         1..89
+                     /product="transcriptional regulator, AbrB family"
+                     /calculated_mol_wt=9746
+     Region          4..42
+                     /region_name="SpoVT_AbrB"
+                     /note="SpoVT / AbrB like domain; smart00966"
+                     /db_xref="CDD:198034"
+ORIGIN      
+        1 melatinakg qitlplsvrr qlrlnsgdrv afvrdgekli itsdpvtalt evqaafqgaa
+       61 eevglytedd vvrmvkeira errenssce
+//
+
+LOCUS       WP_005842935             145 aa            linear   BCT 17-SEP-2015
+DEFINITION  division/cell wall cluster transcriptional repressor MraZ
+            [Mitsuokella multacida].
+ACCESSION   WP_005842935
+VERSION     WP_005842935.1
+KEYWORDS    RefSeq.
+SOURCE      Mitsuokella multacida
+  ORGANISM  Mitsuokella multacida
+            Bacteria; Firmicutes; Negativicutes; Selenomonadales;
+            Selenomonadaceae; Mitsuokella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..145
+                     /organism="Mitsuokella multacida"
+                     /db_xref="taxon:52226"
+     Protein         1..145
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=16135
+     Region          1..130
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          3..59
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(3..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..128
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,106,113,122..123,126)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mfmgeyahti dakgrvilpa dfrqelgvsf vitkgldkcl flygqqawee laaklralpl
+       61 akpearaivr fffsgartle cdkqgrflvp anlrayadit lrqsvvltga dnrievwskd
+      121 qwsryneeve pdvtaiaasl aelgi
+//
+
+LOCUS       WP_021771633             145 aa            linear   BCT 17-SEP-2015
+DEFINITION  division/cell wall cluster transcriptional repressor MraZ
+            [Mitsuokella sp. oral taxon 131].
+ACCESSION   WP_021771633
+VERSION     WP_021771633.1
+KEYWORDS    RefSeq.
+SOURCE      Mitsuokella sp. oral taxon 131
+  ORGANISM  Mitsuokella sp. oral taxon 131
+            Bacteria; Firmicutes; Negativicutes; Selenomonadales;
+            Selenomonadaceae; Mitsuokella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..145
+                     /organism="Mitsuokella sp. oral taxon 131"
+                     /db_xref="taxon:1321780"
+     Protein         1..145
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=15996
+     Region          1..130
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          3..59
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(3..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..128
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,106,113,122..123,126)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mfmgeyahsi dakgriilpa dfrqelgvsf vitkgldscl flygqqawee laaklralpl
+       61 arpearaivr fffsgartle cdkqgrflvp anlrtyagiq lredvvltga dsrievwsra
+      121 rwsaysseve pdvtaiaasl selgi
+//
+
+LOCUS       WP_036378560             145 aa            linear   BCT 17-SEP-2015
+DEFINITION  division/cell wall cluster transcriptional repressor MraZ
+            [Mitsuokella jalaludinii].
+ACCESSION   WP_036378560
+VERSION     WP_036378560.1
+KEYWORDS    RefSeq.
+SOURCE      Mitsuokella jalaludinii
+  ORGANISM  Mitsuokella jalaludinii
+            Bacteria; Firmicutes; Negativicutes; Selenomonadales;
+            Selenomonadaceae; Mitsuokella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..145
+                     /organism="Mitsuokella jalaludinii"
+                     /db_xref="taxon:187979"
+     Protein         1..145
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=16129
+     Region          1..130
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          3..59
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(3..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..128
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,106,113,122..123,126)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mfmgeyahti dakgrvilpa dfrqelgvsf vitkgldkcl flygqqawee laaklralpl
+       61 akpearaivr fffsgartle cdkqgrflvp anlrayadit lrqpvvlaga dnrievwske
+      121 qwsryneeve pdvtaiaasl aelgi
+//
+
+LOCUS       WP_005840607              86 aa            linear   BCT 25-MAY-2013
+DEFINITION  toxin-antitoxin system protein [Mitsuokella multacida].
+ACCESSION   WP_005840607
+VERSION     WP_005840607.1
+KEYWORDS    RefSeq.
+SOURCE      Mitsuokella multacida
+  ORGANISM  Mitsuokella multacida
+            Bacteria; Firmicutes; Negativicutes; Selenomonadales;
+            Selenomonadaceae; Mitsuokella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..86
+                     /organism="Mitsuokella multacida"
+                     /db_xref="taxon:52226"
+     Protein         1..86
+                     /product="toxin-antitoxin system protein"
+                     /calculated_mol_wt=9590
+     Region          1..84
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mstallqvrv deelkhrvdk klkrmgltts savnlllhqi diqgkipfei vdrpndlhha
+       61 vqdieagvgl skvyqdtdel ykdlgi
+//
+
+LOCUS       WP_036376833              89 aa            linear   BCT 24-DEC-2014
+DEFINITION  damage-inducible protein J [Mitsuokella jalaludinii].
+ACCESSION   WP_036376833
+VERSION     WP_036376833.1
+KEYWORDS    RefSeq.
+SOURCE      Mitsuokella jalaludinii
+  ORGANISM  Mitsuokella jalaludinii
+            Bacteria; Firmicutes; Negativicutes; Selenomonadales;
+            Selenomonadaceae; Mitsuokella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..89
+                     /organism="Mitsuokella jalaludinii"
+                     /db_xref="taxon:187979"
+     Protein         1..89
+                     /product="damage-inducible protein J"
+                     /calculated_mol_wt=9854
+     Region          1..87
+                     /region_name="RelB_DinJ"
+                     /note="addiction module antitoxin, RelB/DinJ family;
+                     TIGR02384"
+                     /db_xref="CDD:274102"
+ORIGIN      
+        1 madtktlnlr vdadlkhqae tifanlgipt stainmflrt vvryggipfd lrispnelet
+       61 lravddvnhh rnlsktydsv edvmealna
+//
+
+LOCUS       EEX68165                 107 aa            linear   BCT 04-JUN-2013
+DEFINITION  Ribbon-helix-helix protein, CopG family [Mitsuokella multacida DSM
+            20544].
+ACCESSION   EEX68165
+VERSION     EEX68165.1
+DBLINK      BioProject: PRJNA28653
+            BioSample: SAMN00000736
+DBSOURCE    accession ABWK02000020.1
+KEYWORDS    .
+SOURCE      Mitsuokella multacida DSM 20544
+  ORGANISM  Mitsuokella multacida DSM 20544
+            Bacteria; Firmicutes; Negativicutes; Selenomonadales;
+            Selenomonadaceae; Mitsuokella.
+REFERENCE   1  (residues 1 to 107)
+  AUTHORS   Fulton,L., Clifton,S., Fulton,B., Xu,J., Minx,P., Pepin,K.H.,
+            Johnson,M., Thiruvilangam,P., Bhonagiri,V., Nash,W.E., Mardis,E.R.
+            and Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-SEP-2008) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+REFERENCE   2  (residues 1 to 107)
+  AUTHORS   Weinstock,G., Sodergren,E., Clifton,S., Fulton,L., Fulton,B.,
+            Courtney,L., Fronick,C., Harrison,M., Strong,C., Farmer,C.,
+            Delahaunty,K., Markovic,C., Hall,O., Minx,P., Tomlinson,C.,
+            Mitreva,M., Nelson,J., Hou,S., Wollam,A., Pepin,K.H., Johnson,M.,
+            Bhonagiri,V., Nash,W.E., Warren,W., Chinwalla,A., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2009) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+REFERENCE   3  (residues 1 to 107)
+  AUTHORS   Weinstock,G., Sodergren,E., Clifton,S., Fulton,L., Fulton,B.,
+            Courtney,L., Fronick,C., Harrison,M., Strong,C., Farmer,C.,
+            Delahaunty,K., Markovic,C., Hall,O., Minx,P., Tomlinson,C.,
+            Mitreva,M., Nelson,J., Hou,S., Wollam,A., Pepin,K.H., Johnson,M.,
+            Bhonagiri,V., Nash,W.E., Warren,W., Chinwalla,A., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-SEP-2009) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+COMMENT     Mitsuokella multacida (GenBank Accession Number for 16S rDNA gene:
+            X81878, the 16S rDNA gene of a related strain of Mitsuokella
+            multacida, not the sequenced strain) is a member of the Firmicutes
+            division of the domain bacteria and has been isolated from human
+            feces. The sequenced strain was obtained from Deutsche Sammlung von
+            Mikroorganismen und Zellkulturen GmbH (DSMZ) (DSM 20544).
+            
+            We have performed one round of automated sequence improvement
+            (pre-finishing), along with manual improvement that includes
+            breaking apart any mis-assembly, and making manual joins where
+            possible. Manual edits also are made where the consensus appears to
+            be incorrect. All low quality data on the ends of contigs is
+            removed. Contigs are ordered and oriented where possible.
+            
+            Coding sequences were predicted using GeneMark v3.3 and Glimmer2
+            v2.13. Intergenic regions not spanned by GeneMark and Glimmer2 were
+            blasted against NCBI's non-redundant (NR) database and predictions
+            generated based on protein alignments. tRNA genes were determined
+            using tRNAscan-SE 1.23 and non-coding RNA genes by RNAmmer-1.2 and
+            Rfam v8.0. Gene names are generated at the contig level and may not
+            necessarily reflect any known order or orientation between contigs.
+            
+            This work was supported by the National Human Genome Research
+            Institute and the NIH Roadmap Human Microbiome Project
+            [http://nihroadmap.nih.gov/hmp/].
+            
+            This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Genome Coverage: 45.9x
+            Sequencing Technology: 454
+            
+            Annotation was added to the contigs in October 2009.
+            Product names were updated in June 2013.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..107
+                     /organism="Mitsuokella multacida DSM 20544"
+                     /strain="DSM 20544"
+                     /culture_collection="DSM:20544"
+                     /db_xref="taxon:500635"
+     Protein         1..107
+                     /product="Ribbon-helix-helix protein, CopG family"
+     Region          37..73
+                     /region_name="RHH_1"
+                     /note="Ribbon-helix-helix protein, copG family; pfam01402"
+                     /db_xref="CDD:279710"
+     CDS             1..107
+                     /locus_tag="MITSMUL_05167"
+                     /coded_by="ABWK02000020.1:142098..142421"
+                     /inference="protein motif:HMMPfam:IPR002145"
+                     /note="Psort location: Cytoplasmic, score: 8.96"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR002145"
+ORIGIN      
+        1 mnaihgldgr vwlgaaidfs lllyynvlqk egffmtisvr lndndamlfr kyaemngism
+       61 selvrravle rieddfdmkc yekamkeyre npetftldev ekelgla
+//
+
+LOCUS       WP_005840544             324 aa            linear   BCT 06-JUN-2015
+DEFINITION  chromosome partitioning protein ParA [Mitsuokella multacida].
+ACCESSION   WP_005840544
+VERSION     WP_005840544.1
+KEYWORDS    RefSeq.
+SOURCE      Mitsuokella multacida
+  ORGANISM  Mitsuokella multacida
+            Bacteria; Firmicutes; Negativicutes; Selenomonadales;
+            Selenomonadaceae; Mitsuokella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..324
+                     /organism="Mitsuokella multacida"
+                     /db_xref="taxon:52226"
+     Protein         1..324
+                     /product="chromosome partitioning protein ParA"
+                     /calculated_mol_wt=35560
+     Region          7..49
+                     /region_name="RHH_3"
+                     /note="Ribbon-helix-helix domain; pfam12651"
+                     /db_xref="CDD:289422"
+     Region          64..323
+                     /region_name="BcsQ"
+                     /note="Cellulose biosynthesis protein BcsQ [Cell
+                     motility]; COG1192"
+                     /db_xref="CDD:224113"
+     Region          67..253
+                     /region_name="ParA"
+                     /note="ParA and ParB of Caulobacter crescentus belong to a
+                     conserved family of bacterial proteins implicated in
+                     chromosome segregation. ParB binds to DNA sequences
+                     adjacent to the origin of replication and localizes to
+                     opposite cell poles shortly following the...; cd02042"
+                     /db_xref="CDD:238997"
+     Region          68..>199
+                     /region_name="P-loop_NTPase"
+                     /note="P-loop containing Nucleoside Triphosphate
+                     Hydrolases; cl21455"
+                     /db_xref="CDD:304359"
+     Site            74..80
+                     /site_type="other"
+                     /note="P-loop"
+                     /db_xref="CDD:238997"
+     Site            order(80,196)
+                     /site_type="other"
+                     /note="Magnesium ion binding site [ion binding]"
+                     /db_xref="CDD:238997"
+ORIGIN      
+        1 msrnnprtrf stsvskvlye kldriaevtg tqktalvdea lellvqkyrg rvlasggegv
+       61 sifmaktiaf cshkggvgkt tsaaafadll grrdykvlli dadpqgnlsk rfgyhpkeyr
+      121 gavqlsaavl nilsddpkpl rdfvlatqnk nvdiipnddr ytattktlle avmlginayk
+      181 vliqeldgly dyiifdcrpa vdneiaqimr avqylmipvn aaddsvdgvd tvlgyaskir
+      241 hanpdlcvag iffeavnmrt avahdyvpqi rakyaplile tivphsedah kaesrhlpvt
+      301 eaypsgkatr aysklveevl trig
+//
+
+LOCUS       WP_036378598             332 aa            linear   BCT 24-DEC-2014
+DEFINITION  hypothetical protein [Mitsuokella jalaludinii].
+ACCESSION   WP_036378598
+VERSION     WP_036378598.1
+KEYWORDS    RefSeq.
+SOURCE      Mitsuokella jalaludinii
+  ORGANISM  Mitsuokella jalaludinii
+            Bacteria; Firmicutes; Negativicutes; Selenomonadales;
+            Selenomonadaceae; Mitsuokella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..332
+                     /organism="Mitsuokella jalaludinii"
+                     /db_xref="taxon:187979"
+     Protein         1..332
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=37071
+     Region          6..49
+                     /region_name="RHH_3"
+                     /note="Ribbon-helix-helix domain; pfam12651"
+                     /db_xref="CDD:289422"
+     Region          59..324
+                     /region_name="BcsQ"
+                     /note="Cellulose biosynthesis protein BcsQ [Cell
+                     motility]; COG1192"
+                     /db_xref="CDD:224113"
+     Region          63..255
+                     /region_name="ParA"
+                     /note="ParA and ParB of Caulobacter crescentus belong to a
+                     conserved family of bacterial proteins implicated in
+                     chromosome segregation. ParB binds to DNA sequences
+                     adjacent to the origin of replication and localizes to
+                     opposite cell poles shortly following the...; cd02042"
+                     /db_xref="CDD:238997"
+     Region          69..>200
+                     /region_name="P-loop_NTPase"
+                     /note="P-loop containing Nucleoside Triphosphate
+                     Hydrolases; cl21455"
+                     /db_xref="CDD:304359"
+     Site            69..75
+                     /site_type="other"
+                     /note="P-loop"
+                     /db_xref="CDD:238997"
+     Site            order(75,197)
+                     /site_type="other"
+                     /note="Magnesium ion binding site [ion binding]"
+                     /db_xref="CDD:238997"
+ORIGIN      
+        1 madlinrkvi nttlskdnae klrtlskrkg ipqtrvldra vdtlyqkeea smegaakhkg
+       61 iaiciannkg gvgkttstaa fadllskrgk hvlvidadpq gnlsgrfgys adspeqaipn
+      121 ylgsliedrf rgtehqplgy finhldefpr idiiysdirl dgvytllttd siasatmfrk
+      181 llaeirsldk ydyilidarp avnnevssif igsdyviipv easwdsivga ntiyqfmaks
+      241 relnpalkll gvfftkvqdr ttsfhtllpm vkgnwdkdlf qtkiprnqdv vnaenegypv
+      301 tyrkpackas kayvklldem veridndekq nd
+//
+
+LOCUS       WP_021771922             118 aa            linear   BCT 14-JUN-2015
+DEFINITION  toxin RelE [Mitsuokella sp. oral taxon 131].
+ACCESSION   WP_021771922
+VERSION     WP_021771922.1
+KEYWORDS    RefSeq.
+SOURCE      Mitsuokella sp. oral taxon 131
+  ORGANISM  Mitsuokella sp. oral taxon 131
+            Bacteria; Firmicutes; Negativicutes; Selenomonadales;
+            Selenomonadaceae; Mitsuokella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..118
+                     /organism="Mitsuokella sp. oral taxon 131"
+                     /db_xref="taxon:1321780"
+     Protein         1..118
+                     /product="toxin RelE"
+                     /calculated_mol_wt=13629
+     Region          20..106
+                     /region_name="Gp49"
+                     /note="Phage derived protein Gp49-like (DUF891);
+                     pfam05973"
+                     /db_xref="CDD:283596"
+ORIGIN      
+        1 mgkfeiafye tisgnrpaea fllgldakmr aklvrtiqll svngnqlrep yskeltdkif
+       61 elrakvgsdi srvlyffvvg rriilthgfi kktrktptne ierakryrqd ymertdal
+//
+
+LOCUS       WP_036374791             117 aa            linear   BCT 24-DEC-2014
+DEFINITION  toxin RelE [Mitsuokella jalaludinii].
+ACCESSION   WP_036374791
+VERSION     WP_036374791.1
+KEYWORDS    RefSeq.
+SOURCE      Mitsuokella jalaludinii
+  ORGANISM  Mitsuokella jalaludinii
+            Bacteria; Firmicutes; Negativicutes; Selenomonadales;
+            Selenomonadaceae; Mitsuokella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..117
+                     /organism="Mitsuokella jalaludinii"
+                     /db_xref="taxon:187979"
+     Protein         1..117
+                     /product="toxin RelE"
+                     /calculated_mol_wt=13599
+     Region          19..106
+                     /region_name="Gp49"
+                     /note="Phage derived protein Gp49-like (DUF891);
+                     pfam05973"
+                     /db_xref="CDD:283596"
+ORIGIN      
+        1 mrfevkfyet tdgkkpvedf llslenkmqa kmvqmmelle ekgtdlrepy tkplgdgife
+       61 lrckqssnis ralfffflgg kiiitngfik ktnktppkei rlakerrady iqqqedl
+//
+
+LOCUS       WP_005840664              63 aa            linear   BCT 25-MAY-2013
+DEFINITION  toxin HicA [Mitsuokella multacida].
+ACCESSION   WP_005840664
+VERSION     WP_005840664.1
+KEYWORDS    RefSeq.
+SOURCE      Mitsuokella multacida
+  ORGANISM  Mitsuokella multacida
+            Bacteria; Firmicutes; Negativicutes; Selenomonadales;
+            Selenomonadaceae; Mitsuokella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..63
+                     /organism="Mitsuokella multacida"
+                     /db_xref="taxon:52226"
+     Protein         1..63
+                     /product="toxin HicA"
+                     /calculated_mol_wt=6919
+     Region          5..59
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; pfam07927"
+                     /db_xref="CDD:285205"
+ORIGIN      
+        1 mttaelirll kkhgcymvrn ganhdiyqsp vtgklfsvgr hskeevrtgt lkkilkdagi
+       61 plk
+//
+
+LOCUS       WP_005842261              88 aa            linear   BCT 14-JUN-2015
+DEFINITION  toxin RelE [Mitsuokella multacida].
+ACCESSION   WP_005842261
+VERSION     WP_005842261.1
+KEYWORDS    RefSeq.
+SOURCE      Mitsuokella multacida
+  ORGANISM  Mitsuokella multacida
+            Bacteria; Firmicutes; Negativicutes; Selenomonadales;
+            Selenomonadaceae; Mitsuokella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..88
+                     /organism="Mitsuokella multacida"
+                     /db_xref="taxon:52226"
+     Protein         1..88
+                     /product="toxin RelE"
+                     /calculated_mol_wt=10155
+     Region          1..87
+                     /region_name="RelE"
+                     /note="mRNA-degrading endonuclease RelE, toxin component
+                     of the RelBE toxin-antitoxin system [Defense mechanisms];
+                     COG2026"
+                     /db_xref="CDD:224937"
+ORIGIN      
+        1 mtyhvlftpa akkalkkmdr htaalllgwi rknlegcenp rqhgkgftan hsgewryrvg
+       61 dyrliadiqd ervvilmlhv ghrreiys
+//
+
+LOCUS       WP_036376836              91 aa            linear   BCT 24-DEC-2014
+DEFINITION  mRNA interferase YafQ [Mitsuokella jalaludinii].
+ACCESSION   WP_036376836
+VERSION     WP_036376836.1
+KEYWORDS    RefSeq.
+SOURCE      Mitsuokella jalaludinii
+  ORGANISM  Mitsuokella jalaludinii
+            Bacteria; Firmicutes; Negativicutes; Selenomonadales;
+            Selenomonadaceae; Mitsuokella.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..91
+                     /organism="Mitsuokella jalaludinii"
+                     /db_xref="taxon:187979"
+     Protein         1..91
+                     /product="mRNA interferase YafQ"
+                     /calculated_mol_wt=10677
+     Region          1..91
+                     /region_name="YafQ"
+                     /note="mRNA-degrading endonuclease (mRNA interferase)
+                     YafQ, toxin component of the YafQ-DinJ toxin-antitoxin
+                     module [Translation, ribosomal structure and biogenesis];
+                     COG3041"
+                     /db_xref="CDD:225583"
+ORIGIN      
+        1 mlkirfrkqf rkdykrvikq pghtpelfqe vldclvmeql lpakyrdhal sgnyagfrec
+       61 hilpdwlliy kvetdiltlt ltrtgshsdl f
+//
+
+LOCUS       EEX69077                  53 aa            linear   BCT 04-JUN-2013
+DEFINITION  addiction module toxin, RelE/StbE family [Mitsuokella multacida DSM
+            20544].
+ACCESSION   EEX69077
+VERSION     EEX69077.1
+DBLINK      BioProject: PRJNA28653
+            BioSample: SAMN00000736
+DBSOURCE    accession ABWK02000012.1
+KEYWORDS    .
+SOURCE      Mitsuokella multacida DSM 20544
+  ORGANISM  Mitsuokella multacida DSM 20544
+            Bacteria; Firmicutes; Negativicutes; Selenomonadales;
+            Selenomonadaceae; Mitsuokella.
+REFERENCE   1  (residues 1 to 53)
+  AUTHORS   Fulton,L., Clifton,S., Fulton,B., Xu,J., Minx,P., Pepin,K.H.,
+            Johnson,M., Thiruvilangam,P., Bhonagiri,V., Nash,W.E., Mardis,E.R.
+            and Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-SEP-2008) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+REFERENCE   2  (residues 1 to 53)
+  AUTHORS   Weinstock,G., Sodergren,E., Clifton,S., Fulton,L., Fulton,B.,
+            Courtney,L., Fronick,C., Harrison,M., Strong,C., Farmer,C.,
+            Delahaunty,K., Markovic,C., Hall,O., Minx,P., Tomlinson,C.,
+            Mitreva,M., Nelson,J., Hou,S., Wollam,A., Pepin,K.H., Johnson,M.,
+            Bhonagiri,V., Nash,W.E., Warren,W., Chinwalla,A., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2009) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+REFERENCE   3  (residues 1 to 53)
+  AUTHORS   Weinstock,G., Sodergren,E., Clifton,S., Fulton,L., Fulton,B.,
+            Courtney,L., Fronick,C., Harrison,M., Strong,C., Farmer,C.,
+            Delahaunty,K., Markovic,C., Hall,O., Minx,P., Tomlinson,C.,
+            Mitreva,M., Nelson,J., Hou,S., Wollam,A., Pepin,K.H., Johnson,M.,
+            Bhonagiri,V., Nash,W.E., Warren,W., Chinwalla,A., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-SEP-2009) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+COMMENT     Mitsuokella multacida (GenBank Accession Number for 16S rDNA gene:
+            X81878, the 16S rDNA gene of a related strain of Mitsuokella
+            multacida, not the sequenced strain) is a member of the Firmicutes
+            division of the domain bacteria and has been isolated from human
+            feces. The sequenced strain was obtained from Deutsche Sammlung von
+            Mikroorganismen und Zellkulturen GmbH (DSMZ) (DSM 20544).
+            
+            We have performed one round of automated sequence improvement
+            (pre-finishing), along with manual improvement that includes
+            breaking apart any mis-assembly, and making manual joins where
+            possible. Manual edits also are made where the consensus appears to
+            be incorrect. All low quality data on the ends of contigs is
+            removed. Contigs are ordered and oriented where possible.
+            
+            Coding sequences were predicted using GeneMark v3.3 and Glimmer2
+            v2.13. Intergenic regions not spanned by GeneMark and Glimmer2 were
+            blasted against NCBI's non-redundant (NR) database and predictions
+            generated based on protein alignments. tRNA genes were determined
+            using tRNAscan-SE 1.23 and non-coding RNA genes by RNAmmer-1.2 and
+            Rfam v8.0. Gene names are generated at the contig level and may not
+            necessarily reflect any known order or orientation between contigs.
+            
+            This work was supported by the National Human Genome Research
+            Institute and the NIH Roadmap Human Microbiome Project
+            [http://nihroadmap.nih.gov/hmp/].
+            
+            This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Genome Coverage: 45.9x
+            Sequencing Technology: 454
+            
+            Annotation was added to the contigs in October 2009.
+            Product names were updated in June 2013.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..53
+                     /organism="Mitsuokella multacida DSM 20544"
+                     /strain="DSM 20544"
+                     /culture_collection="DSM:20544"
+                     /db_xref="taxon:500635"
+     Protein         1..53
+                     /product="addiction module toxin, RelE/StbE family"
+     Region          <3..50
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+     CDS             1..53
+                     /locus_tag="MITSMUL_04147"
+                     /coded_by="ABWK02000012.1:105341..105502"
+                     /inference="protein motif:HMMPfam:IPR007712"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR007712"
+ORIGIN      
+        1 mqkyrdhals geymgyrech ilsnwlliyk iiedrlilvl artgthddvf kgy
+//
+

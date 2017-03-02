@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "s = read.table(\"with_plasmids.txt\")\ns <- as.data.frame(s) \ncolnames(s) <- c('qseqid','sseqid', '%_ident','query_len','alignment_length', 'match','gap','qstart','qend', 'ssart', 'send' ,'evalue', 'bitscore') \nm <- unique(s$qseqid)\nm <- length(m)\nView(s) \n\ns$alight <- s$qend-s$qstart+1\ns$query_cover <- s$alight/s$query_len*100\n\nnew <- subset.data.frame(s , subset = s$query_cover>90 & s$`%_ident`>95)\nView(new)\nm <- unique(new$qseqid)\nm <- length(m)\n",
+    "created" : 1486383197760.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1530124346",
+    "id" : "C48E4F29",
+    "lastKnownWriteTime" : 1486418965,
+    "last_content_update" : 1486418965969,
+    "path" : "C:/Users/voros/Desktop/Создание каталога/BLAST_@/Table/Table.R",
+    "project_path" : "Table.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,514 @@
+LOCUS       WP_027890445             115 aa            linear   BCT 05-MAY-2016
+DEFINITION  DUF1778 domain-containing protein [Megamonas hypermegale].
+ACCESSION   WP_027890445
+VERSION     WP_027890445.1
+KEYWORDS    RefSeq.
+SOURCE      Megamonas hypermegale
+  ORGANISM  Megamonas hypermegale
+            Bacteria; Firmicutes; Negativicutes; Selenomonadales;
+            Selenomonadaceae; Megamonas.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..115
+                     /organism="Megamonas hypermegale"
+                     /db_xref="taxon:158847"
+     Protein         1..115
+                     /product="DUF1778 domain-containing protein"
+                     /calculated_mol_wt=13749
+     Region          11..89
+                     /region_name="DUF1778"
+                     /note="Protein of unknown function (DUF1778); cl01845"
+                     /db_xref="CDD:295058"
+ORIGIN      
+        1 mkteqeknkk tkrlqlnirl tpqqneyink rlketqknkt qfvldcinen piyilphleq
+       61 tisqikylgn ktnelsqrld qsneenkkli qelqkgcdef wrllkllkqe kpkqv
+//
+
+LOCUS       WP_008540207             114 aa            linear   BCT 05-JUN-2013
+DEFINITION  hypothetical protein [Megamonas funiformis].
+ACCESSION   WP_008540207
+VERSION     WP_008540207.1
+KEYWORDS    RefSeq.
+SOURCE      Megamonas funiformis
+  ORGANISM  Megamonas funiformis
+            Bacteria; Firmicutes; Negativicutes; Selenomonadales;
+            Selenomonadaceae; Megamonas.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..114
+                     /organism="Megamonas funiformis"
+                     /db_xref="taxon:437897"
+     Protein         1..114
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=12849
+     Region          58..105
+                     /region_name="HicB"
+                     /note="HicB family; cl23837"
+                     /db_xref="CDD:304994"
+ORIGIN      
+        1 mdkkkdftsk mdemipamnf issssieqke eqntvinnnt tskkylssee iksinvpegf
+       61 rvnpiliekk skkialaiyp slhkklkeia skknisvndy ickaisiale eeki
+//
+
+LOCUS       CBL05577                  69 aa            linear   BCT 27-FEB-2015
+DEFINITION  prevent-host-death family protein [Megamonas hypermegale ART12/1].
+ACCESSION   CBL05577
+VERSION     CBL05577.1
+DBLINK      BioProject: PRJNA39163
+            BioSample: SAMEA3138358
+DBSOURCE    embl accession FP929048.1
+KEYWORDS    .
+SOURCE      Megamonas hypermegale ART12/1
+  ORGANISM  Megamonas hypermegale ART12/1
+            Bacteria; Firmicutes; Negativicutes; Selenomonadales;
+            Selenomonadaceae; Megamonas.
+REFERENCE   1
+  AUTHORS   Pajon,A., Turner,K., Parkhill,J., Duncan,S. and Flint,H.
+  CONSRTM   metaHIT consortium -- http://www.metahit.eu/
+  TITLE     The genome sequence of Megamonas hypermegale ART12/1
+  JOURNAL   Unpublished
+REFERENCE   2
+  AUTHORS   Pajon,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2010) Sanger Institute, Wellcome Trust Genome
+            Campus, Hinxton, Cambridge CB10 1SA, United Kingdom
+COMMENT     This is a reference genome for the metaHIT project DNA source:
+            Rowett Institute of Nutrition and Health, University of Aberdeen --
+            http://www.rowett.ac.uk/divisions/ghp/ Sequencing technology: 454
+            Genome coverage: 27x
+            Annotation was added using ab initio prediction IMG/ER --
+            http://img.jgi.doe.gov/submit (Markowitz, Szeto et al. 2007).
+FEATURES             Location/Qualifiers
+     source          1..69
+                     /organism="Megamonas hypermegale ART12/1"
+                     /strain="ART12/1"
+                     /db_xref="taxon:657316"
+     Protein         1..69
+                     /product="prevent-host-death family protein"
+     Region          1..57
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+     CDS             1..69
+                     /locus_tag="MHY_04620"
+                     /coded_by="complement(FP929048.1:355980..356189)"
+                     /transl_table=11
+                     /db_xref="EnsemblGenomes-Gn:MHY_04620"
+                     /db_xref="EnsemblGenomes-Tr:CBL05577"
+                     /db_xref="InterPro:IPR006442"
+                     /db_xref="UniProtKB/TrEMBL:D4KH48"
+ORIGIN      
+        1 mmaisssdll neftiyadkv vdeketlivq rssgknivvm smeqfnelqk eiflaknaqe
+       61 ksevfakwk
+//
+
+LOCUS       CBL05938                  85 aa            linear   BCT 27-FEB-2015
+DEFINITION  prevent-host-death family protein [Megamonas hypermegale ART12/1].
+ACCESSION   CBL05938
+VERSION     CBL05938.1
+DBLINK      BioProject: PRJNA39163
+            BioSample: SAMEA3138358
+DBSOURCE    embl accession FP929048.1
+KEYWORDS    .
+SOURCE      Megamonas hypermegale ART12/1
+  ORGANISM  Megamonas hypermegale ART12/1
+            Bacteria; Firmicutes; Negativicutes; Selenomonadales;
+            Selenomonadaceae; Megamonas.
+REFERENCE   1
+  AUTHORS   Pajon,A., Turner,K., Parkhill,J., Duncan,S. and Flint,H.
+  CONSRTM   metaHIT consortium -- http://www.metahit.eu/
+  TITLE     The genome sequence of Megamonas hypermegale ART12/1
+  JOURNAL   Unpublished
+REFERENCE   2
+  AUTHORS   Pajon,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2010) Sanger Institute, Wellcome Trust Genome
+            Campus, Hinxton, Cambridge CB10 1SA, United Kingdom
+COMMENT     This is a reference genome for the metaHIT project DNA source:
+            Rowett Institute of Nutrition and Health, University of Aberdeen --
+            http://www.rowett.ac.uk/divisions/ghp/ Sequencing technology: 454
+            Genome coverage: 27x
+            Annotation was added using ab initio prediction IMG/ER --
+            http://img.jgi.doe.gov/submit (Markowitz, Szeto et al. 2007).
+FEATURES             Location/Qualifiers
+     source          1..85
+                     /organism="Megamonas hypermegale ART12/1"
+                     /strain="ART12/1"
+                     /db_xref="taxon:657316"
+     Protein         1..85
+                     /product="prevent-host-death family protein"
+     Region          1..>50
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+     CDS             1..85
+                     /locus_tag="MHY_09410"
+                     /coded_by="FP929048.1:747614..747871"
+                     /transl_table=11
+                     /db_xref="EnsemblGenomes-Gn:MHY_09410"
+                     /db_xref="EnsemblGenomes-Tr:CBL05938"
+                     /db_xref="InterPro:IPR006442"
+                     /db_xref="UniProtKB/TrEMBL:D4KI59"
+ORIGIN      
+        1 mlavnystir nklknycdea tdnnqtiivt rkaeknvvil slekynrlmk ivqnaeylsm
+       61 ldrgikqlea gkgqkhdlie adide
+//
+
+LOCUS       WP_008537714              82 aa            linear   BCT 28-MAY-2013
+DEFINITION  prevent-host-death protein [Megamonas funiformis].
+ACCESSION   WP_008537714
+VERSION     WP_008537714.1
+KEYWORDS    RefSeq.
+SOURCE      Megamonas funiformis
+  ORGANISM  Megamonas funiformis
+            Bacteria; Firmicutes; Negativicutes; Selenomonadales;
+            Selenomonadaceae; Megamonas.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..82
+                     /organism="Megamonas funiformis"
+                     /db_xref="taxon:437897"
+     Protein         1..82
+                     /product="prevent-host-death protein"
+                     /calculated_mol_wt=9207
+     Region          1..64
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+ORIGIN      
+        1 mitanasnfr knlyntleqv akynqvatin tkdgdvvlis addyknlmet mylssipnvr
+       61 edllkaktas nedfvsedev ew
+//
+
+LOCUS       WP_008539369              62 aa            linear   BCT 10-MAY-2013
+DEFINITION  MULTISPECIES: prevent-host-death family protein [Megamonas].
+ACCESSION   WP_008539369
+VERSION     WP_008539369.1
+KEYWORDS    RefSeq.
+SOURCE      Megamonas
+  ORGANISM  Megamonas
+            Bacteria; Firmicutes; Negativicutes; Selenomonadales;
+            Selenomonadaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..62
+                     /organism="Megamonas"
+                     /db_xref="taxon:158846"
+     Protein         1..62
+                     /product="prevent-host-death family protein"
+                     /calculated_mol_wt=6981
+     Region          1..57
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+ORIGIN      
+        1 mmaisssdll neftiyadkv vdeketlivq rssgknivvm smeqfnelqk eiflaknaqe
+       61 kk
+//
+
+LOCUS       WP_027889589              85 aa            linear   BCT 12-JUN-2014
+DEFINITION  prevent-host-death protein [Megamonas hypermegale].
+ACCESSION   WP_027889589
+VERSION     WP_027889589.1
+KEYWORDS    RefSeq.
+SOURCE      Megamonas hypermegale
+  ORGANISM  Megamonas hypermegale
+            Bacteria; Firmicutes; Negativicutes; Selenomonadales;
+            Selenomonadaceae; Megamonas.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..85
+                     /organism="Megamonas hypermegale"
+                     /db_xref="taxon:158847"
+     Protein         1..85
+                     /product="prevent-host-death protein"
+                     /calculated_mol_wt=9642
+     Region          1..>50
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+ORIGIN      
+        1 mlavnystir sklktycdea tdnnqtiivt rkaeknvvil slekynrlmk ivqnaeylsm
+       61 idrgikqlea gkgqkhdlie vdlde
+//
+
+LOCUS       WP_027890002              60 aa            linear   BCT 12-JUN-2014
+DEFINITION  prevent-host-death family protein [Megamonas hypermegale].
+ACCESSION   WP_027890002
+VERSION     WP_027890002.1
+KEYWORDS    RefSeq.
+SOURCE      Megamonas hypermegale
+  ORGANISM  Megamonas hypermegale
+            Bacteria; Firmicutes; Negativicutes; Selenomonadales;
+            Selenomonadaceae; Megamonas.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..60
+                     /organism="Megamonas hypermegale"
+                     /db_xref="taxon:158847"
+     Protein         1..60
+                     /product="prevent-host-death family protein"
+                     /calculated_mol_wt=6679
+     Region          1..>52
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+ORIGIN      
+        1 mlvisssdli neftlyanka vdeketmivq rsngknlvvm smdkfneiqk qiflaneaak
+//
+
+LOCUS       WP_008537715              86 aa            linear   BCT 14-JUN-2015
+DEFINITION  toxin [Megamonas funiformis].
+ACCESSION   WP_008537715
+VERSION     WP_008537715.1
+KEYWORDS    RefSeq.
+SOURCE      Megamonas funiformis
+  ORGANISM  Megamonas funiformis
+            Bacteria; Firmicutes; Negativicutes; Selenomonadales;
+            Selenomonadaceae; Megamonas.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..86
+                     /organism="Megamonas funiformis"
+                     /db_xref="taxon:437897"
+     Protein         1..86
+                     /product="toxin"
+                     /calculated_mol_wt=10297
+     Region          6..85
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 mykieyykka lkdipklkas gldkkaklli dlikedpfqn pppyekllgd lmgyysrrin
+       61 iqhrlvyevl edekviriir mwthye
+//
+
+LOCUS       CBL07015                 124 aa            linear   BCT 27-FEB-2015
+DEFINITION  Growth inhibitor [Megamonas hypermegale ART12/1].
+ACCESSION   CBL07015
+VERSION     CBL07015.1
+DBLINK      BioProject: PRJNA39163
+            BioSample: SAMEA3138358
+DBSOURCE    embl accession FP929048.1
+KEYWORDS    .
+SOURCE      Megamonas hypermegale ART12/1
+  ORGANISM  Megamonas hypermegale ART12/1
+            Bacteria; Firmicutes; Negativicutes; Selenomonadales;
+            Selenomonadaceae; Megamonas.
+REFERENCE   1
+  AUTHORS   Pajon,A., Turner,K., Parkhill,J., Duncan,S. and Flint,H.
+  CONSRTM   metaHIT consortium -- http://www.metahit.eu/
+  TITLE     The genome sequence of Megamonas hypermegale ART12/1
+  JOURNAL   Unpublished
+REFERENCE   2
+  AUTHORS   Pajon,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2010) Sanger Institute, Wellcome Trust Genome
+            Campus, Hinxton, Cambridge CB10 1SA, United Kingdom
+COMMENT     This is a reference genome for the metaHIT project DNA source:
+            Rowett Institute of Nutrition and Health, University of Aberdeen --
+            http://www.rowett.ac.uk/divisions/ghp/ Sequencing technology: 454
+            Genome coverage: 27x
+            Annotation was added using ab initio prediction IMG/ER --
+            http://img.jgi.doe.gov/submit (Markowitz, Szeto et al. 2007).
+FEATURES             Location/Qualifiers
+     source          1..124
+                     /organism="Megamonas hypermegale ART12/1"
+                     /strain="ART12/1"
+                     /db_xref="taxon:657316"
+     Protein         1..124
+                     /product="Growth inhibitor"
+     Region          12..119
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+     CDS             1..124
+                     /locus_tag="MHY_24140"
+                     /coded_by="FP929048.1:1814983..1815357"
+                     /transl_table=11
+                     /db_xref="EnsemblGenomes-Gn:MHY_24140"
+                     /db_xref="EnsemblGenomes-Tr:CBL07015"
+                     /db_xref="GOA:D4KF68"
+                     /db_xref="InterPro:IPR003477"
+                     /db_xref="InterPro:IPR011067"
+                     /db_xref="UniProtKB/TrEMBL:D4KF68"
+ORIGIN      
+        1 mvyplrrnei vkrgdiyyan lspvigseqg glrpvlivqn dignkyspti ivaaitaklg
+       61 kthmpthvdl pakycnlerd smvlleqlrt idksrlskkv ttldknfmqe vnkalmislg
+      121 lvln
+//
+
+LOCUS       WP_008537301             124 aa            linear   BCT 06-JUN-2015
+DEFINITION  MULTISPECIES: mRNA interferase PemK [Megamonas].
+ACCESSION   WP_008537301
+VERSION     WP_008537301.1
+KEYWORDS    RefSeq.
+SOURCE      Megamonas
+  ORGANISM  Megamonas
+            Bacteria; Firmicutes; Negativicutes; Selenomonadales;
+            Selenomonadaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..124
+                     /organism="Megamonas"
+                     /db_xref="taxon:158846"
+     Protein         1..124
+                     /product="mRNA interferase PemK"
+                     /calculated_mol_wt=13826
+     Region          12..119
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 mvyplrrnei vkrgdiyyan lspvigseqg glrpvlivqn dignkyspti ivaaitaklg
+       61 kthmpthvdl pakycnlerd smvlleqlrt idksrlskkv ttldknfmqe vnkalmislg
+      121 lvkf
+//
+
+LOCUS       WP_027890819             124 aa            linear   BCT 06-JUN-2015
+DEFINITION  mRNA interferase PemK [Megamonas hypermegale].
+ACCESSION   WP_027890819
+VERSION     WP_027890819.1
+KEYWORDS    RefSeq.
+SOURCE      Megamonas hypermegale
+  ORGANISM  Megamonas hypermegale
+            Bacteria; Firmicutes; Negativicutes; Selenomonadales;
+            Selenomonadaceae; Megamonas.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..124
+                     /organism="Megamonas hypermegale"
+                     /db_xref="taxon:158847"
+     Protein         1..124
+                     /product="mRNA interferase PemK"
+                     /calculated_mol_wt=13706
+     Region          12..119
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 mvillkrtdi vrrgdiyyan lspvigseqg glrpvlivqn dignkyspti ivaaitaklg
+       61 kthmpthvdl paklcnlerd slvlveqlrt idksrlskkv ttldkhfmqe vnkalmislg
+      121 lvkf
+//
+
+LOCUS       CBL05939                  86 aa            linear   BCT 27-FEB-2015
+DEFINITION  toxin-antitoxin system, toxin component, Txe/YoeB family [Megamonas
+            hypermegale ART12/1].
+ACCESSION   CBL05939
+VERSION     CBL05939.1
+DBLINK      BioProject: PRJNA39163
+            BioSample: SAMEA3138358
+DBSOURCE    embl accession FP929048.1
+KEYWORDS    .
+SOURCE      Megamonas hypermegale ART12/1
+  ORGANISM  Megamonas hypermegale ART12/1
+            Bacteria; Firmicutes; Negativicutes; Selenomonadales;
+            Selenomonadaceae; Megamonas.
+REFERENCE   1
+  AUTHORS   Pajon,A., Turner,K., Parkhill,J., Duncan,S. and Flint,H.
+  CONSRTM   metaHIT consortium -- http://www.metahit.eu/
+  TITLE     The genome sequence of Megamonas hypermegale ART12/1
+  JOURNAL   Unpublished
+REFERENCE   2
+  AUTHORS   Pajon,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2010) Sanger Institute, Wellcome Trust Genome
+            Campus, Hinxton, Cambridge CB10 1SA, United Kingdom
+COMMENT     This is a reference genome for the metaHIT project DNA source:
+            Rowett Institute of Nutrition and Health, University of Aberdeen --
+            http://www.rowett.ac.uk/divisions/ghp/ Sequencing technology: 454
+            Genome coverage: 27x
+            Annotation was added using ab initio prediction IMG/ER --
+            http://img.jgi.doe.gov/submit (Markowitz, Szeto et al. 2007).
+FEATURES             Location/Qualifiers
+     source          1..86
+                     /organism="Megamonas hypermegale ART12/1"
+                     /strain="ART12/1"
+                     /db_xref="taxon:657316"
+     Protein         1..86
+                     /product="toxin-antitoxin system, toxin component,
+                     Txe/YoeB family"
+     Region          5..83
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+     CDS             1..86
+                     /locus_tag="MHY_09420"
+                     /coded_by="FP929048.1:747864..748124"
+                     /transl_table=11
+                     /db_xref="EnsemblGenomes-Gn:MHY_09420"
+                     /db_xref="EnsemblGenomes-Tr:CBL05939"
+                     /db_xref="GOA:D4KI60"
+                     /db_xref="InterPro:IPR009614"
+                     /db_xref="UniProtKB/TrEMBL:D4KI60"
+ORIGIN      
+        1 mnklwsdraw ddylywqfqd kkilkkinel vkdierngls egigkpeplk yknvwsrrid
+       61 kenrlvyniv dgelwiiacr ghyisl
+//
+
+LOCUS       WP_027889588              86 aa            linear   BCT 12-JUN-2014
+DEFINITION  Txe/YoeB family addiction module toxin [Megamonas hypermegale].
+ACCESSION   WP_027889588
+VERSION     WP_027889588.1
+KEYWORDS    RefSeq.
+SOURCE      Megamonas hypermegale
+  ORGANISM  Megamonas hypermegale
+            Bacteria; Firmicutes; Negativicutes; Selenomonadales;
+            Selenomonadaceae; Megamonas.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..86
+                     /organism="Megamonas hypermegale"
+                     /db_xref="taxon:158847"
+     Protein         1..86
+                     /product="Txe/YoeB family addiction module toxin"
+                     /calculated_mol_wt=10284
+     Region          5..83
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 mnklwsdraw ddylywqfqd kktlkkindl ikdierngls egigkpeplk yknvwsrrid
+       61 kenrlvyniv gedlwiiacr ghyisl
+//
+

@@ -1,0 +1,480 @@
+LOCUS       WP_009136891             162 aa            linear   BCT 08-DEC-2015
+DEFINITION  protein MraZ [Odoribacter laneus].
+ACCESSION   WP_009136891
+VERSION     WP_009136891.1
+KEYWORDS    RefSeq.
+SOURCE      Odoribacter laneus
+  ORGANISM  Odoribacter laneus
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales;
+            Odoribacteraceae; Odoribacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..162
+                     /organism="Odoribacter laneus"
+                     /db_xref="taxon:626933"
+     Protein         1..162
+                     /product="protein MraZ"
+                     /calculated_mol_wt=18536
+     Region          17..75
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(17..19,48,58,67..68,71)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          25..29
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          87..141
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(94,96,124,131,140..141)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          102..106
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mfylstakkk kemlsfigey scradnkyrv vvpspfrkim eagqqevfvl rknifeacid
+       61 mypykeweml vadlrgklnl fdrthaaflr elyrgtqqve mdgngrillp rrmleemgve
+      121 keivlagmdt kielwgakay agigmkgedf agltqqifgs gr
+//
+
+LOCUS       WP_013611613             148 aa            linear   BCT 08-DEC-2015
+DEFINITION  protein MraZ [Odoribacter splanchnicus].
+ACCESSION   WP_013611613
+VERSION     WP_013611613.1
+KEYWORDS    RefSeq.
+SOURCE      Odoribacter splanchnicus
+  ORGANISM  Odoribacter splanchnicus
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales;
+            Odoribacteraceae; Odoribacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..148
+                     /organism="Odoribacter splanchnicus"
+                     /db_xref="taxon:28118"
+     Protein         1..148
+                     /product="protein MraZ"
+                     /calculated_mol_wt=16901
+     Region          4..140
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          5..65
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(5..7,36,46,55..56,59)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          13..17
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          75..130
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(82,84,112,119,128..129)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          90..94
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 masfigdytc kadskcrvvv pasfrrvmva sqqtffvlrk nvfgkcidmy plqewenmia
+       61 gvrarlnlfd pkhaaffref crgtqevemd tngrillprk mldeigidke mvlaaqdsmi
+      121 qvwdarvyee vaisgeelgm maeeifkn
+//
+
+LOCUS       CCZ09970                 148 aa            linear   ENV 31-MAY-2013
+DEFINITION  protein MraZ [Odoribacter sp. CAG:788].
+ACCESSION   CCZ09970
+VERSION     CCZ09970.1
+DBSOURCE    embl accession CAZK010000089.1
+KEYWORDS    ENV.
+SOURCE      Odoribacter sp. CAG:788
+  ORGANISM  Odoribacter sp. CAG:788
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales;
+            Odoribacteraceae; Odoribacter; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..148
+                     /organism="Odoribacter sp. CAG:788"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262909"
+                     /environmental_sample
+                     /note="contig 6"
+     Protein         1..148
+                     /product="protein MraZ"
+     Region          4..140
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          5..63
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(5..7,36,46,55..56,59)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          13..17
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          75..130
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(82,84,112,119,128..129)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          90..94
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+     CDS             1..148
+                     /locus_tag="BN783_00084"
+                     /coded_by="CAZK010000089.1:35335..35781"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mlsfigdysc kadgkgrvvv pasfrkvmqv sqqsvfvlrk nifetcvdmy pysewealma
+       61 gvrgklnpfd rnhaaflrgw yrgtlevemd gngrillpkr lleeigvdre lvlagqdaki
+      121 eiwseqayrq saidpeefag ltqqvfgi
+//
+
+LOCUS       CCZ82488                 162 aa            linear   ENV 31-MAY-2013
+DEFINITION  protein MraZ [Odoribacter laneus CAG:561].
+ACCESSION   CCZ82488
+VERSION     CCZ82488.1
+DBSOURCE    embl accession CBAQ010000109.1
+KEYWORDS    ENV.
+SOURCE      Odoribacter laneus CAG:561
+  ORGANISM  Odoribacter laneus CAG:561
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales;
+            Odoribacteraceae; Odoribacter; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..162
+                     /organism="Odoribacter laneus CAG:561"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1263089"
+                     /environmental_sample
+                     /note="contig 82"
+     Protein         1..162
+                     /product="protein MraZ"
+     Region          17..75
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(17..19,48,58,67..68,71)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          25..29
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          87..141
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(94,96,124,131,140..141)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          102..106
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+     CDS             1..162
+                     /locus_tag="BN709_01760"
+                     /coded_by="complement(CBAQ010000109.1:17153..17641)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mfylstakkk kemlsfigey scradnkyrv vvpspfrkim eagqqevfvl rknifeacid
+       61 mypykeweml vadlrgklnl fdrthaaflr elyrgtqqve mdgngrillp rrmleevgve
+      121 keivlagmdt kielwgakay agigmkgedf agltqqifgs gr
+//
+
+LOCUS       CDB06901                  86 aa            linear   ENV 31-MAY-2013
+DEFINITION  prevent-host-death family protein [Odoribacter splanchnicus
+            CAG:14].
+ACCESSION   CDB06901
+VERSION     CDB06901.1
+DBSOURCE    embl accession CBCZ010000106.1
+KEYWORDS    ENV.
+SOURCE      Odoribacter splanchnicus CAG:14
+  ORGANISM  Odoribacter splanchnicus CAG:14
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales;
+            Odoribacteraceae; Odoribacter; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..86
+                     /organism="Odoribacter splanchnicus CAG:14"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1263090"
+                     /environmental_sample
+                     /note="contig 194"
+     Protein         1..86
+                     /product="prevent-host-death family protein"
+     Region          1..81
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     cl09153"
+                     /db_xref="CDD:298842"
+     CDS             1..86
+                     /locus_tag="BN493_01520"
+                     /coded_by="CBCZ010000106.1:6436..6696"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mritnftdlr tnlkhhldsv vqdniplivq rpngesvvvi sledynsiie tayllsnpan
+       61 vehlregiaq anngeatkvd ikdlwk
+//
+
+LOCUS       WP_009136928             110 aa            linear   BCT 28-MAY-2013
+DEFINITION  hypothetical protein [Odoribacter laneus].
+ACCESSION   WP_009136928
+VERSION     WP_009136928.1
+KEYWORDS    RefSeq.
+SOURCE      Odoribacter laneus
+  ORGANISM  Odoribacter laneus
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales;
+            Odoribacteraceae; Odoribacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..110
+                     /organism="Odoribacter laneus"
+                     /db_xref="taxon:626933"
+     Protein         1..110
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=12715
+     Region          12..102
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 mrniirtpef defynslddk iqakidhalv vldtirvint klvkklsgtq fyelrisaqn
+       61 eyrvillccd ndnfinatni lflngfmkks tkdynkqiki aesiienlnl
+//
+
+LOCUS       WP_013613651             116 aa            linear   BCT 27-MAY-2013
+DEFINITION  toxin RelE [Odoribacter splanchnicus].
+ACCESSION   WP_013613651
+VERSION     WP_013613651.1
+KEYWORDS    RefSeq.
+SOURCE      Odoribacter splanchnicus
+  ORGANISM  Odoribacter splanchnicus
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales;
+            Odoribacteraceae; Odoribacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..116
+                     /organism="Odoribacter splanchnicus"
+                     /db_xref="taxon:28118"
+     Protein         1..116
+                     /product="toxin RelE"
+                     /calculated_mol_wt=13581
+     Region          17..102
+                     /region_name="Gp49"
+                     /note="Phage derived protein Gp49-like (DUF891);
+                     pfam05973"
+                     /db_xref="CDD:283596"
+ORIGIN      
+        1 megkviqvil sseaenfvrl qslktqqkia ynirklecgv mdkelfkkle nseiwelrtl
+       61 fngicyrlfa fwdtdkrtlv vathgiikkt skipkkeiek aesirkeyfn nkkikl
+//
+
+LOCUS       CCZ07546                 111 aa            linear   ENV 31-MAY-2013
+DEFINITION  putative uncharacterized protein [Odoribacter sp. CAG:788].
+ACCESSION   CCZ07546
+VERSION     CCZ07546.1
+DBSOURCE    embl accession CAZK010000030.1
+KEYWORDS    ENV.
+SOURCE      Odoribacter sp. CAG:788
+  ORGANISM  Odoribacter sp. CAG:788
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales;
+            Odoribacteraceae; Odoribacter; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..111
+                     /organism="Odoribacter sp. CAG:788"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262909"
+                     /environmental_sample
+                     /note="contig 125"
+     Protein         1..111
+                     /product="putative uncharacterized protein"
+     Region          16..104
+                     /region_name="Gp49"
+                     /note="Phage derived protein Gp49-like (DUF891);
+                     pfam05973"
+                     /db_xref="CDD:283596"
+     CDS             1..111
+                     /locus_tag="BN783_02849"
+                     /coded_by="complement(CAZK010000030.1:56492..56827)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mkqerkivay khyfldfiss lnekeaikiy yvldmlkvqn rvpvkfvkyl rdglyeirae
+       61 wnrniyrvff cfdedkivvl fngfqkksqr tpqneieral kimeeyydsk k
+//
+
+LOCUS       CCZ05913                  60 aa            linear   ENV 31-MAY-2013
+DEFINITION  toxin-antitoxin system toxin component HicA family [Odoribacter sp.
+            CAG:788].
+ACCESSION   CCZ05913
+VERSION     CCZ05913.1
+DBSOURCE    embl accession CAZK010000002.1
+KEYWORDS    ENV.
+SOURCE      Odoribacter sp. CAG:788
+  ORGANISM  Odoribacter sp. CAG:788
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales;
+            Odoribacteraceae; Odoribacter; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..60
+                     /organism="Odoribacter sp. CAG:788"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262909"
+                     /environmental_sample
+                     /note="contig 10"
+     Protein         1..60
+                     /product="toxin-antitoxin system toxin component HicA
+                     family"
+     Region          4..59
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; pfam07927"
+                     /db_xref="CDD:285205"
+     CDS             1..60
+                     /locus_tag="BN783_00195"
+                     /coded_by="CAZK010000002.1:7039..7221"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mkyselvaal kaagcyikrn ganhdiwysp atkqvfpvpr hgshevpkgt eisirkkagi
+//
+
+LOCUS       WP_013610429             106 aa            linear   BCT 23-AUG-2015
+DEFINITION  plasmid maintenance system killer [Odoribacter splanchnicus].
+ACCESSION   WP_013610429
+VERSION     WP_013610429.1
+KEYWORDS    RefSeq.
+SOURCE      Odoribacter splanchnicus
+  ORGANISM  Odoribacter splanchnicus
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales;
+            Odoribacteraceae; Odoribacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..106
+                     /organism="Odoribacter splanchnicus"
+                     /db_xref="taxon:28118"
+     Protein         1..106
+                     /product="plasmid maintenance system killer"
+                     /calculated_mol_wt=12403
+     Region          1..81
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 mivefeqeyl selyktgqck skkyrfqpnv vtkykkcidi lisanriedi fpfrslnyev
+       61 lsgdkkgiss irvnsqyrie ftvnkiedke pvlticnile lsnhyk
+//
+
+LOCUS       WP_013612637             106 aa            linear   BCT 18-MAY-2013
+DEFINITION  plasmid maintenance system killer [Odoribacter splanchnicus].
+ACCESSION   WP_013612637
+VERSION     WP_013612637.1
+KEYWORDS    RefSeq.
+SOURCE      Odoribacter splanchnicus
+  ORGANISM  Odoribacter splanchnicus
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales;
+            Odoribacteraceae; Odoribacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..106
+                     /organism="Odoribacter splanchnicus"
+                     /db_xref="taxon:28118"
+     Protein         1..106
+                     /product="plasmid maintenance system killer"
+                     /calculated_mol_wt=12396
+     Region          1..82
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 mnvefekeyl aelyekgktd dkkhrfqpqi vngylkcvka llnasrmedl yqyrslnyek
+       61 lkgdkkglss lrindqyrle freitnagnq avieicslvd itnhyk
+//
+
+LOCUS       CDB06902                  95 aa            linear   ENV 31-MAY-2013
+DEFINITION  toxin-antitoxin system toxin component Txe/YoeB family [Odoribacter
+            splanchnicus CAG:14].
+ACCESSION   CDB06902
+VERSION     CDB06902.1
+DBSOURCE    embl accession CBCZ010000106.1
+KEYWORDS    ENV.
+SOURCE      Odoribacter splanchnicus CAG:14
+  ORGANISM  Odoribacter splanchnicus CAG:14
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales;
+            Odoribacteraceae; Odoribacter; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..95
+                     /organism="Odoribacter splanchnicus CAG:14"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1263090"
+                     /environmental_sample
+                     /note="contig 194"
+     Protein         1..95
+                     /product="toxin-antitoxin system toxin component Txe/YoeB
+                     family"
+     Region          5..87
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+     CDS             1..95
+                     /locus_tag="BN493_01521"
+                     /coded_by="CBCZ010000106.1:6687..6974"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 meirftktal ddltywkkng nkqiqlkiea lladiaehpf tgigkpeplr felaghwsrr
+       61 insehrivyr vegeqivvvi ismryhycsk gmfcl
+//
+

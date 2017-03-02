@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "s = read.table(\"with_plasmids.txt\")\ns <- as.data.frame(s)\ncolnames(s) <- c('qseqid','sseqid', '%_ident','query_len','alignment_length', 'mismatch', 'gapopen', 'qstart', 'qend', 'sstart', 'send',  'evalue', 'bitscore')\n\ns$alightment <- s$qend-s$qstart+1\ns$query_cover <- s$alightment/s$query_len*100\n\nView(s)\n\ns90query_cover98ident <- subset.data.frame(s, subset = s$query_cover>=90 & s$`%_ident`>=98)\nelements <- unique(s90query_cover98ident$qseqid)\nm <- length(elements)\ns95query_cover98ident <- subset.data.frame(s, subset = s$query_cover>=95 & `%_ident`>=98 )\nelements <- unique(s95query_cover98ident$qseqid)\nm <- length(elements)\ns100query_cover98ident <- subset.data.frame(s, subset = s$query_cover==100 & `%_ident`>=98 )\nelements <- unique(s100query_cover98ident$qseqid)\nm <- length(elements)\n\ns90query_cover100ident <- subset.data.frame(s, subset = s$query_cover>=90 & s$`%_ident`==100 )\nelements <- unique(s90query_cover100ident$qseqid)\nm <- length(elements)\ns95query_cover100ident <- subset.data.frame(s, subset = s$query_cover>=95 & s$`%_ident`==100 )\nelements <- unique(s95query_cover100ident$qseqid)\nm <- length(elements)\ns100query_cover100ident <- subset.data.frame(s, subset = s$query_cover==100 & s$`%_ident`==100 )\nelements <- unique(s100query_cover100ident$qseqid)\nm <- length(elements)\n\n\n\nView(s90query_cover98ident)\nView(s95query_cover98ident)\nView(s100query_cover98ident)\nView(s90query_cover100ident)\nView(s95query_cover100ident)\nView(s100query_cover100ident)\n\n\nwrite.table(s90query_cover98ident, file = \"s90query_cover98ident.txt\")\nwrite.table(s95query_cover98ident, file = \"s95query_cover98ident.txt\")\nwrite.table(s100query_cover98ident, file = \"s100query_cover98ident.txt\")\nwrite.table(s90query_cover100ident, file = \"s90query_cover100ident.txt\")\nwrite.table(s95query_cover100ident, file = \"s95query_cover100ident.txt\")\nwrite.table(s100query_cover100ident, file = \"s100query_cover100ident.txt\")\n",
+    "created" : 1486383412857.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "3250711178",
+    "id" : "7F6BF8A4",
+    "lastKnownWriteTime" : 297519252253966447,
+    "last_content_update" : 1486412459741,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

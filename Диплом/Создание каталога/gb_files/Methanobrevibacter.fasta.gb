@@ -1,0 +1,793 @@
+LOCUS       ALT68230                 160 aa            linear   BCT 22-DEC-2015
+DEFINITION  hypothetical protein sm9_0428 [Methanobrevibacter millerae].
+ACCESSION   ALT68230
+VERSION     ALT68230.1
+DBLINK      BioProject: PRJNA49589
+            BioSample: SAMN03438115
+DBSOURCE    accession CP011266.1
+KEYWORDS    .
+SOURCE      Methanobrevibacter millerae
+  ORGANISM  Methanobrevibacter millerae
+            Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales;
+            Methanobacteriaceae; Methanobrevibacter.
+REFERENCE   1  (residues 1 to 160)
+  AUTHORS   Leahy,S.C., Kelly,W.J., Pacheco,D.M., Li,D., Altermann,E. and
+            Attwood,G.T.
+  TITLE     The complete genome sequence of the rumen methanogen
+            Methanobrevibacter millerae SM9
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 160)
+  AUTHORS   Leahy,S.C., Kelly,W.J., Pacheco,D.M., Li,D., Altermann,E. and
+            Attwood,G.T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-APR-2015) Grasslands Research Centre, AgResearch,
+            Tennent Drive, Palmerston North, Manawatu 4442, New Zealand
+COMMENT     Source DNA available from Sinead Leahy.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..160
+                     /organism="Methanobrevibacter millerae"
+                     /strain="SM9"
+                     /isolation_source="rumen fluid"
+                     /host="Ovis aries"
+                     /db_xref="taxon:230361"
+                     /country="New Zealand: Palmerston North"
+                     /lat_lon="14.19 S 175.8 E"
+                     /collection_date="1996"
+     Protein         1..160
+                     /product="hypothetical protein"
+     Region          8..>42
+                     /region_name="CcdA"
+                     /note="Post-segregation antitoxin CcdA; cl02188"
+                     /db_xref="CDD:295211"
+     CDS             1..160
+                     /locus_tag="sm9_0428"
+                     /coded_by="CP011266.1:553124..553606"
+                     /transl_table=11
+ORIGIN      
+        1 mevkcmtkks lkvsieeeil ekaknhipnl sgfveeclkh ylgyvngtyp ignineitdn
+       61 igklqvelfl inqnfdaees rlevenfekd kvwrflwndy rvrlipddal mkkaievlri
+      121 deeeledild wvyetdidvd tnswqevlkl ycennelvny
+//
+
+LOCUS       WP_012956635              79 aa            linear   BCT 18-MAY-2013
+DEFINITION  hypothetical protein [Methanobrevibacter ruminantium].
+ACCESSION   WP_012956635
+VERSION     WP_012956635.1
+KEYWORDS    RefSeq.
+SOURCE      Methanobrevibacter ruminantium
+  ORGANISM  Methanobrevibacter ruminantium
+            Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales;
+            Methanobacteriaceae; Methanobrevibacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..79
+                     /organism="Methanobrevibacter ruminantium"
+                     /db_xref="taxon:83816"
+     Protein         1..79
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=9340
+     Region          4..58
+                     /region_name="DUF217"
+                     /note="Uncharacterized ACR, COG1753; cl00762"
+                     /db_xref="CDD:294493"
+ORIGIN      
+        1 mdmktiylse evynrlslla lesenyndli arlidvyens yfdelsdaea dfynerikyf
+       61 engdyegirk vdlkffgkn
+//
+
+LOCUS       WP_016357929              77 aa            linear   BCT 28-MAY-2015
+DEFINITION  MULTISPECIES: AbrB family transcriptional regulator
+            [Methanobrevibacter].
+ACCESSION   WP_016357929
+VERSION     WP_016357929.1
+KEYWORDS    RefSeq.
+SOURCE      Methanobrevibacter
+  ORGANISM  Methanobrevibacter
+            Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales;
+            Methanobacteriaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..77
+                     /organism="Methanobrevibacter"
+                     /db_xref="taxon:2172"
+     Protein         1..77
+                     /product="AbrB family transcriptional regulator"
+                     /calculated_mol_wt=8824
+     Region          5..47
+                     /region_name="SpoVT_AbrB"
+                     /note="SpoVT / AbrB like domain; smart00966"
+                     /db_xref="CDD:198034"
+ORIGIN      
+        1 mpiittissk nqtsvpsair kkfdlkpadk lewivkddei iikkitplsf edmkgryate
+       61 essfnwielk kkierge
+//
+
+LOCUS       CDF28700                  52 aa            linear   ENV 31-MAY-2013
+DEFINITION  unknown [Methanobrevibacter smithii CAG:186].
+ACCESSION   CDF28700
+VERSION     CDF28700.1
+DBSOURCE    embl accession CBKP010000019.1
+KEYWORDS    ENV.
+SOURCE      Methanobrevibacter smithii CAG:186
+  ORGANISM  Methanobrevibacter smithii CAG:186
+            Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales;
+            Methanobacteriaceae; Methanobrevibacter; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..52
+                     /organism="Methanobrevibacter smithii CAG:186"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1263088"
+                     /environmental_sample
+                     /note="contig CONTIG26"
+     Protein         1..52
+                     /product="unknown"
+     Region          8..52
+                     /region_name="SpoVT_AbrB"
+                     /note="SpoVT / AbrB like domain; smart00966"
+                     /db_xref="CDD:198034"
+     CDS             1..52
+                     /locus_tag="BN522_00583"
+                     /coded_by="CBKP010000019.1:78628..78786"
+                     /note="no significant homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mkdyisktkv ntrlatsips airtkfdiea gdelywdied nkiviktkda ik
+//
+
+LOCUS       WP_042692272              78 aa            linear   BCT 16-FEB-2015
+DEFINITION  hypothetical protein [Methanobrevibacter oralis].
+ACCESSION   WP_042692272
+VERSION     WP_042692272.1
+KEYWORDS    RefSeq.
+SOURCE      Methanobrevibacter oralis
+  ORGANISM  Methanobrevibacter oralis
+            Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales;
+            Methanobacteriaceae; Methanobrevibacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..78
+                     /organism="Methanobrevibacter oralis"
+                     /db_xref="taxon:66851"
+     Protein         1..78
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=8471
+     Region          7..>50
+                     /region_name="MazE_antitoxin"
+                     /note="Antidote-toxin recognition MazE, bacterial
+                     antitoxin; cl00877"
+                     /db_xref="CDD:294570"
+ORIGIN      
+        1 mvnvgvtkvy knnqttipsk vrkelnisen siiswdlnpd ktitisvkse kpsvkdlvgl
+       61 gsskevtnav nlkrglyl
+//
+
+LOCUS       WP_042701319              83 aa            linear   BCT 16-FEB-2015
+DEFINITION  hypothetical protein [Methanobrevibacter arboriphilus].
+ACCESSION   WP_042701319
+VERSION     WP_042701319.1
+KEYWORDS    RefSeq.
+SOURCE      Methanobrevibacter arboriphilus
+  ORGANISM  Methanobrevibacter arboriphilus
+            Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales;
+            Methanobacteriaceae; Methanobrevibacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..83
+                     /organism="Methanobrevibacter arboriphilus"
+                     /db_xref="taxon:39441"
+     Protein         1..83
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=9721
+     Region          5..43
+                     /region_name="lp_hng_hel_AbrB"
+                     /note="looped-hinge helix DNA binding domain, AbrB family;
+                     TIGR01439"
+                     /db_xref="CDD:273625"
+ORIGIN      
+        1 misskiydnn qtiipseirk kynlkpndiv ewieddngei kikfrekskl rdiigiidle
+       61 tptdavelkk mskhdlkklk rrl
+//
+
+LOCUS       WP_054834689              61 aa            linear   BCT 16-OCT-2015
+DEFINITION  hypothetical protein [Methanobrevibacter arboriphilus].
+ACCESSION   WP_054834689
+VERSION     WP_054834689.1
+KEYWORDS    RefSeq.
+SOURCE      Methanobrevibacter arboriphilus
+  ORGANISM  Methanobrevibacter arboriphilus
+            Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales;
+            Methanobacteriaceae; Methanobrevibacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..61
+                     /organism="Methanobrevibacter arboriphilus"
+                     /db_xref="taxon:39441"
+     Protein         1..61
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=6791
+     Region          16..>45
+                     /region_name="MazE_antitoxin"
+                     /note="Antidote-toxin recognition MazE, bacterial
+                     antitoxin; pfam04014"
+                     /db_xref="CDD:281943"
+ORIGIN      
+        1 mevmrfkvka npannvsksl ritlpvkvae ilnvedgdtv eyvvnaenne lyvslqkeke
+       61 n
+//
+
+LOCUS       WP_054835578              82 aa            linear   BCT 16-OCT-2015
+DEFINITION  hypothetical protein [Methanobrevibacter arboriphilus].
+ACCESSION   WP_054835578
+VERSION     WP_054835578.1
+KEYWORDS    RefSeq.
+SOURCE      Methanobrevibacter arboriphilus
+  ORGANISM  Methanobrevibacter arboriphilus
+            Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales;
+            Methanobacteriaceae; Methanobrevibacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..82
+                     /organism="Methanobrevibacter arboriphilus"
+                     /db_xref="taxon:39441"
+     Protein         1..82
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=9595
+     Region          5..52
+                     /region_name="SpoVT_AbrB"
+                     /note="SpoVT / AbrB like domain; smart00966"
+                     /db_xref="CDD:198034"
+ORIGIN      
+        1 mvtttkiydk yqtvipkeir qklditkedi vewrllennd irinirkksd fkdiigmint
+       61 kkptdavelk kkaqkgekid ih
+//
+
+LOCUS       WP_054835933              71 aa            linear   BCT 16-OCT-2015
+DEFINITION  hypothetical protein [Methanobrevibacter arboriphilus].
+ACCESSION   WP_054835933
+VERSION     WP_054835933.1
+KEYWORDS    RefSeq.
+SOURCE      Methanobrevibacter arboriphilus
+  ORGANISM  Methanobrevibacter arboriphilus
+            Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales;
+            Methanobacteriaceae; Methanobrevibacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..71
+                     /organism="Methanobrevibacter arboriphilus"
+                     /db_xref="taxon:39441"
+     Protein         1..71
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=8183
+     Region          8..41
+                     /region_name="SpoVT_AbrB"
+                     /note="SpoVT / AbrB like domain; smart00966"
+                     /db_xref="CDD:198034"
+ORIGIN      
+        1 misskiydnn qtiippseir kkynlkpndi vewieddnge ikikfreksk lrdiigiidl
+       61 etptdavelk k
+//
+
+LOCUS       ABQ86569                 152 aa            linear   BCT 31-JAN-2014
+DEFINITION  transcriptional regulator (nickel-responsive), NikR
+            [Methanobrevibacter smithii ATCC 35061].
+ACCESSION   ABQ86569
+VERSION     ABQ86569.1
+DBLINK      BioProject: PRJNA18653
+            BioSample: SAMN02604313
+DBSOURCE    accession CP000678.1
+KEYWORDS    .
+SOURCE      Methanobrevibacter smithii ATCC 35061
+  ORGANISM  Methanobrevibacter smithii ATCC 35061
+            Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales;
+            Methanobacteriaceae; Methanobrevibacter.
+REFERENCE   1  (residues 1 to 152)
+  AUTHORS   Samuel,B.S., Hansen,E.E., Manchester,J.K., Coutinho,P.M.,
+            Henrissat,B., Fulton,R., Latreille,P., Kim,K., Wilson,R.K. and
+            Gordon,J.I.
+  TITLE     Genomic and metabolic adaptations of Methanobrevibacter smithii to
+            the human gut
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 104 (25), 10643-10648 (2007)
+   PUBMED   17563350
+REFERENCE   2  (residues 1 to 152)
+  AUTHORS   Samuel,B.S., Hansen,E.E., Manchester,J.K., Coutinho,P.M.,
+            Henrissat,B., Fulton,R., Latreille,P., Kim,K., Wilson,R.K. and
+            Gordon,J.I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-APR-2007) Center for Genome Sciences, Washington
+            University, 4444 Forest Park, Saint Louis, MO 63108, USA
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..152
+                     /organism="Methanobrevibacter smithii ATCC 35061"
+                     /strain="ATCC 35061; PS; DSMZ 861"
+                     /db_xref="ATCC:35061"
+                     /db_xref="taxon:420247"
+                     /note="type strain of Methanobrevibacter smithii"
+     Protein         1..152
+                     /product="transcriptional regulator (nickel-responsive),
+                     NikR"
+     Region          3..142
+                     /region_name="PRK01002"
+                     /note="nickel responsive regulator; Provisional"
+                     /db_xref="CDD:179203"
+     Region          8..47
+                     /region_name="RHH_1"
+                     /note="Ribbon-helix-helix protein, copG family; pfam01402"
+                     /db_xref="CDD:279710"
+     Region          62..135
+                     /region_name="NikR_C"
+                     /note="NikR C terminal nickel binding domain; pfam08753"
+                     /db_xref="CDD:285909"
+     CDS             1..152
+                     /locus_tag="Msm_0364"
+                     /coded_by="complement(CP000678.1:346970..347428)"
+                     /inference="protein motif:InterPro:IPR002145"
+                     /note="COG0864"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR002145"
+ORIGIN      
+        1 mecfsmmris mslpkkllad fdevlkergy qsrskgirda lqdyivrhqw mnemegerig
+       61 iitiiydhhy tgvmenladi qhsfrneinm nmhlhmteky cmeivvvngd iseireltdk
+      121 lmrlkgvehv kltttangee fsdrdhehdh hh
+//
+
+LOCUS       WP_016358578             147 aa            linear   BCT 10-JUN-2013
+DEFINITION  nickel responsive transcriptional regulator NikR
+            [Methanobrevibacter sp. AbM4].
+ACCESSION   WP_016358578
+VERSION     WP_016358578.1
+KEYWORDS    RefSeq.
+SOURCE      Methanobrevibacter sp. AbM4
+  ORGANISM  Methanobrevibacter sp. AbM4
+            Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales;
+            Methanobacteriaceae; Methanobrevibacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..147
+                     /organism="Methanobrevibacter sp. AbM4"
+                     /db_xref="taxon:224719"
+     Protein         1..147
+                     /product="nickel responsive transcriptional regulator
+                     NikR"
+                     /calculated_mol_wt=17075
+     Region          1..137
+                     /region_name="PRK01002"
+                     /note="nickel responsive regulator; Provisional"
+                     /db_xref="CDD:179203"
+     Region          1..>38
+                     /region_name="RHH_1"
+                     /note="Ribbon-helix-helix protein, copG family; cl22901"
+                     /db_xref="CDD:304625"
+     Region          57..130
+                     /region_name="NikR_C"
+                     /note="NikR C terminal nickel binding domain; pfam08753"
+                     /db_xref="CDD:285909"
+ORIGIN      
+        1 mmrismslpk kllsdfdevl kdrgyqsrsk girdalqdyi lryqwmneme gerigvitii
+       61 ydhhytgvme elaeiqhhyk dtiiatmhvh mtekycmevv ivngdvkdir svyekmmklk
+      121 gvehvkltst angknfdpds sddirdt
+//
+
+LOCUS       WP_042694857             147 aa            linear   BCT 16-FEB-2015
+DEFINITION  nickel-responsive regulator [Methanobrevibacter oralis].
+ACCESSION   WP_042694857
+VERSION     WP_042694857.1
+KEYWORDS    RefSeq.
+SOURCE      Methanobrevibacter oralis
+  ORGANISM  Methanobrevibacter oralis
+            Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales;
+            Methanobacteriaceae; Methanobrevibacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..147
+                     /organism="Methanobrevibacter oralis"
+                     /db_xref="taxon:66851"
+     Protein         1..147
+                     /product="nickel-responsive regulator"
+                     /calculated_mol_wt=17003
+     Region          1..136
+                     /region_name="PRK01002"
+                     /note="nickel responsive regulator; Provisional"
+                     /db_xref="CDD:179203"
+     Region          3..42
+                     /region_name="RHH_1"
+                     /note="Ribbon-helix-helix protein, copG family; pfam01402"
+                     /db_xref="CDD:279710"
+     Region          57..130
+                     /region_name="NikR_C"
+                     /note="NikR C terminal nickel binding domain; pfam08753"
+                     /db_xref="CDD:285909"
+ORIGIN      
+        1 mmrismslpk klladfdevl kergyqsrsk girdalqdyi vryqwmnsme gerigivtvi
+       61 ydhhytgvme nladiqhahr teintsmhih mtdkycmeii vvngdigqir dltekimrlk
+      121 gvehvkltst angedfkdpd hlhnhsh
+//
+
+LOCUS       WP_042704179             139 aa            linear   BCT 16-FEB-2015
+DEFINITION  nickel-responsive regulator [Methanobrevibacter arboriphilus].
+ACCESSION   WP_042704179
+VERSION     WP_042704179.1
+KEYWORDS    RefSeq.
+SOURCE      Methanobrevibacter arboriphilus
+  ORGANISM  Methanobrevibacter arboriphilus
+            Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales;
+            Methanobacteriaceae; Methanobrevibacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..139
+                     /organism="Methanobrevibacter arboriphilus"
+                     /db_xref="taxon:39441"
+     Protein         1..139
+                     /product="nickel-responsive regulator"
+                     /calculated_mol_wt=16072
+     Region          1..137
+                     /region_name="PRK01002"
+                     /note="nickel responsive regulator; Provisional"
+                     /db_xref="CDD:179203"
+     Region          3..42
+                     /region_name="RHH_1"
+                     /note="Ribbon-helix-helix protein, copG family; pfam01402"
+                     /db_xref="CDD:279710"
+     Region          57..130
+                     /region_name="NikR_C"
+                     /note="NikR C terminal nickel binding domain; pfam08753"
+                     /db_xref="CDD:285909"
+ORIGIN      
+        1 mmrismslpk klladfdevl kdrgyqsrsk girdalkdyi vryqwmneme gnrigvitvi
+       61 ydhyytgvme slaeiqhdyr deintsmhih mtskycmevi vvngdvnsir eltekmmrlk
+      121 gvdhvkltst angesfdpd
+//
+
+LOCUS       WP_048812429             165 aa            linear   BCT 15-JUL-2015
+DEFINITION  nickel-responsive regulator [Methanobrevibacter ruminantium].
+ACCESSION   WP_048812429
+VERSION     WP_048812429.1
+KEYWORDS    RefSeq.
+SOURCE      Methanobrevibacter ruminantium
+  ORGANISM  Methanobrevibacter ruminantium
+            Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales;
+            Methanobacteriaceae; Methanobrevibacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..165
+                     /organism="Methanobrevibacter ruminantium"
+                     /db_xref="taxon:83816"
+     Protein         1..165
+                     /product="nickel-responsive regulator"
+                     /calculated_mol_wt=19117
+     Region          1..138
+                     /region_name="PRK01002"
+                     /note="nickel responsive regulator; Provisional"
+                     /db_xref="CDD:179203"
+     Region          3..42
+                     /region_name="RHH_1"
+                     /note="Ribbon-helix-helix protein, copG family; pfam01402"
+                     /db_xref="CDD:279710"
+     Region          57..130
+                     /region_name="NikR_C"
+                     /note="NikR C terminal nickel binding domain; pfam08753"
+                     /db_xref="CDD:285909"
+ORIGIN      
+        1 mmrismslpk kllaefdevl kdrgyqsrsk girdalsdyi lrypwmneme gnrvgvitvi
+       61 ydhhftgvme nladiqhdcm eeinasmhih mthkycmevi vvngnvthir elaermmrlk
+      121 gvehvkltst angesldrep glehshshsh shlifflknf fflfs
+//
+
+LOCUS       WP_049780176             147 aa            linear   BCT 30-JUL-2015
+DEFINITION  nickel-responsive regulator [Methanobrevibacter smithii].
+ACCESSION   WP_049780176
+VERSION     WP_049780176.1
+KEYWORDS    RefSeq.
+SOURCE      Methanobrevibacter smithii
+  ORGANISM  Methanobrevibacter smithii
+            Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales;
+            Methanobacteriaceae; Methanobrevibacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..147
+                     /organism="Methanobrevibacter smithii"
+                     /db_xref="taxon:2173"
+     Protein         1..147
+                     /product="nickel-responsive regulator"
+                     /calculated_mol_wt=17228
+     Region          1..138
+                     /region_name="PRK01002"
+                     /note="nickel responsive regulator; Provisional"
+                     /db_xref="CDD:179203"
+     Region          3..42
+                     /region_name="RHH_1"
+                     /note="Ribbon-helix-helix protein, copG family; pfam01402"
+                     /db_xref="CDD:279710"
+     Region          57..130
+                     /region_name="NikR_C"
+                     /note="NikR C terminal nickel binding domain; pfam08753"
+                     /db_xref="CDD:285909"
+ORIGIN      
+        1 mmrismslpk klladfdevl kergyqsrsk girdalqdyi vrhqwmneme gerigiitii
+       61 ydhhytgvme nladiqhsfr neinmnmhlh mtekycmeiv vvngdiseir eltdkimrlk
+      121 gvehvklttt angeefsdpd hehnhhh
+//
+
+LOCUS       WP_058738782             149 aa            linear   BCT 25-DEC-2015
+DEFINITION  nickel-responsive regulator [Methanobrevibacter millerae].
+ACCESSION   WP_058738782
+VERSION     WP_058738782.1
+KEYWORDS    RefSeq.
+SOURCE      Methanobrevibacter millerae
+  ORGANISM  Methanobrevibacter millerae
+            Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales;
+            Methanobacteriaceae; Methanobrevibacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..149
+                     /organism="Methanobrevibacter millerae"
+                     /db_xref="taxon:230361"
+     Protein         1..149
+                     /product="nickel-responsive regulator"
+                     /calculated_mol_wt=17317
+     Region          1..138
+                     /region_name="PRK01002"
+                     /note="nickel responsive regulator; Provisional"
+                     /db_xref="CDD:179203"
+     Region          3..42
+                     /region_name="RHH_1"
+                     /note="Ribbon-helix-helix protein, copG family; pfam01402"
+                     /db_xref="CDD:279710"
+     Region          57..130
+                     /region_name="NikR_C"
+                     /note="NikR C terminal nickel binding domain; pfam08753"
+                     /db_xref="CDD:285909"
+ORIGIN      
+        1 mmrismslpk klladfdevl kergyqsrsk girdalqdyi vryqwmnsme gerigiitii
+       61 ydhhytgvme nlaeiqhsfr neintsmhih mtdkycmeiv vvngdiaeir elterimrlk
+      121 gvehvkltst angeefnepd ghshahhhh
+//
+
+LOCUS       AMD17113                 154 aa            linear   BCT 04-FEB-2016
+DEFINITION  nickel-responsive regulator [Methanobrevibacter sp. YE315].
+ACCESSION   AMD17113
+VERSION     AMD17113.1
+DBLINK      BioProject: PRJNA273773
+            BioSample: SAMN03295748
+DBSOURCE    accession CP010834.1
+KEYWORDS    .
+SOURCE      Methanobrevibacter sp. YE315
+  ORGANISM  Methanobrevibacter sp. YE315
+            Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales;
+            Methanobacteriaceae; Methanobrevibacter.
+REFERENCE   1  (residues 1 to 154)
+  AUTHORS   Ouwerkerk,D., Gilbert,R.A., Klieve,A.V. and Martinez,E.
+  TITLE     Genome sequence of Methanobrevibacter sp. YE315
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 154)
+  AUTHORS   Ouwerkerk,D., Gilbert,R.A., Klieve,A.V. and Martinez,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-JAN-2015) Animal Science, Department of Agriculture,
+            Fisheries and Forestry, Ecosciences Precinct, 41 Boggo Road, Dutton
+            Park, Queensland 4102, Australia
+COMMENT     Annotation was added by the NCBI Prokaryotic Genome Annotation
+            Pipeline (released 2013). Information about the Pipeline can be
+            found here: http://www.ncbi.nlm.nih.gov/genome/annotation_prok/
+            
+            The isolate YE315 is available from the Rumen Ecology Unit, DAFF,
+            PO Box 267 Brisbane 4001.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider          :: NCBI
+            Annotation Date              :: 02/06/2015 11:33:41
+            Annotation Pipeline          :: NCBI Prokaryotic Genome Annotation
+                                            Pipeline
+            Annotation Method            :: Best-placed reference protein set;
+                                            GeneMarkS+
+            Annotation Software revision :: 2.9 (rev. 456657)
+            Features Annotated           :: Gene; CDS; rRNA; tRNA; ncRNA;
+                                            repeat_region
+            Genes                        :: 2,103
+            CDS                          :: 1,942
+            Pseudo Genes                 :: 121
+            rRNAs                        :: 7 (5S, 16S, 23S)
+            tRNAs                        :: 32
+            ncRNA                        :: 1
+            Frameshifted Genes           :: 4
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..154
+                     /organism="Methanobrevibacter sp. YE315"
+                     /strain="YE315"
+                     /db_xref="taxon:1609968"
+     Protein         1..154
+                     /product="nickel-responsive regulator"
+     Region          2..142
+                     /region_name="PRK01002"
+                     /note="nickel responsive regulator; Provisional"
+                     /db_xref="CDD:179203"
+     Region          7..46
+                     /region_name="RHH_1"
+                     /note="Ribbon-helix-helix protein, copG family; pfam01402"
+                     /db_xref="CDD:279710"
+     Region          61..134
+                     /region_name="NikR_C"
+                     /note="NikR C terminal nickel binding domain; pfam08753"
+                     /db_xref="CDD:285909"
+     CDS             1..154
+                     /locus_tag="TL18_03175"
+                     /coded_by="CP010834.1:697360..697824"
+                     /inference="EXISTENCE: similar to AA
+                     sequence:RefSeq:WP_004032105.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /transl_table=11
+ORIGIN      
+        1 mcfimmrism slpkkllsdf devlkergyq srskgirdal qdyivryqwm nsmegqrigi
+       61 itiiydhhyt gvmeslaeiq hsfrneints mhihmtdkyc meivvvngdi aeirdlteki
+      121 mrlkgvehvk ltstangedf kepghshdhg nhyh
+//
+
+LOCUS       AMD16584                  53 aa            linear   BCT 04-FEB-2016
+DEFINITION  Met repressor [Methanobrevibacter sp. YE315].
+ACCESSION   AMD16584
+VERSION     AMD16584.1
+DBLINK      BioProject: PRJNA273773
+            BioSample: SAMN03295748
+DBSOURCE    accession CP010834.1
+KEYWORDS    .
+SOURCE      Methanobrevibacter sp. YE315
+  ORGANISM  Methanobrevibacter sp. YE315
+            Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales;
+            Methanobacteriaceae; Methanobrevibacter.
+REFERENCE   1  (residues 1 to 53)
+  AUTHORS   Ouwerkerk,D., Gilbert,R.A., Klieve,A.V. and Martinez,E.
+  TITLE     Genome sequence of Methanobrevibacter sp. YE315
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 53)
+  AUTHORS   Ouwerkerk,D., Gilbert,R.A., Klieve,A.V. and Martinez,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-JAN-2015) Animal Science, Department of Agriculture,
+            Fisheries and Forestry, Ecosciences Precinct, 41 Boggo Road, Dutton
+            Park, Queensland 4102, Australia
+COMMENT     Annotation was added by the NCBI Prokaryotic Genome Annotation
+            Pipeline (released 2013). Information about the Pipeline can be
+            found here: http://www.ncbi.nlm.nih.gov/genome/annotation_prok/
+            
+            The isolate YE315 is available from the Rumen Ecology Unit, DAFF,
+            PO Box 267 Brisbane 4001.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider          :: NCBI
+            Annotation Date              :: 02/06/2015 11:33:41
+            Annotation Pipeline          :: NCBI Prokaryotic Genome Annotation
+                                            Pipeline
+            Annotation Method            :: Best-placed reference protein set;
+                                            GeneMarkS+
+            Annotation Software revision :: 2.9 (rev. 456657)
+            Features Annotated           :: Gene; CDS; rRNA; tRNA; ncRNA;
+                                            repeat_region
+            Genes                        :: 2,103
+            CDS                          :: 1,942
+            Pseudo Genes                 :: 121
+            rRNAs                        :: 7 (5S, 16S, 23S)
+            tRNAs                        :: 32
+            ncRNA                        :: 1
+            Frameshifted Genes           :: 4
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..53
+                     /organism="Methanobrevibacter sp. YE315"
+                     /strain="YE315"
+                     /db_xref="taxon:1609968"
+     Protein         1..53
+                     /product="Met repressor"
+     Region          6..45
+                     /region_name="RHH_5"
+                     /note="CopG-like RHH_1 or ribbon-helix-helix domain,
+                     RHH_5; pfam07878"
+                     /db_xref="CDD:285161"
+     CDS             1..53
+                     /locus_tag="TL18_00155"
+                     /coded_by="CP010834.1:44522..44683"
+                     /inference="EXISTENCE: similar to AA
+                     sequence:RefSeq:WP_004036152.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /transl_table=11
+ORIGIN      
+        1 msdiskttin lpvdlkkelk kmaidedtsl sgliikmiee gmnkrnkvvs ded
+//
+
+LOCUS       WP_004035344             100 aa            linear   BCT 13-MAY-2013
+DEFINITION  hypothetical protein [Methanobrevibacter smithii].
+ACCESSION   WP_004035344
+VERSION     WP_004035344.1
+KEYWORDS    RefSeq.
+SOURCE      Methanobrevibacter smithii
+  ORGANISM  Methanobrevibacter smithii
+            Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales;
+            Methanobacteriaceae; Methanobrevibacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..100
+                     /organism="Methanobrevibacter smithii"
+                     /db_xref="taxon:2173"
+     Protein         1..100
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=11974
+     Region          2..87
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 mkkykiqiir kyknylddlk ksnlslqnql cdkikeiqkn pykskfktik ntdgcrrars
+       61 gdyriiyfve retifitkid lrkniyksns nvknfnnnit
+//
+
+LOCUS       WP_042693947              87 aa            linear   BCT 16-FEB-2015
+DEFINITION  hypothetical protein [Methanobrevibacter oralis].
+ACCESSION   WP_042693947
+VERSION     WP_042693947.1
+KEYWORDS    RefSeq.
+SOURCE      Methanobrevibacter oralis
+  ORGANISM  Methanobrevibacter oralis
+            Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales;
+            Methanobacteriaceae; Methanobrevibacter.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..87
+                     /organism="Methanobrevibacter oralis"
+                     /db_xref="taxon:66851"
+     Protein         1..87
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=10427
+     Region          4..86
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 minmelefkh salkqlksyk kknpiaykii reqlgevvkn pedirykkvk rypkykrark
+       61 gnyricfkvv dnciyigrie nrskayn
+//
+
+Supplied id parameter is empty.

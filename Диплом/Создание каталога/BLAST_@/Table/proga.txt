@@ -1,0 +1,26 @@
+library("Biostrings")
+s = readAAStringSet("Bifidobacterium.fasta",use.names = T, seek.first.rec = T) 
+discription <- names(s) 
+s <- as.data.frame(s)
+s$id <- rownames(s)
+rownames(s) <- (1:nrow(s))
+colnames(s) <- c('seq', 'id')
+
+get_name <- function(x) {
+  return(gsub(".*\\[(.*)\\].*","\\1",x))
+}
+
+s$species <- unlist(lapply(s$id, get_name))
+
+s$split <-  strsplit(s$species, " ")
+s$len <- lengths(s$split)
+
+
+newdata <- subset.data.frame(s, subset = s$len>2, select = c(seq,id))
+saveRDS(newdata, file='bifido.rds')
+
+
+library("seqRFLP")
+newdata <- newdata[,c(2,1)] # reoeder colonms
+fasta <- dataframe2fas(newdata)
+write.fasta(fasta, file = "Bifidobacterium(1).fasta")

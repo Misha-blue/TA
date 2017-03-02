@@ -1,0 +1,72 @@
+================================================================
+Program: CD-HIT, V4.6 (+OpenMP), Mar 04 2016, 09:33:19
+Command: /home/oasis/data/NGS-ann-project/apps/cd-hit/cd-hit
+         -i 1485044659.fas.0 -d 0 -o 1485044659.fas.1 -c 1 -n 5
+         -G 1 -g 1 -b 20 -s 0.0 -aL 0.0 -aS 0.0 -T 4 -M 32000
+
+Started: Sun Jan 22 00:38:18 2017
+================================================================
+                            Output                              
+----------------------------------------------------------------
+total seq: 3830
+longest and shortest : 424 and 33
+Total letters: 370023
+Sequences have been sorted
+
+Approximated minimal memory consumption:
+Sequence        : 0M
+Buffer          : 4 X 10M = 42M
+Table           : 2 X 65M = 130M
+Miscellaneous   : 0M
+Total           : 174M
+
+Table limit with the given memory limit:
+Max number of representatives: 4000000
+Max number of word counting entries: 3978225832
+
+# comparing sequences from          0  to        638
+---------- new table with      506 representatives
+# comparing sequences from        638  to       1170
+....................99.9%----------    213 remaining sequences to the next cycle
+---------- new table with      291 representatives
+# comparing sequences from        957  to       1435
+.....................100.0%----------    163 remaining sequences to the next cycle
+---------- new table with      263 representatives
+# comparing sequences from       1272  to       1698
+....................----------    266 remaining sequences to the next cycle
+---------- new table with      136 representatives
+# comparing sequences from       1432  to       1831
+....................----------    155 remaining sequences to the next cycle
+---------- new table with      186 representatives
+# comparing sequences from       1676  to       2035
+....................----------    101 remaining sequences to the next cycle
+---------- new table with      228 representatives
+# comparing sequences from       1934  to       2250
+.....................100.0%----------    104 remaining sequences to the next cycle
+---------- new table with      189 representatives
+# comparing sequences from       2146  to       2426
+..................----------    152 remaining sequences to the next cycle
+---------- new table with      100 representatives
+# comparing sequences from       2274  to       2533
+....................----------    107 remaining sequences to the next cycle
+---------- new table with      104 representatives
+# comparing sequences from       2426  to       2660
+...................----------     87 remaining sequences to the next cycle
+---------- new table with      126 representatives
+# comparing sequences from       2573  to       2782
+...................----------     64 remaining sequences to the next cycle
+---------- new table with      100 representatives
+# comparing sequences from       2718  to       2903
+...................----------     61 remaining sequences to the next cycle
+---------- new table with      100 representatives
+# comparing sequences from       2842  to       3830
+.....................---------- new table with      651 representatives
+
+     3830  finished       2980  clusters
+
+Apprixmated maximum memory consumption: 175M
+writing new database
+writing clustering information
+program completed !
+
+Total CPU time 0.50

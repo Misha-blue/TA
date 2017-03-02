@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "library(\"Biostrings\")\ns = readDNAStringSet(\"Final.fasta\",use.names = T, seek.first.rec = T) \ndiscription <- names(s) \ns <- as.data.frame(s)\ns$id <- rownames(s)\nrownames(s) <- (1:nrow(s))\ncolnames(s) <- c('seq', 'id')\n\nget_genus <- function(df){\n  id <- df$id\n  genus <- sapply(id, function(x) strsplit(x,split = ' ')[[1]][1])\n  return(genus)\n}\n\ns$genus <- get_genus(s)\n\nget_domen <- function(df) {\n  id <- df$id\n  domen <- sapply(id, function(x) tail(strsplit(x,split = '~')[[1]], n=1))\n  return(domen)\n}\n\ns$domen <- get_domen(s)\n\nunique_domens <- unique(s$domen) # only 26 WTF?????\n\nget_number_for_genus <- function(genus){\n  return(length(unique(s[s$genus==genus,]$domen)))\n}\n\nnumber_of_domens_for_genus <-sapply(unique(s$genus), get_number_for_genus)\n\nsaveRDS(number_of_domens_for_genus, file = 'number_of_domen_for_genus.rds')\nnumber_of_domens_for_genus <- readRDS('number_of_domen_for_genus.rds')\n",
+    "created" : 1487095897636.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1895558644",
+    "id" : "3EC69407",
+    "lastKnownWriteTime" : 1487099625,
+    "last_content_update" : 1487099625935,
+    "path" : "C:/Users/voros/Desktop/Plasmid/R/script1.R",
+    "project_path" : "script1.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

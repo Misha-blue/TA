@@ -1,0 +1,1306 @@
+LOCUS       WP_004327677             114 aa            linear   BCT 18-MAY-2015
+DEFINITION  antitoxin HicB [Alistipes putredinis].
+ACCESSION   WP_004327677
+VERSION     WP_004327677.1
+KEYWORDS    RefSeq.
+SOURCE      Alistipes putredinis
+  ORGANISM  Alistipes putredinis
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..114
+                     /organism="Alistipes putredinis"
+                     /db_xref="taxon:28117"
+     Protein         1..114
+                     /product="antitoxin HicB"
+                     /calculated_mol_wt=12630
+     Region          1..107
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [General function prediction only]; COG4226"
+                     /db_xref="CDD:226679"
+ORIGIN      
+        1 mntmnykgyi gsievseedn rlfgkvlalp hdtmityege tiaelredfh gavddylehc
+       61 ktmgieprks ysgtlnvris pethrkiail akqagisina fikaavekqi atml
+//
+
+LOCUS       CCX51514                 150 aa            linear   ENV 31-MAY-2013
+DEFINITION  protein MraZ [Alistipes sp. CAG:514].
+ACCESSION   CCX51514
+VERSION     CCX51514.1
+DBSOURCE    embl accession CAWO010000026.1
+KEYWORDS    ENV.
+SOURCE      Alistipes sp. CAG:514
+  ORGANISM  Alistipes sp. CAG:514
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..150
+                     /organism="Alistipes sp. CAG:514"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262696"
+                     /environmental_sample
+                     /note="contig 121"
+     Protein         1..150
+                     /product="protein MraZ"
+     Region          5..65
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(5..7,37,46,55..56,59)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          13..17
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          75..131
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(82,84,113,120,129..130)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          90..95
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+     CDS             1..150
+                     /locus_tag="BN689_01358"
+                     /coded_by="complement(CAWO010000026.1:44505..44957)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mvtfigeysg kiddkgrvvf pspfkslmps egdqrlvvkk difedclemy tfeewerqse
+       61 evksklnifn rahaafwrey mrdravvepd aklgrisipk kllesigvtk evvfsgndyk
+      121 ieiwakekye asgisneefl niagqlsqer
+//
+
+LOCUS       CCY35642                 161 aa            linear   ENV 31-MAY-2013
+DEFINITION  protein MraZ [Alistipes sp. CAG:831].
+ACCESSION   CCY35642
+VERSION     CCY35642.1
+DBSOURCE    embl accession CAYB010000071.1
+KEYWORDS    ENV.
+SOURCE      Alistipes sp. CAG:831
+  ORGANISM  Alistipes sp. CAG:831
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..161
+                     /organism="Alistipes sp. CAG:831"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262698"
+                     /environmental_sample
+                     /note="contig 162"
+     Protein         1..161
+                     /product="protein MraZ"
+     Region          17..152
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          19..78
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(19..20,50,59,68..69,72)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          26..30
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          88..144
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(95,97,126,133,142..143)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          103..108
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+     CDS             1..161
+                     /locus_tag="BN796_02109"
+                     /coded_by="complement(CAYB010000071.1:49715..50200)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mekyvksfvn fapmtkfvge yraktddkgr lvfpsafksl mdntqplrlv vkknlfapcl
+       61 diytyqewer eseeiksrln ffnrnhaalw rgymsgramv epdgklgris iprhlldsig
+      121 vekevvfagn dhkielward kyeasampde eftalaeeil g
+//
+
+LOCUS       CDD18479                 150 aa            linear   ENV 31-MAY-2013
+DEFINITION  protein MraZ [Alistipes sp. CAG:435].
+ACCESSION   CDD18479
+VERSION     CDD18479.1
+DBSOURCE    embl accession CBGN010000072.1
+KEYWORDS    ENV.
+SOURCE      Alistipes sp. CAG:435
+  ORGANISM  Alistipes sp. CAG:435
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..150
+                     /organism="Alistipes sp. CAG:435"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262695"
+                     /environmental_sample
+                     /note="contig 70"
+     Protein         1..150
+                     /product="protein MraZ"
+     Region          5..65
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(5..7,37,46,55..56,59)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          13..17
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          75..131
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(82,84,113,120,129..130)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          90..95
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+     CDS             1..150
+                     /locus_tag="BN655_01282"
+                     /coded_by="CBGN010000072.1:144225..144677"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mitfigeysg kiddkgrvvf pspfkslmps egdqrfvikk difedclemy tfeewerqse
+       61 evksklnffn rahaafwrey mrdraivepd aklgrisipk kllesigvtk evvfsgndyk
+      121 ieiwakerfe asgisneefl niagqlsqer
+//
+
+LOCUS       WP_047444551             150 aa            linear   BCT 26-AUG-2016
+DEFINITION  division/cell wall cluster transcriptional repressor MraZ
+            [Alistipes sp. ZOR0009].
+ACCESSION   WP_047444551
+VERSION     WP_047444551.1
+KEYWORDS    RefSeq.
+SOURCE      Alistipes sp. ZOR0009
+  ORGANISM  Alistipes sp. ZOR0009
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..150
+                     /organism="Alistipes sp. ZOR0009"
+                     /db_xref="taxon:1339253"
+     Protein         1..150
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=17323
+     Region          4..141
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          6..64
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(6..7,36,45,54..55,58)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          13..17
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          74..127
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Region          89..93
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mnsfvgdyic klddkgrvlf paafkkqseg vlerfilkkd ifegclvlyt taewerqlei
+       61 ikrkinpyvq aqnrflrefy ksttdvelds sgrilipkrf iemgglvkev vfigigdkie
+      121 iwdkekyyss emsqeqfaad aekflggeie
+//
+
+LOCUS       WP_009598748              81 aa            linear   BCT 27-MAY-2013
+DEFINITION  antitoxin [Alistipes sp. HGB5].
+ACCESSION   WP_009598748
+VERSION     WP_009598748.1
+KEYWORDS    RefSeq.
+SOURCE      Alistipes sp. HGB5
+  ORGANISM  Alistipes sp. HGB5
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..81
+                     /organism="Alistipes sp. HGB5"
+                     /db_xref="taxon:908612"
+     Protein         1..81
+                     /product="antitoxin"
+                     /calculated_mol_wt=8852
+     Region          2..76
+                     /region_name="RHH_1"
+                     /note="Ribbon-helix-helix protein, copG family; cl22901"
+                     /db_xref="CDD:304625"
+ORIGIN      
+        1 mkttsvalgv yfedfikaki aqgrynnase viraglrlle enesrltelk aairegidsg
+       61 vaegfdpedh lktlkakwtn g
+//
+
+LOCUS       WP_010260452              81 aa            linear   BCT 25-FEB-2014
+DEFINITION  antitoxin [Alistipes timonensis].
+ACCESSION   WP_010260452
+VERSION     WP_010260452.1
+KEYWORDS    RefSeq.
+SOURCE      Alistipes timonensis
+  ORGANISM  Alistipes timonensis
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..81
+                     /organism="Alistipes timonensis"
+                     /db_xref="taxon:1465754"
+     Protein         1..81
+                     /product="antitoxin"
+                     /calculated_mol_wt=8868
+     Region          2..79
+                     /region_name="RHH_1"
+                     /note="Ribbon-helix-helix protein, copG family; cl22901"
+                     /db_xref="CDD:304625"
+ORIGIN      
+        1 mkttsvalgv yfedfikaki aqgrynnase viraglrlle enesrltelk tairegidsg
+       61 vaegfdledh lktlkakrtn g
+//
+
+LOCUS       WP_014775016              81 aa            linear   BCT 28-MAY-2013
+DEFINITION  antitoxin [Alistipes finegoldii].
+ACCESSION   WP_014775016
+VERSION     WP_014775016.1
+KEYWORDS    RefSeq.
+SOURCE      Alistipes finegoldii
+  ORGANISM  Alistipes finegoldii
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..81
+                     /organism="Alistipes finegoldii"
+                     /db_xref="taxon:214856"
+     Protein         1..81
+                     /product="antitoxin"
+                     /calculated_mol_wt=8880
+     Region          2..76
+                     /region_name="RHH_1"
+                     /note="Ribbon-helix-helix protein, copG family; cl22901"
+                     /db_xref="CDD:304625"
+ORIGIN      
+        1 mkttsvalgv yfedfikaki aqgrynnase viraglrlle enesrltelk vairegidsg
+       61 vaegfdpedh lktlkakwtn g
+//
+
+LOCUS       WP_019246688              82 aa            linear   BCT 03-MAR-2014
+DEFINITION  hypothetical protein [Alistipes ihumii].
+ACCESSION   WP_019246688
+VERSION     WP_019246688.1
+KEYWORDS    RefSeq.
+SOURCE      Alistipes ihumii
+  ORGANISM  Alistipes ihumii
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..82
+                     /organism="Alistipes ihumii"
+                     /db_xref="taxon:1470347"
+     Protein         1..82
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=8972
+     Region          4..63
+                     /region_name="antidote_CC2985"
+                     /note="putative addiction module antidote protein, CC2985
+                     family; TIGR02606"
+                     /db_xref="CDD:274227"
+ORIGIN      
+        1 mrrntsvslg syfeafvenk itqgryknas eviraglrll eeeehriavl knaiqeglds
+       61 gvavdfdpte hlaslkaarn ng
+//
+
+LOCUS       CCY34915                  81 aa            linear   ENV 31-MAY-2013
+DEFINITION  putative addiction module antidote protein CC2985 family [Alistipes
+            sp. CAG:831].
+ACCESSION   CCY34915
+VERSION     CCY34915.1
+DBSOURCE    embl accession CAYB010000041.1
+KEYWORDS    ENV.
+SOURCE      Alistipes sp. CAG:831
+  ORGANISM  Alistipes sp. CAG:831
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..81
+                     /organism="Alistipes sp. CAG:831"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262698"
+                     /environmental_sample
+                     /note="contig 135"
+     Protein         1..81
+                     /product="putative addiction module antidote protein
+                     CC2985 family"
+     Region          3..63
+                     /region_name="antidote_CC2985"
+                     /note="putative addiction module antidote protein, CC2985
+                     family; TIGR02606"
+                     /db_xref="CDD:274227"
+     CDS             1..81
+                     /locus_tag="BN796_01621"
+                     /coded_by="complement(CAYB010000041.1:1623..1868)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mkttsvalgq hfdnfirtsi eegrysnase mvraglrlle edecrldalk taiksgldsg
+       61 iargfdpvrh laelkaglpd e
+//
+
+LOCUS       WP_044054665              81 aa            linear   BCT 01-MAR-2015
+DEFINITION  antitoxin [Alistipes shahii].
+ACCESSION   WP_044054665
+VERSION     WP_044054665.1
+KEYWORDS    RefSeq.
+SOURCE      Alistipes shahii
+  ORGANISM  Alistipes shahii
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..81
+                     /organism="Alistipes shahii"
+                     /db_xref="taxon:328814"
+     Protein         1..81
+                     /product="antitoxin"
+                     /calculated_mol_wt=8776
+     Region          2..66
+                     /region_name="RHH_1"
+                     /note="Ribbon-helix-helix protein, copG family; cl22901"
+                     /db_xref="CDD:304625"
+ORIGIN      
+        1 mkttsvalgv yfedfikaki aqgrynnase viraglrlle enesrltelk aairegidsg
+       61 vaegfdpaeh lrtlkakran g
+//
+
+LOCUS       WP_014774403              86 aa            linear   BCT 04-JUL-2015
+DEFINITION  prevent-host-death protein [Alistipes finegoldii].
+ACCESSION   WP_014774403
+VERSION     WP_014774403.1
+KEYWORDS    RefSeq.
+SOURCE      Alistipes finegoldii
+  ORGANISM  Alistipes finegoldii
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..86
+                     /organism="Alistipes finegoldii"
+                     /db_xref="taxon:214856"
+     Protein         1..86
+                     /product="prevent-host-death protein"
+                     /calculated_mol_wt=9589
+     Region          1..76
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     cl09153"
+                     /db_xref="CDD:298842"
+ORIGIN      
+        1 mrtanysdlr qnlktyidsv iedsdtviin rgggagvvlm sldeynsike teylmkspen
+       61 vkrikaaeqe irdgkgkvia pediwk
+//
+
+LOCUS       CCY37243                  86 aa            linear   ENV 31-MAY-2013
+DEFINITION  prevent-host-death family protein [Alistipes sp. CAG:831].
+ACCESSION   CCY37243
+VERSION     CCY37243.1
+DBSOURCE    embl accession CAYB010000141.1
+KEYWORDS    ENV.
+SOURCE      Alistipes sp. CAG:831
+  ORGANISM  Alistipes sp. CAG:831
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..86
+                     /organism="Alistipes sp. CAG:831"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262698"
+                     /environmental_sample
+                     /note="contig 73"
+     Protein         1..86
+                     /product="prevent-host-death family protein"
+     Region          1..54
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     cl09153"
+                     /db_xref="CDD:298842"
+     CDS             1..86
+                     /locus_tag="BN796_00848"
+                     /coded_by="complement(CAYB010000141.1:17133..17393)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mlvvssrefr anqknyldmv dagqellihr gknrsyrivp vseedvlvsr eylmepdaey
+       61 aralsfdefk eralrhveel yerkqq
+//
+
+LOCUS       CDD16678                  90 aa            linear   ENV 31-MAY-2013
+DEFINITION  toxin-antitoxin system protein [Alistipes sp. CAG:435].
+ACCESSION   CDD16678
+VERSION     CDD16678.1
+DBSOURCE    embl accession CBGN010000040.1
+KEYWORDS    ENV.
+SOURCE      Alistipes sp. CAG:435
+  ORGANISM  Alistipes sp. CAG:435
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..90
+                     /organism="Alistipes sp. CAG:435"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262695"
+                     /environmental_sample
+                     /note="contig 41"
+     Protein         1..90
+                     /product="toxin-antitoxin system protein"
+     Region          1..72
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+     CDS             1..90
+                     /locus_tag="BN655_00617"
+                     /coded_by="complement(CBGN010000040.1:9762..10034)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 maqvsmtvrm daslkssfda lcsqfgmsan tamnvfarav vqrgkipfei rgdkteatsd
+       61 glkafkelra maesgrfpem tldeialtrd
+//
+
+LOCUS       CDD16514                  66 aa            linear   ENV 31-MAY-2013
+DEFINITION  putative uncharacterized protein [Alistipes sp. CAG:435].
+ACCESSION   CDD16514
+VERSION     CDD16514.1
+DBSOURCE    embl accession CBGN010000035.1
+KEYWORDS    ENV.
+SOURCE      Alistipes sp. CAG:435
+  ORGANISM  Alistipes sp. CAG:435
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..66
+                     /organism="Alistipes sp. CAG:435"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262695"
+                     /environmental_sample
+                     /note="contig 37"
+     Protein         1..66
+                     /product="putative uncharacterized protein"
+     Region          1..>64
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+     CDS             1..66
+                     /locus_tag="BN655_00565"
+                     /coded_by="complement(CBGN010000035.1:67803..68003)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mgqaavtirm dadikrqfda lcqdfgmsan tafnifarsv vrsrsipfei qadsketiaa
+       61 kaaipq
+//
+
+LOCUS       CDD16057                  97 aa            linear   ENV 31-MAY-2013
+DEFINITION  toxin-antitoxin system protein [Alistipes sp. CAG:435].
+ACCESSION   CDD16057
+VERSION     CDD16057.1
+DBSOURCE    embl accession CBGN010000026.1
+KEYWORDS    ENV.
+SOURCE      Alistipes sp. CAG:435
+  ORGANISM  Alistipes sp. CAG:435
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..97
+                     /organism="Alistipes sp. CAG:435"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262695"
+                     /environmental_sample
+                     /note="contig 29"
+     Protein         1..97
+                     /product="toxin-antitoxin system protein"
+     Region          1..>55
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+     CDS             1..97
+                     /locus_tag="BN655_00368"
+                     /coded_by="complement(CBGN010000026.1:2036..2329)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 maqstlsmrv detlkkkfdm icddfgftst aaitvfmkav vrerkipfei kasskrqinq
+       61 dawnafiemr aqakeagaqd msldeinaei qevrner
+//
+
+LOCUS       CCY37627                 133 aa            linear   ENV 31-MAY-2013
+DEFINITION  putative nickel-responsive regulator [Alistipes sp. CAG:831].
+ACCESSION   CCY37627
+VERSION     CCY37627.1
+DBSOURCE    embl accession CAYB010000159.1
+KEYWORDS    ENV.
+SOURCE      Alistipes sp. CAG:831
+  ORGANISM  Alistipes sp. CAG:831
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..133
+                     /organism="Alistipes sp. CAG:831"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262698"
+                     /environmental_sample
+                     /note="contig 9"
+     Protein         1..133
+                     /product="putative nickel-responsive regulator"
+     Region          3..>45
+                     /region_name="PHA01748"
+                     /note="hypothetical protein"
+                     /db_xref="CDD:222832"
+     Region          5..130
+                     /region_name="PRK04460"
+                     /note="nickel responsive regulator; Provisional"
+                     /db_xref="CDD:179855"
+     Region          59..130
+                     /region_name="NikR_C"
+                     /note="NikR C terminal nickel binding domain; pfam08753"
+                     /db_xref="CDD:285909"
+     CDS             1..133
+                     /locus_tag="BN796_00133"
+                     /coded_by="CAYB010000159.1:2370..2771"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 malkrfgvsl eselldeldr ytvengfanr sravraliek yvteekwacn hivagtvlvl
+       61 cdrdrqdvqa riagvvrdns davlsasvyf vsataclhiv alrgeaarlt sigerlvsin
+      121 gvrhgkllms rvd
+//
+
+LOCUS       WP_019152266             118 aa            linear   BCT 29-JUN-2013
+DEFINITION  toxin RelE [Alistipes senegalensis].
+ACCESSION   WP_019152266
+VERSION     WP_019152266.1
+KEYWORDS    RefSeq.
+SOURCE      Alistipes senegalensis
+  ORGANISM  Alistipes senegalensis
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..118
+                     /organism="Alistipes senegalensis"
+                     /db_xref="taxon:1288121"
+     Protein         1..118
+                     /product="toxin RelE"
+                     /calculated_mol_wt=13988
+     Region          16..105
+                     /region_name="Gp49"
+                     /note="Phage derived protein Gp49-like (DUF891);
+                     pfam05973"
+                     /db_xref="CDD:283596"
+ORIGIN      
+        1 mkkarevvty kdyfeeffek qsqkvrdkii kvldiieqie rvpvtylkyi egtnglfeir
+       61 vqlgsdifri fcffdgnkmv vllcgfqkkt qktppgeikk aekimseyyd ekrketkk
+//
+
+LOCUS       WP_019152275             116 aa            linear   BCT 29-JUN-2013
+DEFINITION  hypothetical protein [Alistipes senegalensis].
+ACCESSION   WP_019152275
+VERSION     WP_019152275.1
+KEYWORDS    RefSeq.
+SOURCE      Alistipes senegalensis
+  ORGANISM  Alistipes senegalensis
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..116
+                     /organism="Alistipes senegalensis"
+                     /db_xref="taxon:1288121"
+     Protein         1..116
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=13734
+     Region          17..112
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 madkkvrtvy yskefkqffd gldtrireky iwtiqmtetv lvlptkyvkk legtefyemr
+       61 vsvgyneyrt vlfaidsdnf vkatgiylln sflkksvkdy kkqieiakki mkevel
+//
+
+LOCUS       WP_019246345             110 aa            linear   BCT 03-MAR-2014
+DEFINITION  hypothetical protein [Alistipes ihumii].
+ACCESSION   WP_019246345
+VERSION     WP_019246345.1
+KEYWORDS    RefSeq.
+SOURCE      Alistipes ihumii
+  ORGANISM  Alistipes ihumii
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..110
+                     /organism="Alistipes ihumii"
+                     /db_xref="taxon:1470347"
+     Protein         1..110
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=12665
+     Region          20..107
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 mkrnlifspe yiefeqssnp rtreklryav ailetvqpip tkfvkkltnt dfyelrvsvd
+       61 nevrvilfsa dneninlass villngfvkk stkdydkeit kainilrkll
+//
+
+LOCUS       CCX52855                 112 aa            linear   ENV 31-MAY-2013
+DEFINITION  putative uncharacterized protein [Alistipes sp. CAG:514].
+ACCESSION   CCX52855
+VERSION     CCX52855.1
+DBSOURCE    embl accession CAWO010000137.1
+KEYWORDS    ENV.
+SOURCE      Alistipes sp. CAG:514
+  ORGANISM  Alistipes sp. CAG:514
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..112
+                     /organism="Alistipes sp. CAG:514"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262696"
+                     /environmental_sample
+                     /note="contig 68"
+     Protein         1..112
+                     /product="putative uncharacterized protein"
+     Region          16..106
+                     /region_name="Gp49"
+                     /note="Phage derived protein Gp49-like (DUF891);
+                     pfam05973"
+                     /db_xref="CDD:283596"
+     CDS             1..112
+                     /locus_tag="BN689_00878"
+                     /coded_by="CAWO010000137.1:29351..29689"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 macgklrlvl meeardfies lprpaankiy ynirrvvdge rdadlfkklt gtkiwefrtl
+       61 ygnmtyrlfa fwdtrkemlv vvthgivkkv qktphkeiak aetimksyfn er
+//
+
+LOCUS       CCY37563                 112 aa            linear   ENV 31-MAY-2013
+DEFINITION  uncharacterized protein BN796_01031 [Alistipes sp. CAG:831].
+ACCESSION   CCY37563
+VERSION     CCY37563.1
+DBSOURCE    embl accession CAYB010000153.1
+KEYWORDS    ENV.
+SOURCE      Alistipes sp. CAG:831
+  ORGANISM  Alistipes sp. CAG:831
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..112
+                     /organism="Alistipes sp. CAG:831"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262698"
+                     /environmental_sample
+                     /note="contig 84"
+     Protein         1..112
+                     /product="uncharacterized protein"
+     Region          13..103
+                     /region_name="Gp49"
+                     /note="Phage derived protein Gp49-like (DUF891);
+                     pfam05973"
+                     /db_xref="CDD:283596"
+     CDS             1..112
+                     /locus_tag="BN796_01031"
+                     /coded_by="complement(CAYB010000153.1:23152..23490)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mklkvvlmee adafmyslpr kayqkvvynl hkvengildk ellkklente iwelrtlfng
+       61 lqyrlfafwd teecalviat hgivkktqkt pakeiakaek irkeyfyhkr qk
+//
+
+LOCUS       CCY34546                  78 aa            linear   ENV 31-MAY-2013
+DEFINITION  uncharacterized protein BN796_01286 [Alistipes sp. CAG:831].
+ACCESSION   CCY34546
+VERSION     CCY34546.1
+DBSOURCE    embl accession CAYB010000010.1
+KEYWORDS    ENV.
+SOURCE      Alistipes sp. CAG:831
+  ORGANISM  Alistipes sp. CAG:831
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..78
+                     /organism="Alistipes sp. CAG:831"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262698"
+                     /environmental_sample
+                     /note="contig 107"
+     Protein         1..78
+                     /product="uncharacterized protein"
+     Region          <6..66
+                     /region_name="Gp49"
+                     /note="Phage derived protein Gp49-like (DUF891);
+                     pfam05973"
+                     /db_xref="CDD:283596"
+     CDS             1..78
+                     /locus_tag="BN796_01286"
+                     /coded_by="complement(CAYB010000010.1:1868..2104)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mlvvdkelfk kmtgtdiwef rtlhrgisyr llafwdtdge tlvvathgfa kktqrtprke
+       61 idkaeriree yftikkrr
+//
+
+LOCUS       CDD18635                 113 aa            linear   ENV 31-MAY-2013
+DEFINITION  toxin-antitoxin system toxin component RelE family [Alistipes sp.
+            CAG:435].
+ACCESSION   CDD18635
+VERSION     CDD18635.1
+DBSOURCE    embl accession CBGN010000075.1
+KEYWORDS    ENV.
+SOURCE      Alistipes sp. CAG:435
+  ORGANISM  Alistipes sp. CAG:435
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..113
+                     /organism="Alistipes sp. CAG:435"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262695"
+                     /environmental_sample
+                     /note="contig 73"
+     Protein         1..113
+                     /product="toxin-antitoxin system toxin component RelE
+                     family"
+     Region          16..103
+                     /region_name="Gp49"
+                     /note="Phage derived protein Gp49-like (DUF891);
+                     pfam05973"
+                     /db_xref="CDD:283596"
+     CDS             1..113
+                     /locus_tag="BN655_01371"
+                     /coded_by="CBGN010000075.1:28974..29315"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mgigklkvvl teeaqaflda qpfkaqqkif ynifkveegv mkvnifkkle ntdiwefrtl
+       61 yngisyrlfs fwdteldtlv ivthgivkkt qktpskeiak aeevrkeyfk nkr
+//
+
+LOCUS       CDD17749                  88 aa            linear   ENV 31-MAY-2013
+DEFINITION  putative uncharacterized protein [Alistipes sp. CAG:435].
+ACCESSION   CDD17749
+VERSION     CDD17749.1
+DBSOURCE    embl accession CBGN010000058.1
+KEYWORDS    ENV.
+SOURCE      Alistipes sp. CAG:435
+  ORGANISM  Alistipes sp. CAG:435
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..88
+                     /organism="Alistipes sp. CAG:435"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262695"
+                     /environmental_sample
+                     /note="contig 58"
+     Protein         1..88
+                     /product="putative uncharacterized protein"
+     Region          2..81
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+     CDS             1..88
+                     /locus_tag="BN655_00970"
+                     /coded_by="CBGN010000058.1:16796..17062"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mkkiiynidr vvggeinael fkklegteiw efrtlynrns yrlfafwdsh ngtfvvatrg
+       61 ivkktrktpc keiakaeaim keyfndkg
+//
+
+LOCUS       WP_004327678              83 aa            linear   BCT 25-MAY-2013
+DEFINITION  hexulose-6-phosphate isomerase [Alistipes putredinis].
+ACCESSION   WP_004327678
+VERSION     WP_004327678.1
+KEYWORDS    RefSeq.
+SOURCE      Alistipes putredinis
+  ORGANISM  Alistipes putredinis
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..83
+                     /organism="Alistipes putredinis"
+                     /db_xref="taxon:28117"
+     Protein         1..83
+                     /product="hexulose-6-phosphate isomerase"
+                     /calculated_mol_wt=9387
+     Region          21..75
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; pfam07927"
+                     /db_xref="CDD:285205"
+ORIGIN      
+        1 mgtkekliqr fisqpkdftw delvrlfgif gyeignkgkt sgsrvifvkg essytahkph
+       61 pdsiikgyvi kqvleflknn eli
+//
+
+LOCUS       CDE65944                  59 aa            linear   ENV 31-MAY-2013
+DEFINITION  putative periplasmic or secreted lipoprotein [Alistipes putredinis
+            CAG:67].
+ACCESSION   CDE65944
+VERSION     CDE65944.1
+DBSOURCE    embl accession CBJI010000112.1
+KEYWORDS    ENV.
+SOURCE      Alistipes putredinis CAG:67
+  ORGANISM  Alistipes putredinis CAG:67
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..59
+                     /organism="Alistipes putredinis CAG:67"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1263036"
+                     /environmental_sample
+                     /note="contig 93"
+     Protein         1..59
+                     /product="putative periplasmic or secreted lipoprotein"
+     Region          1..59
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; cl00752"
+                     /db_xref="CDD:294488"
+     CDS             1..59
+                     /locus_tag="BN752_01363"
+                     /coded_by="CBJI010000112.1:25923..26102"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mksselhrli lkngwrsirq agshviyekd gktvsvpfhg skemgsgiar rfiremglk
+//
+
+LOCUS       WP_032135626              62 aa            linear   BCT 01-OCT-2014
+DEFINITION  toxin HicA [Alistipes sp. AL-1].
+ACCESSION   WP_032135626
+VERSION     WP_032135626.1
+KEYWORDS    RefSeq.
+SOURCE      Alistipes sp. AL-1
+  ORGANISM  Alistipes sp. AL-1
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..62
+                     /organism="Alistipes sp. AL-1"
+                     /db_xref="taxon:1499682"
+     Protein         1..62
+                     /product="toxin HicA"
+                     /calculated_mol_wt=7122
+     Region          4..59
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; pfam07927"
+                     /db_xref="CDD:285205"
+ORIGIN      
+        1 mkysevekkl rkagcrfvsh gtnhdwwysp itdrrfllpr hkseeakagt lksiseqsgv
+       61 kf
+//
+
+LOCUS       WP_019152040             106 aa            linear   BCT 29-JUN-2013
+DEFINITION  plasmid maintenance system killer protein [Alistipes senegalensis].
+ACCESSION   WP_019152040
+VERSION     WP_019152040.1
+KEYWORDS    RefSeq.
+SOURCE      Alistipes senegalensis
+  ORGANISM  Alistipes senegalensis
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..106
+                     /organism="Alistipes senegalensis"
+                     /db_xref="taxon:1288121"
+     Protein         1..106
+                     /product="plasmid maintenance system killer protein"
+                     /calculated_mol_wt=12712
+     Region          1..81
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 mfiefdkeyl relfeqgrtg dkkhryqpev irgyykciml lkrsanveel yrinslnyev
+       61 lqgdkagiss vrinrkyrle ftvrevmneq iitvcrlldi snhykq
+//
+
+LOCUS       CDE63094                 106 aa            linear   ENV 31-MAY-2013
+DEFINITION  plasmid maintenance system killer [Alistipes putredinis CAG:67].
+ACCESSION   CDE63094
+VERSION     CDE63094.1
+DBSOURCE    embl accession CBJI010000018.1
+KEYWORDS    ENV.
+SOURCE      Alistipes putredinis CAG:67
+  ORGANISM  Alistipes putredinis CAG:67
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..106
+                     /organism="Alistipes putredinis CAG:67"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1263036"
+                     /environmental_sample
+                     /note="contig 114"
+     Protein         1..106
+                     /product="plasmid maintenance system killer"
+     Region          1..81
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+     CDS             1..106
+                     /locus_tag="BN752_01771"
+                     /coded_by="CBJI010000018.1:5620..5940"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mivkfqkeyl selyyegkck dkkhryqpti vkrykqridi lndascieal yqlhslgyev
+       61 ltgnkegiss irvndqyrie flvsheadgk eqiticniie lsnhyk
+//
+
+LOCUS       WP_047446440              89 aa            linear   BCT 17-JUN-2015
+DEFINITION  hypothetical protein [Alistipes sp. ZOR0009].
+ACCESSION   WP_047446440
+VERSION     WP_047446440.1
+KEYWORDS    RefSeq.
+SOURCE      Alistipes sp. ZOR0009
+  ORGANISM  Alistipes sp. ZOR0009
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..89
+                     /organism="Alistipes sp. ZOR0009"
+                     /db_xref="taxon:1339253"
+     Protein         1..89
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=10707
+     Region          1..79
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 mivsfknrst emiwmgvwkd flpediqiks renmdkldki ssiedlqddk vkimedesgy
+       61 ysldvndrwr iiflwdgrna qrvqliwhk
+//
+
+LOCUS       WP_010260455             100 aa            linear   BCT 25-FEB-2014
+DEFINITION  plasmid stabilization protein [Alistipes timonensis].
+ACCESSION   WP_010260455
+VERSION     WP_010260455.1
+KEYWORDS    RefSeq.
+SOURCE      Alistipes timonensis
+  ORGANISM  Alistipes timonensis
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..100
+                     /organism="Alistipes timonensis"
+                     /db_xref="taxon:1465754"
+     Protein         1..100
+                     /product="plasmid stabilization protein"
+                     /calculated_mol_wt=11635
+     Region          1..100
+                     /region_name="ParE"
+                     /note="Plasmid stabilization system protein ParE
+                     [Mobilome: prophages, transposons]; COG3668"
+                     /db_xref="CDD:226194"
+ORIGIN      
+        1 mdeirftrka vedlsdiwny tadmwserqa dtyyrllias crklagnpvl fgreykelga
+       61 giygfkvnkh ivfyrivgdk gievvrilhe rmdlsnrfad
+//
+
+LOCUS       WP_014774404              89 aa            linear   BCT 04-JUL-2015
+DEFINITION  toxin of toxin-antitoxin [Alistipes finegoldii].
+ACCESSION   WP_014774404
+VERSION     WP_014774404.1
+KEYWORDS    RefSeq.
+SOURCE      Alistipes finegoldii
+  ORGANISM  Alistipes finegoldii
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..89
+                     /organism="Alistipes finegoldii"
+                     /db_xref="taxon:214856"
+     Protein         1..89
+                     /product="toxin of toxin-antitoxin"
+                     /calculated_mol_wt=10225
+     Region          5..87
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 meivfseqaq adiafwkksg nkaimnrisa lladiaehpf tgigkpeplk ydlagkwsrr
+       61 intehrivys vhdemievyi lsmryhysk
+//
+
+LOCUS       WP_015545973             100 aa            linear   BCT 08-DEC-2015
+DEFINITION  plasmid stabilization system protein [Alistipes shahii].
+ACCESSION   WP_015545973
+VERSION     WP_015545973.1
+KEYWORDS    RefSeq.
+SOURCE      Alistipes shahii
+  ORGANISM  Alistipes shahii
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..100
+                     /organism="Alistipes shahii"
+                     /db_xref="taxon:328814"
+     Protein         1..100
+                     /product="plasmid stabilization system protein"
+                     /calculated_mol_wt=11733
+     Region          1..98
+                     /region_name="ParE"
+                     /note="Plasmid stabilization system protein ParE
+                     [Mobilome: prophages, transposons]; COG3668"
+                     /db_xref="CDD:226194"
+ORIGIN      
+        1 maeirftrka vedlsdiwny tadtwserqa dtyywllias crklagnpvl fgreykelge
+       61 kvygfkvnkh ivfyripddg aievvrilhe rmdlsnrfvd
+//
+
+LOCUS       WP_019246687              99 aa            linear   BCT 03-MAR-2014
+DEFINITION  hypothetical protein [Alistipes ihumii].
+ACCESSION   WP_019246687
+VERSION     WP_019246687.1
+KEYWORDS    RefSeq.
+SOURCE      Alistipes ihumii
+  ORGANISM  Alistipes ihumii
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..99
+                     /organism="Alistipes ihumii"
+                     /db_xref="taxon:1470347"
+     Protein         1..99
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=11529
+     Region          1..93
+                     /region_name="ParE"
+                     /note="Plasmid stabilization system protein ParE
+                     [Mobilome: prophages, transposons]; COG3668"
+                     /db_xref="CDD:226194"
+ORIGIN      
+        1 maeyrftrka vedlsdiwhy tletwsqkqa dryyrmliec crniaehpla grhyaemaeg
+       61 vyglragkhi vfyriaapne ievirilhgs mdlktrvge
+//
+
+LOCUS       CCY35110                 114 aa            linear   ENV 31-MAY-2013
+DEFINITION  uncharacterized protein BN796_01766 [Alistipes sp. CAG:831].
+ACCESSION   CCY35110
+VERSION     CCY35110.1
+DBSOURCE    embl accession CAYB010000052.1
+KEYWORDS    ENV.
+SOURCE      Alistipes sp. CAG:831
+  ORGANISM  Alistipes sp. CAG:831
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..114
+                     /organism="Alistipes sp. CAG:831"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262698"
+                     /environmental_sample
+                     /note="contig 145"
+     Protein         1..114
+                     /product="uncharacterized protein"
+     Region          1..103
+                     /region_name="ParE"
+                     /note="Plasmid stabilization system protein ParE
+                     [Mobilome: prophages, transposons]; COG3668"
+                     /db_xref="CDD:226194"
+     CDS             1..114
+                     /locus_tag="BN796_01766"
+                     /coded_by="CAYB010000052.1:15306..15650"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 maeviwsdna trlristley gadtfgqksa eklditfkty sgllashpll grrepllrhr
+       61 tdyifrsilv hrnykliyvl epednetaer vliidiwdtr mdpdfltari pavk
+//
+
+LOCUS       CCY34914                 100 aa            linear   ENV 31-MAY-2013
+DEFINITION  plasmid stabilization system [Alistipes sp. CAG:831].
+ACCESSION   CCY34914
+VERSION     CCY34914.1
+DBSOURCE    embl accession CAYB010000041.1
+KEYWORDS    ENV.
+SOURCE      Alistipes sp. CAG:831
+  ORGANISM  Alistipes sp. CAG:831
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..100
+                     /organism="Alistipes sp. CAG:831"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262698"
+                     /environmental_sample
+                     /note="contig 135"
+     Protein         1..100
+                     /product="plasmid stabilization system"
+     Region          1..100
+                     /region_name="ParE"
+                     /note="Plasmid stabilization system protein ParE
+                     [Mobilome: prophages, transposons]; COG3668"
+                     /db_xref="CDD:226194"
+     CDS             1..100
+                     /locus_tag="BN796_01620"
+                     /coded_by="complement(CAYB010000041.1:1328..1630)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mnkliftnka vddlssiwey tvrtwsvsqa eryynllidc crmiseskit tsrrydevma
+       61 glsgvragrh iifytisysh cativrilhe kmdirqrlke
+//
+
+LOCUS       CCZ95908                  90 aa            linear   ENV 31-MAY-2013
+DEFINITION  addiction module toxin RelE/StbE family [Alistipes sp. CAG:53].
+ACCESSION   CCZ95908
+VERSION     CCZ95908.1
+DBSOURCE    embl accession CBAY010000039.1
+KEYWORDS    ENV.
+SOURCE      Alistipes sp. CAG:53
+  ORGANISM  Alistipes sp. CAG:53
+            Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Rikenellaceae;
+            Alistipes; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..90
+                     /organism="Alistipes sp. CAG:53"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262697"
+                     /environmental_sample
+                     /note="contig 133"
+     Protein         1..90
+                     /product="addiction module toxin RelE/StbE family"
+     Region          1..89
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+     CDS             1..90
+                     /locus_tag="BN696_00934"
+                     /coded_by="CBAY010000039.1:11506..11778"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mkiirqstqy kkdfkryrnq pkklekllgv lrllandeel paelkahkli geyndcmech
+       61 iegdflliwy deeediitll rigshselfk
+//
+

@@ -1,0 +1,1828 @@
+LOCUS       EDR97436                  89 aa            linear   BCT 04-AUG-2012
+DEFINITION  hypothetical protein ANACAC_02046 [Anaerostipes caccae DSM 14662].
+ACCESSION   EDR97436
+VERSION     EDR97436.1
+DBLINK      BioProject: PRJNA18213
+            BioSample: SAMN00627053
+DBSOURCE    accession ABAX03000013.1
+KEYWORDS    .
+SOURCE      Anaerostipes caccae DSM 14662
+  ORGANISM  Anaerostipes caccae DSM 14662
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Anaerostipes.
+REFERENCE   1  (residues 1 to 89)
+  AUTHORS   Sudarsanam,P., Ley,R., Guruge,J., Turnbaugh,P.J., Mahowald,M.,
+            Liep,D. and Gordon,J.
+  TITLE     Draft genome sequence of Anaerostipes caccae (DSM 14662)
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 89)
+  AUTHORS   Fulton,L., Clifton,S., Fulton,B., Xu,J., Minx,P., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-MAY-2007) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+REFERENCE   3  (residues 1 to 89)
+  AUTHORS   Fulton,L., Clifton,S., Fulton,B., Xu,J., Minx,P., Pepin,K.H.,
+            Johnson,M., Thiruvilangam,P., Bhonagiri,V., Nash,W.E., Mardis,E.R.
+            and Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-NOV-2007) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+COMMENT     Anaerostipes caccae (GenBank Accession Number: AJ270487) is a
+            member of the division Firmicutes. It is an acetate-converting
+            butyrate-producing colon bacteria that is involved in metabolic
+            cross-feeding with Bifidobacterium species (Falony et. al. (2006),
+            Belenguer et. al. (2006)). The sequenced strain was obtained from
+            Deutsche Sammlung von Mikroorganismen und Zellkulturen GmbH (DSMZ)
+            (DSM 14662).
+            
+            We have collected 9.8X coverage in plasmid end reads (pOTW13 and
+            pJAZZ vectors) and 454 reads. We have performed one round of
+            automated sequence improvement(pre-finishing), along with manual
+            improvement that includes breaking apart any mis-assembly, and
+            making manual joins where possible. Manual edits also are made
+            where the consensus appears to be incorrect. All low quality data
+            on the ends of contigs is removed. Contigs are ordered and oriented
+            where possible.
+            
+            Sequencing/Assembly: The genomic DNA was purified from liquid
+            culture derived from a single bacterial colony. A hybrid sequencing
+            strategy that utilized reads from both 454 GS-20 and ABI 3730xl
+            sequencers was devised and implemented to generate the draft genome
+            sequences.  454 reads were assembled using Newbler (454 Life
+            Sciences) into 454 de novo contigs. These de novo contigs were
+            converted in silico to 800 base paired reads ('superreads') with
+            400 base overlaps with neighboring superreads.  Finally, PCAP
+            (Huang, et al, Genome Research, 13:2164, (2003)) was used to
+            assemble the super-reads and the conventional 3730xl capillary
+            reads.
+            
+            This sequenced strain is part of a comprehensive, sequence-based
+            survey of members of the normal human gut microbiota.  A joint
+            effort of the WU-GSC and the Center for Genome Sciences at
+            Washington University School of Medicine, the purpose of this
+            survey is to provide the general scientific community with a broad
+            view of the gene content of 100 representatives of the major
+            divisions represented in the intestine's microbial community.
+            
+            Coding sequences were predicted using GeneMark v3.3 and Glimmer2
+            v2.13. Intergenic regions not spanned by GeneMark and Glimmer2 were
+            blasted against NCBI's non-redundant (NR) database and predictions
+            generated based on protein alignments. tRNA genes were determined
+            using tRNAscan-SE 1.23 and non-coding RNA genes by RNAmmer-1.2 and
+            Rfam v8.0. Gene names are generated at the contig level and may not
+            necessarily reflect any known order or orientation between contigs.
+            This information should provide a frame of reference for analyzing
+            metagenomic studies of the human gut microbiome. Further details of
+            this effort are described in a white paper entitled 'Extending Our
+            View of Self: the Human Gut Microbiome Initiative (HGMI)'
+            (http://www.genome.gov/Pages/Research/Sequencing/SeqProposals/HGMIS
+            eq.pdf). These studies are supported by National Human Genome
+            Research Institute.
+            
+            For answers to your questions regarding this assembly or project,
+            or any other GSC genome project, please visit our Genome Groups web
+            page (http://genome.wustl.edu/genome_group_index.cgi) and email the
+            designated contact person.
+            
+            Annotation was added to the contigs in February 2008.
+            
+            This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Product names were updated in August 2012.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..89
+                     /organism="Anaerostipes caccae DSM 14662"
+                     /strain="DSM 14662"
+                     /db_xref="taxon:411490"
+     Protein         1..89
+                     /product="hypothetical protein"
+     Region          5..63
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+     CDS             1..89
+                     /locus_tag="ANACAC_02046"
+                     /coded_by="complement(ABAX03000013.1:114983..115252)"
+                     /inference="protein motif:HMMPfam:IPR005357"
+                     /note="COG: COG1598 Uncharacterized conserved protein;
+                     Psort location: Cytoplasmic, score: 8.87"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR005357"
+ORIGIN      
+        1 mmkqkmaypi vlkrtddgyy vsipdfdtgt qgetiadame mardaiglig tdmedegkel
+       61 pepntispei vpgdivtlvd vdfleyrkk
+//
+
+LOCUS       EKY23327                 154 aa            linear   BCT 10-DEC-2012
+DEFINITION  toxin-antitoxin system, antitoxin component, HicB family
+            [Anaerostipes hadrus DSM 3319].
+ACCESSION   EKY23327
+VERSION     EKY23327.1
+DBLINK      BioProject: PRJNA38323
+            BioSample: SAMN02436796
+DBSOURCE    accession AMEY01000033.1
+KEYWORDS    HIGH_QUALITY_DRAFT.
+SOURCE      Anaerostipes hadrus DSM 3319
+  ORGANISM  Anaerostipes hadrus DSM 3319
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Anaerostipes.
+REFERENCE   1  (residues 1 to 154)
+  AUTHORS   Weinstock,G., Sodergren,E., Lobos,E.A., Fulton,L., Fulton,R.,
+            Courtney,L., Fronick,C., O'Laughlin,M., Godfrey,J., Wilson,R.M.,
+            Miner,T., Farmer,C., Delehaunty,K., Cordes,M., Minx,P.,
+            Tomlinson,C., Chen,J., Wollam,A., Pepin,K.H., Bhonagiri,V.,
+            Zhang,X., Suruliraj,S., Warren,W., Mitreva,M., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAY-2012) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+COMMENT     Eubacterium hadrum DSM 3319 is a member of the Firmicutes division
+            of the domain Bacteria and has been isolated from the GI tract.
+            
+            This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            
+            The sequenced strain was obtained directly from ATCC (ATCC 29173).
+            Source DNA was prepared by Michelle Daigneault and Emma
+            Allen-Vercoe (Department of Molecular and Cellular Biology,
+            University of Guelph, Ontario, Canada), and was funded by the NHGRI
+            (through an HMP Technology Development Grant - 1R21HG005811 - 01).
+            
+            Coding sequences were predicted using GeneMark v3.3 and Glimmer3
+            v3.02. Intergenic regions not spanned by GeneMark and Glimmer3 were
+            blasted against NCBI's non-redundant (NR)  database and predictions
+            generated based on protein alignments. tRNA genes were determined
+            using tRNAscan-SE 1.23 and non-coding RNA genes by RNAmmer-1.2 and
+            Rfam v8.1. The final gene set is processed through several programs
+            such as Kegg (Release 56), psortB (Version 3.0.3) and Interproscan
+            (Version 4.7) to determine possible function. Gene product names
+            are determined by BER (Version 2.5). Gene names are generated at
+            the contig level and may not necessarily reflect any known order or
+            orientation between contigs.
+            
+            The National Human Genome Research Institute (NHGRI), National
+            Institutes of Health (NIH) is funding the sequence characterization
+            of the Eubacterium hadrum DSM 3319 genome.
+            
+            ##Genome-Assembly-Data-START##
+            Finishing Goal           :: High-Quality Draft
+            Current Finishing Status :: High-Quality Draft
+            Assembly Method          :: Velvet v. 1.1.04
+            Genome Coverage          :: 103x
+            Sequencing Technology    :: Illumina
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..154
+                     /organism="Anaerostipes hadrus DSM 3319"
+                     /strain="DSM 3319"
+                     /isolation_source="stool, GI tract"
+                     /host="Homo sapiens"
+                     /culture_collection="ATCC:29173"
+                     /db_xref="HMP:0369"
+                     /db_xref="taxon:649757"
+     Protein         1..154
+                     /product="toxin-antitoxin system, antitoxin component,
+                     HicB family"
+     Region          23..89
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+     CDS             1..154
+                     /locus_tag="HMPREF0369_01052"
+                     /coded_by="complement(AMEY01000033.1:5394..5858)"
+                     /inference="protein motif:HMMPfam:IPR005357"
+                     /note="Psort location: Cytoplasmic, score: 7.50"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR005357"
+ORIGIN      
+        1 mknknekrik rqdfrrngnm akkvaypvil kpdqegyyve ipdfdiateg dtiaeamema
+       61 rdaiglmgid medekkslpe pnskaqnvea gdtvtlvdvd fteyrkrvdn kavkknctip
+      121 ywmsveadka ginysrvlqd aisnilgvar ttkg
+//
+
+LOCUS       WP_006568715              69 aa            linear   BCT 26-AUG-2016
+DEFINITION  MULTISPECIES: HicB family protein [Anaerostipes].
+ACCESSION   WP_006568715
+VERSION     WP_006568715.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerostipes
+  ORGANISM  Anaerostipes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..69
+                     /organism="Anaerostipes"
+                     /db_xref="taxon:207244"
+     Protein         1..69
+                     /product="HicB family protein"
+                     /calculated_mol_wt=7890
+     Region          1..62
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+ORIGIN      
+        1 mfkyeiiiyw skdddcyiae vpelpgcmad gktqedalyn aqivikewie takemgreip
+       61 epqgklmya
+//
+
+LOCUS       WP_006565797              87 aa            linear   BCT 25-MAY-2013
+DEFINITION  AbrB family transcriptional regulator [Anaerostipes caccae].
+ACCESSION   WP_006565797
+VERSION     WP_006565797.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerostipes caccae
+  ORGANISM  Anaerostipes caccae
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Anaerostipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..87
+                     /organism="Anaerostipes caccae"
+                     /db_xref="taxon:105841"
+     Protein         1..87
+                     /product="AbrB family transcriptional regulator"
+                     /calculated_mol_wt=9703
+     Region          1..80
+                     /region_name="AbrB"
+                     /note="Bifunctional DNA-binding transcriptional regulator
+                     of stationary/sporulation/toxin gene expression and
+                     antitoxin component of the YhaV-PrlF toxin-antitoxin
+                     module [Transcription, Defense mechanisms]; COG2002"
+                     /db_xref="CDD:224913"
+ORIGIN      
+        1 mkctgvvrkl delgritlpi elrrnlgvgd kdpleifvde dtillkkyqp adiftgemed
+       61 lidykgkkvs resvlklaek aglkise
+//
+
+LOCUS       WP_006567976              87 aa            linear   BCT 04-DEC-2014
+DEFINITION  MULTISPECIES: AbrB family transcriptional regulator [Anaerostipes].
+ACCESSION   WP_006567976
+VERSION     WP_006567976.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerostipes
+  ORGANISM  Anaerostipes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..87
+                     /organism="Anaerostipes"
+                     /db_xref="taxon:207244"
+     Protein         1..87
+                     /product="AbrB family transcriptional regulator"
+                     /calculated_mol_wt=9715
+     Region          1..>51
+                     /region_name="AbrB"
+                     /note="Bifunctional DNA-binding transcriptional regulator
+                     of stationary/sporulation/toxin gene expression and
+                     antitoxin component of the YhaV-PrlF toxin-antitoxin
+                     module [Transcription, Defense mechanisms]; COG2002"
+                     /db_xref="CDD:224913"
+ORIGIN      
+        1 mkstgivrkl delgritlpi elrrnldvne rdpleifvde dtiilkkynp adiftgemdd
+       61 lveykgkkvs kssiielakl aglnvae
+//
+
+LOCUS       WP_006568580             180 aa            linear   BCT 08-MAY-2013
+DEFINITION  MULTISPECIES: stage V sporulation protein T [Anaerostipes].
+ACCESSION   WP_006568580
+VERSION     WP_006568580.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerostipes
+  ORGANISM  Anaerostipes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..180
+                     /organism="Anaerostipes"
+                     /db_xref="taxon:207244"
+     Protein         1..180
+                     /product="stage V sporulation protein T"
+                     /calculated_mol_wt=19530
+     Region          1..>55
+                     /region_name="AbrB"
+                     /note="Bifunctional DNA-binding transcriptional regulator
+                     of stationary/sporulation/toxin gene expression and
+                     antitoxin component of the YhaV-PrlF toxin-antitoxin
+                     module [Transcription, Defense mechanisms]; COG2002"
+                     /db_xref="CDD:224913"
+     Region          2..179
+                     /region_name="spore_V_T"
+                     /note="stage V sporulation protein T; TIGR02851"
+                     /db_xref="CDD:131898"
+     Region          54..179
+                     /region_name="SpoVT_C"
+                     /note="Stage V sporulation protein T C-terminal,
+                     transcription factor; pfam15714"
+                     /db_xref="CDD:292342"
+ORIGIN      
+        1 mratgivrri ddlgrivipk eirktmhire sdpleifteh dgsiilkkys pigemgqiak
+       61 qyaesiaatl phticicdqd sviaaagpng kklsgkllhe qaeqiiidrg qfsaakgdqn
+      121 fvpiisdfpd eftnqavati iaegdaiglv cilsnenkmn eqdltiakig asflgkqmed
+//
+
+LOCUS       WP_009202743             180 aa            linear   BCT 26-MAY-2015
+DEFINITION  stage V sporulation protein T [Anaerostipes hadrus].
+ACCESSION   WP_009202743
+VERSION     WP_009202743.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerostipes hadrus
+  ORGANISM  Anaerostipes hadrus
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Anaerostipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..180
+                     /organism="Anaerostipes hadrus"
+                     /db_xref="taxon:649756"
+     Protein         1..180
+                     /product="stage V sporulation protein T"
+                     /calculated_mol_wt=20162
+     Region          1..>55
+                     /region_name="AbrB"
+                     /note="Bifunctional DNA-binding transcriptional regulator
+                     of stationary/sporulation/toxin gene expression and
+                     antitoxin component of the YhaV-PrlF toxin-antitoxin
+                     module [Transcription, Defense mechanisms]; COG2002"
+                     /db_xref="CDD:224913"
+     Region          2..179
+                     /region_name="spore_V_T"
+                     /note="stage V sporulation protein T; TIGR02851"
+                     /db_xref="CDD:131898"
+     Region          54..179
+                     /region_name="SpoVT_C"
+                     /note="Stage V sporulation protein T C-terminal,
+                     transcription factor; pfam15714"
+                     /db_xref="CDD:292342"
+ORIGIN      
+        1 mkatgiirri ddlgrivipk eirktmhire sdpleifter dgdiilkkys pigelgnsaq
+       61 lyaesiatqi phticicdqd cviaaagpna kkligkllde kaeealidrk hilmdreked
+      121 ffplildfpe vfryvclsti iaeseavgfv cilsiedkld dqefkiakia sdflgkqlet
+//
+
+LOCUS       WP_009290531              87 aa            linear   BCT 04-JUL-2015
+DEFINITION  AbrB family transcriptional regulator [Anaerostipes sp. 3_2_56FAA].
+ACCESSION   WP_009290531
+VERSION     WP_009290531.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerostipes sp. 3_2_56FAA
+  ORGANISM  Anaerostipes sp. 3_2_56FAA
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Anaerostipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..87
+                     /organism="Anaerostipes sp. 3_2_56FAA"
+                     /db_xref="taxon:665937"
+     Protein         1..87
+                     /product="AbrB family transcriptional regulator"
+                     /calculated_mol_wt=9717
+     Region          1..80
+                     /region_name="AbrB"
+                     /note="Bifunctional DNA-binding transcriptional regulator
+                     of stationary/sporulation/toxin gene expression and
+                     antitoxin component of the YhaV-PrlF toxin-antitoxin
+                     module [Transcription, Defense mechanisms]; COG2002"
+                     /db_xref="CDD:224913"
+ORIGIN      
+        1 mkctgvvrkl delgritlpi elrrnlgvgd kdpleifvde dtillkkyqp adiftgemed
+       61 lieykgkkvs resvlklaek aglkise
+//
+
+LOCUS       CBL37996                 145 aa            linear   BCT 21-APR-2016
+DEFINITION  mraZ protein [Anaerostipes hadrus].
+ACCESSION   CBL37996
+VERSION     CBL37996.1
+DBLINK      BioProject: PRJNA45957
+            BioSample: SAMEA3138376
+DBSOURCE    embl accession FP929061.1
+KEYWORDS    .
+SOURCE      Anaerostipes hadrus
+  ORGANISM  Anaerostipes hadrus
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Anaerostipes.
+REFERENCE   1
+  AUTHORS   Pajon,A., Turner,K., Parkhill,J., Duncan,S. and Flint,H.
+  CONSRTM   metaHIT consortium -- http://www.metahit.eu/
+  TITLE     The genome sequence of Clostridiales sp. SSC/2
+  JOURNAL   Unpublished
+REFERENCE   2
+  AUTHORS   Pajon,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-MAR-2010) Sanger Institute, Wellcome Trust Genome
+            Campus, Hinxton, Cambridge CB10 1SA, United Kingdom
+COMMENT     This is a reference genome for the metaHIT project DNA source:
+            Rowett Institute of Nutrition and Health, University of Aberdeen --
+            http://www.rowett.ac.uk/divisions/ghp/ Sequencing technology: 454
+            Genome coverage: 29x
+            Annotation was added using ab initio prediction IMG/ER --
+            http://img.jgi.doe.gov/submit (Markowitz, Szeto et al. 2007).
+FEATURES             Location/Qualifiers
+     source          1..145
+                     /organism="Anaerostipes hadrus"
+                     /strain="SSC/2"
+                     /db_xref="taxon:649756"
+     Protein         1..145
+                     /product="mraZ protein"
+     Region          3..141
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          5..61
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(5..7,33,41,50..51,54)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          13..17
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          68..122
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Region          84..88
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+     CDS             1..145
+                     /locus_tag="CL2_09880"
+                     /coded_by="FP929061.1:972942..973379"
+                     /transl_table=11
+                     /db_xref="EnsemblGenomes-Gn:CL2_09880"
+                     /db_xref="EnsemblGenomes-Tr:CBL37996"
+                     /db_xref="GOA:D4MZF1"
+                     /db_xref="InterPro:IPR003444"
+                     /db_xref="InterPro:IPR007159"
+                     /db_xref="InterPro:IPR020603"
+                     /db_xref="UniProtKB/TrEMBL:D4MZF1"
+ORIGIN      
+        1 msmfmgefnh tidakgrlii psrfreelgq efvmtkgldg clfvfpqnew esfqgklktl
+       61 plinkdarkf srffmagaap cemdkqgrtl ipatlrefaq mkkevvltgm adhieiwske
+      121 kwiennsyed mddiaasmqe lglsi
+//
+
+LOCUS       EKY19359                 158 aa            linear   BCT 10-DEC-2012
+DEFINITION  protein MraZ [Anaerostipes hadrus DSM 3319].
+ACCESSION   EKY19359
+VERSION     EKY19359.1
+DBLINK      BioProject: PRJNA38323
+            BioSample: SAMN02436796
+DBSOURCE    accession AMEY01000089.1
+KEYWORDS    HIGH_QUALITY_DRAFT.
+SOURCE      Anaerostipes hadrus DSM 3319
+  ORGANISM  Anaerostipes hadrus DSM 3319
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Anaerostipes.
+REFERENCE   1  (residues 1 to 158)
+  AUTHORS   Weinstock,G., Sodergren,E., Lobos,E.A., Fulton,L., Fulton,R.,
+            Courtney,L., Fronick,C., O'Laughlin,M., Godfrey,J., Wilson,R.M.,
+            Miner,T., Farmer,C., Delehaunty,K., Cordes,M., Minx,P.,
+            Tomlinson,C., Chen,J., Wollam,A., Pepin,K.H., Bhonagiri,V.,
+            Zhang,X., Suruliraj,S., Warren,W., Mitreva,M., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAY-2012) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+COMMENT     Eubacterium hadrum DSM 3319 is a member of the Firmicutes division
+            of the domain Bacteria and has been isolated from the GI tract.
+            
+            This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            
+            The sequenced strain was obtained directly from ATCC (ATCC 29173).
+            Source DNA was prepared by Michelle Daigneault and Emma
+            Allen-Vercoe (Department of Molecular and Cellular Biology,
+            University of Guelph, Ontario, Canada), and was funded by the NHGRI
+            (through an HMP Technology Development Grant - 1R21HG005811 - 01).
+            
+            Coding sequences were predicted using GeneMark v3.3 and Glimmer3
+            v3.02. Intergenic regions not spanned by GeneMark and Glimmer3 were
+            blasted against NCBI's non-redundant (NR)  database and predictions
+            generated based on protein alignments. tRNA genes were determined
+            using tRNAscan-SE 1.23 and non-coding RNA genes by RNAmmer-1.2 and
+            Rfam v8.1. The final gene set is processed through several programs
+            such as Kegg (Release 56), psortB (Version 3.0.3) and Interproscan
+            (Version 4.7) to determine possible function. Gene product names
+            are determined by BER (Version 2.5). Gene names are generated at
+            the contig level and may not necessarily reflect any known order or
+            orientation between contigs.
+            
+            The National Human Genome Research Institute (NHGRI), National
+            Institutes of Health (NIH) is funding the sequence characterization
+            of the Eubacterium hadrum DSM 3319 genome.
+            
+            ##Genome-Assembly-Data-START##
+            Finishing Goal           :: High-Quality Draft
+            Current Finishing Status :: High-Quality Draft
+            Assembly Method          :: Velvet v. 1.1.04
+            Genome Coverage          :: 103x
+            Sequencing Technology    :: Illumina
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..158
+                     /organism="Anaerostipes hadrus DSM 3319"
+                     /strain="DSM 3319"
+                     /isolation_source="stool, GI tract"
+                     /host="Homo sapiens"
+                     /culture_collection="ATCC:29173"
+                     /db_xref="HMP:0369"
+                     /db_xref="taxon:649757"
+     Protein         1..158
+                     /product="protein MraZ"
+     Region          16..154
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          18..74
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(18..20,46,54,63..64,67)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          26..30
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          81..135
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Region          97..101
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+     CDS             1..158
+                     /locus_tag="HMPREF0369_02467"
+                     /coded_by="AMEY01000089.1:2365..2841"
+                     /inference="protein motif:HMMPfam:IPR020603"
+                     /inference="protein motif:HMMTigr:IPR003444"
+                     /note="KEGG: apb:SAR116_2343 1.9e-06 protein of unknown
+                     function UPF0040 K03925;
+                     Psort location: Cytoplasmic, score: 7.50"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR003444"
+                     /db_xref="InterPro:IPR020603"
+ORIGIN      
+        1 mkfisgkkww kvvmsmfmge fnhtidakgr liipsrfree lgqefvmtkg ldgclfvfpq
+       61 newesfqgkl ktlplinkda rkfsrffmag aapcemdkqg rtlvpatlre faqmkkevvl
+      121 tgmadrieiw skekwienns yedmddiaas mqelglsi
+//
+
+LOCUS       WP_006565525             143 aa            linear   BCT 17-SEP-2015
+DEFINITION  MULTISPECIES: division/cell wall cluster transcriptional repressor
+            MraZ [Anaerostipes].
+ACCESSION   WP_006565525
+VERSION     WP_006565525.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerostipes
+  ORGANISM  Anaerostipes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..143
+                     /organism="Anaerostipes"
+                     /db_xref="taxon:207244"
+     Protein         1..143
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=16344
+     Region          1..136
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          3..59
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(3..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..125
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,104,111,120..121,124)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mfmgeynhti dakgrliips kfrealgsef vltkgldgcl fvfpmkewea feeklrslpl
+       61 idknarkfsr fflagastce ldkqgrilvp gtlrefaqmd kevvltgmld rievwskeqw
+      121 lennayddmd diaqsmqelg lni
+//
+
+LOCUS       WP_044921892             143 aa            linear   BCT 17-SEP-2015
+DEFINITION  division/cell wall cluster transcriptional repressor MraZ
+            [Anaerostipes hadrus].
+ACCESSION   WP_044921892
+VERSION     WP_044921892.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerostipes hadrus
+  ORGANISM  Anaerostipes hadrus
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Anaerostipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..143
+                     /organism="Anaerostipes hadrus"
+                     /db_xref="taxon:649756"
+     Protein         1..143
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=16306
+     Region          1..139
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          3..59
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(3..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..120
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mfmgefnhti dakgrliips rfreelgqef vmtkgldgcl fgfpqnewes fqgklktlpl
+       61 inkdarkfsr ffmagaapce mdkqgrtlip atlrefaqmk kevvltgmad rieiwskekw
+      121 iennsyedmd diaasmqelg lsi
+//
+
+LOCUS       WP_006567345              80 aa            linear   BCT 25-MAY-2013
+DEFINITION  prevent-host-death protein [Anaerostipes caccae].
+ACCESSION   WP_006567345
+VERSION     WP_006567345.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerostipes caccae
+  ORGANISM  Anaerostipes caccae
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Anaerostipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..80
+                     /organism="Anaerostipes caccae"
+                     /db_xref="taxon:105841"
+     Protein         1..80
+                     /product="prevent-host-death protein"
+                     /calculated_mol_wt=8921
+     Region          9..62
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     cl09153"
+                     /db_xref="CDD:298842"
+ORIGIN      
+        1 mnvninnlvs iteanqnfsr iarmvdengs vvilknntpr ylviefnaae aeqladnedi
+       61 lsvskrlidq nkqayellsk
+//
+
+LOCUS       WP_009289049              75 aa            linear   BCT 04-JUL-2015
+DEFINITION  prevent-host-death protein [Anaerostipes sp. 3_2_56FAA].
+ACCESSION   WP_009289049
+VERSION     WP_009289049.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerostipes sp. 3_2_56FAA
+  ORGANISM  Anaerostipes sp. 3_2_56FAA
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Anaerostipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..75
+                     /organism="Anaerostipes sp. 3_2_56FAA"
+                     /db_xref="taxon:665937"
+     Protein         1..75
+                     /product="prevent-host-death protein"
+                     /calculated_mol_wt=8393
+     Region          2..>40
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+ORIGIN      
+        1 mivtatefkt nfgkyldmis kedifitrng ktiakvvnpq isavdslrgm lkdvpsdidl
+       61 dslreerlsk yennv
+//
+
+LOCUS       CDC34526                 135 aa            linear   ENV 31-MAY-2013
+DEFINITION  putative uncharacterized protein [Anaerostipes sp. CAG:276].
+ACCESSION   CDC34526
+VERSION     CDC34526.1
+DBSOURCE    embl accession CBFE010000039.1
+KEYWORDS    ENV.
+SOURCE      Anaerostipes sp. CAG:276
+  ORGANISM  Anaerostipes sp. CAG:276
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Anaerostipes; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..135
+                     /organism="Anaerostipes sp. CAG:276"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262699"
+                     /environmental_sample
+                     /note="contig 133"
+     Protein         1..135
+                     /product="putative uncharacterized protein"
+     Region          49..122
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:251410"
+     CDS             1..135
+                     /locus_tag="BN583_02927"
+                     /coded_by="CBFE010000039.1:7371..7778"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 msseyavsvy sldfllhved dpavlkvvfi gklrynmtie kegdqvkaei rpssdlrnhy
+       61 seiskkcres repvvitvng rgdtvvlglq qynqmtaele llrslaeaee dvkngridtv
+      121 qgtfddiraa lnagr
+//
+
+LOCUS       WP_039930805              90 aa            linear   BCT 17-JAN-2015
+DEFINITION  prevent-host-death protein [Anaerostipes sp. 3_2_56FAA].
+ACCESSION   WP_039930805
+VERSION     WP_039930805.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerostipes sp. 3_2_56FAA
+  ORGANISM  Anaerostipes sp. 3_2_56FAA
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Anaerostipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..90
+                     /organism="Anaerostipes sp. 3_2_56FAA"
+                     /db_xref="taxon:665937"
+     Protein         1..90
+                     /product="prevent-host-death protein"
+                     /calculated_mol_wt=9944
+     Region          4..67
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+ORIGIN      
+        1 mkaeirpssd lrnhyseisk kcresrepvv itvngrgdtv vlglqqynqm taelellrsl
+       61 aeaeedvkng ridtvqgtfd diraalnagr
+//
+
+LOCUS       EDR96382                 104 aa            linear   BCT 04-AUG-2012
+DEFINITION  addiction module antitoxin, RelB/DinJ family [Anaerostipes caccae
+            DSM 14662].
+ACCESSION   EDR96382
+VERSION     EDR96382.1
+DBLINK      BioProject: PRJNA18213
+            BioSample: SAMN00627053
+DBSOURCE    accession ABAX03000024.1
+KEYWORDS    .
+SOURCE      Anaerostipes caccae DSM 14662
+  ORGANISM  Anaerostipes caccae DSM 14662
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Anaerostipes.
+REFERENCE   1  (residues 1 to 104)
+  AUTHORS   Sudarsanam,P., Ley,R., Guruge,J., Turnbaugh,P.J., Mahowald,M.,
+            Liep,D. and Gordon,J.
+  TITLE     Draft genome sequence of Anaerostipes caccae (DSM 14662)
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 104)
+  AUTHORS   Fulton,L., Clifton,S., Fulton,B., Xu,J., Minx,P., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-MAY-2007) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+REFERENCE   3  (residues 1 to 104)
+  AUTHORS   Fulton,L., Clifton,S., Fulton,B., Xu,J., Minx,P., Pepin,K.H.,
+            Johnson,M., Thiruvilangam,P., Bhonagiri,V., Nash,W.E., Mardis,E.R.
+            and Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-NOV-2007) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+COMMENT     Anaerostipes caccae (GenBank Accession Number: AJ270487) is a
+            member of the division Firmicutes. It is an acetate-converting
+            butyrate-producing colon bacteria that is involved in metabolic
+            cross-feeding with Bifidobacterium species (Falony et. al. (2006),
+            Belenguer et. al. (2006)). The sequenced strain was obtained from
+            Deutsche Sammlung von Mikroorganismen und Zellkulturen GmbH (DSMZ)
+            (DSM 14662).
+            
+            We have collected 9.8X coverage in plasmid end reads (pOTW13 and
+            pJAZZ vectors) and 454 reads. We have performed one round of
+            automated sequence improvement(pre-finishing), along with manual
+            improvement that includes breaking apart any mis-assembly, and
+            making manual joins where possible. Manual edits also are made
+            where the consensus appears to be incorrect. All low quality data
+            on the ends of contigs is removed. Contigs are ordered and oriented
+            where possible.
+            
+            Sequencing/Assembly: The genomic DNA was purified from liquid
+            culture derived from a single bacterial colony. A hybrid sequencing
+            strategy that utilized reads from both 454 GS-20 and ABI 3730xl
+            sequencers was devised and implemented to generate the draft genome
+            sequences.  454 reads were assembled using Newbler (454 Life
+            Sciences) into 454 de novo contigs. These de novo contigs were
+            converted in silico to 800 base paired reads ('superreads') with
+            400 base overlaps with neighboring superreads.  Finally, PCAP
+            (Huang, et al, Genome Research, 13:2164, (2003)) was used to
+            assemble the super-reads and the conventional 3730xl capillary
+            reads.
+            
+            This sequenced strain is part of a comprehensive, sequence-based
+            survey of members of the normal human gut microbiota.  A joint
+            effort of the WU-GSC and the Center for Genome Sciences at
+            Washington University School of Medicine, the purpose of this
+            survey is to provide the general scientific community with a broad
+            view of the gene content of 100 representatives of the major
+            divisions represented in the intestine's microbial community.
+            
+            Coding sequences were predicted using GeneMark v3.3 and Glimmer2
+            v2.13. Intergenic regions not spanned by GeneMark and Glimmer2 were
+            blasted against NCBI's non-redundant (NR) database and predictions
+            generated based on protein alignments. tRNA genes were determined
+            using tRNAscan-SE 1.23 and non-coding RNA genes by RNAmmer-1.2 and
+            Rfam v8.0. Gene names are generated at the contig level and may not
+            necessarily reflect any known order or orientation between contigs.
+            This information should provide a frame of reference for analyzing
+            metagenomic studies of the human gut microbiome. Further details of
+            this effort are described in a white paper entitled 'Extending Our
+            View of Self: the Human Gut Microbiome Initiative (HGMI)'
+            (http://www.genome.gov/Pages/Research/Sequencing/SeqProposals/HGMIS
+            eq.pdf). These studies are supported by National Human Genome
+            Research Institute.
+            
+            For answers to your questions regarding this assembly or project,
+            or any other GSC genome project, please visit our Genome Groups web
+            page (http://genome.wustl.edu/genome_group_index.cgi) and email the
+            designated contact person.
+            
+            Annotation was added to the contigs in February 2008.
+            
+            This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Product names were updated in August 2012.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..104
+                     /organism="Anaerostipes caccae DSM 14662"
+                     /strain="DSM 14662"
+                     /db_xref="taxon:411490"
+     Protein         1..104
+                     /product="addiction module antitoxin, RelB/DinJ family"
+     Region          7..84
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+     CDS             1..104
+                     /locus_tag="ANACAC_03005"
+                     /coded_by="ABAX03000024.1:214071..214385"
+                     /inference="protein motif:HMMPfam:IPR007337"
+                     /inference="protein motif:HMMTigr:IPR007337"
+                     /inference="similar to AA sequence:REFSEQ:ZP_01369308.1"
+                     /note="COG: COG3077 DNA-damage-inducible protein J;
+                     Psort location: Cytoplasmic, score: 8.87"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR007337"
+ORIGIN      
+        1 midmaktsni ftrvdpeike qaeqvlerlg ipmsnavgmf lrqvvmqrgl pfevklpkdm
+       61 plvydsltkk qfdaeiekgm ddirkgrvys aedveeemkr dygi
+//
+
+LOCUS       EFV22301                  80 aa            linear   BCT 04-JAN-2011
+DEFINITION  RelB antitoxin [Anaerostipes sp. 3_2_56FAA].
+ACCESSION   EFV22301
+VERSION     EFV22301.1
+DBLINK      BioProject: PRJNA39999
+            BioSample: SAMN02463785
+DBSOURCE    accession ACWB01000068.1
+KEYWORDS    HIGH_QUALITY_DRAFT.
+SOURCE      Anaerostipes sp. 3_2_56FAA
+  ORGANISM  Anaerostipes sp. 3_2_56FAA
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Anaerostipes.
+REFERENCE   1  (residues 1 to 80)
+  AUTHORS   Ward,D., Earl,A., Feldgarden,M., Young,S.K., Gargeya,S., Zeng,Q.,
+            Alvarado,L., Berlin,A., Bochicchio,J., Chapman,S.B., Chen,Z.,
+            Freedman,E., Gellesch,M., Goldberg,J., Griggs,A., Gujja,S.,
+            Heilman,E., Heiman,D., Howarth,C., Mehta,T., Neiman,D., Pearson,M.,
+            Roberts,A., Saif,S., Shea,T., Shenoy,N., Sisk,P., Stolte,C.,
+            Sykes,S., White,J., Yandava,C., Allen-Vercoe,E., Ambrose,C.,
+            Strauss,J., Daigneault,M., Haas,B., Nusbaum,C. and Birren,B.
+  CONSRTM   The Broad Institute Genome Sequencing Platform
+  TITLE     The Genome Sequence of Anaerostipes sp. strain 3_2_56FAA
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 80)
+  AUTHORS   Ward,D., Earl,A., Feldgarden,M., Young,S.K., Gargeya,S., Zeng,Q.,
+            Alvarado,L., Berlin,A., Bochicchio,J., Chapman,S.B., Chen,Z.,
+            Freedman,E., Gellesch,M., Goldberg,J., Griggs,A., Gujja,S.,
+            Heilman,E., Heiman,D., Howarth,C., Mehta,T., Neiman,D., Pearson,M.,
+            Roberts,A., Saif,S., Shea,T., Shenoy,N., Sisk,P., Stolte,C.,
+            Sykes,S., White,J., Yandava,C., Allen-Vercoe,E., Ambrose,C.,
+            Strauss,J., Daigneault,M., Haas,B., Nusbaum,C. and Birren,B.
+  CONSRTM   The Broad Institute Genome Sequencing Platform
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-OCT-2010) Broad Institute of MIT and Harvard, 7
+            Cambridge Center, Cambridge, MA 02142, USA
+COMMENT     This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Source DNA provided by Daigneault, M., Strauss, J.C., Ambrose, C.,
+            and Allen-Vercoe, E. (Molecular and Cellular Biology, University of
+            Guelph, Guelph, Ontario, N1G 2W1, Canada).
+            Bacteria provided by Daigneault, M., Strauss, J.C., Ambrose, C.,
+            and Allen-Vercoe, E. (Molecular and Cellular Biology, University of
+            Guelph, Guelph, Ontario, N1G 2W1, Canada).
+            Please be aware that the annotation is done automatically with
+            little or no manual curation.
+            Gene calling method: Glimmer; Metagene; PFAM; BLAST to
+            non-redundant protein database; manual curation.
+            
+            ##Genome-Assembly-Data-START##
+            Finishing Goal           :: High-Quality Draft
+            Current Finishing Status :: High-Quality Draft
+            Assembly Method          :: Newbler v. 2.1-PreRelease-4/28/2009
+            Genome Coverage          :: 12x
+            Sequencing Technology    :: 454
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..80
+                     /organism="Anaerostipes sp. 3_2_56FAA"
+                     /strain="3_2_56FAA"
+                     /host="Homo sapiens"
+                     /db_xref="HMP:1011"
+                     /db_xref="taxon:665937"
+     Protein         1..80
+                     /product="RelB antitoxin"
+     Region          <2..>35
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+     CDS             1..80
+                     /locus_tag="HMPREF1011_01906"
+                     /coded_by="complement(ACWB01000068.1:35331..35573)"
+                     /transl_table=11
+ORIGIN      
+        1 mlerlgipms tavgmflrqi vmqrglpfev klpkdmplvy dyltkeqfda eiekgmddir
+       61 kgrvysaedv eeemkrdygi
+//
+
+LOCUS       WP_006567029              90 aa            linear   BCT 08-MAY-2013
+DEFINITION  MULTISPECIES: hypothetical protein [Anaerostipes].
+ACCESSION   WP_006567029
+VERSION     WP_006567029.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerostipes
+  ORGANISM  Anaerostipes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..90
+                     /organism="Anaerostipes"
+                     /db_xref="taxon:207244"
+     Protein         1..90
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=10185
+     Region          1..87
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 makeatlqvr mdadlkekae tlykemgtsf aeavrifaqq svnengmpfv mtanrgntyr
+       61 rlsryadsel takeegsyer amiekhektd
+//
+
+LOCUS       WP_006567713             100 aa            linear   BCT 25-MAY-2013
+DEFINITION  plasmid stabilization protein [Anaerostipes caccae].
+ACCESSION   WP_006567713
+VERSION     WP_006567713.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerostipes caccae
+  ORGANISM  Anaerostipes caccae
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Anaerostipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..100
+                     /organism="Anaerostipes caccae"
+                     /db_xref="taxon:105841"
+     Protein         1..100
+                     /product="plasmid stabilization protein"
+                     /calculated_mol_wt=11054
+     Region          4..74
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mektatlnlr vnpkvkerae avlsrlgvpm staidmylnq isltgsipfs islpkapdti
+       61 nvdlmtedel haklqkgydd ieagrvqnae kvfaefrkkh
+//
+
+LOCUS       WP_009203487             102 aa            linear   BCT 07-JUL-2016
+DEFINITION  RelB/DinJ family addiction module antitoxin [Anaerostipes hadrus].
+ACCESSION   WP_009203487
+VERSION     WP_009203487.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerostipes hadrus
+  ORGANISM  Anaerostipes hadrus
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Anaerostipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..102
+                     /organism="Anaerostipes hadrus"
+                     /db_xref="taxon:649756"
+     Protein         1..102
+                     /product="RelB/DinJ family addiction module antitoxin"
+                     /calculated_mol_wt=11414
+     Region          1..85
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 matksanlya riepevkeka esilsalgip assainmfyk qiilqrglpf evkipsarpv
+       61 disilsevef neelekgyad mhdrrtknak kafadirkdy dl
+//
+
+LOCUS       WP_009264237             102 aa            linear   BCT 23-MAR-2015
+DEFINITION  XRE family transcriptional regulator [Anaerostipes hadrus].
+ACCESSION   WP_009264237
+VERSION     WP_009264237.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerostipes hadrus
+  ORGANISM  Anaerostipes hadrus
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Anaerostipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..102
+                     /organism="Anaerostipes hadrus"
+                     /db_xref="taxon:649756"
+     Protein         1..102
+                     /product="XRE family transcriptional regulator"
+                     /calculated_mol_wt=11372
+     Region          1..85
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 matksanlyv riepevkeka esilsalgip assainmfyk qiilqrglpf evkipsarpv
+       61 distlsevef neelekgyad mhdrrtknak kafadirkdy gl
+//
+
+LOCUS       CDC37539                 101 aa            linear   ENV 31-MAY-2013
+DEFINITION  addiction module antitoxin RelB/DinJ family [Anaerostipes sp.
+            CAG:276].
+ACCESSION   CDC37539
+VERSION     CDC37539.1
+DBSOURCE    embl accession CBFE010000123.1
+KEYWORDS    ENV.
+SOURCE      Anaerostipes sp. CAG:276
+  ORGANISM  Anaerostipes sp. CAG:276
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Anaerostipes; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..101
+                     /organism="Anaerostipes sp. CAG:276"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262699"
+                     /environmental_sample
+                     /note="contig 8"
+     Protein         1..101
+                     /product="addiction module antitoxin RelB/DinJ family"
+     Region          1..82
+                     /region_name="RelB"
+                     /note="Antitoxin component of the RelBE or YafQ-DinJ
+                     toxin-antitoxin module [Defense mechanisms]; COG3077"
+                     /db_xref="CDD:225619"
+     CDS             1..101
+                     /locus_tag="BN583_00138"
+                     /coded_by="complement(CBFE010000123.1:3991..4296)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 maktsniftr vdpeikeqae qvlerlgipm stavgmflrq ivmqrglpfe vklpkdmplv
+       61 ydyltkeqfd aeiekgmddi rkgrvysaed veeemkrdyg i
+//
+
+LOCUS       WP_039930462              96 aa            linear   BCT 17-JAN-2015
+DEFINITION  XRE family transcriptional regulator [Anaerostipes sp. 3_2_56FAA].
+ACCESSION   WP_039930462
+VERSION     WP_039930462.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerostipes sp. 3_2_56FAA
+  ORGANISM  Anaerostipes sp. 3_2_56FAA
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Anaerostipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..96
+                     /organism="Anaerostipes sp. 3_2_56FAA"
+                     /db_xref="taxon:665937"
+     Protein         1..96
+                     /product="XRE family transcriptional regulator"
+                     /calculated_mol_wt=11149
+     Region          4..76
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mfftrvdpei keqaeqvler lgipmstavg mflrqivmqr glpfevklpk dmplvydylt
+       61 keqfdaeiek gmddirkgrv ysaedveeem krdygi
+//
+
+LOCUS       WP_050791237             107 aa            linear   BCT 13-AUG-2015
+DEFINITION  XRE family transcriptional regulator [Anaerostipes sp. 3_2_56FAA].
+ACCESSION   WP_050791237
+VERSION     WP_050791237.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerostipes sp. 3_2_56FAA
+  ORGANISM  Anaerostipes sp. 3_2_56FAA
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Anaerostipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..107
+                     /organism="Anaerostipes sp. 3_2_56FAA"
+                     /db_xref="taxon:665937"
+     Protein         1..107
+                     /product="XRE family transcriptional regulator"
+                     /calculated_mol_wt=11745
+     Region          7..>60
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mkgavimaks asvyaridpm lkeqaenils algiptsnai dmffkqivlk kglpfevrlp
+       61 yekpvclgtl seeelnaele kgyadlqagr tkpieqaise mrsdfki
+//
+
+LOCUS       WP_009289976             111 aa            linear   BCT 04-JUL-2015
+DEFINITION  toxin RelE [Anaerostipes sp. 3_2_56FAA].
+ACCESSION   WP_009289976
+VERSION     WP_009289976.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerostipes sp. 3_2_56FAA
+  ORGANISM  Anaerostipes sp. 3_2_56FAA
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Anaerostipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..111
+                     /organism="Anaerostipes sp. 3_2_56FAA"
+                     /db_xref="taxon:665937"
+     Protein         1..111
+                     /product="toxin RelE"
+                     /calculated_mol_wt=12801
+     Region          21..105
+                     /region_name="Gp49"
+                     /note="Phage derived protein Gp49-like (DUF891);
+                     pfam05973"
+                     /db_xref="CDD:283596"
+ORIGIN      
+        1 mdqftiefyk dingnlpveh filsldtkmk akllgilkil qkkgnqlrea ytkylgdgif
+       61 eirikvgtdi srvlyffyyg riiilingfi kktrktpvke islaksgkwi i
+//
+
+LOCUS       WP_044922856             115 aa            linear   BCT 16-MAR-2015
+DEFINITION  hypothetical protein [Anaerostipes hadrus].
+ACCESSION   WP_044922856
+VERSION     WP_044922856.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerostipes hadrus
+  ORGANISM  Anaerostipes hadrus
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Anaerostipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..115
+                     /organism="Anaerostipes hadrus"
+                     /db_xref="taxon:649756"
+     Protein         1..115
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=13373
+ORIGIN      
+        1 mkifmyrtsg gkdllkkisr evkpvvltil lglqedgvkn fsvkpidkni sptlyeikkn
+       61 gvrvfyyidk ydksinityi tenkqknkte qkdkktavkr ekrmlknpdi hkepi
+//
+
+LOCUS       WP_006568716              82 aa            linear   BCT 08-MAY-2013
+DEFINITION  MULTISPECIES: toxin HicA [Anaerostipes].
+ACCESSION   WP_006568716
+VERSION     WP_006568716.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerostipes
+  ORGANISM  Anaerostipes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..82
+                     /organism="Anaerostipes"
+                     /db_xref="taxon:207244"
+     Protein         1..82
+                     /product="toxin HicA"
+                     /calculated_mol_wt=9522
+     Region          23..71
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; pfam07927"
+                     /db_xref="CDD:285205"
+ORIGIN      
+        1 mpsvekiisd iicaeknsni kfrdlqrvld vmgfrcrikg dhfiyykdgi neiiniqpkg
+       61 nkakpyqvkq irnlilkykl ev
+//
+
+LOCUS       WP_009203026              85 aa            linear   BCT 14-JUN-2015
+DEFINITION  toxin-antitoxin system toxin component HicA family [Anaerostipes
+            hadrus].
+ACCESSION   WP_009203026
+VERSION     WP_009203026.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerostipes hadrus
+  ORGANISM  Anaerostipes hadrus
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Anaerostipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..85
+                     /organism="Anaerostipes hadrus"
+                     /db_xref="taxon:649756"
+     Protein         1..85
+                     /product="toxin-antitoxin system toxin component HicA
+                     family"
+                     /calculated_mol_wt=9913
+ORIGIN      
+        1 mskwdkliar icnlskdlrf tqlqkvlety gyrmdaprsg sshytfrkqg kspitipkhe
+       61 pikkvyvemv rkvveseere nenae
+//
+
+LOCUS       WP_009203436              56 aa            linear   BCT 14-JUN-2015
+DEFINITION  toxin-antitoxin system toxin component HicA family [Anaerostipes
+            hadrus].
+ACCESSION   WP_009203436
+VERSION     WP_009203436.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerostipes hadrus
+  ORGANISM  Anaerostipes hadrus
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Anaerostipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..56
+                     /organism="Anaerostipes hadrus"
+                     /db_xref="taxon:649756"
+     Protein         1..56
+                     /product="toxin-antitoxin system toxin component HicA
+                     family"
+                     /calculated_mol_wt=6506
+     Region          4..55
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; pfam07927"
+                     /db_xref="CDD:285205"
+ORIGIN      
+        1 mkrrdlikll ekngwylkrn ggnhdlytdg nriepiprhp eikerlaksi ikklgl
+//
+
+LOCUS       WP_006568273             116 aa            linear   BCT 04-JUN-2013
+DEFINITION  hypothetical protein [Anaerostipes caccae].
+ACCESSION   WP_006568273
+VERSION     WP_006568273.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerostipes caccae
+  ORGANISM  Anaerostipes caccae
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Anaerostipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..116
+                     /organism="Anaerostipes caccae"
+                     /db_xref="taxon:105841"
+     Protein         1..116
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=13451
+     Region          1..>80
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 mkiyydnkni qklcndykya qkklgknvay klhkalqfin asvcfidiky mmtlrlhplk
+       61 gdrkgtyaid lgkktgfrli lipvdqngnk wtneniitiy nstdtvilme vskhye
+//
+
+LOCUS       EFV22242                 131 aa            linear   BCT 04-JAN-2011
+DEFINITION  plasmid stabilization system protein [Anaerostipes sp. 3_2_56FAA].
+ACCESSION   EFV22242
+VERSION     EFV22242.1
+DBLINK      BioProject: PRJNA39999
+            BioSample: SAMN02463785
+DBSOURCE    accession ACWB01000069.1
+KEYWORDS    HIGH_QUALITY_DRAFT.
+SOURCE      Anaerostipes sp. 3_2_56FAA
+  ORGANISM  Anaerostipes sp. 3_2_56FAA
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Anaerostipes.
+REFERENCE   1  (residues 1 to 131)
+  AUTHORS   Ward,D., Earl,A., Feldgarden,M., Young,S.K., Gargeya,S., Zeng,Q.,
+            Alvarado,L., Berlin,A., Bochicchio,J., Chapman,S.B., Chen,Z.,
+            Freedman,E., Gellesch,M., Goldberg,J., Griggs,A., Gujja,S.,
+            Heilman,E., Heiman,D., Howarth,C., Mehta,T., Neiman,D., Pearson,M.,
+            Roberts,A., Saif,S., Shea,T., Shenoy,N., Sisk,P., Stolte,C.,
+            Sykes,S., White,J., Yandava,C., Allen-Vercoe,E., Ambrose,C.,
+            Strauss,J., Daigneault,M., Haas,B., Nusbaum,C. and Birren,B.
+  CONSRTM   The Broad Institute Genome Sequencing Platform
+  TITLE     The Genome Sequence of Anaerostipes sp. strain 3_2_56FAA
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 131)
+  AUTHORS   Ward,D., Earl,A., Feldgarden,M., Young,S.K., Gargeya,S., Zeng,Q.,
+            Alvarado,L., Berlin,A., Bochicchio,J., Chapman,S.B., Chen,Z.,
+            Freedman,E., Gellesch,M., Goldberg,J., Griggs,A., Gujja,S.,
+            Heilman,E., Heiman,D., Howarth,C., Mehta,T., Neiman,D., Pearson,M.,
+            Roberts,A., Saif,S., Shea,T., Shenoy,N., Sisk,P., Stolte,C.,
+            Sykes,S., White,J., Yandava,C., Allen-Vercoe,E., Ambrose,C.,
+            Strauss,J., Daigneault,M., Haas,B., Nusbaum,C. and Birren,B.
+  CONSRTM   The Broad Institute Genome Sequencing Platform
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-OCT-2010) Broad Institute of MIT and Harvard, 7
+            Cambridge Center, Cambridge, MA 02142, USA
+COMMENT     This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Source DNA provided by Daigneault, M., Strauss, J.C., Ambrose, C.,
+            and Allen-Vercoe, E. (Molecular and Cellular Biology, University of
+            Guelph, Guelph, Ontario, N1G 2W1, Canada).
+            Bacteria provided by Daigneault, M., Strauss, J.C., Ambrose, C.,
+            and Allen-Vercoe, E. (Molecular and Cellular Biology, University of
+            Guelph, Guelph, Ontario, N1G 2W1, Canada).
+            Please be aware that the annotation is done automatically with
+            little or no manual curation.
+            Gene calling method: Glimmer; Metagene; PFAM; BLAST to
+            non-redundant protein database; manual curation.
+            
+            ##Genome-Assembly-Data-START##
+            Finishing Goal           :: High-Quality Draft
+            Current Finishing Status :: High-Quality Draft
+            Assembly Method          :: Newbler v. 2.1-PreRelease-4/28/2009
+            Genome Coverage          :: 12x
+            Sequencing Technology    :: 454
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..131
+                     /organism="Anaerostipes sp. 3_2_56FAA"
+                     /strain="3_2_56FAA"
+                     /host="Homo sapiens"
+                     /db_xref="HMP:1011"
+                     /db_xref="taxon:665937"
+     Protein         1..131
+                     /product="plasmid stabilization system protein"
+     Region          4..>77
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; pfam05016"
+                     /db_xref="CDD:282823"
+     CDS             1..131
+                     /locus_tag="HMPREF1011_01977"
+                     /coded_by="complement(ACWB01000069.1:46934..47329)"
+                     /transl_table=11
+ORIGIN      
+        1 mlelrinplv atdlkeirgy iaedseeyaa ktlkeiygkf eniqgfsgmg saiskrvsfr
+       61 tdynyavwen yviiykvgkk yveiyravnr lgilrgflik dqaisaynhq liyqirkikt
+      121 kifriffmtd g
+//
+
+LOCUS       WP_006567712             104 aa            linear   BCT 25-MAY-2013
+DEFINITION  toxin RelE [Anaerostipes caccae].
+ACCESSION   WP_006567712
+VERSION     WP_006567712.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerostipes caccae
+  ORGANISM  Anaerostipes caccae
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Anaerostipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..104
+                     /organism="Anaerostipes caccae"
+                     /db_xref="taxon:105841"
+     Protein         1..104
+                     /product="toxin RelE"
+                     /calculated_mol_wt=12035
+     Region          5..102
+                     /region_name="ParE"
+                     /note="Plasmid stabilization system protein ParE
+                     [Mobilome: prophages, transposons]; COG3668"
+                     /db_xref="CDD:226194"
+ORIGIN      
+        1 mkqytvqiad eaiadmeqly nyiaynllsp enaieqynri adkiltldim pernrimdse
+       61 pehskeirsm lvdnysvfyv iegdrvivtd ilysasdinr rlkg
+//
+
+LOCUS       WP_006568318             109 aa            linear   BCT 25-MAY-2013
+DEFINITION  addiction module toxin RelE [Anaerostipes caccae].
+ACCESSION   WP_006568318
+VERSION     WP_006568318.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerostipes caccae
+  ORGANISM  Anaerostipes caccae
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Anaerostipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..109
+                     /organism="Anaerostipes caccae"
+                     /db_xref="taxon:105841"
+     Protein         1..109
+                     /product="addiction module toxin RelE"
+                     /calculated_mol_wt=13219
+     Region          5..98
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; pfam05016"
+                     /db_xref="CDD:282823"
+ORIGIN      
+        1 mscrifytkk akqdlrdiye yiayellvpe taseqtrrim keiktldemp rryrlyeeep
+       61 whseeirffp vdnylvfyqp nesqntvsiv rimyggrdik nhldrttid
+//
+
+LOCUS       WP_009203488             109 aa            linear   BCT 05-JUN-2013
+DEFINITION  addiction module toxin, RelE/StbE family [Anaerostipes hadrus].
+ACCESSION   WP_009203488
+VERSION     WP_009203488.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerostipes hadrus
+  ORGANISM  Anaerostipes hadrus
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Anaerostipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..109
+                     /organism="Anaerostipes hadrus"
+                     /db_xref="taxon:649756"
+     Protein         1..109
+                     /product="addiction module toxin, RelE/StbE family"
+                     /calculated_mol_wt=12984
+     Region          5..98
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; pfam05016"
+                     /db_xref="CDD:282823"
+ORIGIN      
+        1 mkyevevseq adrdlreife yiafelqlpe naigqlnrle eqilsldamp kryrkyekep
+       61 wksrelhilp vdnyvilyip nsdkkvvtil rvmyagrdid nqlnfhtkq
+//
+
+LOCUS       WP_009288765             106 aa            linear   BCT 04-JUL-2015
+DEFINITION  toxin RelE [Anaerostipes sp. 3_2_56FAA].
+ACCESSION   WP_009288765
+VERSION     WP_009288765.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerostipes sp. 3_2_56FAA
+  ORGANISM  Anaerostipes sp. 3_2_56FAA
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Anaerostipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..106
+                     /organism="Anaerostipes sp. 3_2_56FAA"
+                     /db_xref="taxon:665937"
+     Protein         1..106
+                     /product="toxin RelE"
+                     /calculated_mol_wt=12628
+     Region          5..98
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; pfam05016"
+                     /db_xref="CDD:282823"
+ORIGIN      
+        1 mkfevelsek adrdlrnifi yiaidlcape taekqikrlw damrsldelp eryrryedep
+       61 whsrgmpvlp vdnyvvlyip dleekivriv svmysgrdir eqlkqi
+//
+
+LOCUS       WP_009290069              95 aa            linear   BCT 27-MAY-2013
+DEFINITION  addiction module toxin RelE [Anaerostipes sp. 3_2_56FAA].
+ACCESSION   WP_009290069
+VERSION     WP_009290069.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerostipes sp. 3_2_56FAA
+  ORGANISM  Anaerostipes sp. 3_2_56FAA
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Anaerostipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..95
+                     /organism="Anaerostipes sp. 3_2_56FAA"
+                     /db_xref="taxon:665937"
+     Protein         1..95
+                     /product="addiction module toxin RelE"
+                     /calculated_mol_wt=11464
+     Region          2..84
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; pfam05016"
+                     /db_xref="CDD:282823"
+ORIGIN      
+        1 mrdiyeyiay ellvpetase qtrrimkeik tldemprryr lyeeepwhse girffpvdny
+       61 lvfyqpnesq ntvsivrimy ggrdiknhld rttid
+//
+
+LOCUS       WP_009291156             103 aa            linear   BCT 04-JUL-2015
+DEFINITION  plasmid stabilization protein [Anaerostipes sp. 3_2_56FAA].
+ACCESSION   WP_009291156
+VERSION     WP_009291156.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerostipes sp. 3_2_56FAA
+  ORGANISM  Anaerostipes sp. 3_2_56FAA
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Anaerostipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..103
+                     /organism="Anaerostipes sp. 3_2_56FAA"
+                     /db_xref="taxon:665937"
+     Protein         1..103
+                     /product="plasmid stabilization protein"
+                     /calculated_mol_wt=12281
+     Region          5..99
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; pfam05016"
+                     /db_xref="CDD:282823"
+ORIGIN      
+        1 mqyhilrtdk fedqlrdiif yiadnsgdin iansyldkie kavirlgdfp ysgkvprysi
+       61 lkrqgyrvli ierhlifyki eeihqkviiy aifdgrreyk nll
+//
+
+LOCUS       CDC37537                 109 aa            linear   ENV 31-MAY-2013
+DEFINITION  toxin-antitoxin system toxin component RelE family [Anaerostipes
+            sp. CAG:276].
+ACCESSION   CDC37537
+VERSION     CDC37537.1
+DBSOURCE    embl accession CBFE010000123.1
+KEYWORDS    ENV.
+SOURCE      Anaerostipes sp. CAG:276
+  ORGANISM  Anaerostipes sp. CAG:276
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Anaerostipes; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..109
+                     /organism="Anaerostipes sp. CAG:276"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262699"
+                     /environmental_sample
+                     /note="contig 8"
+     Protein         1..109
+                     /product="toxin-antitoxin system toxin component RelE
+                     family"
+     Region          5..98
+                     /region_name="Plasmid_stabil"
+                     /note="Plasmid stabilisation system protein; pfam05016"
+                     /db_xref="CDD:252949"
+     CDS             1..109
+                     /locus_tag="BN583_00137"
+                     /coded_by="complement(CBFE010000123.1:3665..3994)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mscrifytkk akqdlrdiye yiayellvpe taseqtrrim keiktldemp rryrlyeeep
+       61 whsegirffp vdnylvfyqp nesqntvsiv rimyggrdik nhldrttid
+//
+
+LOCUS       WP_044921007             109 aa            linear   BCT 16-MAR-2015
+DEFINITION  toxin RelE [Anaerostipes hadrus].
+ACCESSION   WP_044921007
+VERSION     WP_044921007.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerostipes hadrus
+  ORGANISM  Anaerostipes hadrus
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Anaerostipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..109
+                     /organism="Anaerostipes hadrus"
+                     /db_xref="taxon:649756"
+     Protein         1..109
+                     /product="toxin RelE"
+                     /calculated_mol_wt=12959
+     Region          5..98
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; pfam05016"
+                     /db_xref="CDD:282823"
+ORIGIN      
+        1 mihevevseq adrdlreife yiafelqspe nvigqlnrle eqilsldamp kryrkyekep
+       61 wksrelhilp vdnyvilyip nsdkkivtil rvmyagrdid nqlnfhtkq
+//
+
+LOCUS       WP_006566762             115 aa            linear   BCT 06-JUN-2015
+DEFINITION  MULTISPECIES: mRNA interferase PemK [Anaerostipes].
+ACCESSION   WP_006566762
+VERSION     WP_006566762.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerostipes
+  ORGANISM  Anaerostipes
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..115
+                     /organism="Anaerostipes"
+                     /db_xref="taxon:207244"
+     Protein         1..115
+                     /product="mRNA interferase PemK"
+                     /calculated_mol_wt=12684
+     Region          4..111
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 mvikrgdify adlrpvvgse qggvrpviil qndagnrysp tvicaaitsk mnkaklpthv
+       61 pvdcrkcqle kdsvilleqi rtidksrlre kvchlnssil ekvdkalkis lsldt
+//
+
+LOCUS       WP_009203468             256 aa            linear   BCT 05-JUN-2013
+DEFINITION  hypothetical protein [Anaerostipes hadrus].
+ACCESSION   WP_009203468
+VERSION     WP_009203468.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerostipes hadrus
+  ORGANISM  Anaerostipes hadrus
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Anaerostipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..256
+                     /organism="Anaerostipes hadrus"
+                     /db_xref="taxon:649756"
+     Protein         1..256
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=29178
+     Region          62..>132
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 mdtnkliqna insvskqlhn yqtstdpklq kkasilsywl ddymrmlkke etfnprklkr
+       61 ykrgeivkvh lgynigneeg glhyaivltk ndsknspiit iiplssvkan kpihpynvfl
+      121 gdtifqqlkg kweihhdlid qeltsqtqev dslrelissk teaelledha didkriheln
+      181 asiahlskls srrdkisnei lkmktgsial vnqittiski riynplhsnd vlgnvkvsne
+      241 ildaiddkir elyigk
+//
+
+LOCUS       WP_049995798             242 aa            linear   BCT 03-AUG-2015
+DEFINITION  hypothetical protein [Anaerostipes hadrus].
+ACCESSION   WP_049995798
+VERSION     WP_049995798.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerostipes hadrus
+  ORGANISM  Anaerostipes hadrus
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae;
+            Anaerostipes.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..242
+                     /organism="Anaerostipes hadrus"
+                     /db_xref="taxon:649756"
+     Protein         1..242
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=27527
+     Region          43..142
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 mkpepidlqn igkvyhnene avcneenyed etkeenlccr qvkrgevyfa dyyydngila
+       61 dkrrpavivs nhginekapf vkvvylttap ksnhpahikv qcgkpgtalc eksqtisksf
+      121 lenyigtlte eemfqidrgi qigygiknnv ydydneedsf vkdianyiqe mdhllsklcd
+      181 lkeldqkarh idieqllgkd vialgrilpd sgleavraam vsqadkeqkk ireklelmig
+      241 kr
+//
+

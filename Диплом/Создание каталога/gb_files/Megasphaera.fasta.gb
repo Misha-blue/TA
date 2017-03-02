@@ -1,0 +1,2853 @@
+LOCUS       ERT59641                  54 aa            linear   BCT 23-OCT-2013
+DEFINITION  ribbon-helix-helix protein, CopG family [Megasphaera sp. BV3C16-1].
+ACCESSION   ERT59641
+VERSION     ERT59641.1
+DBLINK      BioProject: PRJNA89631
+            BioSample: SAMN02436562
+DBSOURCE    accession AWXA01000034.1
+KEYWORDS    HIGH_QUALITY_DRAFT.
+SOURCE      Megasphaera sp. BV3C16-1
+  ORGANISM  Megasphaera sp. BV3C16-1
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+REFERENCE   1  (residues 1 to 54)
+  AUTHORS   Durkin,A.S., Haft,D.R., McCorrison,J., Torralba,M., Gillis,M.,
+            Haft,D.H., Methe,B., Sutton,G. and Nelson,K.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-SEP-2013) The J. Craig Venter Institute, 9704 Medical
+            Center Dr., Rockville, MD 20850, USA
+COMMENT     This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            
+            ##Genome-Assembly-Data-START##
+            Finishing Goal           :: High-Quality Draft
+            Current Finishing Status :: High-Quality Draft
+            Assembly Method          :: Newbler v. 2.6
+            Assembly Name            :: MspBV3C16-1v1.0
+            Genome Coverage          :: 26x
+            Sequencing Technology    :: 454
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..54
+                     /organism="Megasphaera sp. BV3C16-1"
+                     /strain="BV3C16-1"
+                     /db_xref="HMP:1250"
+                     /db_xref="taxon:1111454"
+     Protein         1..54
+                     /product="ribbon-helix-helix protein, CopG family"
+     Region          7..>45
+                     /region_name="COG4877"
+                     /note="Uncharacterized protein [Function unknown]"
+                     /db_xref="CDD:227214"
+     CDS             1..54
+                     /locus_tag="HMPREF1250_0784"
+                     /coded_by="complement(AWXA01000034.1:50128..50292)"
+                     /transl_table=11
+ORIGIN      
+        1 maqanpyplr ideeimakmk qlakengrsv nkeieyalrq yimardpkns lpkd
+//
+
+LOCUS       WP_023053714              64 aa            linear   BCT 25-OCT-2013
+DEFINITION  HicB family protein [Megasphaera sp. BV3C16-1].
+ACCESSION   WP_023053714
+VERSION     WP_023053714.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera sp. BV3C16-1
+  ORGANISM  Megasphaera sp. BV3C16-1
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..64
+                     /organism="Megasphaera sp. BV3C16-1"
+                     /db_xref="taxon:1111454"
+     Protein         1..64
+                     /product="HicB family protein"
+                     /calculated_mol_wt=7217
+     Region          <6..53
+                     /region_name="HicB"
+                     /note="HicB family; cl23837"
+                     /db_xref="CDD:304994"
+ORIGIN      
+        1 medkekepcg nrvrmtgkkq itlrlpdely ealraeakkt gisvnelili kinpleanfl
+       61 dhep
+//
+
+LOCUS       WP_044503766             128 aa            linear   BCT 04-MAR-2015
+DEFINITION  hypothetical protein [Megasphaera massiliensis].
+ACCESSION   WP_044503766
+VERSION     WP_044503766.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera massiliensis
+  ORGANISM  Megasphaera massiliensis
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..128
+                     /organism="Megasphaera massiliensis"
+                     /db_xref="taxon:1232428"
+     Protein         1..128
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=14556
+ORIGIN      
+        1 makkknksfe aagksaffss sqskevdkte eennlkaqss ekidsnksri nteekkieqt
+       61 gikikkkydv sennikkekk teriqllisk tldnklkeaa anskisvnyf vtnalyeyle
+      121 kiesnekk
+//
+
+LOCUS       WP_014016480             150 aa            linear   BCT 27-MAY-2013
+DEFINITION  antitoxin HicB [Megasphaera elsdenii].
+ACCESSION   WP_014016480
+VERSION     WP_014016480.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera elsdenii
+  ORGANISM  Megasphaera elsdenii
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..150
+                     /organism="Megasphaera elsdenii"
+                     /db_xref="taxon:907"
+     Protein         1..150
+                     /product="antitoxin HicB"
+                     /calculated_mol_wt=17040
+     Region          3..72
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+     Region          99..>134
+                     /region_name="HTH_XRE"
+                     /note="Helix-turn-helix XRE-family like proteins.
+                     Prokaryotic DNA binding proteins belonging to the
+                     xenobiotic response element family of transcriptional
+                     regulators; cd00093"
+                     /db_xref="CDD:238045"
+     Site            order(100,104,129)
+                     /site_type="other"
+                     /note="non-specific DNA binding site [nucleotide binding]"
+                     /db_xref="CDD:238045"
+     Site            order(103,128)
+                     /site_type="other"
+                     /note="salt bridge"
+                     /db_xref="CDD:238045"
+     Site            order(110..111,122,125,129..130)
+                     /site_type="other"
+                     /note="sequence-specific DNA binding site [nucleotide
+                     binding]"
+                     /db_xref="CDD:238045"
+ORIGIN      
+        1 mskyifpatf qwdekdkvyy vnfpdvdgcf tdgatlteam enaddvlnlm vwsmeqqkqa
+       61 ipeptprdkv kvpengfvnl vvadtdayqd vidrennpik yarkkaglnv kglaellgap
+      121 yrtvqewnag nrmppkwvqr liiekieanm
+//
+
+LOCUS       WP_027895066             150 aa            linear   BCT 12-JUN-2014
+DEFINITION  antitoxin HicB [Megasphaera elsdenii].
+ACCESSION   WP_027895066
+VERSION     WP_027895066.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera elsdenii
+  ORGANISM  Megasphaera elsdenii
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..150
+                     /organism="Megasphaera elsdenii"
+                     /db_xref="taxon:907"
+     Protein         1..150
+                     /product="antitoxin HicB"
+                     /calculated_mol_wt=17054
+     Region          3..72
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+     Region          99..>134
+                     /region_name="HTH_XRE"
+                     /note="Helix-turn-helix XRE-family like proteins.
+                     Prokaryotic DNA binding proteins belonging to the
+                     xenobiotic response element family of transcriptional
+                     regulators; cd00093"
+                     /db_xref="CDD:238045"
+     Site            order(100,104,129)
+                     /site_type="other"
+                     /note="non-specific DNA binding site [nucleotide binding]"
+                     /db_xref="CDD:238045"
+     Site            order(103,128)
+                     /site_type="other"
+                     /note="salt bridge"
+                     /db_xref="CDD:238045"
+     Site            order(110..111,122,125,129..130)
+                     /site_type="other"
+                     /note="sequence-specific DNA binding site [nucleotide
+                     binding]"
+                     /db_xref="CDD:238045"
+ORIGIN      
+        1 mskyifpatf qwdekdkvyy vnfpdvdgcf tdgatlteam enaddvlnlm vwsmeqqkqa
+       61 ipeptprdkv kvpengfvnl vvadteayqd vidrennpik yarkkaglnv kglaellgap
+      121 yrtvqewnag nrmppkwvqr liiekieanm
+//
+
+LOCUS       WP_027895441             150 aa            linear   BCT 12-JUN-2014
+DEFINITION  antitoxin HicB [Megasphaera elsdenii].
+ACCESSION   WP_027895441
+VERSION     WP_027895441.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera elsdenii
+  ORGANISM  Megasphaera elsdenii
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..150
+                     /organism="Megasphaera elsdenii"
+                     /db_xref="taxon:907"
+     Protein         1..150
+                     /product="antitoxin HicB"
+                     /calculated_mol_wt=17053
+     Region          3..72
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+     Region          99..>134
+                     /region_name="HTH_XRE"
+                     /note="Helix-turn-helix XRE-family like proteins.
+                     Prokaryotic DNA binding proteins belonging to the
+                     xenobiotic response element family of transcriptional
+                     regulators; cd00093"
+                     /db_xref="CDD:238045"
+     Site            order(100,104,129)
+                     /site_type="other"
+                     /note="non-specific DNA binding site [nucleotide binding]"
+                     /db_xref="CDD:238045"
+     Site            order(103,128)
+                     /site_type="other"
+                     /note="salt bridge"
+                     /db_xref="CDD:238045"
+     Site            order(110..111,122,125,129..130)
+                     /site_type="other"
+                     /note="sequence-specific DNA binding site [nucleotide
+                     binding]"
+                     /db_xref="CDD:238045"
+ORIGIN      
+        1 mskyifpatf qwdekdkvyy vnfpdvdgcf tdgatlteam enaddvlnlm vwnmeqqkqa
+       61 ipeptprdkv kvpengfvnl vvadtdayqd vidrennpik yarkkaglnv kgladllgap
+      121 yrtvqewnag nrmppkwvqr liiekikanm
+//
+
+LOCUS       WP_048515043             141 aa            linear   BCT 26-AUG-2016
+DEFINITION  HicB family protein [Megasphaera cerevisiae].
+ACCESSION   WP_048515043
+VERSION     WP_048515043.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera cerevisiae
+  ORGANISM  Megasphaera cerevisiae
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..141
+                     /organism="Megasphaera cerevisiae"
+                     /db_xref="taxon:39029"
+     Protein         1..141
+                     /product="HicB family protein"
+                     /calculated_mol_wt=15300
+     Region          6..121
+                     /region_name="HicB_lk_antitox"
+                     /note="HicB_like antitoxin of bacterial toxin-antitoxin
+                     system; pfam15919"
+                     /db_xref="CDD:292541"
+     Region          6..70
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+ORIGIN      
+        1 mdtllypacf ypckdkqday tvvvpdlpgc vtegdslana mamateaasg wildemedgr
+       61 aipkasnmls ikpespdgfv sllaldmdsy adkygskavr knltipawlh tfaeanhiny
+      121 skvlkdslas myqkkqnakq g
+//
+
+LOCUS       WP_052048619             321 aa            linear   BCT 26-AUG-2016
+DEFINITION  HicB family protein [Megasphaera elsdenii].
+ACCESSION   WP_052048619
+VERSION     WP_052048619.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera elsdenii
+  ORGANISM  Megasphaera elsdenii
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..321
+                     /organism="Megasphaera elsdenii"
+                     /db_xref="taxon:907"
+     Protein         1..321
+                     /product="HicB family protein"
+                     /calculated_mol_wt=36863
+     Region          238..>295
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+ORIGIN      
+        1 milqealrqa daqklaaaty eyhraadsgp tvydekrchg vtkaysdfiq qlltlspkke
+       61 deqcllpdnd gpfmtaalyl ysdvraalaq wqlekcytka elqhfsmael kairhtqqqh
+      121 qpdsyaytfe pwenmlavdi cwpcdfsdde klqflaavly eisfcgvtle ehrralaeme
+      181 dewqavkdaq typfdefrre mgwdalpkra vteerediin silaiqqtyk mfqrvftkah
+      241 ypaiftkepd gihvtfpdlp gciswardvp qaieaaqtal tlhlsgmrqd kqslppvtpv
+      301 slcqereqvk ddeaiyiiye s
+//
+
+LOCUS       WP_052048622              91 aa            linear   BCT 26-AUG-2016
+DEFINITION  HicB family protein [Megasphaera elsdenii].
+ACCESSION   WP_052048622
+VERSION     WP_052048622.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera elsdenii
+  ORGANISM  Megasphaera elsdenii
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..91
+                     /organism="Megasphaera elsdenii"
+                     /db_xref="taxon:907"
+     Protein         1..91
+                     /product="HicB family protein"
+                     /calculated_mol_wt=10554
+     Region          2..61
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+ORIGIN      
+        1 mkvsypaify eekignytvf fpdfqqvtcg ddladaefma kdclslliti ekedrhkipk
+       61 ptpiedldmh cidsedweyv rsfvkmiein i
+//
+
+LOCUS       WP_059077217             150 aa            linear   BCT 07-JAN-2016
+DEFINITION  antitoxin HicB [Megasphaera sp. DJF_B143].
+ACCESSION   WP_059077217
+VERSION     WP_059077217.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera sp. DJF_B143
+  ORGANISM  Megasphaera sp. DJF_B143
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..150
+                     /organism="Megasphaera sp. DJF_B143"
+                     /db_xref="taxon:537288"
+     Protein         1..150
+                     /product="antitoxin HicB"
+                     /calculated_mol_wt=16968
+     Region          3..72
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+     Region          99..>134
+                     /region_name="HTH_XRE"
+                     /note="Helix-turn-helix XRE-family like proteins.
+                     Prokaryotic DNA binding proteins belonging to the
+                     xenobiotic response element family of transcriptional
+                     regulators; cd00093"
+                     /db_xref="CDD:238045"
+     Site            order(100,104,129)
+                     /site_type="other"
+                     /note="non-specific DNA binding site [nucleotide binding]"
+                     /db_xref="CDD:238045"
+     Site            order(103,128)
+                     /site_type="other"
+                     /note="salt bridge"
+                     /db_xref="CDD:238045"
+     Site            order(110..111,122,125,129..130)
+                     /site_type="other"
+                     /note="sequence-specific DNA binding site [nucleotide
+                     binding]"
+                     /db_xref="CDD:238045"
+ORIGIN      
+        1 mskyifpatf qwdekdkvyy vnfpdvdgcf tdgatlteam enaddvlnlm vwsmeqqkqa
+       61 ipgptprdkv kvpengfvnl vvadtdayqd vidrennpik yarkkaglnv kglaellgap
+      121 yrtvqewnag nrmppkwvqr liiekieanm
+//
+
+LOCUS       WP_007391188             146 aa            linear   BCT 17-SEP-2015
+DEFINITION  MULTISPECIES: division/cell wall cluster transcriptional repressor
+            MraZ [Megasphaera].
+ACCESSION   WP_007391188
+VERSION     WP_007391188.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera
+  ORGANISM  Megasphaera
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..146
+                     /organism="Megasphaera"
+                     /db_xref="taxon:906"
+     Protein         1..146
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=16231
+     Region          1..138
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          3..58
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(3..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..127
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,104,111,120..121,124)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mfmgefthsi dakgrvilpa kfreelglhc vvtrglegcl svytaenwls lansmkklka
+       61 skenvrafkr flfgsaaeve fdrqgrilip aalreyaklt kdvtvlgtgd kieiwdkgay
+      121 etyaaaivpd meeiaeslhe tldvdf
+//
+
+LOCUS       WP_007392160             146 aa            linear   BCT 17-SEP-2015
+DEFINITION  division/cell wall cluster transcriptional repressor MraZ
+            [Megasphaera sp. UPII 135-E].
+ACCESSION   WP_007392160
+VERSION     WP_007392160.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera sp. UPII 135-E
+  ORGANISM  Megasphaera sp. UPII 135-E
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..146
+                     /organism="Megasphaera sp. UPII 135-E"
+                     /db_xref="taxon:1000569"
+     Protein         1..146
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=16352
+     Region          1..142
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          3..58
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(3..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..123
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,104,111,120..121)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mfmgeythsi dakgrvilpa kfreelgihc vvtrglegcl svytadhwma langmkqlka
+       61 skesvrafkr flfgsaaeve fdkqgrvlip stlreyakln kdvtvlgtgd kieiwdkkay
+      121 eeyasrvvpd meeiaeslde tlaldf
+//
+
+LOCUS       WP_014016116             146 aa            linear   BCT 17-SEP-2015
+DEFINITION  division/cell wall cluster transcriptional repressor MraZ
+            [Megasphaera elsdenii].
+ACCESSION   WP_014016116
+VERSION     WP_014016116.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera elsdenii
+  ORGANISM  Megasphaera elsdenii
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..146
+                     /organism="Megasphaera elsdenii"
+                     /db_xref="taxon:907"
+     Protein         1..146
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=16314
+     Region          1..142
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          3..58
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(3..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..126
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,104,111,120..121,124)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mfmgeyehsi dakgrvilpv kfrdelgpkf vvtrglegcl svytmeawmr lagslkklra
+       61 skenvrafkr fvfgsaaeve fdkqgrilip atlrayaklv kdvtvlgtgd kveiwskdvy
+      121 eayaaktipv meeiaesldd sldldf
+//
+
+LOCUS       WP_020310533             146 aa            linear   BCT 17-SEP-2015
+DEFINITION  MULTISPECIES: division/cell wall cluster transcriptional repressor
+            MraZ [Megasphaera].
+ACCESSION   WP_020310533
+VERSION     WP_020310533.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera
+  ORGANISM  Megasphaera
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..146
+                     /organism="Megasphaera"
+                     /db_xref="taxon:906"
+     Protein         1..146
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=16270
+     Region          1..142
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          3..58
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(3..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..126
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,104,111,120..121,124)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mfmgeyehti dakgrvilpv kfrdelgpkf vvtrglegcl svytmeawmr lagslkklra
+       61 skenvrafkr fvfgsaaeve fdkqgrilip atlrayaklv kdvtvlgtgd kveiwskday
+      121 eayaaktvpv meeiaesldd aldldf
+//
+
+LOCUS       WP_023054482             146 aa            linear   BCT 17-SEP-2015
+DEFINITION  division/cell wall cluster transcriptional repressor MraZ
+            [Megasphaera sp. BV3C16-1].
+ACCESSION   WP_023054482
+VERSION     WP_023054482.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera sp. BV3C16-1
+  ORGANISM  Megasphaera sp. BV3C16-1
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..146
+                     /organism="Megasphaera sp. BV3C16-1"
+                     /db_xref="taxon:1111454"
+     Protein         1..146
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=16235
+     Region          1..125
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          3..58
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(3..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..126
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,104,111,120..121,124)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mfmgeyshsi dtkgrvimpa kfreelglsf vvtrglegcl svytkeaweq laqamkklqa
+       61 skenvrafkr fvfgsaaeve fdkqgrillp salrdyakls kdvvvlgtgd kieiwskaay
+      121 eeyaaktvpa meeiaesldg lldidf
+//
+
+LOCUS       WP_040774177             146 aa            linear   BCT 17-SEP-2015
+DEFINITION  division/cell wall cluster transcriptional repressor MraZ
+            [Megasphaera micronuciformis].
+ACCESSION   WP_040774177
+VERSION     WP_040774177.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera micronuciformis
+  ORGANISM  Megasphaera micronuciformis
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..146
+                     /organism="Megasphaera micronuciformis"
+                     /db_xref="taxon:187326"
+     Protein         1..146
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=16167
+     Region          1..138
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          3..58
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(3..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..126
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,104,111,120..121,124)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mfmgeyahsv dakgrvimpa kfrdelgtsf vvtrglegcl svytqegwar fatgmqklqa
+       61 skenvrafkr flfgsaaele fdkqgrilip atlreyahlv kdvivlgtgd kieiwskeay
+      121 aaysektvpa meaiaetleg fgdlef
+//
+
+LOCUS       WP_048514860             146 aa            linear   BCT 17-SEP-2015
+DEFINITION  division/cell wall cluster transcriptional repressor MraZ
+            [Megasphaera cerevisiae].
+ACCESSION   WP_048514860
+VERSION     WP_048514860.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera cerevisiae
+  ORGANISM  Megasphaera cerevisiae
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..146
+                     /organism="Megasphaera cerevisiae"
+                     /db_xref="taxon:39029"
+     Protein         1..146
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=16517
+     Region          1..142
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          3..58
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(3..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..127
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,104,111,120..121,124)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mfmgeyshti dvkgrvilpa kfrdelgmnf vvtrglegcl svytmdswlh ladamkklka
+       61 skenvrafkr fvfgsaaeve fdkqgrilip gtlreyahle kevtvlgtgd kieiwnkday
+      121 etyaakivpd meeiaesmde tldlef
+//
+
+LOCUS       WP_059076906             145 aa            linear   BCT 15-JAN-2016
+DEFINITION  cell division/cell wall cluster transcriptional repressor MraZ
+            [Megasphaera sp. DJF_B143].
+ACCESSION   WP_059076906
+VERSION     WP_059076906.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera sp. DJF_B143
+  ORGANISM  Megasphaera sp. DJF_B143
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..145
+                     /organism="Megasphaera sp. DJF_B143"
+                     /db_xref="taxon:537288"
+     Protein         1..145
+                     /product="cell division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=16442
+     Region          1..145
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          3..58
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(3..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..123
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,104,111,120..121)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mfmgeyshsi dtkgrvimpa kfreelgthc ivtrglegcl svytqdawrn ladkmkklrt
+       61 skekvrafkr flfgsaaeve fdrtgrilip gtlreyaglk kevtvigtgd sieiwdkrsy
+      121 eeyaartvpa meeiaedled ldldi
+//
+
+LOCUS       KXA67121                 157 aa            linear   BCT 14-APR-2016
+DEFINITION  protein MraZ [Megasphaera sp. MJR8396C].
+ACCESSION   KXA67121
+VERSION     KXA67121.1
+DBLINK      BioProject: PRJNA272093
+            BioSample: SAMN03854353
+DBSOURCE    accession LRVC01000103.1
+KEYWORDS    HIGH_QUALITY_DRAFT.
+SOURCE      Megasphaera sp. MJR8396C
+  ORGANISM  Megasphaera sp. MJR8396C
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+REFERENCE   1  (residues 1 to 157)
+  AUTHORS   Mitreva,M., Pepin,K.H., Mihindukulasuriya,K.A., Fulton,R.,
+            Fronick,C., O'Laughlin,M., Miner,T., Herter,B., Rosa,B.A.,
+            Cordes,M., Tomlinson,C., Wollam,A., Palsikar,V.B., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2016) McDonnell Genome Institute, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+COMMENT     Bacteria and source DNA were provide by Amanda Lewis, Ph.D.
+            (lewis@borcim.wustl.edu), Washington University School of Medicine,
+            Department of Molecular Microbiology and Obstetrics and Gynecology
+            - Center for Women's Infectious Disease Research, Campus Box 8230
+            660 S. Euclid Ave. St. Louis, MO 63110. Collection of this isolate
+            was part of the ###Polymicrobial Synergy Study,### which was funded
+            in part by the National Institutes of Health grant P50 DK064540-11.
+            
+            Coding sequences were predicted using GeneMark and Glimmer3.
+            Intergenic regions not spanned by GeneMark and Glimmer3 were
+            blasted against NCBI's non-redundant (NR) database and predictions
+            generated based on protein alignments. tRNA genes were determined
+            using tRNAscan-SE and non-coding RNA genes by RNAmmer and Rfam. The
+            final gene set is processed through several programs such as Kegg,
+            psortB and Interproscan to determine possible function. Gene
+            product names are determined by BER. Gene names are generated at
+            the contig level and may not necessarily reflect any known order or
+            orientation between contigs.
+            
+            This is a reference genomes for the Human Microbiome Project and
+            the work was funded by the National Institutes of Health (NIH)
+            grant U54 HG004968.
+            
+            ##Genome-Assembly-Data-START##
+            Finishing Goal           :: High-Quality Draft
+            Current Finishing Status :: High-Quality Draft
+            Assembly Method          :: Velvet v. 1.1.06
+            Genome Coverage          :: 101x
+            Sequencing Technology    :: Illumina
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..157
+                     /organism="Megasphaera sp. MJR8396C"
+                     /strain="MJR8396C"
+                     /isolation_source="Vagina"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:1603888"
+     Protein         1..157
+                     /product="protein MraZ"
+     Region          12..136
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          14..69
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(14..16,42,50,59..60,63)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          22..26
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          77..137
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(85,87,115,122,131..132,135)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          93..97
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+     CDS             1..157
+                     /locus_tag="HMPREF3201_02269"
+                     /coded_by="LRVC01000103.1:42099..42572"
+                     /inference="protein motif:HMMPfam:IPR020603"
+                     /inference="protein motif:HMMTigr:IPR003444"
+                     /note="Psort location: Cytoplasmic, score: 9.97"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR003444"
+                     /db_xref="InterPro:IPR020603"
+ORIGIN      
+        1 mwwrvkgvtr lmfmgeyeht idakgrvilp vkfrdelgpt fivtrglegc lsvytmeawm
+       61 rfagslkqlk askenvrafq rfvfgsaaev efdkqgrili patlrayakl vkdvtvlgtg
+      121 dkveiwskda yeayvaktvp ameeiaesld dflnldf
+//
+
+LOCUS       WP_014016636              85 aa            linear   BCT 18-MAY-2013
+DEFINITION  antitoxin of toxin-antitoxin system StbD [Megasphaera elsdenii].
+ACCESSION   WP_014016636
+VERSION     WP_014016636.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera elsdenii
+  ORGANISM  Megasphaera elsdenii
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..85
+                     /organism="Megasphaera elsdenii"
+                     /db_xref="taxon:907"
+     Protein         1..85
+                     /product="antitoxin of toxin-antitoxin system StbD"
+                     /calculated_mol_wt=9357
+     Region          1..67
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+ORIGIN      
+        1 mkimsqtkar kdffkiakev nedsvpviat nkdslddvvi lgkadydslm etlhvygvpg
+       61 maekldraek eegipftsle dipdv
+//
+
+LOCUS       WP_048514016              89 aa            linear   BCT 29-AUG-2015
+DEFINITION  prevent-host-death family protein [Megasphaera cerevisiae].
+ACCESSION   WP_048514016
+VERSION     WP_048514016.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera cerevisiae
+  ORGANISM  Megasphaera cerevisiae
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..89
+                     /organism="Megasphaera cerevisiae"
+                     /db_xref="taxon:39029"
+     Protein         1..89
+                     /product="prevent-host-death family protein"
+                     /calculated_mol_wt=9906
+     Region          1..67
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+ORIGIN      
+        1 mkimsqskar keffkiakdv nadsipviat nkdidsdvvi msradyeslk etlyilsvpg
+       61 maeklresfd dqgedfdgdl dhlvqaqsh
+//
+
+LOCUS       KXA68931                  85 aa            linear   BCT 14-APR-2016
+DEFINITION  addiction module antitoxin, Axe family [Megasphaera sp. MJR8396C].
+ACCESSION   KXA68931
+VERSION     KXA68931.1
+DBLINK      BioProject: PRJNA272093
+            BioSample: SAMN03854353
+DBSOURCE    accession LRVC01000074.1
+KEYWORDS    HIGH_QUALITY_DRAFT.
+SOURCE      Megasphaera sp. MJR8396C
+  ORGANISM  Megasphaera sp. MJR8396C
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+REFERENCE   1  (residues 1 to 85)
+  AUTHORS   Mitreva,M., Pepin,K.H., Mihindukulasuriya,K.A., Fulton,R.,
+            Fronick,C., O'Laughlin,M., Miner,T., Herter,B., Rosa,B.A.,
+            Cordes,M., Tomlinson,C., Wollam,A., Palsikar,V.B., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2016) McDonnell Genome Institute, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+COMMENT     Bacteria and source DNA were provide by Amanda Lewis, Ph.D.
+            (lewis@borcim.wustl.edu), Washington University School of Medicine,
+            Department of Molecular Microbiology and Obstetrics and Gynecology
+            - Center for Women's Infectious Disease Research, Campus Box 8230
+            660 S. Euclid Ave. St. Louis, MO 63110. Collection of this isolate
+            was part of the ###Polymicrobial Synergy Study,### which was funded
+            in part by the National Institutes of Health grant P50 DK064540-11.
+            
+            Coding sequences were predicted using GeneMark and Glimmer3.
+            Intergenic regions not spanned by GeneMark and Glimmer3 were
+            blasted against NCBI's non-redundant (NR) database and predictions
+            generated based on protein alignments. tRNA genes were determined
+            using tRNAscan-SE and non-coding RNA genes by RNAmmer and Rfam. The
+            final gene set is processed through several programs such as Kegg,
+            psortB and Interproscan to determine possible function. Gene
+            product names are determined by BER. Gene names are generated at
+            the contig level and may not necessarily reflect any known order or
+            orientation between contigs.
+            
+            This is a reference genomes for the Human Microbiome Project and
+            the work was funded by the National Institutes of Health (NIH)
+            grant U54 HG004968.
+            
+            ##Genome-Assembly-Data-START##
+            Finishing Goal           :: High-Quality Draft
+            Current Finishing Status :: High-Quality Draft
+            Assembly Method          :: Velvet v. 1.1.06
+            Genome Coverage          :: 101x
+            Sequencing Technology    :: Illumina
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..85
+                     /organism="Megasphaera sp. MJR8396C"
+                     /strain="MJR8396C"
+                     /isolation_source="Vagina"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:1603888"
+     Protein         1..85
+                     /product="addiction module antitoxin, Axe family"
+     Region          1..65
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     pfam02604"
+                     /db_xref="CDD:280724"
+     CDS             1..85
+                     /locus_tag="HMPREF3201_01588"
+                     /coded_by="complement(LRVC01000074.1:33893..34150)"
+                     /inference="protein motif:HMMPfam:IPR006442"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR006442"
+ORIGIN      
+        1 mkiishkdar kdffkiakev nersipvmav gqdstddvvi lgladynsll etlhvygvpg
+       61 maeklhraek ergipfssla disdv
+//
+
+LOCUS       WP_006943026              71 aa            linear   BCT 27-MAY-2013
+DEFINITION  toxin-antitoxin system antitoxin subunit [Megasphaera
+            micronuciformis].
+ACCESSION   WP_006943026
+VERSION     WP_006943026.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera micronuciformis
+  ORGANISM  Megasphaera micronuciformis
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..71
+                     /organism="Megasphaera micronuciformis"
+                     /db_xref="taxon:187326"
+     Protein         1..71
+                     /product="toxin-antitoxin system antitoxin subunit"
+                     /calculated_mol_wt=8248
+     Region          1..>43
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 meiqveqqik daavevfqka glteeeaval fykrtaatgk ltfpveeerk denkkvkrrr
+       61 mnerfaewda f
+//
+
+LOCUS       WP_007390674              89 aa            linear   BCT 27-MAY-2013
+DEFINITION  addiction module antitoxin RelB [Megasphaera sp. UPII 199-6].
+ACCESSION   WP_007390674
+VERSION     WP_007390674.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera sp. UPII 199-6
+  ORGANISM  Megasphaera sp. UPII 199-6
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..89
+                     /organism="Megasphaera sp. UPII 199-6"
+                     /db_xref="taxon:1000568"
+     Protein         1..89
+                     /product="addiction module antitoxin RelB"
+                     /calculated_mol_wt=9896
+     Region          4..87
+                     /region_name="RelB_DinJ"
+                     /note="addiction module antitoxin, RelB/DinJ family;
+                     TIGR02384"
+                     /db_xref="CDD:274102"
+ORIGIN      
+        1 madtktlnlr vdadlkhqae tifanlgipt stainmflrt vvryggipfd lrispnelet
+       61 lravddvnhh rnlsktydsv edvmeilna
+//
+
+LOCUS       WP_007391014              65 aa            linear   BCT 09-MAY-2013
+DEFINITION  MULTISPECIES: toxin-antitoxin system antitoxin subunit
+            [Megasphaera].
+ACCESSION   WP_007391014
+VERSION     WP_007391014.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera
+  ORGANISM  Megasphaera
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..65
+                     /organism="Megasphaera"
+                     /db_xref="taxon:906"
+     Protein         1..65
+                     /product="toxin-antitoxin system antitoxin subunit"
+                     /calculated_mol_wt=7397
+     Region          2..>40
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mdetlrkqaa aifqrlglae deaitlfykr tvaagklpfa aagerkkdir kkkrmnerfa
+       61 ewdar
+//
+
+LOCUS       WP_007392394              65 aa            linear   BCT 27-MAY-2013
+DEFINITION  toxin-antitoxin system antitoxin subunit [Megasphaera sp. UPII
+            135-E].
+ACCESSION   WP_007392394
+VERSION     WP_007392394.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera sp. UPII 135-E
+  ORGANISM  Megasphaera sp. UPII 135-E
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..65
+                     /organism="Megasphaera sp. UPII 135-E"
+                     /db_xref="taxon:1000569"
+     Protein         1..65
+                     /product="toxin-antitoxin system antitoxin subunit"
+                     /calculated_mol_wt=7446
+     Region          2..>40
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mdetirkeai aifnrlglse eeaielfykr tiyagkmpfd askgatkgqv kkkrmnerfa
+       61 ewdaf
+//
+
+LOCUS       WP_014015658              64 aa            linear   BCT 27-MAY-2013
+DEFINITION  toxin-antitoxin system antitoxin subunit [Megasphaera elsdenii].
+ACCESSION   WP_014015658
+VERSION     WP_014015658.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera elsdenii
+  ORGANISM  Megasphaera elsdenii
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..64
+                     /organism="Megasphaera elsdenii"
+                     /db_xref="taxon:907"
+     Protein         1..64
+                     /product="toxin-antitoxin system antitoxin subunit"
+                     /calculated_mol_wt=7378
+     Region          2..>40
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mdeetrekar aiferlglte eqavelfykr tiaagkmpfa agepeakkik kkrmnerfae
+       61 wdaf
+//
+
+LOCUS       WP_014016239              59 aa            linear   BCT 27-MAY-2013
+DEFINITION  DMT family permease [Megasphaera elsdenii].
+ACCESSION   WP_014016239
+VERSION     WP_014016239.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera elsdenii
+  ORGANISM  Megasphaera elsdenii
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..59
+                     /organism="Megasphaera elsdenii"
+                     /db_xref="taxon:907"
+     Protein         1..59
+                     /product="DMT family permease"
+                     /calculated_mol_wt=6516
+     Region          1..>57
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 maqtticiri dadlkkdfek fcdsvgmsms tginifikks vgeqripfei taksdteke
+//
+
+LOCUS       WP_014016379              59 aa            linear   BCT 27-MAY-2013
+DEFINITION  DMT family permease [Megasphaera elsdenii].
+ACCESSION   WP_014016379
+VERSION     WP_014016379.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera elsdenii
+  ORGANISM  Megasphaera elsdenii
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..59
+                     /organism="Megasphaera elsdenii"
+                     /db_xref="taxon:907"
+     Protein         1..59
+                     /product="DMT family permease"
+                     /calculated_mol_wt=6510
+     Region          1..>56
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 maqtticirv dadlkkdfek fcdsigmsms tainifikks vgeqripfei tarsnikka
+//
+
+LOCUS       WP_014016456              61 aa            linear   BCT 27-MAY-2013
+DEFINITION  DMT family permease [Megasphaera elsdenii].
+ACCESSION   WP_014016456
+VERSION     WP_014016456.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera elsdenii
+  ORGANISM  Megasphaera elsdenii
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..61
+                     /organism="Megasphaera elsdenii"
+                     /db_xref="taxon:907"
+     Protein         1..61
+                     /product="DMT family permease"
+                     /calculated_mol_wt=6771
+     Region          7..>54
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 masqigvsfr inkelkedfe afcdsvglsm staiilfikt avreqripfe vkapgqndmr
+       61 h
+//
+
+LOCUS       WP_020311213              59 aa            linear   BCT 03-JUL-2013
+DEFINITION  MULTISPECIES: DNA damage-inducible protein [Megasphaera].
+ACCESSION   WP_020311213
+VERSION     WP_020311213.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera
+  ORGANISM  Megasphaera
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..59
+                     /organism="Megasphaera"
+                     /db_xref="taxon:906"
+     Protein         1..59
+                     /product="DNA damage-inducible protein"
+                     /calculated_mol_wt=6560
+     Region          1..>57
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 maqtticiri dtdvkkefet fcdsigmsms tainifikks vgeqripfei takrdseks
+//
+
+LOCUS       WP_020311227              51 aa            linear   BCT 03-JUL-2013
+DEFINITION  MULTISPECIES: hypothetical protein [Megasphaera].
+ACCESSION   WP_020311227
+VERSION     WP_020311227.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera
+  ORGANISM  Megasphaera
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..51
+                     /organism="Megasphaera"
+                     /db_xref="taxon:906"
+     Protein         1..51
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=5677
+     Region          1..>51
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 msfridsdlk kefeafcdaa gismtaaihl fikttvreqr ipfeikassk k
+//
+
+LOCUS       WP_020311799              64 aa            linear   BCT 03-JUL-2013
+DEFINITION  MULTISPECIES: toxin-antitoxin system [Megasphaera].
+ACCESSION   WP_020311799
+VERSION     WP_020311799.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera
+  ORGANISM  Megasphaera
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..64
+                     /organism="Megasphaera"
+                     /db_xref="taxon:906"
+     Protein         1..64
+                     /product="toxin-antitoxin system"
+                     /calculated_mol_wt=7353
+     Region          2..>40
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mdeetrkkaq aiferlglte eqavelfykr tiaagkmpfa aaegetkkik kkrmnerfae
+       61 wdaf
+//
+
+LOCUS       WP_020311830              61 aa            linear   BCT 03-JUL-2013
+DEFINITION  MULTISPECIES: hypothetical protein [Megasphaera].
+ACCESSION   WP_020311830
+VERSION     WP_020311830.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera
+  ORGANISM  Megasphaera
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..61
+                     /organism="Megasphaera"
+                     /db_xref="taxon:906"
+     Protein         1..61
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=6834
+     Region          1..>54
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 matqigvsfr inkelkedfe efcdsvglsm saaiilfika avreqripfe vtaldqthkk
+       61 y
+//
+
+LOCUS       CDF04576                  64 aa            linear   ENV 31-MAY-2013
+DEFINITION  putative toxin-antitoxin system [Megasphaera elsdenii CAG:570].
+ACCESSION   CDF04576
+VERSION     CDF04576.1
+DBSOURCE    embl accession CBKE010000108.1
+KEYWORDS    ENV.
+SOURCE      Megasphaera elsdenii CAG:570
+  ORGANISM  Megasphaera elsdenii CAG:570
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..64
+                     /organism="Megasphaera elsdenii CAG:570"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1263087"
+                     /environmental_sample
+                     /note="contig 196"
+     Protein         1..64
+                     /product="putative toxin-antitoxin system"
+     Region          2..>40
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+     CDS             1..64
+                     /locus_tag="BN715_00924"
+                     /coded_by="CBKE010000108.1:3656..3850"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mdeetrkkaq aifeslglte eqavelfykr tiaagkmpfa agepeakkik kkrmnerfae
+       61 wdaf
+//
+
+LOCUS       WP_022381610              90 aa            linear   BCT 08-JUL-2015
+DEFINITION  toxin-antitoxin system protein [Megasphaera cerevisiae].
+ACCESSION   WP_022381610
+VERSION     WP_022381610.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera cerevisiae
+  ORGANISM  Megasphaera cerevisiae
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..90
+                     /organism="Megasphaera cerevisiae"
+                     /db_xref="taxon:39029"
+     Protein         1..90
+                     /product="toxin-antitoxin system protein"
+                     /calculated_mol_wt=10023
+     Region          1..88
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mvntnlnirt dkevknqaek ifnalgmnmt tavniflktt irengipfrl tldvpnattr
+       61 saieegkria idkkvkgytn mtdlrvalek
+//
+
+LOCUS       ERT59219                  69 aa            linear   BCT 23-OCT-2013
+DEFINITION  RelB antitoxin [Megasphaera sp. BV3C16-1].
+ACCESSION   ERT59219
+VERSION     ERT59219.1
+DBLINK      BioProject: PRJNA89631
+            BioSample: SAMN02436562
+DBSOURCE    accession AWXA01000037.1
+KEYWORDS    HIGH_QUALITY_DRAFT.
+SOURCE      Megasphaera sp. BV3C16-1
+  ORGANISM  Megasphaera sp. BV3C16-1
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+REFERENCE   1  (residues 1 to 69)
+  AUTHORS   Durkin,A.S., Haft,D.R., McCorrison,J., Torralba,M., Gillis,M.,
+            Haft,D.H., Methe,B., Sutton,G. and Nelson,K.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-SEP-2013) The J. Craig Venter Institute, 9704 Medical
+            Center Dr., Rockville, MD 20850, USA
+COMMENT     This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            
+            ##Genome-Assembly-Data-START##
+            Finishing Goal           :: High-Quality Draft
+            Current Finishing Status :: High-Quality Draft
+            Assembly Method          :: Newbler v. 2.6
+            Assembly Name            :: MspBV3C16-1v1.0
+            Genome Coverage          :: 26x
+            Sequencing Technology    :: 454
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..69
+                     /organism="Megasphaera sp. BV3C16-1"
+                     /strain="BV3C16-1"
+                     /db_xref="HMP:1250"
+                     /db_xref="taxon:1111454"
+     Protein         1..69
+                     /product="RelB antitoxin"
+     Region          1..>43
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+     CDS             1..69
+                     /locus_tag="HMPREF1250_1431"
+                     /coded_by="complement(AWXA01000037.1:76102..76311)"
+                     /transl_table=11
+ORIGIN      
+        1 meiridedvr rgaaavferl glseeeavtl fykrtiaagr lpfgaagtes kekvrrkrmn
+       61 erfaewdar
+//
+
+LOCUS       WP_027894774              60 aa            linear   BCT 12-JUN-2014
+DEFINITION  multidrug DMT transporter permease [Megasphaera elsdenii].
+ACCESSION   WP_027894774
+VERSION     WP_027894774.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera elsdenii
+  ORGANISM  Megasphaera elsdenii
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..60
+                     /organism="Megasphaera elsdenii"
+                     /db_xref="taxon:907"
+     Protein         1..60
+                     /product="multidrug DMT transporter permease"
+                     /calculated_mol_wt=6669
+     Region          1..>58
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 maqtticiri dadlkkdfek fcdsigmsms tavnifikks vgeqripfei takrsntike
+//
+
+LOCUS       WP_027895089              61 aa            linear   BCT 12-JUN-2014
+DEFINITION  multidrug DMT transporter permease [Megasphaera elsdenii].
+ACCESSION   WP_027895089
+VERSION     WP_027895089.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera elsdenii
+  ORGANISM  Megasphaera elsdenii
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..61
+                     /organism="Megasphaera elsdenii"
+                     /db_xref="taxon:907"
+     Protein         1..61
+                     /product="multidrug DMT transporter permease"
+                     /calculated_mol_wt=6785
+     Region          7..>54
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 masqigvsfr inkelkedfe afcdsvglsm staiilfikt avreqripfe ikapgqndmr
+       61 h
+//
+
+LOCUS       WP_036203063              64 aa            linear   BCT 24-DEC-2014
+DEFINITION  toxin-antitoxin system antitoxin subunit [Megasphaera elsdenii].
+ACCESSION   WP_036203063
+VERSION     WP_036203063.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera elsdenii
+  ORGANISM  Megasphaera elsdenii
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..64
+                     /organism="Megasphaera elsdenii"
+                     /db_xref="taxon:907"
+     Protein         1..64
+                     /product="toxin-antitoxin system antitoxin subunit"
+                     /calculated_mol_wt=7397
+     Region          2..>40
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mdeetrekar aiferlglte eqaielfykr tiaagkmpfa aaegetkkik kkrmnerfae
+       61 wdaf
+//
+
+LOCUS       WP_036204675              56 aa            linear   BCT 24-DEC-2014
+DEFINITION  multidrug DMT transporter permease [Megasphaera elsdenii].
+ACCESSION   WP_036204675
+VERSION     WP_036204675.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera elsdenii
+  ORGANISM  Megasphaera elsdenii
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..56
+                     /organism="Megasphaera elsdenii"
+                     /db_xref="taxon:907"
+     Protein         1..56
+                     /product="multidrug DMT transporter permease"
+                     /calculated_mol_wt=6208
+     Region          1..>52
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 msfridsdlk qefetfcdaa gismtaaihl fikatvreqr ipfeikatgk ttesrt
+//
+
+LOCUS       WP_036204903              59 aa            linear   BCT 24-DEC-2014
+DEFINITION  multidrug DMT transporter permease [Megasphaera elsdenii].
+ACCESSION   WP_036204903
+VERSION     WP_036204903.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera elsdenii
+  ORGANISM  Megasphaera elsdenii
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..59
+                     /organism="Megasphaera elsdenii"
+                     /db_xref="taxon:907"
+     Protein         1..59
+                     /product="multidrug DMT transporter permease"
+                     /calculated_mol_wt=6587
+     Region          1..>57
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 maqtticiri ddklkkefek fcdsvgmsms tginifikks vgeqripfei taksdteke
+//
+
+LOCUS       WP_036242889              65 aa            linear   BCT 24-DEC-2014
+DEFINITION  toxin-antitoxin system antitoxin subunit [Megasphaera sp.
+            BV3C16-1].
+ACCESSION   WP_036242889
+VERSION     WP_036242889.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera sp. BV3C16-1
+  ORGANISM  Megasphaera sp. BV3C16-1
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..65
+                     /organism="Megasphaera sp. BV3C16-1"
+                     /db_xref="taxon:1111454"
+     Protein         1..65
+                     /product="toxin-antitoxin system antitoxin subunit"
+                     /calculated_mol_wt=7316
+     Region          2..>39
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mdedvrrgaa avferlglse eeavtlfykr tiaagrlpfg aagteskekv rrkrmnerfa
+       61 ewdar
+//
+
+LOCUS       WP_044502904              64 aa            linear   BCT 04-MAR-2015
+DEFINITION  toxin-antitoxin system antitoxin subunit [Megasphaera
+            massiliensis].
+ACCESSION   WP_044502904
+VERSION     WP_044502904.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera massiliensis
+  ORGANISM  Megasphaera massiliensis
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..64
+                     /organism="Megasphaera massiliensis"
+                     /db_xref="taxon:1232428"
+     Protein         1..64
+                     /product="toxin-antitoxin system antitoxin subunit"
+                     /calculated_mol_wt=7528
+     Region          2..>40
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mddvtrekar avfarlglte eqaielfykr tievgrmpfa aseektrkmk kkrmnerfae
+       61 wdaf
+//
+
+LOCUS       WP_044503099              98 aa            linear   BCT 04-MAR-2015
+DEFINITION  toxin-antitoxin system protein [Megasphaera massiliensis].
+ACCESSION   WP_044503099
+VERSION     WP_044503099.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera massiliensis
+  ORGANISM  Megasphaera massiliensis
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..98
+                     /organism="Megasphaera massiliensis"
+                     /db_xref="taxon:1232428"
+     Protein         1..98
+                     /product="toxin-antitoxin system protein"
+                     /calculated_mol_wt=10859
+     Region          1..93
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mkdstvsarv ennvkleaes ilqqlgipvs vvinalyrqi iyshgipfsl tlpeipqted
+       61 sltdselhak lqhsyeqsle gkgrpldevf ddlerglk
+//
+
+LOCUS       WP_044503101              91 aa            linear   BCT 04-MAR-2015
+DEFINITION  translation repressor RelB [Megasphaera massiliensis].
+ACCESSION   WP_044503101
+VERSION     WP_044503101.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera massiliensis
+  ORGANISM  Megasphaera massiliensis
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..91
+                     /organism="Megasphaera massiliensis"
+                     /db_xref="taxon:1232428"
+     Protein         1..91
+                     /product="translation repressor RelB"
+                     /calculated_mol_wt=10185
+     Region          1..87
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mtdltinvde klkkdaeavf nrlgmdlpsa itlflrtsvr cdglpfegri eafndetlaa
+       61 iaeaeelknh pekfkhydsv sdlmedlnkd d
+//
+
+LOCUS       WP_048514188              65 aa            linear   BCT 06-JUL-2015
+DEFINITION  toxin-antitoxin system antitoxin subunit [Megasphaera cerevisiae].
+ACCESSION   WP_048514188
+VERSION     WP_048514188.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera cerevisiae
+  ORGANISM  Megasphaera cerevisiae
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..65
+                     /organism="Megasphaera cerevisiae"
+                     /db_xref="taxon:39029"
+     Protein         1..65
+                     /product="toxin-antitoxin system antitoxin subunit"
+                     /calculated_mol_wt=7402
+     Region          2..>39
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mdeilrkqaa aifesmglte eeavtlfykr tvaagrmpfs aseeqgkakr kkkrmnerfa
+       61 ewdaf
+//
+
+LOCUS       WP_054336149              64 aa            linear   BCT 02-OCT-2015
+DEFINITION  toxin-antitoxin system antitoxin subunit [Megasphaera elsdenii].
+ACCESSION   WP_054336149
+VERSION     WP_054336149.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera elsdenii
+  ORGANISM  Megasphaera elsdenii
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..64
+                     /organism="Megasphaera elsdenii"
+                     /db_xref="taxon:907"
+     Protein         1..64
+                     /product="toxin-antitoxin system antitoxin subunit"
+                     /calculated_mol_wt=7298
+     Region          2..>40
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mdeetrkkaq aifeslglte eqaielfykr tiaagkmpfa aaegetkkik kkrmnerfae
+       61 wdaf
+//
+
+LOCUS       WP_054336920              59 aa            linear   BCT 02-OCT-2015
+DEFINITION  multidrug DMT transporter permease [Megasphaera elsdenii].
+ACCESSION   WP_054336920
+VERSION     WP_054336920.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera elsdenii
+  ORGANISM  Megasphaera elsdenii
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..59
+                     /organism="Megasphaera elsdenii"
+                     /db_xref="taxon:907"
+     Protein         1..59
+                     /product="multidrug DMT transporter permease"
+                     /calculated_mol_wt=6573
+     Region          1..>57
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 maqtticiri ddklkkdfek fcdsvgmsms tginifikks vgeqripfei taksdteke
+//
+
+LOCUS       WP_059076609              64 aa            linear   BCT 07-JAN-2016
+DEFINITION  toxin-antitoxin system antitoxin subunit [Megasphaera sp.
+            DJF_B143].
+ACCESSION   WP_059076609
+VERSION     WP_059076609.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera sp. DJF_B143
+  ORGANISM  Megasphaera sp. DJF_B143
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..64
+                     /organism="Megasphaera sp. DJF_B143"
+                     /db_xref="taxon:537288"
+     Protein         1..64
+                     /product="toxin-antitoxin system antitoxin subunit"
+                     /calculated_mol_wt=7328
+     Region          2..>39
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mdeevrqdar avfsrlglse eeavtlfykr tiaegrlpfg raqngaarvk kkrmnerfae
+       61 wdar
+//
+
+LOCUS       KXA65687                  89 aa            linear   BCT 14-APR-2016
+DEFINITION  addiction module antitoxin, RelB/DinJ family [Megasphaera sp.
+            MJR8396C].
+ACCESSION   KXA65687
+VERSION     KXA65687.1
+DBLINK      BioProject: PRJNA272093
+            BioSample: SAMN03854353
+DBSOURCE    accession LRVC01000124.1
+KEYWORDS    HIGH_QUALITY_DRAFT.
+SOURCE      Megasphaera sp. MJR8396C
+  ORGANISM  Megasphaera sp. MJR8396C
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+REFERENCE   1  (residues 1 to 89)
+  AUTHORS   Mitreva,M., Pepin,K.H., Mihindukulasuriya,K.A., Fulton,R.,
+            Fronick,C., O'Laughlin,M., Miner,T., Herter,B., Rosa,B.A.,
+            Cordes,M., Tomlinson,C., Wollam,A., Palsikar,V.B., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2016) McDonnell Genome Institute, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+COMMENT     Bacteria and source DNA were provide by Amanda Lewis, Ph.D.
+            (lewis@borcim.wustl.edu), Washington University School of Medicine,
+            Department of Molecular Microbiology and Obstetrics and Gynecology
+            - Center for Women's Infectious Disease Research, Campus Box 8230
+            660 S. Euclid Ave. St. Louis, MO 63110. Collection of this isolate
+            was part of the ###Polymicrobial Synergy Study,### which was funded
+            in part by the National Institutes of Health grant P50 DK064540-11.
+            
+            Coding sequences were predicted using GeneMark and Glimmer3.
+            Intergenic regions not spanned by GeneMark and Glimmer3 were
+            blasted against NCBI's non-redundant (NR) database and predictions
+            generated based on protein alignments. tRNA genes were determined
+            using tRNAscan-SE and non-coding RNA genes by RNAmmer and Rfam. The
+            final gene set is processed through several programs such as Kegg,
+            psortB and Interproscan to determine possible function. Gene
+            product names are determined by BER. Gene names are generated at
+            the contig level and may not necessarily reflect any known order or
+            orientation between contigs.
+            
+            This is a reference genomes for the Human Microbiome Project and
+            the work was funded by the National Institutes of Health (NIH)
+            grant U54 HG004968.
+            
+            ##Genome-Assembly-Data-START##
+            Finishing Goal           :: High-Quality Draft
+            Current Finishing Status :: High-Quality Draft
+            Assembly Method          :: Velvet v. 1.1.06
+            Genome Coverage          :: 101x
+            Sequencing Technology    :: Illumina
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..89
+                     /organism="Megasphaera sp. MJR8396C"
+                     /strain="MJR8396C"
+                     /isolation_source="Vagina"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:1603888"
+     Protein         1..89
+                     /product="addiction module antitoxin, RelB/DinJ family"
+     Region          4..87
+                     /region_name="RelB_DinJ"
+                     /note="addiction module antitoxin, RelB/DinJ family;
+                     TIGR02384"
+                     /db_xref="CDD:274102"
+     CDS             1..89
+                     /locus_tag="HMPREF3201_02463"
+                     /coded_by="complement(LRVC01000124.1:615..884)"
+                     /inference="protein motif:HMMPfam:IPR007337"
+                     /inference="protein motif:HMMTigr:IPR007337"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR007337"
+ORIGIN      
+        1 maetktlnlr vdadlkrqae tifadlgipt stainmflrt vvryggipfd lrispnelet
+       61 lraiddvnhh rnlsktydsv kdamealna
+//
+
+LOCUS       KXA68838                  64 aa            linear   BCT 14-APR-2016
+DEFINITION  toxin-antitoxin system, antitoxin component, ribbon-helix-helix
+            domain protein [Megasphaera sp. MJR8396C].
+ACCESSION   KXA68838
+VERSION     KXA68838.1
+DBLINK      BioProject: PRJNA272093
+            BioSample: SAMN03854353
+DBSOURCE    accession LRVC01000085.1
+KEYWORDS    HIGH_QUALITY_DRAFT.
+SOURCE      Megasphaera sp. MJR8396C
+  ORGANISM  Megasphaera sp. MJR8396C
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+REFERENCE   1  (residues 1 to 64)
+  AUTHORS   Mitreva,M., Pepin,K.H., Mihindukulasuriya,K.A., Fulton,R.,
+            Fronick,C., O'Laughlin,M., Miner,T., Herter,B., Rosa,B.A.,
+            Cordes,M., Tomlinson,C., Wollam,A., Palsikar,V.B., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2016) McDonnell Genome Institute, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+COMMENT     Bacteria and source DNA were provide by Amanda Lewis, Ph.D.
+            (lewis@borcim.wustl.edu), Washington University School of Medicine,
+            Department of Molecular Microbiology and Obstetrics and Gynecology
+            - Center for Women's Infectious Disease Research, Campus Box 8230
+            660 S. Euclid Ave. St. Louis, MO 63110. Collection of this isolate
+            was part of the ###Polymicrobial Synergy Study,### which was funded
+            in part by the National Institutes of Health grant P50 DK064540-11.
+            
+            Coding sequences were predicted using GeneMark and Glimmer3.
+            Intergenic regions not spanned by GeneMark and Glimmer3 were
+            blasted against NCBI's non-redundant (NR) database and predictions
+            generated based on protein alignments. tRNA genes were determined
+            using tRNAscan-SE and non-coding RNA genes by RNAmmer and Rfam. The
+            final gene set is processed through several programs such as Kegg,
+            psortB and Interproscan to determine possible function. Gene
+            product names are determined by BER. Gene names are generated at
+            the contig level and may not necessarily reflect any known order or
+            orientation between contigs.
+            
+            This is a reference genomes for the Human Microbiome Project and
+            the work was funded by the National Institutes of Health (NIH)
+            grant U54 HG004968.
+            
+            ##Genome-Assembly-Data-START##
+            Finishing Goal           :: High-Quality Draft
+            Current Finishing Status :: High-Quality Draft
+            Assembly Method          :: Velvet v. 1.1.06
+            Genome Coverage          :: 101x
+            Sequencing Technology    :: Illumina
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..64
+                     /organism="Megasphaera sp. MJR8396C"
+                     /strain="MJR8396C"
+                     /isolation_source="Vagina"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:1603888"
+     Protein         1..64
+                     /product="toxin-antitoxin system, antitoxin component,
+                     ribbon-helix-helix domain protein"
+     Region          2..>40
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+     CDS             1..64
+                     /locus_tag="HMPREF3201_01691"
+                     /coded_by="complement(LRVC01000085.1:39425..39619)"
+                     /inference="protein motif:HMMPfam:IPR007337"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR007337"
+ORIGIN      
+        1 mddvtrekar avfarlglte eqaielfykr tieagrmpfa aaeektrkik kkrmnerfae
+       61 wdaf
+//
+
+LOCUS       KXA70251                  91 aa            linear   BCT 14-APR-2016
+DEFINITION  addiction module antitoxin, RelB/DinJ family [Megasphaera sp.
+            MJR8396C].
+ACCESSION   KXA70251
+VERSION     KXA70251.1
+DBLINK      BioProject: PRJNA272093
+            BioSample: SAMN03854353
+DBSOURCE    accession LRVC01000004.1
+KEYWORDS    HIGH_QUALITY_DRAFT.
+SOURCE      Megasphaera sp. MJR8396C
+  ORGANISM  Megasphaera sp. MJR8396C
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+REFERENCE   1  (residues 1 to 91)
+  AUTHORS   Mitreva,M., Pepin,K.H., Mihindukulasuriya,K.A., Fulton,R.,
+            Fronick,C., O'Laughlin,M., Miner,T., Herter,B., Rosa,B.A.,
+            Cordes,M., Tomlinson,C., Wollam,A., Palsikar,V.B., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2016) McDonnell Genome Institute, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+COMMENT     Bacteria and source DNA were provide by Amanda Lewis, Ph.D.
+            (lewis@borcim.wustl.edu), Washington University School of Medicine,
+            Department of Molecular Microbiology and Obstetrics and Gynecology
+            - Center for Women's Infectious Disease Research, Campus Box 8230
+            660 S. Euclid Ave. St. Louis, MO 63110. Collection of this isolate
+            was part of the ###Polymicrobial Synergy Study,### which was funded
+            in part by the National Institutes of Health grant P50 DK064540-11.
+            
+            Coding sequences were predicted using GeneMark and Glimmer3.
+            Intergenic regions not spanned by GeneMark and Glimmer3 were
+            blasted against NCBI's non-redundant (NR) database and predictions
+            generated based on protein alignments. tRNA genes were determined
+            using tRNAscan-SE and non-coding RNA genes by RNAmmer and Rfam. The
+            final gene set is processed through several programs such as Kegg,
+            psortB and Interproscan to determine possible function. Gene
+            product names are determined by BER. Gene names are generated at
+            the contig level and may not necessarily reflect any known order or
+            orientation between contigs.
+            
+            This is a reference genomes for the Human Microbiome Project and
+            the work was funded by the National Institutes of Health (NIH)
+            grant U54 HG004968.
+            
+            ##Genome-Assembly-Data-START##
+            Finishing Goal           :: High-Quality Draft
+            Current Finishing Status :: High-Quality Draft
+            Assembly Method          :: Velvet v. 1.1.06
+            Genome Coverage          :: 101x
+            Sequencing Technology    :: Illumina
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..91
+                     /organism="Megasphaera sp. MJR8396C"
+                     /strain="MJR8396C"
+                     /isolation_source="Vagina"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:1603888"
+     Protein         1..91
+                     /product="addiction module antitoxin, RelB/DinJ family"
+     Region          6..87
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+     CDS             1..91
+                     /locus_tag="HMPREF3201_00210"
+                     /coded_by="LRVC01000004.1:7882..8157"
+                     /inference="protein motif:HMMPfam:IPR007337"
+                     /inference="protein motif:HMMTigr:IPR007337"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR007337"
+ORIGIN      
+        1 madftidvde klkkdaealf nrlgldlssa itmflktavr cdgipfegri eafndetlta
+       61 laeaeelknh pekfkhydsi sdlmadlnkd d
+//
+
+LOCUS       WP_009369831             124 aa            linear   BCT 01-JUN-2015
+DEFINITION  CopG family transcriptional regulator [Megasphaera genomosp.
+            type_1].
+ACCESSION   WP_009369831
+VERSION     WP_009369831.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera genomosp. type_1
+  ORGANISM  Megasphaera genomosp. type_1
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..124
+                     /organism="Megasphaera genomosp. type_1"
+                     /db_xref="taxon:699192"
+     Protein         1..124
+                     /product="CopG family transcriptional regulator"
+                     /calculated_mol_wt=14009
+     Region          1..>55
+                     /region_name="COG3905"
+                     /note="Predicted transcriptional regulator
+                     [Transcription]; cl22964"
+                     /db_xref="CDD:277679"
+     Region          <10..103
+                     /region_name="Oxidoreductase_nitrogenase"
+                     /note="The nitrogenase enzyme system catalyzes the
+                     ATP-dependent reduction of dinitrogen to ammonia. This
+                     group contains both alpha and beta subunits of component 1
+                     of the three known genetically distinct types of
+                     nitrogenase systems: a molybdenum-dependent...; cl02775"
+                     /db_xref="CDD:295466"
+ORIGIN      
+        1 mskqvtlrld eallkrleer aekekrskqq vievaiaayl dqqayiqail dgmravtytg
+       61 didanrawls rqgftgsddd irekarrdla svidisekel kdistfdllg vafakmshin
+      121 kfft
+//
+
+LOCUS       WP_020311632              98 aa            linear   BCT 03-JUL-2013
+DEFINITION  MULTISPECIES: hypothetical protein [Megasphaera].
+ACCESSION   WP_020311632
+VERSION     WP_020311632.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera
+  ORGANISM  Megasphaera
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..98
+                     /organism="Megasphaera"
+                     /db_xref="taxon:906"
+     Protein         1..98
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=11734
+     Region          16..85
+                     /region_name="Gp49"
+                     /note="Phage derived protein Gp49-like (DUF891);
+                     pfam05973"
+                     /db_xref="CDD:283596"
+ORIGIN      
+        1 mksksskdar iqynqilfyi dllakngtnl pvnitkhlee diwelrpgnn rvfyfyydes
+       61 qyvllhhfrk ksqktpnrei arakaerddy irqkeaeq
+//
+
+LOCUS       CDF05106                 101 aa            linear   ENV 31-MAY-2013
+DEFINITION  putative uncharacterized protein [Megasphaera elsdenii CAG:570].
+ACCESSION   CDF05106
+VERSION     CDF05106.1
+DBSOURCE    embl accession CBKE010000210.1
+KEYWORDS    ENV.
+SOURCE      Megasphaera elsdenii CAG:570
+  ORGANISM  Megasphaera elsdenii CAG:570
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..101
+                     /organism="Megasphaera elsdenii CAG:570"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1263087"
+                     /environmental_sample
+                     /note="contig 288"
+     Protein         1..101
+                     /product="putative uncharacterized protein"
+     Region          19..>76
+                     /region_name="Gp49"
+                     /note="Phage derived protein Gp49-like (DUF891);
+                     pfam05973"
+                     /db_xref="CDD:283596"
+     CDS             1..101
+                     /locus_tag="BN715_01395"
+                     /coded_by="CBKE010000210.1:184..489"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mqfelvfyet gdgqkpvedf llgldmkmra kmihmmeile dkgvelrepy tkplgdgife
+       61 lrckqannit ralfffilve klllpmvllk rhlklrarkf v
+//
+
+LOCUS       WP_027895155             118 aa            linear   BCT 12-JUN-2014
+DEFINITION  toxin RelE [Megasphaera elsdenii].
+ACCESSION   WP_027895155
+VERSION     WP_027895155.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera elsdenii
+  ORGANISM  Megasphaera elsdenii
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..118
+                     /organism="Megasphaera elsdenii"
+                     /db_xref="taxon:907"
+     Protein         1..118
+                     /product="toxin RelE"
+                     /calculated_mol_wt=13816
+     Region          19..106
+                     /region_name="Gp49"
+                     /note="Phage derived protein Gp49-like (DUF891);
+                     pfam05973"
+                     /db_xref="CDD:283596"
+ORIGIN      
+        1 mefelifyet sdgqkpvedf llgldvkmra kmvqmmelle dkgfelrepy tkslgdgife
+       61 lrckqasnit ralfffyigg kiiitngftk ktkktppkei yiaqerrtdy irrmeelk
+//
+
+LOCUS       WP_039891655             122 aa            linear   BCT 17-JAN-2015
+DEFINITION  phage derived protein Gp49-like [Megasphaera sp. UPII 199-6].
+ACCESSION   WP_039891655
+VERSION     WP_039891655.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera sp. UPII 199-6
+  ORGANISM  Megasphaera sp. UPII 199-6
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..122
+                     /organism="Megasphaera sp. UPII 199-6"
+                     /db_xref="taxon:1000568"
+     Protein         1..122
+                     /product="phage derived protein Gp49-like"
+                     /calculated_mol_wt=14732
+     Region          40..109
+                     /region_name="Gp49"
+                     /note="Phage derived protein Gp49-like (DUF891);
+                     pfam05973"
+                     /db_xref="CDD:283596"
+ORIGIN      
+        1 mykiefyenq hgesevwdfl ealrvkskss kdariqynqi ifyidllakn gtnlpvnitk
+       61 hleediwelr pgnnrvfyfy ydesqyvllh hfrkksqktp kreiarakae rddyirqkea
+      121 kq
+//
+
+LOCUS       WP_048515624             121 aa            linear   BCT 06-JUL-2015
+DEFINITION  phage derived protein Gp49-like [Megasphaera cerevisiae].
+ACCESSION   WP_048515624
+VERSION     WP_048515624.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera cerevisiae
+  ORGANISM  Megasphaera cerevisiae
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..121
+                     /organism="Megasphaera cerevisiae"
+                     /db_xref="taxon:39029"
+     Protein         1..121
+                     /product="phage derived protein Gp49-like"
+                     /calculated_mol_wt=14646
+     Region          18..110
+                     /region_name="Gp49"
+                     /note="Phage derived protein Gp49-like (DUF891);
+                     pfam05973"
+                     /db_xref="CDD:283596"
+ORIGIN      
+        1 mykiefyenq hsesevwdfl ealrvkskns kdarvqynqi ifyidllaqn gtnlpvnitk
+       61 hleediwelr pgnnrvfyfy ydesqyvllh hfrkksqktp kreirakaer ddyirqkeaa
+      121 q
+//
+
+LOCUS       WP_059075752             122 aa            linear   BCT 07-JAN-2016
+DEFINITION  hypothetical protein [Megasphaera sp. DJF_B143].
+ACCESSION   WP_059075752
+VERSION     WP_059075752.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera sp. DJF_B143
+  ORGANISM  Megasphaera sp. DJF_B143
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..122
+                     /organism="Megasphaera sp. DJF_B143"
+                     /db_xref="taxon:537288"
+     Protein         1..122
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=14842
+     Region          18..109
+                     /region_name="Gp49"
+                     /note="Phage derived protein Gp49-like (DUF891);
+                     pfam05973"
+                     /db_xref="CDD:283596"
+ORIGIN      
+        1 mykiefyenk rgesevwdfl ealreksqss kdariqynqi ifyidllakn gtnlpvnitk
+       61 hleediwelr pgnnrvfyfy ydesqyvllh hfrkksqktp kreitrakae rddyirqket
+      121 eq
+//
+
+LOCUS       KXA69780                  65 aa            linear   BCT 14-APR-2016
+DEFINITION  toxin-antitoxin system, toxin component, RelE domain protein
+            [Megasphaera sp. MJR8396C].
+ACCESSION   KXA69780
+VERSION     KXA69780.1
+DBLINK      BioProject: PRJNA272093
+            BioSample: SAMN03854353
+DBSOURCE    accession LRVC01000021.1
+KEYWORDS    HIGH_QUALITY_DRAFT.
+SOURCE      Megasphaera sp. MJR8396C
+  ORGANISM  Megasphaera sp. MJR8396C
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+REFERENCE   1  (residues 1 to 65)
+  AUTHORS   Mitreva,M., Pepin,K.H., Mihindukulasuriya,K.A., Fulton,R.,
+            Fronick,C., O'Laughlin,M., Miner,T., Herter,B., Rosa,B.A.,
+            Cordes,M., Tomlinson,C., Wollam,A., Palsikar,V.B., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2016) McDonnell Genome Institute, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+COMMENT     Bacteria and source DNA were provide by Amanda Lewis, Ph.D.
+            (lewis@borcim.wustl.edu), Washington University School of Medicine,
+            Department of Molecular Microbiology and Obstetrics and Gynecology
+            - Center for Women's Infectious Disease Research, Campus Box 8230
+            660 S. Euclid Ave. St. Louis, MO 63110. Collection of this isolate
+            was part of the ###Polymicrobial Synergy Study,### which was funded
+            in part by the National Institutes of Health grant P50 DK064540-11.
+            
+            Coding sequences were predicted using GeneMark and Glimmer3.
+            Intergenic regions not spanned by GeneMark and Glimmer3 were
+            blasted against NCBI's non-redundant (NR) database and predictions
+            generated based on protein alignments. tRNA genes were determined
+            using tRNAscan-SE and non-coding RNA genes by RNAmmer and Rfam. The
+            final gene set is processed through several programs such as Kegg,
+            psortB and Interproscan to determine possible function. Gene
+            product names are determined by BER. Gene names are generated at
+            the contig level and may not necessarily reflect any known order or
+            orientation between contigs.
+            
+            This is a reference genomes for the Human Microbiome Project and
+            the work was funded by the National Institutes of Health (NIH)
+            grant U54 HG004968.
+            
+            ##Genome-Assembly-Data-START##
+            Finishing Goal           :: High-Quality Draft
+            Current Finishing Status :: High-Quality Draft
+            Assembly Method          :: Velvet v. 1.1.06
+            Genome Coverage          :: 101x
+            Sequencing Technology    :: Illumina
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..65
+                     /organism="Megasphaera sp. MJR8396C"
+                     /strain="MJR8396C"
+                     /isolation_source="Vagina"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:1603888"
+     Protein         1..65
+                     /product="toxin-antitoxin system, toxin component, RelE
+                     domain protein"
+     Region          <1..53
+                     /region_name="Gp49"
+                     /note="Phage derived protein Gp49-like (DUF891);
+                     pfam05973"
+                     /db_xref="CDD:283596"
+     CDS             1..65
+                     /locus_tag="HMPREF3201_00691"
+                     /coded_by="LRVC01000021.1:3744..3941"
+                     /inference="protein motif:HMMPfam:IPR009241"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR009241"
+ORIGIN      
+        1 medgifelrc kqannitral fffyirgqiv vtngftkktq ktpqkeivla kkrrtdyirr
+       61 meglt
+//
+
+LOCUS       WP_014016479              60 aa            linear   BCT 08-JAN-2016
+DEFINITION  MULTISPECIES: toxin HicA [Megasphaera].
+ACCESSION   WP_014016479
+VERSION     WP_014016479.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera
+  ORGANISM  Megasphaera
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..60
+                     /organism="Megasphaera"
+                     /db_xref="taxon:906"
+     Protein         1..60
+                     /product="toxin HicA"
+                     /calculated_mol_wt=6645
+     Region          4..58
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; pfam07927"
+                     /db_xref="CDD:285205"
+ORIGIN      
+        1 mkrsellkil kkngckligh ggnhdlyysp itgkqfpvwr hnkdipsgti kaifkqagiq
+//
+
+LOCUS       WP_027895067              60 aa            linear   BCT 19-MAY-2016
+DEFINITION  addiction module toxin, HicA family [Megasphaera elsdenii].
+ACCESSION   WP_027895067
+VERSION     WP_027895067.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera elsdenii
+  ORGANISM  Megasphaera elsdenii
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..60
+                     /organism="Megasphaera elsdenii"
+                     /db_xref="taxon:907"
+     Protein         1..60
+                     /product="addiction module toxin, HicA family"
+                     /calculated_mol_wt=6673
+     Region          4..58
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; pfam07927"
+                     /db_xref="CDD:285205"
+ORIGIN      
+        1 mkrsellkil kkngckligh ggnhdlyysp itgkqfpvwr hnkdipsgti kaifrqagiq
+//
+
+LOCUS       WP_007390613              91 aa            linear   BCT 04-JUN-2013
+DEFINITION  addiction module toxin, RelE/StbE family [Megasphaera sp. UPII
+            199-6].
+ACCESSION   WP_007390613
+VERSION     WP_007390613.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera sp. UPII 199-6
+  ORGANISM  Megasphaera sp. UPII 199-6
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..91
+                     /organism="Megasphaera sp. UPII 199-6"
+                     /db_xref="taxon:1000568"
+     Protein         1..91
+                     /product="addiction module toxin, RelE/StbE family"
+                     /calculated_mol_wt=10616
+     Region          1..91
+                     /region_name="YafQ"
+                     /note="mRNA-degrading endonuclease (mRNA interferase)
+                     YafQ, toxin component of the YafQ-DinJ toxin-antitoxin
+                     module [Translation, ribosomal structure and biogenesis];
+                     COG3041"
+                     /db_xref="CDD:225583"
+ORIGIN      
+        1 mlkirfrkqf rkdykrvikq pghtpelfqe vldclvmeql lpakyrdhal sgncagfrec
+       61 hilpdwlliy kvetdiltlt ltrtgshsdl f
+//
+
+LOCUS       WP_014016635              84 aa            linear   BCT 18-MAY-2013
+DEFINITION  toxin-antitoxin system [Megasphaera elsdenii].
+ACCESSION   WP_014016635
+VERSION     WP_014016635.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera elsdenii
+  ORGANISM  Megasphaera elsdenii
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..84
+                     /organism="Megasphaera elsdenii"
+                     /db_xref="taxon:907"
+     Protein         1..84
+                     /product="toxin-antitoxin system"
+                     /calculated_mol_wt=10458
+     Region          6..83
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 mykieytref qkdymklkqy psmvrklkkl inglyenpfy haeklepkwk nryslriniq
+       61 hrlvynvnid eqkikllscw thye
+//
+
+LOCUS       WP_048514390              91 aa            linear   BCT 06-JUL-2015
+DEFINITION  RelE/StbE family addiction module toxin [Megasphaera cerevisiae].
+ACCESSION   WP_048514390
+VERSION     WP_048514390.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera cerevisiae
+  ORGANISM  Megasphaera cerevisiae
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..91
+                     /organism="Megasphaera cerevisiae"
+                     /db_xref="taxon:39029"
+     Protein         1..91
+                     /product="RelE/StbE family addiction module toxin"
+                     /calculated_mol_wt=10621
+     Region          3..91
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 mkyevkfttq fkkdlklakk qnkdidvlfs vieqlaqgkq ldekyrdhdl ggtykgcrec
+       61 hidpdwllvy etkddvlvll lyrlgshsql f
+//
+
+LOCUS       KXA65686                  91 aa            linear   BCT 14-APR-2016
+DEFINITION  addiction module toxin, RelE/StbE family [Megasphaera sp.
+            MJR8396C].
+ACCESSION   KXA65686
+VERSION     KXA65686.1
+DBLINK      BioProject: PRJNA272093
+            BioSample: SAMN03854353
+DBSOURCE    accession LRVC01000124.1
+KEYWORDS    HIGH_QUALITY_DRAFT.
+SOURCE      Megasphaera sp. MJR8396C
+  ORGANISM  Megasphaera sp. MJR8396C
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+REFERENCE   1  (residues 1 to 91)
+  AUTHORS   Mitreva,M., Pepin,K.H., Mihindukulasuriya,K.A., Fulton,R.,
+            Fronick,C., O'Laughlin,M., Miner,T., Herter,B., Rosa,B.A.,
+            Cordes,M., Tomlinson,C., Wollam,A., Palsikar,V.B., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2016) McDonnell Genome Institute, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+COMMENT     Bacteria and source DNA were provide by Amanda Lewis, Ph.D.
+            (lewis@borcim.wustl.edu), Washington University School of Medicine,
+            Department of Molecular Microbiology and Obstetrics and Gynecology
+            - Center for Women's Infectious Disease Research, Campus Box 8230
+            660 S. Euclid Ave. St. Louis, MO 63110. Collection of this isolate
+            was part of the ###Polymicrobial Synergy Study,### which was funded
+            in part by the National Institutes of Health grant P50 DK064540-11.
+            
+            Coding sequences were predicted using GeneMark and Glimmer3.
+            Intergenic regions not spanned by GeneMark and Glimmer3 were
+            blasted against NCBI's non-redundant (NR) database and predictions
+            generated based on protein alignments. tRNA genes were determined
+            using tRNAscan-SE and non-coding RNA genes by RNAmmer and Rfam. The
+            final gene set is processed through several programs such as Kegg,
+            psortB and Interproscan to determine possible function. Gene
+            product names are determined by BER. Gene names are generated at
+            the contig level and may not necessarily reflect any known order or
+            orientation between contigs.
+            
+            This is a reference genomes for the Human Microbiome Project and
+            the work was funded by the National Institutes of Health (NIH)
+            grant U54 HG004968.
+            
+            ##Genome-Assembly-Data-START##
+            Finishing Goal           :: High-Quality Draft
+            Current Finishing Status :: High-Quality Draft
+            Assembly Method          :: Velvet v. 1.1.06
+            Genome Coverage          :: 101x
+            Sequencing Technology    :: Illumina
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..91
+                     /organism="Megasphaera sp. MJR8396C"
+                     /strain="MJR8396C"
+                     /isolation_source="Vagina"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:1603888"
+     Protein         1..91
+                     /product="addiction module toxin, RelE/StbE family"
+     Region          1..91
+                     /region_name="YafQ"
+                     /note="mRNA-degrading endonuclease (mRNA interferase)
+                     YafQ, toxin component of the YafQ-DinJ toxin-antitoxin
+                     module [Translation, ribosomal structure and biogenesis];
+                     COG3041"
+                     /db_xref="CDD:225583"
+     CDS             1..91
+                     /locus_tag="HMPREF3201_02462"
+                     /coded_by="complement(LRVC01000124.1:347..622)"
+                     /inference="protein motif:HMMPfam:IPR007712"
+                     /inference="protein motif:HMMTigr:IPR004386"
+                     /inference="protein motif:HMMTigr:IPR007712"
+                     /note="Psort location: Cytoplasmic, score: 8.96"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR004386"
+                     /db_xref="InterPro:IPR007712"
+ORIGIN      
+        1 mlkirfrkqf rkdykrvlkq pghtpellqe vldylvqeqp lpekyrdhal sgnyadfrec
+       61 hilpdwlliy kveedililt ltrtgshsel f
+//
+
+LOCUS       WP_006941388             106 aa            linear   BCT 27-MAY-2013
+DEFINITION  hypothetical protein [Megasphaera micronuciformis].
+ACCESSION   WP_006941388
+VERSION     WP_006941388.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera micronuciformis
+  ORGANISM  Megasphaera micronuciformis
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..106
+                     /organism="Megasphaera micronuciformis"
+                     /db_xref="taxon:187326"
+     Protein         1..106
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=12351
+     Region          4..100
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; cl00995"
+                     /db_xref="CDD:294640"
+ORIGIN      
+        1 mnnweiwwan vkfedceqve crpvlvvdqr isyilsfkit shsarkryfg eyeivqwqaa
+       61 glekpsvvrl skrlelqesd fvgrmgslsd sdimairsll sfynie
+//
+
+LOCUS       WP_020310035             249 aa            linear   BCT 06-JUN-2015
+DEFINITION  MULTISPECIES: mRNA interferase PemK [Megasphaera].
+ACCESSION   WP_020310035
+VERSION     WP_020310035.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera
+  ORGANISM  Megasphaera
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..249
+                     /organism="Megasphaera"
+                     /db_xref="taxon:906"
+     Protein         1..249
+                     /product="mRNA interferase PemK"
+                     /calculated_mol_wt=28629
+     Region          69..245
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 mdlkdiqnkq sldikvqnll sdfqqlftnl ssgedtykka allyywlrdy knyiknettf
+       61 npkyypdfkr gnivnlnlgf nlgselgglh ygivlqnsnr rnpnlvivpl sslknskdls
+      121 klhpseaylg eelyfkiqak feslkisipt einllkeavd hinseenkke ffsklddlnq
+      181 keqlllktkk klsvlkhgsi avvnqirtvs kmrvldptdk ydilfglkls ndglnridkk
+      241 iielftnqp
+//
+
+LOCUS       ERT59661                 289 aa            linear   BCT 23-OCT-2013
+DEFINITION  PemK-like protein [Megasphaera sp. BV3C16-1].
+ACCESSION   ERT59661
+VERSION     ERT59661.1
+DBLINK      BioProject: PRJNA89631
+            BioSample: SAMN02436562
+DBSOURCE    accession AWXA01000034.1
+KEYWORDS    HIGH_QUALITY_DRAFT.
+SOURCE      Megasphaera sp. BV3C16-1
+  ORGANISM  Megasphaera sp. BV3C16-1
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+REFERENCE   1  (residues 1 to 289)
+  AUTHORS   Durkin,A.S., Haft,D.R., McCorrison,J., Torralba,M., Gillis,M.,
+            Haft,D.H., Methe,B., Sutton,G. and Nelson,K.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-SEP-2013) The J. Craig Venter Institute, 9704 Medical
+            Center Dr., Rockville, MD 20850, USA
+COMMENT     This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            
+            ##Genome-Assembly-Data-START##
+            Finishing Goal           :: High-Quality Draft
+            Current Finishing Status :: High-Quality Draft
+            Assembly Method          :: Newbler v. 2.6
+            Assembly Name            :: MspBV3C16-1v1.0
+            Genome Coverage          :: 26x
+            Sequencing Technology    :: 454
+            ##Genome-Assembly-Data-END##
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..289
+                     /organism="Megasphaera sp. BV3C16-1"
+                     /strain="BV3C16-1"
+                     /db_xref="HMP:1250"
+                     /db_xref="taxon:1111454"
+     Protein         1..289
+                     /product="PemK-like protein"
+     Region          74..163
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+     CDS             1..289
+                     /locus_tag="HMPREF1250_0781"
+                     /coded_by="complement(AWXA01000034.1:47997..48866)"
+                     /transl_table=11
+ORIGIN      
+        1 mklffmgdnn ktrkktdlkn iqnkpillan iatlscnqrq ylavlyygls eqlsklknek
+       61 kfhqmnnqrf islkrgsiik idfglplgse fgglhyaivl hssntfnplv svlpiksykd
+      121 nnyyktdilf ddeiyqairs hllvaksirr hriktfktll rdhnkriesl ftqaakegfs
+      181 lkkdsfdllg aifhgsatlk talqesrnip ddelkkmqdr ilrnmnnvkv iageskkfkk
+      241 qsigitsqir tlskirikfp lnrfdplyni rvdsktldki sqalhnyyl
+//
+
+LOCUS       WP_044503791              84 aa            linear   BCT 04-MAR-2015
+DEFINITION  hypothetical protein [Megasphaera massiliensis].
+ACCESSION   WP_044503791
+VERSION     WP_044503791.1
+KEYWORDS    RefSeq.
+SOURCE      Megasphaera massiliensis
+  ORGANISM  Megasphaera massiliensis
+            Bacteria; Firmicutes; Negativicutes; Veillonellales;
+            Veillonellaceae; Megasphaera.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..84
+                     /organism="Megasphaera massiliensis"
+                     /db_xref="taxon:1232428"
+     Protein         1..84
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=10367
+     Region          6..83
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 mykieytref qkdfmkvrqy pamvkklrkl iddlyvdpfh haeklnpksq nryskriniq
+       61 hrlvykvyie tqtikllscw thye
+//
+

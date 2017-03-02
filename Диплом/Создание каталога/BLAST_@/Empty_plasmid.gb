@@ -1,0 +1,208 @@
+LOCUS       MAP_000031            237410 bp    DNA     circular BCT 30-SEP-2014
+DEFINITION  Klebsiella pneumoniae subsp. pneumoniae KPNIH1 plasmid pKPN-498
+            AflII whole genome map.
+ACCESSION   MAP_000031
+VERSION     MAP_000031.1
+DBLINK      BioProject: PRJNA73191
+            BioSample: SAMN01057611
+KEYWORDS    Whole_Genome_Map.
+SOURCE      Klebsiella pneumoniae subsp. pneumoniae KPNIH1
+  ORGANISM  Klebsiella pneumoniae subsp. pneumoniae KPNIH1
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Klebsiella.
+REFERENCE   1  (bases 1 to 237410)
+  AUTHORS   Conlan,S., Thomas,P.J., Deming,C., Park,M., Lau,A.F., Dekker,J.P.,
+            Snitkin,E.S., Clark,T.A., Luong,K., Song,Y., Tsai,Y.C., Boitano,M.,
+            Dayal,J., Brooks,S.Y., Schmidt,B., Young,A.C., Thomas,J.W.,
+            Bouffard,G.G., Blakesley,R.W., Mullikin,J.C., Korlach,J.,
+            Henderson,D.K., Frank,K.M., Palmore,T.N. and Segre,J.A.
+  CONSRTM   NISC Comparative Sequencing Program
+  TITLE     Single-molecule sequencing to track plasmid diversity of
+            hospital-associated carbapenemase-producing Enterobacteriaceae
+  JOURNAL   Sci Transl Med 6 (254), 254RA126 (2014)
+   PUBMED   25232178
+REFERENCE   2  (bases 1 to 237410)
+  AUTHORS   Segre,J.A. and Mullikin,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-SEP-2014) NIH Intramural Sequencing Center, 5625
+            Fishers Lane, Rockville, MD 20852, USA
+COMMENT     This map has 26 pieces:
+            *     6011   12135: fragment of 6125 bp in length
+            *    12136   16113: fragment of 3978 bp in length
+            *    16114   19886: fragment of 3773 bp in length
+            *    19887   22645: fragment of 2759 bp in length
+            *    22646   28725: fragment of 6080 bp in length
+            *    28726   32640: fragment of 3915 bp in length
+            *    32641   70591: fragment of 37951 bp in length
+            *    70592   74717: fragment of 4126 bp in length
+            *    74718  100611: fragment of 25894 bp in length
+            *   100612  104021: fragment of 3410 bp in length
+            *   104022  108162: fragment of 4141 bp in length
+            *   108163  122228: fragment of 14066 bp in length
+            *   122229  128466: fragment of 6238 bp in length
+            *   128467  132440: fragment of 3974 bp in length
+            *   132441  143680: fragment of 11240 bp in length
+            *   143681  149175: fragment of 5495 bp in length
+            *   149176  164036: fragment of 14861 bp in length
+            *   164037  187341: fragment of 23305 bp in length
+            *   187342  193326: fragment of 5985 bp in length
+            *   193327  200418: fragment of 7092 bp in length
+            *   200419  202417: fragment of 1999 bp in length
+            *   202418  208353: fragment of 5936 bp in length
+            *   208354  218134: fragment of 9781 bp in length
+            *   218135  227116: fragment of 8982 bp in length
+            *   227117  237410: fragment of 10294 bp in length
+            *   237411    6010: fragment of 6010 bp in length
+FEATURES             Location/Qualifiers
+     source          1..237410
+                     /organism="Klebsiella pneumoniae subsp. pneumoniae KPNIH1"
+                     /mol_type="genomic DNA"
+                     /strain="KPNIH1"
+                     /sub_species="pneumoniae"
+                     /db_xref="taxon:1087440"
+                     /plasmid="pKPN-498"
+//
+
+LOCUS       MAP_000032            224775 bp    DNA     circular BCT 30-SEP-2014
+DEFINITION  Klebsiella pneumoniae subsp. pneumoniae KPNIH10 plasmid pKPN-498
+            AflII whole genome map.
+ACCESSION   MAP_000032
+VERSION     MAP_000032.1
+DBLINK      BioProject: PRJNA73843
+            BioSample: SAMN01057614
+KEYWORDS    Whole_Genome_Map.
+SOURCE      Klebsiella pneumoniae subsp. pneumoniae KPNIH10
+  ORGANISM  Klebsiella pneumoniae subsp. pneumoniae KPNIH10
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Klebsiella.
+REFERENCE   1  (bases 1 to 224775)
+  AUTHORS   Conlan,S., Thomas,P.J., Deming,C., Park,M., Lau,A.F., Dekker,J.P.,
+            Snitkin,E.S., Clark,T.A., Luong,K., Song,Y., Tsai,Y.C., Boitano,M.,
+            Dayal,J., Brooks,S.Y., Schmidt,B., Young,A.C., Thomas,J.W.,
+            Bouffard,G.G., Blakesley,R.W., Mullikin,J.C., Korlach,J.,
+            Henderson,D.K., Frank,K.M., Palmore,T.N. and Segre,J.A.
+  CONSRTM   NISC Comparative Sequencing Program
+  TITLE     Single-molecule sequencing to track plasmid diversity of
+            hospital-associated carbapenemase-producing Enterobacteriaceae
+  JOURNAL   Sci Transl Med 6 (254), 254RA126 (2014)
+   PUBMED   25232178
+REFERENCE   2  (bases 1 to 224775)
+  AUTHORS   Segre,J.A. and Mullikin,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-SEP-2014) NIH Intramural Sequencing Center, 5625
+            Fishers Lane, Rockville, MD 20852, USA
+COMMENT     This map has 27 pieces:
+            *     5804   28116: fragment of 22313 bp in length
+            *    28117   41617: fragment of 13501 bp in length
+            *    41618   46821: fragment of 5204 bp in length
+            *    46822   57387: fragment of 10566 bp in length
+            *    57388   61560: fragment of 4173 bp in length
+            *    61561   67437: fragment of 5877 bp in length
+            *    67438   80611: fragment of 13174 bp in length
+            *    80612   84939: fragment of 4328 bp in length
+            *    84940   87750: fragment of 2811 bp in length
+            *    87751  111619: fragment of 23869 bp in length
+            *   111620  115611: fragment of 3992 bp in length
+            *   115612  152248: fragment of 36637 bp in length
+            *   152249  155751: fragment of 3503 bp in length
+            *   155752  160490: fragment of 4739 bp in length
+            *   160491  162599: fragment of 2109 bp in length
+            *   162600  166024: fragment of 3425 bp in length
+            *   166025  170196: fragment of 4172 bp in length
+            *   170197  173266: fragment of 3070 bp in length
+            *   173267  179245: fragment of 5979 bp in length
+            *   179246  184672: fragment of 5427 bp in length
+            *   184673  194203: fragment of 9531 bp in length
+            *   194204  202138: fragment of 7935 bp in length
+            *   202139  211105: fragment of 8967 bp in length
+            *   211106  216296: fragment of 5191 bp in length
+            *   216297  217968: fragment of 1672 bp in length
+            *   217969  224775: fragment of 6807 bp in length
+            *   224776    5803: fragment of 5803 bp in length
+FEATURES             Location/Qualifiers
+     source          1..224775
+                     /organism="Klebsiella pneumoniae subsp. pneumoniae
+                     KPNIH10"
+                     /mol_type="genomic DNA"
+                     /strain="KPNIH10"
+                     /sub_species="pneumoniae"
+                     /db_xref="taxon:1094170"
+                     /plasmid="pKPN-498"
+//
+
+LOCUS       MAP_000033            321667 bp    DNA     circular BCT 30-SEP-2014
+DEFINITION  Klebsiella pneumoniae subsp. pneumoniae KPNIH27 plasmid pKPN-262
+            AflII whole genome map.
+ACCESSION   MAP_000033
+VERSION     MAP_000033.1
+DBLINK      BioProject: PRJNA198783
+            BioSample: SAMN02713685
+KEYWORDS    Whole_Genome_Map.
+SOURCE      Klebsiella pneumoniae subsp. pneumoniae KPNIH27
+  ORGANISM  Klebsiella pneumoniae subsp. pneumoniae KPNIH27
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Klebsiella.
+REFERENCE   1  (bases 1 to 321667)
+  AUTHORS   Conlan,S., Thomas,P.J., Deming,C., Park,M., Lau,A.F., Dekker,J.P.,
+            Snitkin,E.S., Clark,T.A., Luong,K., Song,Y., Tsai,Y.C., Boitano,M.,
+            Dayal,J., Brooks,S.Y., Schmidt,B., Young,A.C., Thomas,J.W.,
+            Bouffard,G.G., Blakesley,R.W., Mullikin,J.C., Korlach,J.,
+            Henderson,D.K., Frank,K.M., Palmore,T.N. and Segre,J.A.
+  CONSRTM   NISC Comparative Sequencing Program
+  TITLE     Single-molecule sequencing to track plasmid diversity of
+            hospital-associated carbapenemase-producing Enterobacteriaceae
+  JOURNAL   Sci Transl Med 6 (254), 254RA126 (2014)
+   PUBMED   25232178
+REFERENCE   2  (bases 1 to 321667)
+  AUTHORS   Segre,J.A. and Mullikin,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-SEP-2014) NIH Intramural Sequencing Center, 5625
+            Fishers Lane, Rockville, MD 20852, USA
+COMMENT     This map has 36 pieces:
+            *     3075    6069: fragment of 2995 bp in length
+            *     6070   21323: fragment of 15254 bp in length
+            *    21324   22823: fragment of 1500 bp in length
+            *    22824   29940: fragment of 7117 bp in length
+            *    29941   44136: fragment of 14196 bp in length
+            *    44137   46029: fragment of 1893 bp in length
+            *    46030   78301: fragment of 32272 bp in length
+            *    78302   86744: fragment of 8443 bp in length
+            *    86745   96773: fragment of 10029 bp in length
+            *    96774  106717: fragment of 9944 bp in length
+            *   106718  109480: fragment of 2763 bp in length
+            *   109481  131128: fragment of 21648 bp in length
+            *   131129  133073: fragment of 1945 bp in length
+            *   133074  137210: fragment of 4137 bp in length
+            *   137211  139294: fragment of 2084 bp in length
+            *   139295  146038: fragment of 6744 bp in length
+            *   146039  151850: fragment of 5812 bp in length
+            *   151851  157357: fragment of 5507 bp in length
+            *   157358  161159: fragment of 3802 bp in length
+            *   161160  174223: fragment of 13064 bp in length
+            *   174224  175902: fragment of 1679 bp in length
+            *   175903  192986: fragment of 17084 bp in length
+            *   192987  195320: fragment of 2334 bp in length
+            *   195321  198870: fragment of 3550 bp in length
+            *   198871  201938: fragment of 3068 bp in length
+            *   201939  210991: fragment of 9053 bp in length
+            *   210992  221334: fragment of 10343 bp in length
+            *   221335  234927: fragment of 13593 bp in length
+            *   234928  245779: fragment of 10852 bp in length
+            *   245780  266995: fragment of 21216 bp in length
+            *   266996  276350: fragment of 9355 bp in length
+            *   276351  279485: fragment of 3135 bp in length
+            *   279486  280898: fragment of 1413 bp in length
+            *   280899  283891: fragment of 2993 bp in length
+            *   283892  321667: fragment of 37776 bp in length
+            *   321668    3074: fragment of 3074 bp in length
+FEATURES             Location/Qualifiers
+     source          1..321667
+                     /organism="Klebsiella pneumoniae subsp. pneumoniae
+                     KPNIH27"
+                     /mol_type="genomic DNA"
+                     /strain="KPNIH27"
+                     /sub_species="pneumoniae"
+                     /db_xref="taxon:1328324"
+                     /plasmid="pKPN-262"
+//
+

@@ -1,0 +1,1051 @@
+LOCUS       WP_012938051             121 aa            linear   BCT 26-MAY-2013
+DEFINITION  antitoxin HicB [Acidaminococcus fermentans].
+ACCESSION   WP_012938051
+VERSION     WP_012938051.1
+KEYWORDS    RefSeq.
+SOURCE      Acidaminococcus fermentans
+  ORGANISM  Acidaminococcus fermentans
+            Bacteria; Firmicutes; Negativicutes; Acidaminococcales;
+            Acidaminococcaceae; Acidaminococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..121
+                     /organism="Acidaminococcus fermentans"
+                     /db_xref="taxon:905"
+     Protein         1..121
+                     /product="antitoxin HicB"
+                     /calculated_mol_wt=13292
+     Region          18..77
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+     Region          <76..111
+                     /region_name="HicB"
+                     /note="HicB family; cl23837"
+                     /db_xref="CDD:304994"
+ORIGIN      
+        1 mntiwlfpyr leilpdpdeg gyvarypdlp gcitvgcsme eaaknaedae dakkewltaa
+       61 lesgveiaep aspngysgqf klripkslhr rlaehskeeg gsmnqycvyl lsrndalesa
+      121 e
+//
+
+LOCUS       CDE94399                 115 aa            linear   ENV 31-MAY-2013
+DEFINITION  toxin-antitoxin system antitoxin component HicB family
+            [Acidaminococcus sp. CAG:542].
+ACCESSION   CDE94399
+VERSION     CDE94399.1
+DBSOURCE    embl accession CBJX010000161.1
+KEYWORDS    ENV.
+SOURCE      Acidaminococcus sp. CAG:542
+  ORGANISM  Acidaminococcus sp. CAG:542
+            Bacteria; Firmicutes; Negativicutes; Acidaminococcales;
+            Acidaminococcaceae; Acidaminococcus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..115
+                     /organism="Acidaminococcus sp. CAG:542"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262687"
+                     /environmental_sample
+                     /note="contig 243"
+     Protein         1..115
+                     /product="toxin-antitoxin system antitoxin component HicB
+                     family"
+     Region          <34..106
+                     /region_name="HicB"
+                     /note="HicB family; cl23837"
+                     /db_xref="CDD:304994"
+     CDS             1..115
+                     /locus_tag="BN701_01849"
+                     /coded_by="CBJX010000161.1:24349..24696"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mktieyymal pyrleivpdp deggyvaryp dlpgcitvgd smeeaaknae dakkewlaaa
+       61 lesgveiaep vsangysgqf klripkslhr rlaehakeeg vsmnqycvyl lsqgs
+//
+
+LOCUS       WP_012938635             138 aa            linear   BCT 26-AUG-2016
+DEFINITION  HicB family protein [Acidaminococcus fermentans].
+ACCESSION   WP_012938635
+VERSION     WP_012938635.1
+KEYWORDS    RefSeq.
+SOURCE      Acidaminococcus fermentans
+  ORGANISM  Acidaminococcus fermentans
+            Bacteria; Firmicutes; Negativicutes; Acidaminococcales;
+            Acidaminococcaceae; Acidaminococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..138
+                     /organism="Acidaminococcus fermentans"
+                     /db_xref="taxon:905"
+     Protein         1..138
+                     /product="HicB family protein"
+                     /calculated_mol_wt=15232
+     Region          5..129
+                     /region_name="HicB_lk_antitox"
+                     /note="HicB_like antitoxin of bacterial toxin-antitoxin
+                     system; pfam15919"
+                     /db_xref="CDD:292541"
+     Region          21..70
+                     /region_name="HicB"
+                     /note="Predicted nuclease of the RNAse H fold, HicB family
+                     [Defense mechanisms]; COG1598"
+                     /db_xref="CDD:224514"
+ORIGIN      
+        1 mkkwypaivt hqppeegfpa gcysvdfpgm dacytfgatm eealemaedv lnlrmveaed
+       61 agekipapps lesikvppss cltliqvdtl ayrkrndtra vkktlsiprw ldtlaqkkni
+      121 nfsnvlqral mremgigg
+//
+
+LOCUS       CDE73000                  75 aa            linear   ENV 31-MAY-2013
+DEFINITION  putative uncharacterized protein [Acidaminococcus sp. CAG:917].
+ACCESSION   CDE73000
+VERSION     CDE73000.1
+DBSOURCE    embl accession CBJM010000107.1
+KEYWORDS    ENV.
+SOURCE      Acidaminococcus sp. CAG:917
+  ORGANISM  Acidaminococcus sp. CAG:917
+            Bacteria; Firmicutes; Negativicutes; Acidaminococcales;
+            Acidaminococcaceae; Acidaminococcus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..75
+                     /organism="Acidaminococcus sp. CAG:917"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262688"
+                     /environmental_sample
+                     /note="contig 76"
+     Protein         1..75
+                     /product="putative uncharacterized protein"
+     Region          13..55
+                     /region_name="lp_hng_hel_AbrB"
+                     /note="looped-hinge helix DNA binding domain, AbrB family;
+                     TIGR01439"
+                     /db_xref="CDD:273625"
+     CDS             1..75
+                     /locus_tag="BN810_00595"
+                     /coded_by="CBJM010000107.1:3259..3486"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 menfpegkfl ttvkigpkgq ivipkevrdm fslnagdsli lmadkgqgia lqpysyvetf
+       61 wnavnrakde gkeek
+//
+
+LOCUS       CDE72095                 175 aa            linear   ENV 31-MAY-2013
+DEFINITION  stage V sporulation protein T [Acidaminococcus sp. CAG:917].
+ACCESSION   CDE72095
+VERSION     CDE72095.1
+DBSOURCE    embl accession CBJM010000017.1
+KEYWORDS    ENV.
+SOURCE      Acidaminococcus sp. CAG:917
+  ORGANISM  Acidaminococcus sp. CAG:917
+            Bacteria; Firmicutes; Negativicutes; Acidaminococcales;
+            Acidaminococcaceae; Acidaminococcus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..175
+                     /organism="Acidaminococcus sp. CAG:917"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262688"
+                     /environmental_sample
+                     /note="contig 113"
+     Protein         1..175
+                     /product="stage V sporulation protein T"
+     Region          1..>67
+                     /region_name="AbrB"
+                     /note="Bifunctional DNA-binding transcriptional regulator
+                     of stationary/sporulation/toxin gene expression and
+                     antitoxin component of the YhaV-PrlF toxin-antitoxin
+                     module [Transcription, Defense mechanisms]; COG2002"
+                     /db_xref="CDD:224913"
+     Region          64..>151
+                     /region_name="GAF"
+                     /note="GAF domain; cl21515"
+                     /db_xref="CDD:304403"
+     CDS             1..175
+                     /locus_tag="BN810_00926"
+                     /coded_by="complement(CBJM010000017.1:2397..2924)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mqttgivrri delgrivipk elrrsmrlhe gdeleiameg dlmtmkkyse meamrhiled
+       61 iavslkefte advfvcdgnf vniyegsqkr faegktisdd clkiirgkei kiksgseris
+      121 lydgdkmnfa yqiiapiinq gdnvgglvll tnhqasslvg yvnlcvkils slcsk
+//
+
+LOCUS       EEH91379                 145 aa            linear   BCT 05-JUN-2013
+DEFINITION  protein MraZ [Acidaminococcus sp. D21].
+ACCESSION   EEH91379
+VERSION     EEH91379.1
+DBLINK      BioProject: PRJNA34117
+            BioSample: SAMN02595304
+DBSOURCE    accession ACGB01000043.1
+KEYWORDS    .
+SOURCE      Acidaminococcus sp. D21
+  ORGANISM  Acidaminococcus sp. D21
+            Bacteria; Firmicutes; Negativicutes; Acidaminococcales;
+            Acidaminococcaceae; Acidaminococcus.
+REFERENCE   1  (residues 1 to 145)
+  AUTHORS   Ward,D., Young,S.K., Kodira,C.D., Zeng,Q., Koehrsen,M.,
+            Alvarado,L., Berlin,A., Borenstein,D., Chen,Z., Engels,R.,
+            Freedman,E., Gellesch,M., Goldberg,J., Griggs,A., Gujja,S.,
+            Heiman,D., Hepburn,T., Howarth,C., Jen,D., Larson,L., Lewis,B.,
+            Mehta,T., Park,D., Pearson,M., Roberts,A., Saif,S., Shea,T.,
+            Shenoy,N., Sisk,P., Stolte,C., Sykes,S., Walk,T., White,J.,
+            Yandava,C., Allen-Vercoe,E., Strauss,J., Ambrose,C., Sibley,C.,
+            White,A., Lander,E., Nusbaum,C., Galagan,J. and Birren,B.
+  CONSRTM   The Broad Institute Genome Sequencing Platform
+  TITLE     The Genome Sequence of Acidaminococcus sp. D21
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 145)
+  AUTHORS   Ward,D., Young,S.K., Kodira,C.D., Zeng,Q., Koehrsen,M.,
+            Alvarado,L., Berlin,A., Borenstein,D., Chen,Z., Engels,R.,
+            Freedman,E., Gellesch,M., Goldberg,J., Griggs,A., Gujja,S.,
+            Heiman,D., Hepburn,T., Howarth,C., Jen,D., Larson,L., Lewis,B.,
+            Mehta,T., Park,D., Pearson,M., Roberts,A., Saif,S., Shea,T.,
+            Shenoy,N., Sisk,P., Stolte,C., Sykes,S., Walk,T., White,J.,
+            Yandava,C., Allen-Vercoe,E., Strauss,J., Ambrose,C., Sibley,C.,
+            White,A., Lander,E., Nusbaum,C., Galagan,J. and Birren,B.
+  CONSRTM   The Broad Institute Genome Sequencing Platform
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2009) Broad Institute of MIT and Harvard, 7
+            Cambridge Center, Cambridge, MA 02142, USA
+COMMENT     Product names were updated in June 2013.
+            This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Genome Coverage: 13.02x
+            Sequencing Technology: 454
+            Annotation was added to the contigs in April 2009.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..145
+                     /organism="Acidaminococcus sp. D21"
+                     /strain="D21"
+                     /db_xref="taxon:563191"
+     Protein         1..145
+                     /product="protein MraZ"
+     Region          6..138
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          8..62
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(8..10,36,44,53..54,57)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          16..20
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          71..131
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(79,81,109,116,125..126,129)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          87..91
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+     CDS             1..145
+                     /gene="mraZ"
+                     /locus_tag="ACDG_01738"
+                     /coded_by="ACGB01000043.1:4692..5129"
+                     /transl_table=11
+ORIGIN      
+        1 mgiaamlmge yehsvdakgr lfvpaklrse lgktfvitkg vdgcidvypm dawdrlqqsf
+       61 aqqtlpkkka rdvsrflfgn smevepdkqg rillpqtlrk faqieglati igtgtkaeiw
+      121 dtkryeayss evesdvaaiv edlei
+//
+
+LOCUS       WP_012938657             141 aa            linear   BCT 17-SEP-2015
+DEFINITION  division/cell wall cluster transcriptional repressor MraZ
+            [Acidaminococcus fermentans].
+ACCESSION   WP_012938657
+VERSION     WP_012938657.1
+KEYWORDS    RefSeq.
+SOURCE      Acidaminococcus fermentans
+  ORGANISM  Acidaminococcus fermentans
+            Bacteria; Firmicutes; Negativicutes; Acidaminococcales;
+            Acidaminococcaceae; Acidaminococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..141
+                     /organism="Acidaminococcus fermentans"
+                     /db_xref="taxon:905"
+     Protein         1..141
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=15672
+     Region          1..133
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          3..58
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(3..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..126
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,104,111,120..121,124)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mlmgefehal dskgrlfvpa kmrenlgpsf vvtkgvdgcl dvypleawek lknsfaqkmm
+       61 pkqkmrdvsr fifggaceve pdkqgrillp anlrtyarig etalivgvgg kaeiwdaqry
+      121 adytkavegd vaelieeldf e
+//
+
+LOCUS       CDE73214                 148 aa            linear   ENV 31-MAY-2013
+DEFINITION  protein MraZ [Acidaminococcus sp. CAG:917].
+ACCESSION   CDE73214
+VERSION     CDE73214.1
+DBSOURCE    embl accession CBJM010000129.1
+KEYWORDS    ENV.
+SOURCE      Acidaminococcus sp. CAG:917
+  ORGANISM  Acidaminococcus sp. CAG:917
+            Bacteria; Firmicutes; Negativicutes; Acidaminococcales;
+            Acidaminococcaceae; Acidaminococcus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..148
+                     /organism="Acidaminococcus sp. CAG:917"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262688"
+                     /environmental_sample
+                     /note="contig 96"
+     Protein         1..148
+                     /product="protein MraZ"
+     Region          5..148
+                     /region_name="MraZ"
+                     /note="MraZ, DNA-binding transcriptional regulator and
+                     inhibitor of RsmH methyltransferase activity [Translation,
+                     ribosomal structure and biogenesis]; COG2001"
+                     /db_xref="CDD:224912"
+     Region          6..57
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(6..8,34,42,51..52,55)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          14..18
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          75..126
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(78,80,108,115,124..125)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          86..90
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+     CDS             1..148
+                     /locus_tag="BN810_00777"
+                     /coded_by="CBJM010000129.1:15912..16358"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 magiltgyvr hsvddknrtr ipakfkevlt aplyfvpadn dcilllpeqr akemmersra
+       61 nisvfdtdaq npttfllsht yevkedgqgr itlpsdlkkm aqidkdlvfv gkfdyaeiwa
+      121 aetwerkfsv lekgnlsami aklksygl
+//
+
+LOCUS       CDE94588                 141 aa            linear   ENV 31-MAY-2013
+DEFINITION  protein MraZ [Acidaminococcus sp. CAG:542].
+ACCESSION   CDE94588
+VERSION     CDE94588.1
+DBSOURCE    embl accession CBJX010000189.1
+KEYWORDS    ENV.
+SOURCE      Acidaminococcus sp. CAG:542
+  ORGANISM  Acidaminococcus sp. CAG:542
+            Bacteria; Firmicutes; Negativicutes; Acidaminococcales;
+            Acidaminococcaceae; Acidaminococcus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..141
+                     /organism="Acidaminococcus sp. CAG:542"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262687"
+                     /environmental_sample
+                     /note="contig 49"
+     Protein         1..141
+                     /product="protein MraZ"
+     Region          1..133
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          3..58
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(3..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..126
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,104,111,120..121,124)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+     CDS             1..141
+                     /locus_tag="BN701_00333"
+                     /coded_by="complement(CBJX010000189.1:10514..10939)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mlmgefehal dskgrlfvpa kmrenlgpsf vvtkgvdgcl dvypleawek lknsfaqkmm
+       61 pkqkmrdvsr fifggaceve pdkqgrillp anlrtyarig etalivgvgs kaeiwdaqry
+      121 adytkavesd vaelieeldf e
+//
+
+LOCUS       WP_012938472              80 aa            linear   BCT 26-MAY-2013
+DEFINITION  prevent-host-death protein [Acidaminococcus fermentans].
+ACCESSION   WP_012938472
+VERSION     WP_012938472.1
+KEYWORDS    RefSeq.
+SOURCE      Acidaminococcus fermentans
+  ORGANISM  Acidaminococcus fermentans
+            Bacteria; Firmicutes; Negativicutes; Acidaminococcales;
+            Acidaminococcaceae; Acidaminococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..80
+                     /organism="Acidaminococcus fermentans"
+                     /db_xref="taxon:905"
+     Protein         1..80
+                     /product="prevent-host-death protein"
+                     /calculated_mol_wt=9003
+     Region          9..>44
+                     /region_name="PhdYeFM_antitox"
+                     /note="Antitoxin Phd_YefM, type II toxin-antitoxin system;
+                     cl09153"
+                     /db_xref="CDD:298842"
+ORIGIN      
+        1 mnvntenlvs iteanqnfsr varmvdekgp vvilknnspr yllvefnnae qeqladdedv
+       61 ltvsrrliak nrkayevlak
+//
+
+LOCUS       ADB48385                  92 aa            linear   BCT 28-JAN-2014
+DEFINITION  addiction module antitoxin, RelB/DinJ family [Acidaminococcus
+            fermentans DSM 20731].
+ACCESSION   ADB48385
+VERSION     ADB48385.1
+DBLINK      BioProject: PRJNA33685
+            BioSample: SAMN02598507
+DBSOURCE    accession CP001859.1
+KEYWORDS    .
+SOURCE      Acidaminococcus fermentans DSM 20731
+  ORGANISM  Acidaminococcus fermentans DSM 20731
+            Bacteria; Firmicutes; Negativicutes; Acidaminococcales;
+            Acidaminococcaceae; Acidaminococcus.
+REFERENCE   1  (residues 1 to 92)
+  AUTHORS   Chang,Y.J., Pukall,R., Saunders,E., Lapidus,A., Copeland,A.,
+            Nolan,M., Glavina Del Rio,T., Lucas,S., Chen,F., Tice,H.,
+            Cheng,J.F., Han,C., Detter,J.C., Bruce,D., Goodwin,L., Pitluck,S.,
+            Mikhailova,N., Liolios,K., Pati,A., Ivanova,N., Mavromatis,K.,
+            Chen,A., Palaniappan,K., Land,M., Hauser,L., Jeffries,C.D.,
+            Brettin,T., Rohde,M., Goker,M., Bristow,J., Eisen,J.A.,
+            Markowitz,V., Hugenholtz,P., Kyrpides,N.C. and Klenk,H.P.
+  TITLE     Complete genome sequence of Acidaminococcus fermentans type strain
+            (VR4)
+  JOURNAL   Stand Genomic Sci 3 (1), 1-14 (2010)
+   PUBMED   21304687
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 92)
+  AUTHORS   Lucas,S., Copeland,A., Lapidus,A., Glavina del Rio,T., Dalin,E.,
+            Tice,H., Bruce,D., Goodwin,L., Pitluck,S., Kyrpides,N.,
+            Mavromatis,K., Ivanova,N., Mikhailova,N., Saunders,E., Brettin,T.,
+            Detter,J.C., Han,C., Larimer,F., Land,M., Hauser,L., Markowitz,V.,
+            Cheng,J.-F., Hugenholtz,P., Woyke,T., Wu,D., Pukall,R.,
+            Gehrich-Schroter,G., Schneider,S., Klenk,H.-P. and Eisen,J.A.
+  CONSRTM   US DOE Joint Genome Institute (JGI-PGF)
+  TITLE     The complete genome of Acidaminococcus fermentans DSM 20731
+  JOURNAL   Unpublished
+REFERENCE   3  (residues 1 to 92)
+  AUTHORS   Lucas,S., Copeland,A., Lapidus,A., Glavina del Rio,T., Dalin,E.,
+            Tice,H., Bruce,D., Goodwin,L., Pitluck,S., Kyrpides,N.,
+            Mavromatis,K., Ivanova,N., Mikhailova,N., Saunders,E., Brettin,T.,
+            Detter,J.C., Han,C., Larimer,F., Land,M., Hauser,L., Markowitz,V.,
+            Cheng,J.-F., Hugenholtz,P., Woyke,T., Wu,D., Pukall,R.,
+            Gehrich-Schroter,G., Schneider,S., Klenk,H.-P. and Eisen,J.A.
+  CONSRTM   US DOE Joint Genome Institute (JGI-PGF)
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JAN-2010) US DOE Joint Genome Institute, 2800
+            Mitchell Drive, Walnut Creek, CA 94598-1698, USA
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..92
+                     /organism="Acidaminococcus fermentans DSM 20731"
+                     /strain="DSM 20731"
+                     /db_xref="taxon:591001"
+     Protein         1..92
+                     /product="addiction module antitoxin, RelB/DinJ family"
+     Region          3..>55
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+     CDS             1..92
+                     /locus_tag="Acfer_2040"
+                     /coded_by="complement(CP001859.1:2268341..2268619)"
+                     /inference="protein motif:TFAM:TIGR02384"
+                     /note="TIGRFAM: addiction module antitoxin, RelB/DinJ
+                     family;
+                     PFAM: RelB antitoxin;
+                     KEGG: fma:FMG_1585 hypothetical protein"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR007337"
+ORIGIN      
+        1 mdmasvnvni rmdaelkkef eefcsnvgmn mttaftifar rtvrenripf evsadcrraa
+       61 vhqvpvdpaa vqdaaakkpe dmfeeikrdf ni
+//
+
+LOCUS       WP_012938313              93 aa            linear   BCT 31-OCT-2016
+DEFINITION  MULTISPECIES: translation repressor RelB [Acidaminococcus].
+ACCESSION   WP_012938313
+VERSION     WP_012938313.1
+KEYWORDS    RefSeq.
+SOURCE      Acidaminococcus
+  ORGANISM  Acidaminococcus
+            Bacteria; Firmicutes; Negativicutes; Acidaminococcales;
+            Acidaminococcaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..93
+                     /organism="Acidaminococcus"
+                     /db_xref="taxon:904"
+     Protein         1..93
+                     /product="translation repressor RelB"
+                     /calculated_mol_wt=10459
+     Region          1..88
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+ORIGIN      
+        1 mttaninvrv daelkkeaeg lfndlglnms saitmflksa vrcdgipfqv rrnafnaetr
+       61 aalaeyeemk thpekykryh sfadlmkdvd nea
+//
+
+LOCUS       CDE94298                  89 aa            linear   ENV 31-MAY-2013
+DEFINITION  addiction module antitoxin RelB/DinJ family [Acidaminococcus sp.
+            CAG:542].
+ACCESSION   CDE94298
+VERSION     CDE94298.1
+DBSOURCE    embl accession CBJX010000150.1
+KEYWORDS    ENV.
+SOURCE      Acidaminococcus sp. CAG:542
+  ORGANISM  Acidaminococcus sp. CAG:542
+            Bacteria; Firmicutes; Negativicutes; Acidaminococcales;
+            Acidaminococcaceae; Acidaminococcus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..89
+                     /organism="Acidaminococcus sp. CAG:542"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262687"
+                     /environmental_sample
+                     /note="contig 233"
+     Protein         1..89
+                     /product="addiction module antitoxin RelB/DinJ family"
+     Region          4..87
+                     /region_name="RelB_DinJ"
+                     /note="addiction module antitoxin, RelB/DinJ family;
+                     TIGR02384"
+                     /db_xref="CDD:274102"
+     CDS             1..89
+                     /locus_tag="BN701_01752"
+                     /coded_by="CBJX010000150.1:2636..2905"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 msdtktlnlr vdadlkhqae lifsdlgipt stainmflrs vvryggipfd lrlsanqlet
+       61 lqaiddvnhh rnlsktydsv kdlmkdlna
+//
+
+LOCUS       CDE93053                  90 aa            linear   ENV 31-MAY-2013
+DEFINITION  addiction module antitoxin RelB/DinJ family [Acidaminococcus sp.
+            CAG:542].
+ACCESSION   CDE93053
+VERSION     CDE93053.1
+DBSOURCE    embl accession CBJX010000042.1
+KEYWORDS    ENV.
+SOURCE      Acidaminococcus sp. CAG:542
+  ORGANISM  Acidaminococcus sp. CAG:542
+            Bacteria; Firmicutes; Negativicutes; Acidaminococcales;
+            Acidaminococcaceae; Acidaminococcus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..90
+                     /organism="Acidaminococcus sp. CAG:542"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262687"
+                     /environmental_sample
+                     /note="contig 136"
+     Protein         1..90
+                     /product="addiction module antitoxin RelB/DinJ family"
+     Region          1..>53
+                     /region_name="RelB"
+                     /note="RelB antitoxin; cl01171"
+                     /db_xref="CDD:294728"
+     CDS             1..90
+                     /locus_tag="BN701_00989"
+                     /coded_by="CBJX010000042.1:1575..1847"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 masvnvnirm dadlkkefee fcsnvgmnmt taftifarrt vrenripfev sadcrraaih
+       61 qvpvdptpaq gtatkrpedm feeikqdfni
+//
+
+LOCUS       WP_012938431             118 aa            linear   BCT 26-MAY-2013
+DEFINITION  toxin RelE [Acidaminococcus fermentans].
+ACCESSION   WP_012938431
+VERSION     WP_012938431.1
+KEYWORDS    RefSeq.
+SOURCE      Acidaminococcus fermentans
+  ORGANISM  Acidaminococcus fermentans
+            Bacteria; Firmicutes; Negativicutes; Acidaminococcales;
+            Acidaminococcaceae; Acidaminococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..118
+                     /organism="Acidaminococcus fermentans"
+                     /db_xref="taxon:905"
+     Protein         1..118
+                     /product="toxin RelE"
+                     /calculated_mol_wt=13818
+     Region          19..106
+                     /region_name="Gp49"
+                     /note="Phage derived protein Gp49-like (DUF891);
+                     pfam05973"
+                     /db_xref="CDD:283596"
+ORIGIN      
+        1 mefevifyet engqkpvedf llslntkmrt kmvqmmeile dkglalrepy tkplgdgife
+       61 lrcklasdis ralfffyigq kiivtngfik ktmktpqkei rlaqerrady irrmeeak
+//
+
+LOCUS       WP_012938510             122 aa            linear   BCT 18-MAY-2013
+DEFINITION  hypothetical protein [Acidaminococcus fermentans].
+ACCESSION   WP_012938510
+VERSION     WP_012938510.1
+KEYWORDS    RefSeq.
+SOURCE      Acidaminococcus fermentans
+  ORGANISM  Acidaminococcus fermentans
+            Bacteria; Firmicutes; Negativicutes; Acidaminococcales;
+            Acidaminococcaceae; Acidaminococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..122
+                     /organism="Acidaminococcus fermentans"
+                     /db_xref="taxon:905"
+     Protein         1..122
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=14796
+     Region          40..108
+                     /region_name="Gp49"
+                     /note="Phage derived protein Gp49-like (DUF891);
+                     pfam05973"
+                     /db_xref="CDD:283596"
+ORIGIN      
+        1 mykiefyenq hgesdvwdfl ealrkkstts kdariqynqi ifyidllakn gtnlptnitk
+       61 hledniwelr pgnnrvfyfy ydesqyvllh hfrkksqktp kreiirakse rddyirqkee
+      121 ks
+//
+
+LOCUS       WP_012938636              62 aa            linear   BCT 26-MAY-2013
+DEFINITION  toxin HicA [Acidaminococcus fermentans].
+ACCESSION   WP_012938636
+VERSION     WP_012938636.1
+KEYWORDS    RefSeq.
+SOURCE      Acidaminococcus fermentans
+  ORGANISM  Acidaminococcus fermentans
+            Bacteria; Firmicutes; Negativicutes; Acidaminococcales;
+            Acidaminococcaceae; Acidaminococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..62
+                     /organism="Acidaminococcus fermentans"
+                     /db_xref="taxon:905"
+     Protein         1..62
+                     /product="toxin HicA"
+                     /calculated_mol_wt=6807
+     Region          5..58
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; pfam07927"
+                     /db_xref="CDD:285205"
+ORIGIN      
+        1 mrtaellkil krhgvfllre ggrhslyysp ltgkkipvsr hareipagta lrilkdagid
+       61 se
+//
+
+LOCUS       CDE94398                  83 aa            linear   ENV 31-MAY-2013
+DEFINITION  putative uncharacterized protein [Acidaminococcus sp. CAG:542].
+ACCESSION   CDE94398
+VERSION     CDE94398.1
+DBSOURCE    embl accession CBJX010000161.1
+KEYWORDS    ENV.
+SOURCE      Acidaminococcus sp. CAG:542
+  ORGANISM  Acidaminococcus sp. CAG:542
+            Bacteria; Firmicutes; Negativicutes; Acidaminococcales;
+            Acidaminococcaceae; Acidaminococcus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..83
+                     /organism="Acidaminococcus sp. CAG:542"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262687"
+                     /environmental_sample
+                     /note="contig 243"
+     Protein         1..83
+                     /product="putative uncharacterized protein"
+     Region          21..73
+                     /region_name="HicA_toxin"
+                     /note="HicA toxin of bacterial toxin-antitoxin; pfam07927"
+                     /db_xref="CDD:285205"
+     CDS             1..83
+                     /locus_tag="BN701_01848"
+                     /coded_by="CBJX010000161.1:24111..24362"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mskwekllkk iltlskdmrf delrkilesy gyvmsaprgg sshytfrkpg knpitvpkhe
+       61 pikkvyvemv rqvveeeagn end
+//
+
+LOCUS       ADB47142                  99 aa            linear   BCT 28-JAN-2014
+DEFINITION  plasmid maintenance system killer [Acidaminococcus fermentans DSM
+            20731].
+ACCESSION   ADB47142
+VERSION     ADB47142.1
+DBLINK      BioProject: PRJNA33685
+            BioSample: SAMN02598507
+DBSOURCE    accession CP001859.1
+KEYWORDS    .
+SOURCE      Acidaminococcus fermentans DSM 20731
+  ORGANISM  Acidaminococcus fermentans DSM 20731
+            Bacteria; Firmicutes; Negativicutes; Acidaminococcales;
+            Acidaminococcaceae; Acidaminococcus.
+REFERENCE   1  (residues 1 to 99)
+  AUTHORS   Chang,Y.J., Pukall,R., Saunders,E., Lapidus,A., Copeland,A.,
+            Nolan,M., Glavina Del Rio,T., Lucas,S., Chen,F., Tice,H.,
+            Cheng,J.F., Han,C., Detter,J.C., Bruce,D., Goodwin,L., Pitluck,S.,
+            Mikhailova,N., Liolios,K., Pati,A., Ivanova,N., Mavromatis,K.,
+            Chen,A., Palaniappan,K., Land,M., Hauser,L., Jeffries,C.D.,
+            Brettin,T., Rohde,M., Goker,M., Bristow,J., Eisen,J.A.,
+            Markowitz,V., Hugenholtz,P., Kyrpides,N.C. and Klenk,H.P.
+  TITLE     Complete genome sequence of Acidaminococcus fermentans type strain
+            (VR4)
+  JOURNAL   Stand Genomic Sci 3 (1), 1-14 (2010)
+   PUBMED   21304687
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (residues 1 to 99)
+  AUTHORS   Lucas,S., Copeland,A., Lapidus,A., Glavina del Rio,T., Dalin,E.,
+            Tice,H., Bruce,D., Goodwin,L., Pitluck,S., Kyrpides,N.,
+            Mavromatis,K., Ivanova,N., Mikhailova,N., Saunders,E., Brettin,T.,
+            Detter,J.C., Han,C., Larimer,F., Land,M., Hauser,L., Markowitz,V.,
+            Cheng,J.-F., Hugenholtz,P., Woyke,T., Wu,D., Pukall,R.,
+            Gehrich-Schroter,G., Schneider,S., Klenk,H.-P. and Eisen,J.A.
+  CONSRTM   US DOE Joint Genome Institute (JGI-PGF)
+  TITLE     The complete genome of Acidaminococcus fermentans DSM 20731
+  JOURNAL   Unpublished
+REFERENCE   3  (residues 1 to 99)
+  AUTHORS   Lucas,S., Copeland,A., Lapidus,A., Glavina del Rio,T., Dalin,E.,
+            Tice,H., Bruce,D., Goodwin,L., Pitluck,S., Kyrpides,N.,
+            Mavromatis,K., Ivanova,N., Mikhailova,N., Saunders,E., Brettin,T.,
+            Detter,J.C., Han,C., Larimer,F., Land,M., Hauser,L., Markowitz,V.,
+            Cheng,J.-F., Hugenholtz,P., Woyke,T., Wu,D., Pukall,R.,
+            Gehrich-Schroter,G., Schneider,S., Klenk,H.-P. and Eisen,J.A.
+  CONSRTM   US DOE Joint Genome Institute (JGI-PGF)
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JAN-2010) US DOE Joint Genome Institute, 2800
+            Mitchell Drive, Walnut Creek, CA 94598-1698, USA
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..99
+                     /organism="Acidaminococcus fermentans DSM 20731"
+                     /strain="DSM 20731"
+                     /db_xref="taxon:591001"
+     Protein         1..99
+                     /product="plasmid maintenance system killer"
+     Region          4..99
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+     CDS             1..99
+                     /locus_tag="Acfer_0754"
+                     /coded_by="CP001859.1:872478..872777"
+                     /inference="protein motif:PFAM:PF05015"
+                     /note="PFAM: plasmid maintenance system killer;
+                     KEGG: swo:Swol_0482 hypothetical protein"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR007711"
+ORIGIN      
+        1 mldvryknkk lqkictdaet arasygnema rklhlridql eaadsiqeli lnhigrchgl
+       61 sgnrqgqyam dlaqpyrlif kevesgiqiv mvmeivdyh
+//
+
+LOCUS       WP_041666105              98 aa            linear   BCT 05-FEB-2015
+DEFINITION  plasmid maintenance system killer protein [Acidaminococcus
+            fermentans].
+ACCESSION   WP_041666105
+VERSION     WP_041666105.1
+KEYWORDS    RefSeq.
+SOURCE      Acidaminococcus fermentans
+  ORGANISM  Acidaminococcus fermentans
+            Bacteria; Firmicutes; Negativicutes; Acidaminococcales;
+            Acidaminococcaceae; Acidaminococcus.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..98
+                     /organism="Acidaminococcus fermentans"
+                     /db_xref="taxon:905"
+     Protein         1..98
+                     /product="plasmid maintenance system killer protein"
+                     /calculated_mol_wt=11162
+     Region          1..98
+                     /region_name="ParE_toxin"
+                     /note="ParE toxin of type II toxin-antitoxin system,
+                     parDE; cl21503"
+                     /db_xref="CDD:304394"
+ORIGIN      
+        1 mdvryknkkl qkictdaeta rasygnemar klhlridqle aadsiqelil nhigrchgls
+       61 gnrqgqyamd laqpyrlifk evesgiqivm vmeivdyh
+//
+
+LOCUS       EEH89663                  87 aa            linear   BCT 05-JUN-2013
+DEFINITION  addiction module toxin, RelE/StbE family [Acidaminococcus sp. D21].
+ACCESSION   EEH89663
+VERSION     EEH89663.1
+DBLINK      BioProject: PRJNA34117
+            BioSample: SAMN02595304
+DBSOURCE    accession ACGB01000001.1
+KEYWORDS    .
+SOURCE      Acidaminococcus sp. D21
+  ORGANISM  Acidaminococcus sp. D21
+            Bacteria; Firmicutes; Negativicutes; Acidaminococcales;
+            Acidaminococcaceae; Acidaminococcus.
+REFERENCE   1  (residues 1 to 87)
+  AUTHORS   Ward,D., Young,S.K., Kodira,C.D., Zeng,Q., Koehrsen,M.,
+            Alvarado,L., Berlin,A., Borenstein,D., Chen,Z., Engels,R.,
+            Freedman,E., Gellesch,M., Goldberg,J., Griggs,A., Gujja,S.,
+            Heiman,D., Hepburn,T., Howarth,C., Jen,D., Larson,L., Lewis,B.,
+            Mehta,T., Park,D., Pearson,M., Roberts,A., Saif,S., Shea,T.,
+            Shenoy,N., Sisk,P., Stolte,C., Sykes,S., Walk,T., White,J.,
+            Yandava,C., Allen-Vercoe,E., Strauss,J., Ambrose,C., Sibley,C.,
+            White,A., Lander,E., Nusbaum,C., Galagan,J. and Birren,B.
+  CONSRTM   The Broad Institute Genome Sequencing Platform
+  TITLE     The Genome Sequence of Acidaminococcus sp. D21
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 87)
+  AUTHORS   Ward,D., Young,S.K., Kodira,C.D., Zeng,Q., Koehrsen,M.,
+            Alvarado,L., Berlin,A., Borenstein,D., Chen,Z., Engels,R.,
+            Freedman,E., Gellesch,M., Goldberg,J., Griggs,A., Gujja,S.,
+            Heiman,D., Hepburn,T., Howarth,C., Jen,D., Larson,L., Lewis,B.,
+            Mehta,T., Park,D., Pearson,M., Roberts,A., Saif,S., Shea,T.,
+            Shenoy,N., Sisk,P., Stolte,C., Sykes,S., Walk,T., White,J.,
+            Yandava,C., Allen-Vercoe,E., Strauss,J., Ambrose,C., Sibley,C.,
+            White,A., Lander,E., Nusbaum,C., Galagan,J. and Birren,B.
+  CONSRTM   The Broad Institute Genome Sequencing Platform
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2009) Broad Institute of MIT and Harvard, 7
+            Cambridge Center, Cambridge, MA 02142, USA
+COMMENT     Product names were updated in June 2013.
+            This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Genome Coverage: 13.02x
+            Sequencing Technology: 454
+            Annotation was added to the contigs in April 2009.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..87
+                     /organism="Acidaminococcus sp. D21"
+                     /strain="D21"
+                     /db_xref="taxon:563191"
+     Protein         1..87
+                     /product="addiction module toxin, RelE/StbE family"
+     Region          2..84
+                     /region_name="RelE"
+                     /note="mRNA-degrading endonuclease RelE, toxin component
+                     of the RelBE toxin-antitoxin system [Defense mechanisms];
+                     COG2026"
+                     /db_xref="CDD:224937"
+     CDS             1..87
+                     /locus_tag="ACDG_00022"
+                     /coded_by="ACGB01000001.1:21832..22095"
+                     /transl_table=11
+ORIGIN      
+        1 mlffskralk qlkkldkyta flitswlrkn ingcsdprqh dkgltanrsg qwryrvgdyr
+       61 iiveiedtkv ivlvleighr kniyldk
+//
+
+LOCUS       CDE94299                  92 aa            linear   ENV 31-MAY-2013
+DEFINITION  addiction module toxin RelE/StbE family [Acidaminococcus sp.
+            CAG:542].
+ACCESSION   CDE94299
+VERSION     CDE94299.1
+DBSOURCE    embl accession CBJX010000150.1
+KEYWORDS    ENV.
+SOURCE      Acidaminococcus sp. CAG:542
+  ORGANISM  Acidaminococcus sp. CAG:542
+            Bacteria; Firmicutes; Negativicutes; Acidaminococcales;
+            Acidaminococcaceae; Acidaminococcus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..92
+                     /organism="Acidaminococcus sp. CAG:542"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262687"
+                     /environmental_sample
+                     /note="contig 233"
+     Protein         1..92
+                     /product="addiction module toxin RelE/StbE family"
+     Region          1..91
+                     /region_name="YafQ"
+                     /note="mRNA-degrading endonuclease (mRNA interferase)
+                     YafQ, toxin component of the YafQ-DinJ toxin-antitoxin
+                     module [Translation, ribosomal structure and biogenesis];
+                     COG3041"
+                     /db_xref="CDD:225583"
+     CDS             1..92
+                     /locus_tag="BN701_01753"
+                     /coded_by="CBJX010000150.1:2898..3176"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mlkiryrkqf kkdykrtvqr pghkpelfqd vleilikeqv lpvkyrdhal sgdyigfrec
+       61 hilpdwlliy kieediltlt ltrtgshsdl fg
+//
+
+LOCUS       CDE94294                  87 aa            linear   ENV 31-MAY-2013
+DEFINITION  addiction module toxin RelE/StbE family [Acidaminococcus sp.
+            CAG:542].
+ACCESSION   CDE94294
+VERSION     CDE94294.1
+DBSOURCE    embl accession CBJX010000149.1
+KEYWORDS    ENV.
+SOURCE      Acidaminococcus sp. CAG:542
+  ORGANISM  Acidaminococcus sp. CAG:542
+            Bacteria; Firmicutes; Negativicutes; Acidaminococcales;
+            Acidaminococcaceae; Acidaminococcus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..87
+                     /organism="Acidaminococcus sp. CAG:542"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262687"
+                     /environmental_sample
+                     /note="contig 232"
+     Protein         1..87
+                     /product="addiction module toxin RelE/StbE family"
+     Region          1..87
+                     /region_name="RelE"
+                     /note="mRNA-degrading endonuclease RelE, toxin component
+                     of the RelBE toxin-antitoxin system [Defense mechanisms];
+                     COG2026"
+                     /db_xref="CDD:224937"
+     CDS             1..87
+                     /locus_tag="BN701_01748"
+                     /coded_by="CBJX010000149.1:5418..5681"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 myqvrfseha vkelkkldkq tarviknwvv knlvdttdpr qhgksltgnl kgvwryrvgd
+       61 yrlfaeiqdd vlivflfeia hrrevyr
+//
+
+LOCUS       CDE72709                 115 aa            linear   ENV 31-MAY-2013
+DEFINITION  transcriptional modulator of MazE/toxin MazF [Acidaminococcus sp.
+            CAG:917].
+ACCESSION   CDE72709
+VERSION     CDE72709.1
+DBSOURCE    embl accession CBJM010000075.1
+KEYWORDS    ENV.
+SOURCE      Acidaminococcus sp. CAG:917
+  ORGANISM  Acidaminococcus sp. CAG:917
+            Bacteria; Firmicutes; Negativicutes; Acidaminococcales;
+            Acidaminococcaceae; Acidaminococcus; environmental samples.
+FEATURES             Location/Qualifiers
+     source          1..115
+                     /organism="Acidaminococcus sp. CAG:917"
+                     /isolation_source="derived from human gut metagenome"
+                     /db_xref="taxon:1262688"
+                     /environmental_sample
+                     /note="contig 47"
+     Protein         1..115
+                     /product="transcriptional modulator of MazE/toxin MazF"
+     Region          3..110
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+     CDS             1..115
+                     /locus_tag="BN810_00341"
+                     /coded_by="complement(CBJM010000075.1:2887..3234)"
+                     /note="product inferred by homology to UniProt"
+                     /transl_table=11
+ORIGIN      
+        1 mvkrgdlyya dlspvvgseq ggirpvlvvq ndvgnkyspt viaaaitsql nkaklpthin
+       61 lpaeqyglpk nsvvlleqir tidkqrlkek igelpkgvms rvnealmisl gfyni
+//
+

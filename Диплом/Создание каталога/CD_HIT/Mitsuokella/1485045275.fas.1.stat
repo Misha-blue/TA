@@ -1,0 +1,52 @@
+Sequence type	Peptide
+No. sequences	16
+Longest sequence	332
+Shortest sequence	53
+Average length	133
+Total letters	2137
+Total X letters	0
+Total non X	2137
+Sequences with X	0
+
+
+length distribution
+length	No. sequences	% sequences
+40-59	1	6.25%
+60-79	1	6.25%
+80-99	5	31.25%
+100-119	3	18.75%
+120-139	0	0%
+140-159	4	25%
+160-179	0	0%
+180-199	0	0%
+200-219	0	0%
+220-239	0	0%
+240-259	0	0%
+260-279	0	0%
+280-299	0	0%
+300-319	0	0%
+320-339	2	12.5%
+
+
+length distribution
+length	No. sequences	% sequences
+53-67	2	12.5%
+67-81	0	0%
+81-95	5	31.25%
+95-109	1	6.25%
+109-123	2	12.5%
+123-137	0	0%
+137-151	4	25%
+151-165	0	0%
+165-179	0	0%
+179-193	0	0%
+193-207	0	0%
+207-221	0	0%
+221-235	0	0%
+235-249	0	0%
+249-263	0	0%
+263-277	0	0%
+277-291	0	0%
+291-305	0	0%
+305-319	0	0%
+319-333	2	12.5%

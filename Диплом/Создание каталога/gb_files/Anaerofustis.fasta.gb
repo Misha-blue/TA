@@ -1,0 +1,683 @@
+LOCUS       EDS72044                 209 aa            linear   BCT 04-AUG-2012
+DEFINITION  putative stage V sporulation protein T [Anaerofustis
+            stercorihominis DSM 17244].
+ACCESSION   EDS72044
+VERSION     EDS72044.1
+DBLINK      BioProject: PRJNA19657
+            BioSample: SAMN02299418
+DBSOURCE    accession ABIL02000006.1
+KEYWORDS    .
+SOURCE      Anaerofustis stercorihominis DSM 17244
+  ORGANISM  Anaerofustis stercorihominis DSM 17244
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Eubacteriaceae;
+            Anaerofustis.
+REFERENCE   1  (residues 1 to 209)
+  AUTHORS   Sudarsanam,P., Ley,R., Guruge,J., Turnbaugh,P.J., Mahowald,M.,
+            Liep,D. and Gordon,J.
+  TITLE     Draft genome sequence of Anaerofustis stercorihominis (DSM 17244)
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 209)
+  AUTHORS   Fulton,L., Clifton,S., Fulton,B., Xu,J., Minx,P., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-DEC-2007) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+REFERENCE   3  (residues 1 to 209)
+  AUTHORS   Fulton,L., Clifton,S., Fulton,B., Xu,J., Minx,P., Pepin,K.H.,
+            Johnson,M., Thiruvilangam,P., Bhonagiri,V., Nash,W.E., Mardis,E.R.
+            and Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-JAN-2008) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+COMMENT     Anaerofustis stercorihominis (GenBank Accession Number for 16S rDNA
+            gene: AJ518871) is a member of the Firmicutes division of the
+            domain bacteria and has been isolated from human feces. The
+            sequenced strain was obtained from Deutsche Sammlung von
+            Mikroorganismen und Zellkulturen GmbH (DSMZ) (DSM 17244).
+            
+            We have collected 11.1X coverage in plasmid end reads and 454
+            reads. We have performed one round of automated sequence
+            improvement(pre-finishing), along with manual improvement that
+            includes breaking apart any mis-assembly, and making manual joins
+            where possible. Manual edits also are made where the consensus
+            appears to be incorrect. All low quality data on the ends of
+            contigs is removed. Contigs are ordered and oriented where
+            possible.
+            
+            Sequencing/Assembly: The genomic DNA was purified from liquid
+            culture derived from a single bacterial colony. A hybrid sequencing
+            strategy that utilized reads from both 454 GS-20 and ABI 3730xl
+            sequencers was devised and implemented to generate the draft genome
+            sequences. 454 reads were assembled using Newbler (454 Life
+            Sciences) into 454 de novo contigs. These de novo contigs were
+            converted in silico to 800 base paired reads ('superreads') with
+            400 base overlaps with neighboring superreads. Finally, PCAP
+            (Huang, et al, Genome Research, 13:2164, (2003)) was used to
+            assemble the super-reads and the conventional 3730xl capillary
+            reads.
+            
+            This sequenced strain is part of a comprehensive, sequence-based
+            survey of members of the normal human gutmicrobiota. A joint effort
+            of the WU-GSC and the Center for Genome Sciences at Washington
+            University School of Medicine, the purpose of this survey is to
+            provide the general scientific community with a broad view of the
+            gene content of 100 representatives of the major divisions
+            represented in the intestine's microbial community. This
+            information should provide a frame of reference for analyzing
+            metagenomic studies of the human gut microbiome. Further details of
+            this effort are described in a white paper entitled 'Extending Our
+            View of Self: the Human Gut Microbiome Initiative (HGMI)'
+            (http://www.genome.gov/Pages/Research/Sequencing/SeqProposals/HGMIS
+            eq.pdf).
+            
+            Coding sequences were predicted using GeneMark v3.3 and Glimmer2
+            v2.13. Intergenic regions not spanned by GeneMark and Glimmer2 were
+            blasted against NCBI's non-redundant (NR) database and predictions
+            generated based on protein alignments. tRNA genes were determined
+            using tRNAscan-SE 1.23 and non-coding RNA genes by RNAmmer-1.2 and
+            Rfam v8.0. Gene names are generated at the contig level and may not
+            necessarily reflect any known order or orientation between contigs.
+            These studies are supported by National Human Genome Research
+            Institute.
+            
+            For answers to your questions regarding this assembly or project,
+            or any other GSC genome project, please visit our Genome Groups web
+            page (http://genome.wustl.edu/genome_group_index.cgi) and email the
+            designated contact person.
+            
+            Annotation was added to the contigs in March 2008
+            
+            This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Product names were updated in August 2012.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..209
+                     /organism="Anaerofustis stercorihominis DSM 17244"
+                     /strain="DSM 17244"
+                     /db_xref="taxon:445971"
+     Protein         1..209
+                     /product="putative stage V sporulation protein T"
+     Region          31..>96
+                     /region_name="AbrB"
+                     /note="Bifunctional DNA-binding transcriptional regulator
+                     of stationary/sporulation/toxin gene expression and
+                     antitoxin component of the YhaV-PrlF toxin-antitoxin
+                     module [Transcription, Defense mechanisms]; COG2002"
+                     /db_xref="CDD:224913"
+     Region          32..208
+                     /region_name="spore_V_T"
+                     /note="stage V sporulation protein T; TIGR02851"
+                     /db_xref="CDD:131898"
+     Region          84..208
+                     /region_name="SpoVT_C"
+                     /note="Stage V sporulation protein T C-terminal,
+                     transcription factor; pfam15714"
+                     /db_xref="CDD:292342"
+     CDS             1..209
+                     /locus_tag="ANASTE_01752"
+                     /coded_by="complement(ABIL02000006.1:705511..706140)"
+                     /inference="protein motif:HMMPfam:IPR007159"
+                     /inference="protein motif:HMMTigr:IPR006339"
+                     /inference="similar to AA sequence:REFSEQ:YP_001318058.1"
+                     /note="COG: COG2002 Regulators of stationary/sporulation
+                     gene expression;
+                     Psort location: Cytoplasmic, score: 9.98"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR006339"
+                     /db_xref="InterPro:IPR007159"
+ORIGIN      
+        1 mffclikvkk ykisifskts ineflskesl mkatgivrri ddlgrvvipk eirrtlrire
+       61 gdpleiytds qgevilkkys mvgelsnfaq eyvdslslsa kvtsvicdre nivaassgdk
+      121 kelmdkrisk eldrviskrq lvtslngdyd iisdkknehv yevispivan gdpigaivll
+      181 skdkhalpie qgsllaktgs iflakqleq
+//
+
+LOCUS       WP_007050531             138 aa            linear   BCT 25-MAY-2013
+DEFINITION  XRE family transcriptional regulator [Anaerofustis
+            stercorihominis].
+ACCESSION   WP_007050531
+VERSION     WP_007050531.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerofustis stercorihominis
+  ORGANISM  Anaerofustis stercorihominis
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Eubacteriaceae;
+            Anaerofustis.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+FEATURES             Location/Qualifiers
+     source          1..138
+                     /organism="Anaerofustis stercorihominis"
+                     /db_xref="taxon:214853"
+     Protein         1..138
+                     /product="XRE family transcriptional regulator"
+                     /calculated_mol_wt=15493
+     Region          1..118
+                     /region_name="HipB"
+                     /note="Transcriptional regulator, contains XRE-family HTH
+                     domain [Transcription]; COG1396"
+                     /db_xref="CDD:224314"
+     Region          4..60
+                     /region_name="HTH_XRE"
+                     /note="Helix-turn-helix XRE-family like proteins.
+                     Prokaryotic DNA binding proteins belonging to the
+                     xenobiotic response element family of transcriptional
+                     regulators; cd00093"
+                     /db_xref="CDD:238045"
+     Site            order(7,11,36)
+                     /site_type="other"
+                     /note="non-specific DNA binding site [nucleotide binding]"
+                     /db_xref="CDD:238045"
+     Site            order(10,35)
+                     /site_type="other"
+                     /note="salt bridge"
+                     /db_xref="CDD:238045"
+     Site            order(17..18,29,32,36..37)
+                     /site_type="other"
+                     /note="sequence-specific DNA binding site [nucleotide
+                     binding]"
+                     /db_xref="CDD:238045"
+     Region          84..122
+                     /region_name="lp_hng_hel_AbrB"
+                     /note="looped-hinge helix DNA binding domain, AbrB family;
+                     TIGR01439"
+                     /db_xref="CDD:273625"
+ORIGIN      
+        1 miyknlkdlr knngltqeql sekigvsrqa igkwekgesi pdlysilels nvysitidtl
+       61 vryllddvdd ksdddegkyl fgtvkvgdrg qivipkearn ifninpgdyl iflgdinkgl
+      121 alakteifkp itdeilkd
+//
+
+LOCUS       WP_007049476             145 aa            linear   BCT 17-SEP-2015
+DEFINITION  division/cell wall cluster transcriptional repressor MraZ
+            [Anaerofustis stercorihominis].
+ACCESSION   WP_007049476
+VERSION     WP_007049476.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerofustis stercorihominis
+  ORGANISM  Anaerofustis stercorihominis
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Eubacteriaceae;
+            Anaerofustis.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..145
+                     /organism="Anaerofustis stercorihominis"
+                     /db_xref="taxon:214853"
+     Protein         1..145
+                     /product="division/cell wall cluster transcriptional
+                     repressor MraZ"
+                     /calculated_mol_wt=16109
+     Region          1..138
+                     /region_name="PRK00326"
+                     /note="cell division protein MraZ; Reviewed"
+                     /db_xref="CDD:234728"
+     Region          4..59
+                     /region_name="MraZ_N"
+                     /note="N-terminal subdomain of transcriptional regulator
+                     MraZ; cd16320"
+                     /db_xref="CDD:293783"
+     Site            order(4..5,31,39,48..49,52)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293783"
+     Region          11..15
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293783"
+     Region          66..125
+                     /region_name="MraZ_C"
+                     /note="C-terminal subdomain of transcriptional regulator
+                     MraZ; cd16321"
+                     /db_xref="CDD:293784"
+     Site            order(74,76,104,111,120..121,124)
+                     /site_type="other"
+                     /note="oligomer interface [polypeptide binding]"
+                     /db_xref="CDD:293784"
+     Region          82..86
+                     /region_name="DXXXR"
+                     /note="DXXXR [structural motif]"
+                     /db_xref="CDD:293784"
+ORIGIN      
+        1 mlsgeynhsv dtkgrinvpa kfrcelgdsf imckgldkci svypksawde laakikslpt
+       61 tdrnarrfsr filgsalect pdkqgrtkvs aslmeyagie kdivvvgvet kveiwdskew
+      121 akyndvsddc medvaqemfe agitl
+//
+
+LOCUS       EDS72805                  59 aa            linear   BCT 04-AUG-2012
+DEFINITION  hypothetical protein ANASTE_00515 [Anaerofustis stercorihominis DSM
+            17244].
+ACCESSION   EDS72805
+VERSION     EDS72805.1
+DBLINK      BioProject: PRJNA19657
+            BioSample: SAMN02299418
+DBSOURCE    accession ABIL02000005.1
+KEYWORDS    .
+SOURCE      Anaerofustis stercorihominis DSM 17244
+  ORGANISM  Anaerofustis stercorihominis DSM 17244
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Eubacteriaceae;
+            Anaerofustis.
+REFERENCE   1  (residues 1 to 59)
+  AUTHORS   Sudarsanam,P., Ley,R., Guruge,J., Turnbaugh,P.J., Mahowald,M.,
+            Liep,D. and Gordon,J.
+  TITLE     Draft genome sequence of Anaerofustis stercorihominis (DSM 17244)
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 59)
+  AUTHORS   Fulton,L., Clifton,S., Fulton,B., Xu,J., Minx,P., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-DEC-2007) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+REFERENCE   3  (residues 1 to 59)
+  AUTHORS   Fulton,L., Clifton,S., Fulton,B., Xu,J., Minx,P., Pepin,K.H.,
+            Johnson,M., Thiruvilangam,P., Bhonagiri,V., Nash,W.E., Mardis,E.R.
+            and Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-JAN-2008) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+COMMENT     Anaerofustis stercorihominis (GenBank Accession Number for 16S rDNA
+            gene: AJ518871) is a member of the Firmicutes division of the
+            domain bacteria and has been isolated from human feces. The
+            sequenced strain was obtained from Deutsche Sammlung von
+            Mikroorganismen und Zellkulturen GmbH (DSMZ) (DSM 17244).
+            
+            We have collected 11.1X coverage in plasmid end reads and 454
+            reads. We have performed one round of automated sequence
+            improvement(pre-finishing), along with manual improvement that
+            includes breaking apart any mis-assembly, and making manual joins
+            where possible. Manual edits also are made where the consensus
+            appears to be incorrect. All low quality data on the ends of
+            contigs is removed. Contigs are ordered and oriented where
+            possible.
+            
+            Sequencing/Assembly: The genomic DNA was purified from liquid
+            culture derived from a single bacterial colony. A hybrid sequencing
+            strategy that utilized reads from both 454 GS-20 and ABI 3730xl
+            sequencers was devised and implemented to generate the draft genome
+            sequences. 454 reads were assembled using Newbler (454 Life
+            Sciences) into 454 de novo contigs. These de novo contigs were
+            converted in silico to 800 base paired reads ('superreads') with
+            400 base overlaps with neighboring superreads. Finally, PCAP
+            (Huang, et al, Genome Research, 13:2164, (2003)) was used to
+            assemble the super-reads and the conventional 3730xl capillary
+            reads.
+            
+            This sequenced strain is part of a comprehensive, sequence-based
+            survey of members of the normal human gutmicrobiota. A joint effort
+            of the WU-GSC and the Center for Genome Sciences at Washington
+            University School of Medicine, the purpose of this survey is to
+            provide the general scientific community with a broad view of the
+            gene content of 100 representatives of the major divisions
+            represented in the intestine's microbial community. This
+            information should provide a frame of reference for analyzing
+            metagenomic studies of the human gut microbiome. Further details of
+            this effort are described in a white paper entitled 'Extending Our
+            View of Self: the Human Gut Microbiome Initiative (HGMI)'
+            (http://www.genome.gov/Pages/Research/Sequencing/SeqProposals/HGMIS
+            eq.pdf).
+            
+            Coding sequences were predicted using GeneMark v3.3 and Glimmer2
+            v2.13. Intergenic regions not spanned by GeneMark and Glimmer2 were
+            blasted against NCBI's non-redundant (NR) database and predictions
+            generated based on protein alignments. tRNA genes were determined
+            using tRNAscan-SE 1.23 and non-coding RNA genes by RNAmmer-1.2 and
+            Rfam v8.0. Gene names are generated at the contig level and may not
+            necessarily reflect any known order or orientation between contigs.
+            These studies are supported by National Human Genome Research
+            Institute.
+            
+            For answers to your questions regarding this assembly or project,
+            or any other GSC genome project, please visit our Genome Groups web
+            page (http://genome.wustl.edu/genome_group_index.cgi) and email the
+            designated contact person.
+            
+            Annotation was added to the contigs in March 2008
+            
+            This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Product names were updated in August 2012.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..59
+                     /organism="Anaerofustis stercorihominis DSM 17244"
+                     /strain="DSM 17244"
+                     /db_xref="taxon:445971"
+     Protein         1..59
+                     /product="hypothetical protein"
+     Region          22..54
+                     /region_name="RHH_1"
+                     /note="Ribbon-helix-helix protein, copG family; pfam01402"
+                     /db_xref="CDD:279710"
+     CDS             1..59
+                     /locus_tag="ANASTE_00515"
+                     /coded_by="ABIL02000005.1:170283..170462"
+                     /inference="protein motif:HMMPfam:IPR002145"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR002145"
+ORIGIN      
+        1 mevyhmahkk lgrptdnpkr vqvtvrldeg slkildeyce esglsraeai rvgigklkk
+//
+
+LOCUS       EDS72958                  61 aa            linear   BCT 04-AUG-2012
+DEFINITION  hypothetical protein ANASTE_00673 [Anaerofustis stercorihominis DSM
+            17244].
+ACCESSION   EDS72958
+VERSION     EDS72958.1
+DBLINK      BioProject: PRJNA19657
+            BioSample: SAMN02299418
+DBSOURCE    accession ABIL02000005.1
+KEYWORDS    .
+SOURCE      Anaerofustis stercorihominis DSM 17244
+  ORGANISM  Anaerofustis stercorihominis DSM 17244
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Eubacteriaceae;
+            Anaerofustis.
+REFERENCE   1  (residues 1 to 61)
+  AUTHORS   Sudarsanam,P., Ley,R., Guruge,J., Turnbaugh,P.J., Mahowald,M.,
+            Liep,D. and Gordon,J.
+  TITLE     Draft genome sequence of Anaerofustis stercorihominis (DSM 17244)
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 61)
+  AUTHORS   Fulton,L., Clifton,S., Fulton,B., Xu,J., Minx,P., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-DEC-2007) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+REFERENCE   3  (residues 1 to 61)
+  AUTHORS   Fulton,L., Clifton,S., Fulton,B., Xu,J., Minx,P., Pepin,K.H.,
+            Johnson,M., Thiruvilangam,P., Bhonagiri,V., Nash,W.E., Mardis,E.R.
+            and Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-JAN-2008) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+COMMENT     Anaerofustis stercorihominis (GenBank Accession Number for 16S rDNA
+            gene: AJ518871) is a member of the Firmicutes division of the
+            domain bacteria and has been isolated from human feces. The
+            sequenced strain was obtained from Deutsche Sammlung von
+            Mikroorganismen und Zellkulturen GmbH (DSMZ) (DSM 17244).
+            
+            We have collected 11.1X coverage in plasmid end reads and 454
+            reads. We have performed one round of automated sequence
+            improvement(pre-finishing), along with manual improvement that
+            includes breaking apart any mis-assembly, and making manual joins
+            where possible. Manual edits also are made where the consensus
+            appears to be incorrect. All low quality data on the ends of
+            contigs is removed. Contigs are ordered and oriented where
+            possible.
+            
+            Sequencing/Assembly: The genomic DNA was purified from liquid
+            culture derived from a single bacterial colony. A hybrid sequencing
+            strategy that utilized reads from both 454 GS-20 and ABI 3730xl
+            sequencers was devised and implemented to generate the draft genome
+            sequences. 454 reads were assembled using Newbler (454 Life
+            Sciences) into 454 de novo contigs. These de novo contigs were
+            converted in silico to 800 base paired reads ('superreads') with
+            400 base overlaps with neighboring superreads. Finally, PCAP
+            (Huang, et al, Genome Research, 13:2164, (2003)) was used to
+            assemble the super-reads and the conventional 3730xl capillary
+            reads.
+            
+            This sequenced strain is part of a comprehensive, sequence-based
+            survey of members of the normal human gutmicrobiota. A joint effort
+            of the WU-GSC and the Center for Genome Sciences at Washington
+            University School of Medicine, the purpose of this survey is to
+            provide the general scientific community with a broad view of the
+            gene content of 100 representatives of the major divisions
+            represented in the intestine's microbial community. This
+            information should provide a frame of reference for analyzing
+            metagenomic studies of the human gut microbiome. Further details of
+            this effort are described in a white paper entitled 'Extending Our
+            View of Self: the Human Gut Microbiome Initiative (HGMI)'
+            (http://www.genome.gov/Pages/Research/Sequencing/SeqProposals/HGMIS
+            eq.pdf).
+            
+            Coding sequences were predicted using GeneMark v3.3 and Glimmer2
+            v2.13. Intergenic regions not spanned by GeneMark and Glimmer2 were
+            blasted against NCBI's non-redundant (NR) database and predictions
+            generated based on protein alignments. tRNA genes were determined
+            using tRNAscan-SE 1.23 and non-coding RNA genes by RNAmmer-1.2 and
+            Rfam v8.0. Gene names are generated at the contig level and may not
+            necessarily reflect any known order or orientation between contigs.
+            These studies are supported by National Human Genome Research
+            Institute.
+            
+            For answers to your questions regarding this assembly or project,
+            or any other GSC genome project, please visit our Genome Groups web
+            page (http://genome.wustl.edu/genome_group_index.cgi) and email the
+            designated contact person.
+            
+            Annotation was added to the contigs in March 2008
+            
+            This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Product names were updated in August 2012.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..61
+                     /organism="Anaerofustis stercorihominis DSM 17244"
+                     /strain="DSM 17244"
+                     /db_xref="taxon:445971"
+     Protein         1..61
+                     /product="hypothetical protein"
+     Region          26..>60
+                     /region_name="PHA01748"
+                     /note="hypothetical protein"
+                     /db_xref="CDD:222832"
+     CDS             1..61
+                     /locus_tag="ANASTE_00673"
+                     /coded_by="complement(ABIL02000005.1:310402..310587)"
+                     /inference="protein motif:HMMPfam:IPR002145"
+                     /inference="protein motif:superfamily:IPR010985"
+                     /note="Psort location: Cytoplasmic, score: 8.87"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR002145"
+                     /db_xref="InterPro:IPR010985"
+ORIGIN      
+        1 msdkggvyms prtgrpknen smneritvrl dketseilkk yceknniers eairqgirkl
+       61 g
+//
+
+LOCUS       WP_007049112              57 aa            linear   BCT 19-MAY-2016
+DEFINITION  ribbon-helix-helix protein, CopG family [Anaerofustis
+            stercorihominis].
+ACCESSION   WP_007049112
+VERSION     WP_007049112.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerofustis stercorihominis
+  ORGANISM  Anaerofustis stercorihominis
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Eubacteriaceae;
+            Anaerofustis.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..57
+                     /organism="Anaerofustis stercorihominis"
+                     /db_xref="taxon:214853"
+     Protein         1..57
+                     /product="ribbon-helix-helix protein, CopG family"
+                     /calculated_mol_wt=6637
+ORIGIN      
+        1 marlgrkpse npknimlrir idketlarld fccekenvnr seflrngide kyaelnk
+//
+
+LOCUS       WP_007049583              56 aa            linear   BCT 19-MAY-2016
+DEFINITION  ribbon-helix-helix protein, CopG family [Anaerofustis
+            stercorihominis].
+ACCESSION   WP_007049583
+VERSION     WP_007049583.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerofustis stercorihominis
+  ORGANISM  Anaerofustis stercorihominis
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Eubacteriaceae;
+            Anaerofustis.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..56
+                     /organism="Anaerofustis stercorihominis"
+                     /db_xref="taxon:214853"
+     Protein         1..56
+                     /product="ribbon-helix-helix protein, CopG family"
+                     /calculated_mol_wt=6441
+     Region          3..55
+                     /region_name="PRK11675"
+                     /note="LexA regulated protein; Provisional"
+                     /db_xref="CDD:183272"
+ORIGIN      
+        1 mgkkmgrpks nnpldidikv rinqstndki lricekkqit raefirnaik eylnin
+//
+
+LOCUS       EDS73556                  55 aa            linear   BCT 04-AUG-2012
+DEFINITION  hypothetical protein ANASTE_00125 [Anaerofustis stercorihominis DSM
+            17244].
+ACCESSION   EDS73556
+VERSION     EDS73556.1
+DBLINK      BioProject: PRJNA19657
+            BioSample: SAMN02299418
+DBSOURCE    accession ABIL02000003.1
+KEYWORDS    .
+SOURCE      Anaerofustis stercorihominis DSM 17244
+  ORGANISM  Anaerofustis stercorihominis DSM 17244
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Eubacteriaceae;
+            Anaerofustis.
+REFERENCE   1  (residues 1 to 55)
+  AUTHORS   Sudarsanam,P., Ley,R., Guruge,J., Turnbaugh,P.J., Mahowald,M.,
+            Liep,D. and Gordon,J.
+  TITLE     Draft genome sequence of Anaerofustis stercorihominis (DSM 17244)
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 55)
+  AUTHORS   Fulton,L., Clifton,S., Fulton,B., Xu,J., Minx,P., Mardis,E.R. and
+            Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-DEC-2007) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+REFERENCE   3  (residues 1 to 55)
+  AUTHORS   Fulton,L., Clifton,S., Fulton,B., Xu,J., Minx,P., Pepin,K.H.,
+            Johnson,M., Thiruvilangam,P., Bhonagiri,V., Nash,W.E., Mardis,E.R.
+            and Wilson,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-JAN-2008) Genome Sequencing Center, Washington
+            University School of Medicine, 4444 Forest Park, St. Louis, MO
+            63108, USA
+COMMENT     Anaerofustis stercorihominis (GenBank Accession Number for 16S rDNA
+            gene: AJ518871) is a member of the Firmicutes division of the
+            domain bacteria and has been isolated from human feces. The
+            sequenced strain was obtained from Deutsche Sammlung von
+            Mikroorganismen und Zellkulturen GmbH (DSMZ) (DSM 17244).
+            
+            We have collected 11.1X coverage in plasmid end reads and 454
+            reads. We have performed one round of automated sequence
+            improvement(pre-finishing), along with manual improvement that
+            includes breaking apart any mis-assembly, and making manual joins
+            where possible. Manual edits also are made where the consensus
+            appears to be incorrect. All low quality data on the ends of
+            contigs is removed. Contigs are ordered and oriented where
+            possible.
+            
+            Sequencing/Assembly: The genomic DNA was purified from liquid
+            culture derived from a single bacterial colony. A hybrid sequencing
+            strategy that utilized reads from both 454 GS-20 and ABI 3730xl
+            sequencers was devised and implemented to generate the draft genome
+            sequences. 454 reads were assembled using Newbler (454 Life
+            Sciences) into 454 de novo contigs. These de novo contigs were
+            converted in silico to 800 base paired reads ('superreads') with
+            400 base overlaps with neighboring superreads. Finally, PCAP
+            (Huang, et al, Genome Research, 13:2164, (2003)) was used to
+            assemble the super-reads and the conventional 3730xl capillary
+            reads.
+            
+            This sequenced strain is part of a comprehensive, sequence-based
+            survey of members of the normal human gutmicrobiota. A joint effort
+            of the WU-GSC and the Center for Genome Sciences at Washington
+            University School of Medicine, the purpose of this survey is to
+            provide the general scientific community with a broad view of the
+            gene content of 100 representatives of the major divisions
+            represented in the intestine's microbial community. This
+            information should provide a frame of reference for analyzing
+            metagenomic studies of the human gut microbiome. Further details of
+            this effort are described in a white paper entitled 'Extending Our
+            View of Self: the Human Gut Microbiome Initiative (HGMI)'
+            (http://www.genome.gov/Pages/Research/Sequencing/SeqProposals/HGMIS
+            eq.pdf).
+            
+            Coding sequences were predicted using GeneMark v3.3 and Glimmer2
+            v2.13. Intergenic regions not spanned by GeneMark and Glimmer2 were
+            blasted against NCBI's non-redundant (NR) database and predictions
+            generated based on protein alignments. tRNA genes were determined
+            using tRNAscan-SE 1.23 and non-coding RNA genes by RNAmmer-1.2 and
+            Rfam v8.0. Gene names are generated at the contig level and may not
+            necessarily reflect any known order or orientation between contigs.
+            These studies are supported by National Human Genome Research
+            Institute.
+            
+            For answers to your questions regarding this assembly or project,
+            or any other GSC genome project, please visit our Genome Groups web
+            page (http://genome.wustl.edu/genome_group_index.cgi) and email the
+            designated contact person.
+            
+            Annotation was added to the contigs in March 2008
+            
+            This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.
+            Product names were updated in August 2012.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..55
+                     /organism="Anaerofustis stercorihominis DSM 17244"
+                     /strain="DSM 17244"
+                     /db_xref="taxon:445971"
+     Protein         1..55
+                     /product="hypothetical protein"
+     CDS             1..55
+                     /locus_tag="ANASTE_00125"
+                     /coded_by="ABIL02000003.1:55993..56160"
+                     /inference="protein motif:HMMPfam:IPR002145"
+                     /transl_table=11
+                     /db_xref="InterPro:IPR002145"
+ORIGIN      
+        1 mskkigrpkl enpkdvevkv rittdmnnkl ldyskknhit raeairnaid ellnk
+//
+
+LOCUS       WP_007050443             115 aa            linear   BCT 06-JUN-2015
+DEFINITION  mRNA interferase PemK [Anaerofustis stercorihominis].
+ACCESSION   WP_007050443
+VERSION     WP_007050443.1
+KEYWORDS    RefSeq.
+SOURCE      Anaerofustis stercorihominis
+  ORGANISM  Anaerofustis stercorihominis
+            Bacteria; Firmicutes; Clostridia; Clostridiales; Eubacteriaceae;
+            Anaerofustis.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..115
+                     /organism="Anaerofustis stercorihominis"
+                     /db_xref="taxon:214853"
+     Protein         1..115
+                     /product="mRNA interferase PemK"
+                     /calculated_mol_wt=12476
+     Region          4..111
+                     /region_name="PemK_toxin"
+                     /note="PemK-like, MazF-like toxin of type II
+                     toxin-antitoxin system; pfam02452"
+                     /db_xref="CDD:280591"
+ORIGIN      
+        1 mgvkrgdiyy adlspivgse qgglrpvlii qndvgnkhsp tvivsaitss mdkaklpthi
+       61 slsanselln kdsvilleqi rtidkqrlre kighvdmstm nkvneglsis fgmfq
+//
+
